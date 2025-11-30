@@ -1,0 +1,52 @@
+{% comment %}
+  Video embed include
+  Usage: {% include video.html url="VIDEO_URL" %}
+  Supports: YouTube, Vimeo, and local video files
+{% endcomment %}
+
+{% assign video_url = include.url %}
+{% assign video_title = include.title | default: "Video" %}
+
+{% if video_url contains 'youtube.com' or video_url contains 'youtu.be' %}
+  {% comment %} YouTube embed {% endcomment %}
+  {% if video_url contains 'youtu.be' %}
+    {% assign video_id = video_url | split: 'youtu.be/' | last | split: '?' | first %}
+  {% elsif video_url contains 'watch?v=' %}
+    {% assign video_id = video_url | split: 'watch?v=' | last | split: '&' | first %}
+  {% elsif video_url contains '/embed/' %}
+    {% assign video_id = video_url | split: '/embed/' | last | split: '?' | first %}
+  {% endif %}
+  <div class="video-container youtube">
+    <iframe 
+      src="https://www.youtube.com/embed/{{ video_id }}" 
+      title="{{ video_title }}"
+      frameborder="0" 
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+      allowfullscreen
+      loading="lazy">
+    </iframe>
+  </div>
+
+{% elsif video_url contains 'vimeo.com' %}
+  {% comment %} Vimeo embed {% endcomment %}
+  {% assign video_id = video_url | split: 'vimeo.com/' | last | split: '?' | first | split: '/' | first %}
+  <div class="video-container vimeo">
+    <iframe 
+      src="https://player.vimeo.com/video/{{ video_id }}" 
+      title="{{ video_title }}"
+      frameborder="0" 
+      allow="autoplay; fullscreen; picture-in-picture" 
+      allowfullscreen
+      loading="lazy">
+    </iframe>
+  </div>
+
+{% else %}
+  {% comment %} Local video file {% endcomment %}
+  <div class="video-container local">
+    <video controls preload="metadata">
+      <source src="{{ video_url | relative_url }}" type="video/mp4">
+      Your browser does not support the video tag.
+    </video>
+  </div>
+{% endif %}

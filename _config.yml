@@ -1,0 +1,67 @@
+# Site settings
+title: Modelling4Comfort
+description: A hobby website sharing model building projects, photos, videos, and community discussions
+url: "" # Will be set by GitHub Pages
+baseurl: "" # Subpath of site, e.g. /hobbies-modelling4comfort
+email: your-email@example.com
+
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Markdown settings
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+
+# Permalink settings
+permalink: /:categories/:year/:month/:day/:title/
+
+# Disqus comments (set your shortname here)
+disqus:
+  shortname: "" # Add your Disqus shortname here
+
+# Social links
+social:
+  github: lcilliers
+  # twitter: your-twitter-handle
+  # youtube: your-youtube-channel
+
+# Exclude from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - README.md
+
+# Collections
+collections:
+  gallery:
+    output: true
+    permalink: /gallery/:name/
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      comments: true
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "page"
+  - scope:
+      path: ""
+      type: "gallery"
+    values:
+      layout: "gallery-item"
