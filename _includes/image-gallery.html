@@ -1,0 +1,22 @@
+{% comment %}
+  Image gallery include
+  Usage: {% include image-gallery.html images=page.images %}
+  Expects images to be an array of objects with 'src', 'alt', and optional 'caption'
+{% endcomment %}
+
+<div class="image-gallery">
+  {% for image in include.images %}
+    <figure class="gallery-figure">
+      <a href="{{ image.src | relative_url }}" data-lightbox="gallery" data-title="{{ image.caption | default: image.alt }}">
+        <img 
+          src="{{ image.src | relative_url }}" 
+          alt="{{ image.alt }}" 
+          loading="lazy"
+        >
+      </a>
+      {% if image.caption %}
+        <figcaption>{{ image.caption }}</figcaption>
+      {% endif %}
+    </figure>
+  {% endfor %}
+</div>
