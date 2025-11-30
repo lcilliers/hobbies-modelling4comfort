@@ -21,8 +21,12 @@ kramdown:
 permalink: /:categories/:year/:month/:day/:title/
 
 # Disqus comments (set your shortname here)
+# To enable comments:
+# 1. Create a Disqus account at https://disqus.com
+# 2. Register your site to get a shortname
+# 3. Replace the empty string below with your shortname
 disqus:
-  shortname: "" # Add your Disqus shortname here
+  shortname: "" # Add your Disqus shortname here (e.g., "your-site-name")
 
 # Social links
 social:

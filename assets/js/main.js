@@ -33,11 +33,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
 // Lazy loading images (fallback for older browsers)
 if ('loading' in HTMLImageElement.prototype) {
-  // Browser supports native lazy loading
-  const images = document.querySelectorAll('img[loading="lazy"]');
-  images.forEach(img => {
-    img.src = img.src;
-  });
+  // Browser supports native lazy loading - no action needed
 } else {
   // Fallback for older browsers
   const script = document.createElement('script');

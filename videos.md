@@ -31,7 +31,7 @@ If you create modelling content and would like to be featured on our site, pleas
 
 Here's an example of how videos are displayed on our site:
 
-{% include video.html url="https://www.youtube.com/watch?v=dQw4w9WgXcQ" title="Sample Video" %}
+{% include video.html url="https://www.youtube.com/watch?v=example" title="Sample Video" %}
 
 *Note: Replace the above with actual modelling content when available.*
 
