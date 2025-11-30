@@ -1,0 +1,17 @@
+{% comment %}
+  Include a photo gallery
+  Usage: {% include gallery.html images=page.gallery %}
+  Where gallery is an array of objects with src, alt, and optional caption
+{% endcomment %}
+<div class="gallery">
+  {% for image in include.images %}
+  <div class="gallery-item">
+    <a href="{{ image.src | relative_url }}" class="gallery-link" data-caption="{{ image.caption }}">
+      <img src="{{ image.src | relative_url }}" alt="{{ image.alt | default: 'Gallery image' }}" loading="lazy">
+    </a>
+    {% if image.caption %}
+    <p class="gallery-caption">{{ image.caption }}</p>
+    {% endif %}
+  </div>
+  {% endfor %}
+</div>
