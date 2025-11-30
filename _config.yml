@@ -1,0 +1,85 @@
+# Jekyll Configuration for Models4Comfort Diorama Website
+# https://jekyllrb.com/docs/configuration/
+
+# Site Settings
+title: Models4Comfort
+description: >- 
+  Diorama modeling, build processes, and creative development. 
+  Showcasing scale models, techniques, and the journey of bringing miniature worlds to life.
+author: 
+  name: Your Name
+  email: your.email@example.com
+baseurl: "/hobbies-modelling4comfort" # the subpath of your site, e.g. /blog
+url: "https://lcilliers.github.io" # the base hostname & protocol for your site
+
+# Build settings
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-paginate
+
+# Pagination
+paginate: 6
+paginate_path: "/blog/page:num/"
+
+# Collections for organizing content
+collections:
+  projects:
+    output: true
+    permalink: /projects/:name/
+  builds:
+    output: true
+    permalink: /builds/:name/
+  techniques:
+    output: true
+    permalink: /techniques/:name/
+
+# Default front matter
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      comments: true
+  - scope:
+      path: ""
+      type: "projects"
+    values:
+      layout: "project"
+      comments: true
+  - scope:
+      path: ""
+      type: "builds"
+    values:
+      layout: "build"
+      comments: true
+
+# Exclude from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - hugo/
+  - eleventy/
+  - README.md
+  - package.json
+  - package-lock.json
+
+# Image settings
+image_path: /assets/images
+
+# Comments (Utterances configuration)
+comments:
+  provider: "utterances"
+  utterances:
+    repo: "lcilliers/hobbies-modelling4comfort"
+    issue-term: "pathname"
+    theme: "github-light"

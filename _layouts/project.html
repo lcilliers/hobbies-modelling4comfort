@@ -1,0 +1,45 @@
+---
+layout: default
+---
+<article class="project">
+
+  <header class="project-header">
+    <h1 class="project-title">{{ page.title | escape }}</h1>
+    
+    {% if page.featured_image %}
+    <div class="project-featured-image">
+      <img src="{{ page.featured_image | relative_url }}" alt="{{ page.title }}">
+    </div>
+    {% endif %}
+    
+    <div class="project-meta">
+      {% if page.scale %}<span class="meta-item">Scale: {{ page.scale }}</span>{% endif %}
+      {% if page.status %}<span class="meta-item status-{{ page.status | downcase }}">Status: {{ page.status }}</span>{% endif %}
+      {% if page.start_date %}<span class="meta-item">Started: {{ page.start_date | date: "%B %Y" }}</span>{% endif %}
+      {% if page.completion_date %}<span class="meta-item">Completed: {{ page.completion_date | date: "%B %Y" }}</span>{% endif %}
+    </div>
+  </header>
+
+  <div class="project-content">
+    {{ content }}
+  </div>
+
+  {% if page.gallery %}
+  <section class="project-gallery">
+    <h2>Gallery</h2>
+    <div class="gallery-grid">
+      {% for image in page.gallery %}
+      <div class="gallery-item">
+        <img src="{{ image.url | relative_url }}" alt="{{ image.caption | default: page.title }}">
+        {% if image.caption %}<p class="caption">{{ image.caption }}</p>{% endif %}
+      </div>
+      {% endfor %}
+    </div>
+  </section>
+  {% endif %}
+
+  {% if page.comments %}
+    {% include comments.html %}
+  {% endif %}
+
+</article>

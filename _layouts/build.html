@@ -1,0 +1,65 @@
+---
+layout: default
+---
+<article class="build-log">
+
+  <header class="build-header">
+    <h1 class="build-title">{{ page.title | escape }}</h1>
+    
+    <div class="build-meta">
+      <time datetime="{{ page.date | date_to_xmlschema }}">
+        {{ page.date | date: "%B %-d, %Y" }}
+      </time>
+      {% if page.project %}
+        • Part of: <a href="{{ page.project | relative_url }}">{{ page.project_name }}</a>
+      {% endif %}
+      {% if page.step %}<span class="step-badge">Step {{ page.step }}</span>{% endif %}
+    </div>
+  </header>
+
+  <div class="build-content">
+    {{ content }}
+  </div>
+
+  {% if page.materials or page.tools %}
+  <aside class="build-resources">
+    {% if page.materials %}
+    <div class="materials">
+      <h3>Materials Used</h3>
+      <ul>
+        {% for material in page.materials %}
+        <li>{{ material }}</li>
+        {% endfor %}
+      </ul>
+    </div>
+    {% endif %}
+    
+    {% if page.tools %}
+    <div class="tools">
+      <h3>Tools Used</h3>
+      <ul>
+        {% for tool in page.tools %}
+        <li>{{ tool }}</li>
+        {% endfor %}
+      </ul>
+    </div>
+    {% endif %}
+  </aside>
+  {% endif %}
+
+  {% if page.comments %}
+    {% include comments.html %}
+  {% endif %}
+
+  <footer class="build-footer">
+    <nav class="build-navigation">
+      {% if page.previous_step %}
+        <a href="{{ page.previous_step | relative_url }}" class="prev-step">← Previous Step</a>
+      {% endif %}
+      {% if page.next_step %}
+        <a href="{{ page.next_step | relative_url }}" class="next-step">Next Step →</a>
+      {% endif %}
+    </nav>
+  </footer>
+
+</article>
