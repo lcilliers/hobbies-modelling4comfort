@@ -3,9 +3,9 @@ layout: home
 title: Welcome to Models4Comfort
 ---
 
-# Welcome to Models4Comfort
+# Welcome to Modelling4Comfort
 
-Your journey into the world of diorama modeling, scale models, and miniature craftsmanship.
+My journey into the world of diorama modeling, scale models, and miniature craftsmanship.
 
 ## About This Site
 
