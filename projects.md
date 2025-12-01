@@ -4,7 +4,7 @@ title: Projects Gallery
 permalink: /projects/
 ---
 
-# Diorama Projects Gallery
+# Projects Gallery
 
 Welcome to my collection of diorama modeling projects. Each piece represents hours of careful craftsmanship, attention to detail, and creative problem-solving. From maritime vessels to tranquil forest scenes, these miniature worlds tell their own stories.
 
