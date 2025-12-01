@@ -12,14 +12,14 @@ Welcome to my collection of diorama modeling projects. Each piece represents hou
 
 <div class="projects-grid">
 
-### [German Sail Boat](/projects/german-sail-boat/)
+### [German Sail Boat]({{ '/projects/german-sail-boat/' | relative_url }})
 A detailed replica of a traditional German sailing vessel, complete with authentic rigging and weathered details.
 
 **Status:** In Progress  
 **Scale:** 1:75  
 **Category:** Maritime/Nautical
 
-[View Project →](/projects/german-sail-boat/)
+[View Project →]({{ '/projects/german-sail-boat/' | relative_url }})
 
 ---
 
@@ -142,7 +142,7 @@ Each project typically involves:
 
 ## Want to Follow Along?
 
-Check out the [Build Logs](/builds/) section for detailed progress updates on current projects, or explore [Techniques](/techniques/) to learn about the methods and materials I use.
+Check out the [Build Logs]({{ '/builds/' | relative_url }}) section for detailed progress updates on current projects, or explore [Techniques]({{ '/techniques/' | relative_url }}) to learn about the methods and materials I use.
 
 <style>
 .projects-grid {

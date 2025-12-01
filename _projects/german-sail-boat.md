@@ -184,7 +184,7 @@ The images below document the current build progress:
 
 ## Build Log Updates
 
-Check the [Build Logs](/builds/) section for detailed progress updates and step-by-step documentation of this project.
+Check the [Build Logs]({{ '/builds/' | relative_url }}) section for detailed progress updates and step-by-step documentation of this project.
 
 ---
 

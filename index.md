@@ -20,7 +20,7 @@ This site documents my passion for creating detailed diorama models, sharing the
 
 Browse through my latest diorama builds and see the creative process unfold.
 
-[View All Projects](/projects) | [Latest Build Logs](/builds) | [Techniques](/techniques)
+[View All Projects]({{ '/projects/' | relative_url }}) | [Latest Build Logs]({{ '/builds/' | relative_url }}) | [Techniques]({{ '/techniques/' | relative_url }})
 
 ---
 
