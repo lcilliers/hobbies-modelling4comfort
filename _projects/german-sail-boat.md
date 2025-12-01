@@ -50,18 +50,6 @@ When I took on the build process in 2019, in desparation because it was still ly
 
 ---
 
-## Photo Gallery
-
-<div class="gallery-grid">
-{% for image in page.gallery %}
-  <div class="gallery-item">
-    <img src="{{ image | relative_url }}" alt="Gorch Fock training ship - {{ forloop.index }}" loading="lazy">
-  </div>
-{% endfor %}
-</div>
-
----
-
 ## Share Your Thoughts
 
 Have you built a similar vessel? Leave a comment below!
