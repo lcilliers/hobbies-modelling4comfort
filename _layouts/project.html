@@ -30,8 +30,7 @@ layout: default
     <div class="gallery-grid">
       {% for image in page.gallery %}
       <div class="gallery-item">
-        <img src="{{ image.url | relative_url }}" alt="{{ image.caption | default: page.title }}">
-        {% if image.caption %}<p class="caption">{{ image.caption }}</p>{% endif %}
+        <img src="{{ image | relative_url }}" alt="{{ page.title }} - Gallery Image">
       </div>
       {% endfor %}
     </div>

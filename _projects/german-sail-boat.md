@@ -7,13 +7,13 @@ tags: [ship-model, traditional-sailing, rigging, weathering]
 status: in-progress
 scale: "1:75"
 difficulty: intermediate
-featured_image: /assets/images/projects/german-sail-boat/IMG-20220403-WA0009.jpg
+featured_image: assets/images/projects/german-sail-boat/IMG-20220403-WA0009.jpg
 gallery:
-  - /assets/images/projects/german-sail-boat/IMG-20220403-WA0009.jpg
-  - /assets/images/projects/german-sail-boat/2025-11-30_08-20-12.jpg
-  - /assets/images/projects/german-sail-boat/20251130_201537.jpg
-  - /assets/images/projects/german-sail-boat/20251130_202125.jpg
-  - /assets/images/projects/german-sail-boat/20251130_202139.jpg
+  - assets/images/projects/german-sail-boat/IMG-20220403-WA0009.jpg
+  - assets/images/projects/german-sail-boat/2025-11-30_08-20-12.jpg
+  - assets/images/projects/german-sail-boat/20251130_201537.jpg
+  - assets/images/projects/german-sail-boat/20251130_202125.jpg
+  - assets/images/projects/german-sail-boat/20251130_202139.jpg
 ---
 
 # German Sail Boat
