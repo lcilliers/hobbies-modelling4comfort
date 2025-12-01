@@ -12,12 +12,14 @@ Welcome to my collection of modeling projects, including dioramas, scratch build
 
 {: .projects-grid}
 
-### [German Sail Boat]({{ '/projects/german-sail-boat/' | relative_url }})
+### [Gorch Fock training ship - 2019]({{ '/projects/german-sail-boat/' | relative_url }})
 
-A detailed replica of a traditional German sailing vessel, complete with authentic rigging and weathered details.
+I have never imagined me getting involved in model building. The closest I got was buying a kit for my grandson to inspire him. Unfortunately it remained in the cupboard, until several years later I offered to build it for him. After several months of intense learning through trial and error I completed the Gorch Fock training ship in 2019.
 
-**Status:** In Progress  
-**Scale:** 1:75  
+This detailed replica of a traditional German sailing vessel, is complete with authentic rigging and weathered details.  Unfortunately I do not have any record of the building process.
+
+**Status:** Completed  
+**Scale:** 1:150  
 **Category:** Maritime/Nautical
 
 [View Project →]({{ '/projects/german-sail-boat/' | relative_url }})
