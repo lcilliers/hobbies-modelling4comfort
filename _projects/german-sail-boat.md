@@ -17,11 +17,11 @@ gallery:
 
 The original Gorch Fock was built in 1933 in Hamburg.  It is a three-masted steel-hulled barque, designed for safety with strong righting momentum to prevent capsizing. It served as a training ship until WWII. Later in life it served as a Soviet and later Ukrainian training ship, sailed globally, and participated in tall ship races.  It is now a museum ship in Stralsund.
 
-This ship was used as a miniature modeling subject since the early plastic kit era in the 1950s. This detailed replica of a traditional German sailing vessel, captured the elegance and craftsmanship of historical maritime engineering giving rise to many iterations of models. It was adopted by Heller and Revell in the 1980s to create a detail kit with some 700 parts - ideal for advanced users.  Revell re-issued several reboxed sets in the 2000s with 1:150 to 1:350 scales.
+This ship was used as a miniature modeling subject since the early plastic kit era in the 1950s. This detailed replica of a traditional German sailing vessel, captured the elegance and craftsmanship of historical maritime engineering giving rise to many iterations of models. It was adopted by Heller and Revell in the 1980s to create a detail kit with some 700 parts - ideal for advanced users.  Revell re-issued several re-boxed sets in the 2000s with 1:150 to 1:350 scales.
 
 When I bought the kit in 2007 I had no idea of its complexity or history. I only wanted to stimulate my grandson to build balsawood models.
 
-When I took on the build process in 2019, in desparation because it was still lying on the shelve, I had no model building experience, limited tools and not even the right glue.
+When I took on the build process in 2019, in desperation because it was still lying on the shelve, I had no model building experience, limited tools and not even the right glue.
 
 ## Project Overview
 
@@ -45,7 +45,7 @@ When I took on the build process in 2019, in desparation because it was still ly
 - I then had to figure out how to work with very small parts which lead to some magnifying glasses and tweezers.
 - learning about glues was next.
 - but the biggest learn was about patience and stickability, retry and redo.
-- I also gained practical experience in preparing parts before fitting; sanding and smoothing and prperly organising the workspace.
+- I also gained practical experience in preparing parts before fitting; sanding and smoothing and properly organizing the workspace.
 - creating the sails, seaming and rigging were very intricate and required a lot of dedication.
 
 ---

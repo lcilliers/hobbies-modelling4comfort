@@ -4,11 +4,9 @@ title: Projects Gallery
 permalink: /projects/
 ---
 
-# Projects Gallery
-
 Welcome to my collection of modeling projects, including dioramas, scratch builds, kits and more. Each piece represents hours of careful craftsmanship, attention to detail, and creative problem-solving. I love to recycle and discover the use of new materials. From maritime vessels to gardens, english houses and tranquil forest scenes, these miniature worlds tell their own stories.
 
-## Current Projects
+## Projects
 
 {: .projects-grid}
 
@@ -27,28 +25,19 @@ This detailed replica of a traditional German sailing vessel is complete with au
 
 ---
 
-### [SS Great Britain]({{ '/projects/ss-great-britain/' | relative_url }})
+### [SS Great Britain - 2022]({{ '/projects/ss-great-britain/' | relative_url }})
 
-The revolutionary passenger steamship designed by Isambard Kingdom Brunel. Launched in 1843, she was the first iron-hulled, propeller-driven ship to cross the Atlantic. This ambitious project will capture one of the most significant vessels in maritime history.
+The revolutionary passenger steamship designed by Isambard Kingdom Brunel. Launched in 1843, she was the first iron-hulled, propeller-driven ship to cross the Atlantic. 
+This project came about when we visited the SS Great Britain museum in Bristol in December 2021. "This is my next project",  I said.  My search for a kit to build this ship turned to nothing. Finally, I bought a book about the ship, collated all the materials I could find and embarked on my first scratch build undertaking.
 
-**Status:** Planning  
-**Scale:** 1:150  
+This ambitious project captured one of the most significant vessels in maritime history and cemented my fascination with building models from scratch.
+
+**Status:** Completed  
+**Scale:** 1:96  
 **Category:** Maritime/Historical  
-**Build Type:** Advanced scratch-build/kit hybrid  
+**Build Type:** Advanced scratch-build  
 
 [View Project →]({{ '/projects/ss-great-britain/' | relative_url }})
-
----
-
-### Ancient Forest
-
-A mystical woodland scene with moss-covered trees, weathered stones, and atmospheric lighting.
-
-**Status:** Planning  
-**Scale:** 1:35  
-**Category:** Nature/Fantasy
-
-*Coming Soon*
 
 ---
 
@@ -56,11 +45,11 @@ A mystical woodland scene with moss-covered trees, weathered stones, and atmosph
 
 Rustic woodland cabin surrounded by pine trees and natural terrain.
 
-**Status:** Planning  
+**Status:** Completed  
 **Scale:** 1:87 (HO)  
 **Category:** Architectural/Nature
 
-*Coming Soon*
+*Pictures Coming Soon*
 
 ---
 
@@ -68,11 +57,11 @@ Rustic woodland cabin surrounded by pine trees and natural terrain.
 
 Victorian-era garden scene with period-appropriate flora and garden features.
 
-**Status:** Planning  
+**Status:** Completed  
 **Scale:** 1:48  
 **Category:** Architectural/Garden
 
-*Coming Soon*
+*Pictures Coming Soon*
 
 ---
 
@@ -80,11 +69,11 @@ Victorian-era garden scene with period-appropriate flora and garden features.
 
 Dramatic waterfall scene inspired by the tallest waterfall in the Brecon Beacons.
 
-**Status:** Planning  
+**Status:** Completed  
 **Scale:** 1:48  
 **Category:** Nature/Landscape
 
-*Coming Soon*
+*Pictures Coming Soon*
 
 ---
 
@@ -92,11 +81,11 @@ Dramatic waterfall scene inspired by the tallest waterfall in the Brecon Beacons
 
 Peaceful waterside retreat with detailed interior and natural surroundings.
 
-**Status:** Planning  
+**Status:** Completed  
 **Scale:** 1:48  
 **Category:** Architectural/Nature
 
-*Coming Soon*
+*Pictures Coming Soon*
 
 ---
 

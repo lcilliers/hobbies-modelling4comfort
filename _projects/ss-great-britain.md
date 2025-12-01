@@ -23,13 +23,13 @@ The SS Great Britain was a revolutionary passenger steamship designed by Isambar
 
 ## Project Overview
 
-**Kit/Manufacturer:** Revell  
-**Scale:** 1:150  
+**Build Type:**Scratch build from pictures**
+**Scale:** 1:96  
 **Status:** Completed  
 **Start Date:** February 2022  
 **Completion:** May 2022  
 **Skill Level:** Advanced  
-**Difficulty:** Expert - Complex rigging, iron hull detailing, steam machinery
+**Difficulty:** Expert - No plans or kit, Complex rigging, iron hull detailing, steam machinery
 
 ## Historical Significance
 
@@ -41,15 +41,15 @@ The SS Great Britain represents a pivotal moment in naval engineering:
 - **Revolutionized transatlantic travel** with speed and reliability
 - **Now a museum ship** in Bristol's Great Western Dockyard
 
-This vessel bridged the gap between the age of sail and modern steam-powered ocean liners.
+This vessel bridged the gap between the age of sail and modern steam-powered ocean liners. The restoration work in the museum in Bristol is magnificent, inspiring me to capture it in miniature.
 
 ## Project Goals
 
+- Source kit or build from scratch
 - Accurately represent the iron hull construction with proper plating detail
-- Create functional steam machinery elements visible through cutaway sections
 - Reproduce the complex rigging system (combination of steam and sail)
+- Imitate on deck features of the period
 - Weather and detail to show the ship in her prime operational period
-- Build custom display base representing Bristol harbor
 
 ## Planning Phase
 
