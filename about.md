@@ -2,6 +2,8 @@
 layout: default
 title: About
 permalink: /about/
+published: false  # This page won't be published
+date: 2025-12-01
 ---
 
 # About Models4Comfort

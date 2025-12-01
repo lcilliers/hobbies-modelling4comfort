@@ -2,6 +2,8 @@
 layout: default
 title: Build Logs
 permalink: /builds/
+published: false  # This page won't be published
+date: 2025-12-01
 ---
 
 # Build Logs

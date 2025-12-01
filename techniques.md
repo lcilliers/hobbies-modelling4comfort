@@ -2,6 +2,8 @@
 layout: default
 title: Techniques
 permalink: /techniques/
+published: false  # This page won't be published
+date: 2025-12-01
 ---
 
 # Modeling Techniques & Tutorials
