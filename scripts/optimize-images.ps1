@@ -2,9 +2,6 @@
 # Uses Windows .NET System.Drawing to resize and compress images
 # Processes all common image formats and saves optimized versions
 
-# Requires .NET Framework (built into Windows)
-Add-Type -AssemblyName System.Drawing
-
 # Configuration
 param(
     [Parameter(Mandatory=$true)]
@@ -23,11 +20,14 @@ param(
     [string]$OutputSubFolder = "web-optimized",
     
     [Parameter(Mandatory=$false)]
-    [switch]$PreserveOriginal = $true,
+    [switch]$PreserveOriginal,
     
     [Parameter(Mandatory=$false)]
-    [switch]$Recursive = $true
+    [switch]$Recursive
 )
+
+# Requires .NET Framework (built into Windows)
+Add-Type -AssemblyName System.Drawing
 
 # Supported image extensions
 $imageExtensions = @(
