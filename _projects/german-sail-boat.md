@@ -1,16 +1,15 @@
 ---
 layout: project
 title: "German Sail Boat"
-date: 2025-12-01
+date: 2020-03-0120
 categories: [maritime, nautical, sailing-vessel]
 tags: [ship-model, traditional-sailing, rigging, weathering]
-status: in-progress
-scale: "1:75"
+status: completed
+scale: "1:150"
 difficulty: intermediate
 featured_image: assets/images/projects/german-sail-boat/IMG-20220403-WA0009.jpg
 gallery:
   - assets/images/projects/german-sail-boat/IMG-20220403-WA0009.jpg
-  - assets/images/projects/german-sail-boat/2025-11-30_08-20-12.jpg
   - assets/images/projects/german-sail-boat/20251130_201537.jpg
   - assets/images/projects/german-sail-boat/20251130_202125.jpg
   - assets/images/projects/german-sail-boat/20251130_202139.jpg
@@ -25,8 +24,8 @@ A detailed replica of a traditional German sailing vessel, capturing the eleganc
 **Kit/Manufacturer:** Traditional German Sailing Vessel  
 **Scale:** 1:75  
 **Status:** In Progress  
-**Start Date:** November 2025  
-**Estimated Completion:** TBD
+**Start Date:** November 2019  
+**Completion:** May 2020
 
 **Skill Level:** Intermediate  
 **Difficulty:** Moderate - requires rigging and fine detail work
