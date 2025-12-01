@@ -602,6 +602,100 @@ a:hover {
   }
 }
 
+/* === Techniques Page Styles === */
+.techniques-intro {
+  background: var(--bg-gray);
+  padding: var(--spacing-md);
+  border-radius: 8px;
+  margin-bottom: var(--spacing-lg);
+}
+
+.technique-card {
+  background: var(--bg-gray);
+  padding: var(--spacing-md);
+  border-left: 4px solid var(--primary-color);
+  margin: var(--spacing-md) 0;
+  border-radius: 4px;
+}
+
+.category-header {
+  color: var(--primary-color);
+  border-bottom: 2px solid var(--primary-color);
+  padding-bottom: var(--spacing-xs);
+  margin-top: var(--spacing-lg);
+  margin-bottom: var(--spacing-sm);
+}
+
+/* === Build Logs Styles === */
+.build-log-entry {
+  border: 1px solid var(--border-color);
+  padding: var(--spacing-md);
+  margin-bottom: var(--spacing-md);
+  border-radius: 8px;
+  transition: box-shadow 0.3s ease;
+}
+
+.build-log-entry:hover {
+  box-shadow: var(--shadow);
+}
+
+.build-log-meta {
+  display: flex;
+  gap: var(--spacing-md);
+  margin-top: var(--spacing-sm);
+  font-size: 0.9rem;
+  color: var(--text-light);
+}
+
+/* === About Page Styles === */
+.about-section {
+  margin-bottom: var(--spacing-xl);
+}
+
+.about-section h3 {
+  color: var(--primary-color);
+  margin-bottom: var(--spacing-sm);
+}
+
+/* === Featured Content Boxes === */
+.featured-box {
+  background: var(--bg-gray);
+  border: 1px solid var(--border-color);
+  padding: var(--spacing-lg);
+  margin: var(--spacing-md) 0;
+  border-radius: 8px;
+}
+
+.featured-box h3 {
+  margin-top: 0;
+  color: var(--primary-color);
+}
+
+/* === Status Badges === */
+.status-badge {
+  display: inline-block;
+  padding: 0.25rem 0.75rem;
+  border-radius: 12px;
+  font-size: 0.85rem;
+  font-weight: 600;
+  margin-left: var(--spacing-xs);
+}
+
+.status-in-progress {
+  background: var(--accent-color);
+  color: white;
+}
+
+.status-published {
+  background: var(--secondary-color);
+  color: white;
+}
+
+.status-coming-soon {
+  background: var(--text-light);
+  color: white;
+}
+
 /* === Print Styles === */
 @media print {
   .site-header,
