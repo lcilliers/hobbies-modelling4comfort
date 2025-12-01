@@ -22,7 +22,7 @@ A detailed replica of a traditional German sailing vessel, capturing the eleganc
 ## Project Overview
 
 **Kit/Manufacturer:** Traditional German Sailing Vessel  
-**Scale:** 1:150 
+**Scale:** 1:150
 **Status:** Completed  
 **Start Date:** November 2019  
 **Completion:** May 2020
