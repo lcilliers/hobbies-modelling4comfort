@@ -1,7 +1,7 @@
 ---
 layout: project
 title: "German Sail Boat"
-date: 2020-03-0120
+date: 2020-03-01
 categories: [maritime, nautical, sailing-vessel]
 tags: [ship-model, traditional-sailing, rigging, weathering]
 status: completed
