@@ -5,11 +5,11 @@ title: Models4Comfort
 
 ## Welcome
 
-This is about my journey into the world of diorama modeling, scale models, and miniature craftsmanship.
+This is about my journey into the world of diorama modeling, scale models, and miniature craftsmanship.  The projects and this site is actively worked and may show work in progress, ideas and prompts for my own benefit.
 
 ## This Site
 
-This site documents my passion for creating detailed diorama models, sharing the build process, techniques, and the creative journey of bringing miniature worlds to life. It all started off quite recently with accidentally building a model kit for my grandson, and from there it spiralled into a whole new focus, bringing much joy and comfort.
+With the help of Co-Pilot I present you with my passion for creating detailed dioramas and other models, sharing the build process, techniques, and the creative journey of bringing miniature worlds to life. It all started off quite recently with accidentally building a model kit for my grandson, and from there it spiralled into a whole new focus, bringing much joy and comfort.
 
 Here you'll find:
 
@@ -17,6 +17,8 @@ Here you'll find:
 - **[Build Logs]({{ '/builds/' | relative_url }})**: Step-by-step documentation of exploring new methods and materials while completing projects
 - **[Techniques]({{ '/techniques/' | relative_url }})**: Tips, tricks, and detailed tutorials for methods I've learned along the way
 - **[About]({{ '/about/' | relative_url }})**: Learn about my modeling journey and why "Models4Comfort"
+
+What I am showing is from the real world - it is not necessarily the best, or the only way. Attempts, flaws, and errors are all included. I am a novice, and it shows. The journey is my joy and learning is constant.
 
 ## Featured Content
 
