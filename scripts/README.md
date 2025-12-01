@@ -4,18 +4,72 @@ This folder contains PowerShell scripts to help manage your website content.
 
 ## 📜 Available Scripts
 
-### 1. optimize-images.ps1
-**Purpose**: Resize and compress images for web optimization
+### 1. imagemagick-optimize.ps1 ⭐ **RECOMMENDED**
+
+**Purpose**: Advanced image optimization with HEIC support and green screen removal
+
+**What it does**:
+- ✅ **Perfect HEIC conversion** - Handles iPhone/Google Photos HEIC files natively
+- ✅ **Green screen replacement** - Remove solid green backgrounds and replace with custom images
+- ✅ Resizes images to web-friendly dimensions (default: 1920px max)
+- ✅ Compresses JPEG files with high quality
+- ✅ Converts all image formats to optimized JPEG
+- ✅ Auto-rotates based on EXIF data
+- ✅ Strips metadata for privacy
+- ✅ Processes all formats: JPG, PNG, BMP, GIF, TIFF, WEBP, **HEIC**, **HEIF**
+
+**Prerequisites**: 
+Requires ImageMagick - See [IMAGEMAGICK-GUIDE.md](../IMAGEMAGICK-GUIDE.md) for installation
+
+**Usage**:
+```powershell
+# Basic image optimization
+.\scripts\imagemagick-optimize.ps1 -SourceFolder "C:\Path\To\Images"
+
+# Custom quality and size
+.\scripts\imagemagick-optimize.ps1 `
+    -SourceFolder "\\lsuk-synrack\HomeMedia\hobbies\model building\ss-great-britain" `
+    -MaxWidth 1920 `
+    -MaxHeight 1920 `
+    -JpegQuality 90
+
+# GREEN SCREEN REPLACEMENT - Perfect for diorama photography!
+.\scripts\imagemagick-optimize.ps1 `
+    -SourceFolder "C:\DioramaPhotos\GreenScreen" `
+    -ReplaceGreenScreen `
+    -BackgroundImage "C:\Backgrounds\ocean-sunset.jpg" `
+    -GreenTolerance 15
+```
+
+**Parameters**:
+- `SourceFolder` (required) - Folder containing images
+- `MaxWidth` (optional, default: 1920) - Maximum width in pixels
+- `MaxHeight` (optional, default: 1920) - Maximum height in pixels
+- `JpegQuality` (optional, default: 85) - Quality (1-100)
+- `OutputSubFolder` (optional, default: "web-optimized") - Output folder name
+- `ReplaceGreenScreen` (optional) - Enable green screen removal
+- `BackgroundImage` (optional) - Background image path (required if ReplaceGreenScreen enabled)
+- `GreenTolerance` (optional, default: 10) - Green color matching tolerance (0-100)
+- `Recursive` (optional) - Process subfolders
+
+**Output**:
+Creates a subfolder with optimized images ready for web use.
+
+---
+
+### 2. optimize-images.ps1 (Fallback)
+
+**Purpose**: Resize and compress images using Windows .NET (no external dependencies)
 
 **What it does**:
 - ✅ Resizes images to web-friendly dimensions (default: 1920px max)
 - ✅ Compresses JPEG files (default: 85% quality)
 - ✅ Converts all image formats to optimized JPEG
-- ✅ **Supports HEIC/HEIF files** (Apple/Google Photos format)
+- ⚠️ **HEIC support limited** - Requires Windows HEIF codec (may not work reliably)
 - ✅ Maintains aspect ratios
 - ✅ Creates optimized versions in subfolder
 - ✅ Shows before/after file sizes and savings
-- ✅ Processes all common image formats (JPG, PNG, BMP, GIF, TIFF, WEBP, **HEIC**, **HEIF**)
+- ✅ Processes most common formats (JPG, PNG, BMP, GIF, TIFF, WEBP)
 
 **Usage**:
 ```powershell

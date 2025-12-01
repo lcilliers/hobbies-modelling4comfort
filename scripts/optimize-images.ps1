@@ -110,7 +110,21 @@ function Convert-HeicToTemp {
     param([string]$InputPath)
     
     try {
-        # Try using Windows 10+ built-in HEIF codec
+        # First, try direct System.Drawing approach (works if codec is properly installed)
+        $tempFile = [System.IO.Path]::GetTempFileName() + ".jpg"
+        
+        try {
+            $img = [System.Drawing.Image]::FromFile($InputPath)
+            $encoder = Get-JpegEncoder -Quality 95
+            $img.Save($tempFile, $encoder.Codec, $encoder.Params)
+            $img.Dispose()
+            return $tempFile
+        } catch {
+            # If direct approach fails, try Windows Runtime API
+            Remove-Item $tempFile -ErrorAction SilentlyContinue
+        }
+        
+        # Try using Windows 10+ built-in HEIF codec with Windows Runtime
         Add-Type -AssemblyName System.Runtime.WindowsRuntime
         
         $tempFile = [System.IO.Path]::GetTempFileName() + ".jpg"
@@ -295,7 +309,7 @@ if (-not (Test-Path $SourceFolder)) {
     exit 1
 }
 
-$SourceFolder = Resolve-Path $SourceFolder
+$SourceFolder = (Resolve-Path $SourceFolder).ProviderPath
 
 Write-Info "Configuration:"
 Write-Host "  Source Folder:    $SourceFolder" -ForegroundColor White
@@ -322,9 +336,16 @@ Write-Host ""
 
 # Find all image files
 Write-Info "Scanning for images..."
-$searchOption = if ($Recursive) { "-Recurse" } else { "" }
-$imageFiles = Get-ChildItem -Path $SourceFolder -Include $imageExtensions -File @searchOption | 
-              Where-Object { $_.DirectoryName -ne $outputPath }
+if ($Recursive) {
+    $imageFiles = Get-ChildItem -Path $SourceFolder -Include $imageExtensions -File -Recurse | 
+                  Where-Object { $_.DirectoryName -ne $outputPath }
+} else {
+    $imageFiles = Get-ChildItem -Path $SourceFolder -File | 
+                  Where-Object { 
+                      $_.DirectoryName -ne $outputPath -and 
+                      $imageExtensions -contains "*$($_.Extension)"
+                  }
+}
 
 $script:totalFiles = $imageFiles.Count
 
