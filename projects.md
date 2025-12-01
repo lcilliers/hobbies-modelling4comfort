@@ -10,9 +10,10 @@ Welcome to my collection of diorama modeling projects. Each piece represents hou
 
 ## Current Projects
 
-<div class="projects-grid">
+{: .projects-grid}
 
 ### [German Sail Boat]({{ '/projects/german-sail-boat/' | relative_url }})
+
 A detailed replica of a traditional German sailing vessel, complete with authentic rigging and weathered details.
 
 **Status:** In Progress  
@@ -24,6 +25,7 @@ A detailed replica of a traditional German sailing vessel, complete with authent
 ---
 
 ### SS Great Britain
+
 Historic steamship replica capturing the grandeur of Brunel's engineering masterpiece.
 
 **Status:** Planning  
@@ -35,6 +37,7 @@ Historic steamship replica capturing the grandeur of Brunel's engineering master
 ---
 
 ### Ancient Forest
+
 A mystical woodland scene with moss-covered trees, weathered stones, and atmospheric lighting.
 
 **Status:** Planning  
@@ -46,6 +49,7 @@ A mystical woodland scene with moss-covered trees, weathered stones, and atmosph
 ---
 
 ### Cabin in Woods
+
 Rustic woodland cabin surrounded by pine trees and natural terrain.
 
 **Status:** Planning  
@@ -57,6 +61,7 @@ Rustic woodland cabin surrounded by pine trees and natural terrain.
 ---
 
 ### English Country Garden
+
 Victorian-era garden scene with period-appropriate flora and garden features.
 
 **Status:** Planning  
@@ -68,6 +73,7 @@ Victorian-era garden scene with period-appropriate flora and garden features.
 ---
 
 ### Henrhyd Falls, South Wales
+
 Dramatic waterfall scene inspired by the tallest waterfall in the Brecon Beacons.
 
 **Status:** Planning  
@@ -79,6 +85,7 @@ Dramatic waterfall scene inspired by the tallest waterfall in the Brecon Beacons
 ---
 
 ### Riverside Cabin
+
 Peaceful waterside retreat with detailed interior and natural surroundings.
 
 **Status:** Planning  
@@ -90,6 +97,7 @@ Peaceful waterside retreat with detailed interior and natural surroundings.
 ---
 
 ### Sea Rescue
+
 Dynamic coastal rescue scene with figures, equipment, and dramatic lighting.
 
 **Status:** Planning  
@@ -99,8 +107,6 @@ Dynamic coastal rescue scene with figures, equipment, and dramatic lighting.
 *Coming Soon*
 
 ---
-
-</div>
 
 ## Project Categories
 
@@ -144,27 +150,3 @@ Each project typically involves:
 
 Check out the [Build Logs]({{ '/builds/' | relative_url }}) section for detailed progress updates on current projects, or explore [Techniques]({{ '/techniques/' | relative_url }}) to learn about the methods and materials I use.
 
-<style>
-.projects-grid {
-  display: grid;
-  gap: 2rem;
-  margin: 2rem 0;
-}
-
-.projects-grid h3 a {
-  color: #2c5282;
-  text-decoration: none;
-  font-size: 1.5rem;
-}
-
-.projects-grid h3 a:hover {
-  color: #1a365d;
-  text-decoration: underline;
-}
-
-.projects-grid hr {
-  margin: 2rem 0;
-  border: none;
-  border-top: 1px solid #e2e8f0;
-}
-</style>
