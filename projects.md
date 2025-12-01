@@ -20,22 +20,23 @@ This detailed replica of a traditional German sailing vessel is complete with au
 
 **Status:** Completed  
 **Scale:** 1:150  
-**Category:** Maritime/Nautical
-**Build Type:** Balsawood kit
+**Category:** Maritime/Nautical  
+**Build Type:** Balsawood kit  
 
 [View Project →]({{ '/projects/german-sail-boat/' | relative_url }})
 
 ---
 
-### SS Great Britain
+### [SS Great Britain]({{ '/projects/ss-great-britain/' | relative_url }})
 
-Historic steamship replica capturing the grandeur of Brunel's engineering masterpiece.
+The revolutionary passenger steamship designed by Isambard Kingdom Brunel. Launched in 1843, she was the first iron-hulled, propeller-driven ship to cross the Atlantic. This ambitious project will capture one of the most significant vessels in maritime history.
 
 **Status:** Planning  
-**Scale:** TBD  
-**Category:** Maritime/Historical
+**Scale:** 1:150  
+**Category:** Maritime/Historical  
+**Build Type:** Advanced scratch-build/kit hybrid  
 
-*Coming Soon*
+[View Project →]({{ '/projects/ss-great-britain/' | relative_url }})
 
 ---
 
