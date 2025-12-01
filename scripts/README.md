@@ -11,10 +11,11 @@ This folder contains PowerShell scripts to help manage your website content.
 - ✅ Resizes images to web-friendly dimensions (default: 1920px max)
 - ✅ Compresses JPEG files (default: 85% quality)
 - ✅ Converts all image formats to optimized JPEG
+- ✅ **Supports HEIC/HEIF files** (Apple/Google Photos format)
 - ✅ Maintains aspect ratios
 - ✅ Creates optimized versions in subfolder
 - ✅ Shows before/after file sizes and savings
-- ✅ Processes all common image formats (JPG, PNG, BMP, GIF, TIFF, WEBP)
+- ✅ Processes all common image formats (JPG, PNG, BMP, GIF, TIFF, WEBP, **HEIC**, **HEIF**)
 
 **Usage**:
 ```powershell
@@ -166,6 +167,21 @@ Create markdown files in `_projects/` for each diorama project.
 - File may be corrupted
 - Unsupported image format
 - File is locked/in use by another program
+- **For HEIC files**: Install "HEIF Image Extensions" from Microsoft Store
+
+### HEIC/HEIF Files Not Converting
+If you see "HEIC conversion failed":
+
+1. **Install HEIF Image Extensions**:
+   - Open Microsoft Store
+   - Search for "HEIF Image Extensions"
+   - Install the free codec from Microsoft
+   - Restart PowerShell and try again
+
+2. **Alternative**: Convert HEIC to JPG first using:
+   - Windows Photos app (open and "Save As")
+   - Online converters (heictojpg.com)
+   - Third-party tools (IrfanView, XnView)
 
 ### Large File Warnings
 If GitHub warns about large files:

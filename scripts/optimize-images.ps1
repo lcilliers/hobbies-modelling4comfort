@@ -31,8 +31,8 @@ param(
 
 # Supported image extensions
 $imageExtensions = @(
-    "*.jpg", "*.jpeg", "*.png", "*.bmp", "*.gif", "*.tiff", "*.tif", "*.webp",
-    "*.JPG", "*.JPEG", "*.PNG", "*.BMP", "*.GIF", "*.TIFF", "*.TIF", "*.WEBP"
+    "*.jpg", "*.jpeg", "*.png", "*.bmp", "*.gif", "*.tiff", "*.tif", "*.webp", "*.heic", "*.heif",
+    "*.JPG", "*.JPEG", "*.PNG", "*.BMP", "*.GIF", "*.TIFF", "*.TIF", "*.WEBP", "*.HEIC", "*.HEIF"
 )
 
 # Statistics
@@ -98,6 +98,81 @@ function Get-NewDimensions {
     }
 }
 
+# Function to check if HEIC/HEIF conversion is needed
+function Test-HeicFile {
+    param([string]$FilePath)
+    $ext = [System.IO.Path]::GetExtension($FilePath).ToLower()
+    return $ext -eq ".heic" -or $ext -eq ".heif"
+}
+
+# Function to convert HEIC to temporary JPEG using Windows API
+function Convert-HeicToTemp {
+    param([string]$InputPath)
+    
+    try {
+        # Try using Windows 10+ built-in HEIF codec
+        Add-Type -AssemblyName System.Runtime.WindowsRuntime
+        
+        $tempFile = [System.IO.Path]::GetTempFileName() + ".jpg"
+        
+        # Use Windows.Graphics.Imaging API (Windows 10 1809+)
+        [Windows.Storage.StorageFile,Windows.Storage,ContentType=WindowsRuntime] | Out-Null
+        [Windows.Graphics.Imaging.BitmapDecoder,Windows.Graphics,ContentType=WindowsRuntime] | Out-Null
+        [Windows.Graphics.Imaging.BitmapEncoder,Windows.Graphics,ContentType=WindowsRuntime] | Out-Null
+        
+        $task = [Windows.Storage.StorageFile]::GetFileFromPathAsync($InputPath)
+        $task.AsTask().Wait()
+        $file = $task.GetResults()
+        
+        $task = $file.OpenAsync([Windows.Storage.FileAccessMode]::Read)
+        $task.AsTask().Wait()
+        $stream = $task.GetResults()
+        
+        $task = [Windows.Graphics.Imaging.BitmapDecoder]::CreateAsync($stream)
+        $task.AsTask().Wait()
+        $decoder = $task.GetResults()
+        
+        $task = [Windows.Storage.StorageFile]::GetFileFromPathAsync($tempFile)
+        $task.AsTask().Wait()
+        $outFile = $task.GetResults()
+        
+        $task = $outFile.OpenAsync([Windows.Storage.FileAccessMode]::ReadWrite)
+        $task.AsTask().Wait()
+        $outStream = $task.GetResults()
+        
+        $task = [Windows.Graphics.Imaging.BitmapEncoder]::CreateAsync([Windows.Graphics.Imaging.BitmapEncoder]::JpegEncoderId, $outStream)
+        $task.AsTask().Wait()
+        $encoder = $task.GetResults()
+        
+        $task = $decoder.GetPixelDataAsync()
+        $task.AsTask().Wait()
+        $pixels = $task.GetResults()
+        
+        $encoder.SetPixelData(
+            $decoder.BitmapPixelFormat,
+            $decoder.BitmapAlphaMode,
+            $decoder.PixelWidth,
+            $decoder.PixelHeight,
+            $decoder.DpiX,
+            $decoder.DpiY,
+            $pixels.DetachPixelData()
+        )
+        
+        $task = $encoder.FlushAsync()
+        $task.AsTask().Wait()
+        
+        $stream.Dispose()
+        $outStream.Dispose()
+        
+        return $tempFile
+        
+    } catch {
+        Write-Warning "  ⚠ HEIC conversion failed (Windows HEIF codec may not be installed)"
+        Write-Host "    Install from: Microsoft Store > 'HEIF Image Extensions'" -ForegroundColor Yellow
+        return $null
+    }
+}
+
 # Function to optimize a single image
 function Optimize-Image {
     param(
@@ -105,9 +180,22 @@ function Optimize-Image {
         [string]$OutputPath
     )
     
+    $tempFileToCleanup = $null
+    
     try {
+        # Check if HEIC/HEIF file needs conversion first
+        $actualInputPath = $InputPath
+        if (Test-HeicFile -FilePath $InputPath) {
+            Write-Host "  → Converting HEIC to JPEG..." -ForegroundColor Yellow
+            $tempFileToCleanup = Convert-HeicToTemp -InputPath $InputPath
+            if ($null -eq $tempFileToCleanup) {
+                throw "HEIC conversion failed. Please install 'HEIF Image Extensions' from Microsoft Store."
+            }
+            $actualInputPath = $tempFileToCleanup
+        }
+        
         # Load the image
-        $image = [System.Drawing.Image]::FromFile($InputPath)
+        $image = [System.Drawing.Image]::FromFile($actualInputPath)
         $originalWidth = $image.Width
         $originalHeight = $image.Height
         $originalSize = (Get-Item $InputPath).Length
@@ -145,6 +233,11 @@ function Optimize-Image {
         
         $image.Dispose()
         
+        # Cleanup temp file if it was created
+        if ($null -ne $tempFileToCleanup -and (Test-Path $tempFileToCleanup)) {
+            Remove-Item $tempFileToCleanup -Force -ErrorAction SilentlyContinue
+        }
+        
         # Get optimized size
         $optimizedSize = (Get-Item $OutputPath).Length
         
@@ -175,6 +268,11 @@ function Optimize-Image {
         return $true
         
     } catch {
+        # Cleanup temp file if it was created
+        if ($null -ne $tempFileToCleanup -and (Test-Path $tempFileToCleanup)) {
+            Remove-Item $tempFileToCleanup -Force -ErrorAction SilentlyContinue
+        }
+        
         $script:errors += @{
             File = $InputPath
             Error = $_.Exception.Message
@@ -187,6 +285,7 @@ function Optimize-Image {
 # Main execution
 Write-Info "=================================================="
 Write-Info "  Image Optimization Script for Web"
+Write-Info "  Supports: JPG, PNG, BMP, GIF, TIFF, WEBP, HEIC"
 Write-Info "=================================================="
 Write-Host ""
 
