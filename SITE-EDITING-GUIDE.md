@@ -237,6 +237,50 @@ Always include descriptive alt text:
 - Include relevant context
 - Not start with "Image of" or "Picture of"
 
+### Photo Gallery Display
+
+To display a photo gallery in project pages, use this code snippet:
+
+**Step 1: Add gallery images to front matter**
+
+```yaml
+---
+layout: project
+title: "Your Project"
+gallery:
+  - assets/images/projects/project-name/image1.jpg
+  - assets/images/projects/project-name/image2.jpg
+  - assets/images/projects/project-name/image3.jpg
+  - assets/images/projects/project-name/image4.jpg
+---
+```
+
+**Step 2: Add gallery display code in your markdown**
+
+```liquid
+## Photo Gallery
+
+<div class="gallery-grid">
+{% for image in page.gallery %}
+  <div class="gallery-item">
+    <img src="{{ image | relative_url }}" alt="Project name - {{ forloop.index }}" loading="lazy">
+  </div>
+{% endfor %}
+</div>
+```
+
+**Features:**
+- Automatically loops through all images in the `gallery:` array
+- Uses responsive grid layout from `main.css`
+- Adds proper alt text with image number
+- Includes lazy loading for better performance
+- Click images to view in lightbox (via `main.js`)
+
+**Customization:**
+- Change the alt text to be more descriptive for your project
+- Adjust the number of images by adding/removing from the gallery array
+- The grid automatically adjusts based on screen size
+
 ---
 
 ## Writing Style Guide
