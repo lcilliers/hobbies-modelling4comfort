@@ -16,11 +16,12 @@ Welcome to my collection of modeling projects, including dioramas, scratch build
 
 I have never imagined me getting involved in model building. The closest I got was buying a kit for my grandson to inspire him. Unfortunately it remained in the cupboard, until several years later I offered to build it for him. After several months of intense learning through trial and error I completed the Gorch Fock training ship in 2019.
 
-This detailed replica of a traditional German sailing vessel, is complete with authentic rigging and weathered details.  Unfortunately I do not have any record of the building process.
+This detailed replica of a traditional German sailing vessel is complete with authentic rigging and weathered details.  Unfortunately I do not have any record of the building process.
 
 **Status:** Completed  
 **Scale:** 1:150  
 **Category:** Maritime/Nautical
+**Build Type:** Balsawood kit
 
 [View Project →]({{ '/projects/german-sail-boat/' | relative_url }})
 

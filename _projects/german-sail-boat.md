@@ -1,6 +1,6 @@
 ---
 layout: project
-title: "German Sail Boat"
+title: "Gorch Fock training ship"
 date: 2020-03-01
 categories: [maritime, nautical, sailing-vessel]
 tags: [ship-model, traditional-sailing, rigging, weathering]
@@ -15,30 +15,34 @@ gallery:
   - assets/images/projects/german-sail-boat/20251130_202139.jpg
 ---
 
-# German Sail Boat
+The original Gorch Fock was built in 1933 in Hamburg.  It is a three-masted steel-hulled barque, designed for safety with strong righting momentum to prevent capsizing. It served as a training ship until WWII. Later in life it served as a Soviet and later Ukrainian training ship, sailed globally, and participated in tall ship races.  It is now a museum ship in Stralsund.
 
-A detailed replica of a traditional German sailing vessel, capturing the elegance and craftsmanship of historical maritime engineering. This project focuses on authentic rigging, weathering techniques, and period-accurate details.
+This ship was used as a miniature modeling subject since the early plastic kit era in the 1950s. This detailed replica of a traditional German sailing vessel, captured the elegance and craftsmanship of historical maritime engineering giving rise to many iterations of models. It was adopted by Heller and Revell in the 1980s to create a detail kit with some 700 parts - ideal for advanced users.  Revell re-issued several reboxed sets in the 2000s with 1:150 to 1:350 scales.
+
+When I bought the kit in 2007 I had no idea of its complexity or history. I only wanted to stimulate my grandson to build balsawood models.
+
+When I took on the build process in 2019, in desparation because it was still lying on the shelve, I had no model building experience, limited tools and not even the right glue.
 
 ## Project Overview
 
-**Kit/Manufacturer:** Traditional German Sailing Vessel  
+**Kit/Manufacturer:** Revell  
 **Scale:** 1:150
 **Status:** Completed  
 **Start Date:** November 2019  
 **Completion:** May 2020
-
 **Skill Level:** Intermediate  
-**Difficulty:** Moderate - requires rigging and fine detail work
+**Difficulty:** Advanced - requires rigging and fine detail work
 
 ## Project Goals
 
-- Create an authentic representation of a traditional German sailing vessel
-- Master rigging techniques for period-accurate sail configuration
-- Apply realistic weathering to show age and maritime exposure
-- Develop skills in ship modeling and maritime diorama creation
-- Practice photography techniques including potential green screen backgrounds
+- To complete a model that was purchased years ago.
+- To get through the winter months.
+- To learn more about model building.
 
 ## Build Progress
+
+- This first build was all about reading the instructions, which was of reasonable quality.
+-  
 
 ### Phase 1: Hull Construction ✅
 The foundation of any ship model starts with a solid hull. Initial construction focused on:
