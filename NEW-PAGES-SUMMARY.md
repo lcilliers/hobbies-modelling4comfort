@@ -1,0 +1,256 @@
+# New Pages Summary
+
+## What Was Created
+
+Three major new pages have been added to your site with comprehensive content and structure:
+
+### 1. Build Logs Page (`builds.md`)
+**URL:** https://lcilliers.github.io/hobbies-modelling4comfort/builds/
+
+**Purpose:** Document the step-by-step progress of projects as they develop
+
+**Content Includes:**
+- Explanation of what build logs are
+- Placeholder structure for German Sail Boat build log series (Build Log #001, #002, #003)
+- Build log archive organized by project and date
+- Format explanation showing what each build log contains
+- Build log template you can copy for new entries
+- Tips for following and creating build logs
+
+**Key Features:**
+- Consistent structure for all build logs
+- Links to related projects and techniques
+- Update frequency guidelines
+- Template for creating new build log entries
+
+### 2. Techniques Page (`techniques.md`)
+**URL:** https://lcilliers.github.io/hobbies-modelling4comfort/techniques/
+
+**Purpose:** Comprehensive library of modeling techniques and tutorials
+
+**Content Includes:**
+- Featured techniques with skill levels (Winter Weathering already published)
+- Techniques organized by category:
+  - **Painting & Finishing** (5 techniques)
+  - **Structural Work** (4 techniques)
+  - **Scenery & Environment** (5 techniques)
+  - **Ships & Nautical** (4 techniques)
+  - **Tools & Materials** (4 techniques)
+- Skill level guide (Beginner, Intermediate, Advanced)
+- Tutorial structure explanation
+- Tips for using tutorials
+
+**Key Features:**
+- Category-based organization for easy navigation
+- Skill level indicators on each technique
+- Links showing which projects use each technique
+- Materials and tools listings
+- Placeholder links ready for you to add content
+
+### 3. About Page (`about.md`)
+**URL:** https://lcilliers.github.io/hobbies-modelling4comfort/about/
+
+**Purpose:** Tell your story and explain the site
+
+**Content Includes:**
+- **The Story Behind Models4Comfort** - Why the name and what it means
+- **Your Modeling Background** - How you started, current focus, skills
+- **Why Share Online** - Documentation, community, motivation
+- **The Technical Side** - Website technology and photography setup
+- **Current Projects** - What you're actively working on
+- **The Collection** - Overview of all project themes
+- **Tools & Workspace** - Your essential tools and materials
+- **Future Plans** - Site development and modeling goals
+- **Contact & Community** - How people can engage
+
+**Key Features:**
+- Personal narrative that connects with readers
+- Technical information for those interested in the website setup
+- Links to GitHub repository and all major sections
+- Future roadmap shows what's coming
+
+### 4. Updated Home Page (`index.md`)
+
+**Enhanced with:**
+- Featured Content sections for Projects, Build Logs, and Techniques
+- Direct links to German Sail Boat project
+- Spotlight on Winter Weathering technique (published)
+- Better navigation structure
+- Call-to-action links to all major sections
+
+### 5. Enhanced CSS Styling (`assets/css/main.css`)
+
+**New Styles Added:**
+- `.techniques-intro` - Highlighted intro boxes
+- `.technique-card` - Styled technique cards with left border
+- `.category-header` - Section headers with underlines
+- `.build-log-entry` - Build log cards with hover effects
+- `.featured-box` - Featured content boxes
+- `.status-badge` - Status indicators (In Progress, Published, Coming Soon)
+
+---
+
+## Navigation
+
+All pages are now linked in the main header navigation:
+- Projects
+- Build Logs
+- Techniques
+- About
+
+Plus cross-links throughout the site connect related content.
+
+---
+
+## What You Can Do Now
+
+### 1. Add Build Log Entries
+
+Create new files in the `_builds/` folder following this naming pattern:
+- `german-sail-boat-001.md`
+- `german-sail-boat-002.md`
+- etc.
+
+Use the template provided in the builds.md page. The front matter should look like:
+
+```yaml
+---
+layout: post
+title: "German Sail Boat - Build Log #001"
+date: 2025-12-01
+project: german-sail-boat
+tags: [ships, planning, kit-review]
+---
+```
+
+### 2. Add Technique Tutorials
+
+Create new files in the `_techniques/` folder:
+- `rigging.md`
+- `water-effects.md`
+- `weathering-aging.md`
+- etc.
+
+Follow the structure outlined in techniques.md with sections for:
+- Overview
+- Materials & Tools
+- Step-by-Step Process
+- Tips & Tricks
+- Common Mistakes
+- Project Examples
+
+### 3. Customize the About Page
+
+Edit `about.md` to add:
+- Your real name (currently says "Your Name" in places)
+- More personal details about your modeling journey
+- Specific details about your workspace
+- Your actual location if you want to share it
+- Contact preferences
+
+### 4. Update Projects
+
+The builds.md and techniques.md pages reference several projects:
+- Ancient Forest
+- SS Great Britain
+- Sea Rescue
+- Riverside Cabin
+- And others
+
+Create pages for these in `_projects/` folder using `german-sail-boat.md` as a template.
+
+---
+
+## Publishing Workflow
+
+As always, use your 3-step process:
+
+```powershell
+git add .
+git commit -m "Your description of changes"
+git push
+```
+
+Wait 2-3 minutes for GitHub Actions to deploy.
+
+See **PUBLISHING-GUIDE.md** for detailed instructions.
+
+---
+
+## Content Strategy Suggestions
+
+### Build Logs
+- Start with German Sail Boat since it's your most complete project
+- Document each major phase: hull prep, deck work, rigging, painting, weathering
+- Include at least 3-5 photos per build log
+- Be honest about challenges and mistakes - they're valuable!
+- Update regularly (weekly or bi-weekly during active builds)
+
+### Techniques
+- Prioritize techniques you use most often
+- Start with simpler techniques (weathering basics) before advanced ones
+- Use your actual project photos as examples
+- Include "what not to do" sections - mistakes teach!
+- Cross-reference to build logs where technique was used
+
+### Projects
+- Focus on completing pages for projects with most photos
+- Ancient Forest, SS Great Britain, Sea Rescue look promising
+- Each project page should have:
+  - At least 3-5 good photos
+  - Brief description and story
+  - List of techniques used (link to technique pages)
+  - Current status
+  - Materials/tools used
+
+---
+
+## File Structure Reference
+
+```
+Models4Comfort/
+├── index.md                 # Home page (updated)
+├── projects.md              # Projects gallery (existing)
+├── builds.md                # Build logs landing (NEW)
+├── techniques.md            # Techniques hub (NEW)
+├── about.md                 # About page (NEW)
+├── _projects/               # Individual project pages
+│   └── german-sail-boat.md
+├── _builds/                 # Individual build log entries
+│   └── (ready for your content)
+├── _techniques/             # Individual technique tutorials
+│   └── winter-weathering.md
+├── assets/
+│   ├── css/
+│   │   └── main.css         # Enhanced with new styles
+│   └── images/
+│       ├── projects/
+│       ├── builds/          # Create this for build log images
+│       └── techniques/      # For technique tutorial images
+```
+
+---
+
+## Next Steps
+
+1. **Review the new pages** on your live site (wait 2-3 minutes for deployment)
+2. **Start with one build log** - Document your next session on the German Sail Boat
+3. **Add one technique tutorial** - Perhaps "Rigging Basics" since you're working on the boat
+4. **Customize the About page** - Make it more personal
+5. **Add photos for future content** - Use your `copy-project-images.ps1` and `imagemagick-optimize.ps1` scripts
+
+---
+
+## Questions?
+
+Refer to these guides:
+- **PUBLISHING-GUIDE.md** - How to publish changes
+- **IMAGEMAGICK-GUIDE.md** - Image optimization and processing
+- **This file** - Overview of new pages structure
+
+All the structure is in place - now you can focus on creating great content about your amazing diorama projects!
+
+---
+
+*Created: December 1, 2025*
+*Commit: 12e5678*
