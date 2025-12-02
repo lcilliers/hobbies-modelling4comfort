@@ -6,6 +6,36 @@ published: false  # This page won't be published
 date: 2025-12-01
 ---
 
+
+
+## Tools & Workspace
+
+### Essential Tools
+
+My workspace includes:
+
+- **Hand tools** - Various knives, files, saws, clamps
+- **Airbrush setup** - Compressor and multiple airbrushes for fine work
+- **Brushes** - Collection ranging from 10/0 detail to 1" flat
+- **Power tools** - Dremel, mini drill press, small band saw
+- **Measurement & cutting** - Metal rulers, cutting mat, precision knives
+- **Photography equipment** - Camera, lights, green screen backdrop
+
+The [Techniques section]({{ '/techniques/' | relative_url }}) includes detailed tool recommendations for specific tasks.
+
+### Materials Library
+
+A growing collection of:
+
+- Paints (acrylics, enamels, oils)
+- Weathering pigments and pastels
+- Various adhesives and mediums
+- Textural materials (sand, gravel, static grass, etc.)
+- Detail parts and scratch-building supplies
+- Reference books and materials
+
+---
+
 # Modeling Techniques & Tutorials
 
 A collection of detailed guides covering the techniques, methods, and skills used in diorama modeling. Learn from real-world applications across my projects.

@@ -2,29 +2,35 @@
 layout: default
 title: About
 permalink: /about/
-published: false  # This page won't be published
+published: true  
 date: 2025-12-01
 ---
 
 # About Models4Comfort
 
-Welcome to my diorama modeling journey! This site documents my passion for creating miniature worlds - from historical ships to rural scenes, from ancient forests to cozy cabins.
+Welcome to my modeling journey! This site documents my passion for creating miniature worlds - from historical ships to rural scenes, from english country side to cozy cabins.
 
 ## The Story Behind Models4Comfort
 
-Modeling has always been more than just a hobby for me. It's a form of meditation, a creative outlet, and a way to capture moments frozen in time. Each diorama tells a story, preserves a memory, or brings to life a scene that exists only in imagination.
+I discovered the enjoyment of building models quite recently, in 2020. It goes hand in hand with searching for things to keep me focussed in retirement after a very busy and full working career. I started to take photos of the build phase from the building of the SS Great Britain but only decided in december 2025 to organize the outcomes in an effort to create a digital show cabinet of my endeavors.  I simply ran out of space to display the completed items.
 
-The name "Models4Comfort" reflects what these projects mean to me - they're comfortable, relaxing, and therapeutic. In a busy world, sitting down to work on a model brings peace and focus. The gentle rhythm of painting, weathering, and building creates a space where time slows down and creativity flows.
+Years ago, the name 4Comfort was registered and since then I had other focusses with 4Comfort included such as Gardens4Comfort.uk . In essence, modeling gives me great joy and comfort.  I do it for myself, it is not my desire to compete, shout out at shows, run it as a business or become a modeling guru. Models4Comfort is for my benefit and enjoyment, but you are welcome to share my experience and be inspired.
 
-### Why Dioramas?
+Each model that I build have story associated with it and is carefully selected. It preserves a memory, or brings to life an event, technical challenge or scene that is close to my heart.
 
-Dioramas combine so many different skills and interests:
+### Why models?
 
-- **Historical research** - Learning about ships, buildings, and eras
-- **Artistic expression** - Painting, weathering, and composition
-- **Technical skills** - Construction, scratch-building, and problem-solving
-- **Storytelling** - Creating scenes that evoke emotion and narrative
-- **Photography** - Capturing the final result in compelling ways
+When I discovered in 2020 that building models is something that I can do indoors at odd hours, especially in the winter months, it surfaced on the radar as something to add to my activities for retirement.  My main passion, gardening, does not really keep me busy enough when it is dark and miserable out there.
+
+My interest in building models are very specific.  Although I do build to occasional kits, that is not my focus.  I love problem solving, re-using materials, and discovering new ways of doing things.  My main focus is therefore scratch building - creating most of the components from scratch and where possible from re-cycled materials
+
+My projects to date came about from different angles:
+
+- **kit building** - some of the kits I built to date was meant for others to do (Gorch Fock ship, historic Ford car, simon's coffee shop and cathy's flower house) and I landed building it for them. Other kits was presents (Bookshop memories).  
+- **commissions** - in a few cases I had a requested build something on behalf of others (SS Great Britain, doll house bunker, and Caravaning)
+- **technical challenge** - in most cases the models provide ample opportunity for a challenge, but some is selected specifically to explore some technical skills (Henrhyd Falls - South Wales, cabin in the woods and bamboo river lookout)
+- **passion for plants** - many models feature plants, trees, flowers and nature scenes and some was selected specifically to celebrate this passion (plant displays, english country garden, country house)
+- **restorations** - I did a few restorations and planning to do more (hand carved spitfire)
 
 Each project is an opportunity to learn something new, try a different technique, or push creative boundaries.
 
@@ -32,31 +38,23 @@ Each project is an opportunity to learn something new, try a different technique
 
 ## My Modeling Background
 
-### How It Started
+### Childhood
 
-Like many modelers, I started young with simple kits - aircraft, cars, and ships assembled with varying degrees of success (and plenty of glue fingerprints). After a long break, I rediscovered modeling as an adult and found myself drawn to more ambitious projects: dioramas that tell complete stories rather than standalone models.
+I watched while my older brother built fixed line balsawood petrol driven model planes, but cannot remember that I built any for myself - I was simply not good enough for it.  I do remember building some kites with tissue paper and bamboo.
 
-### Current Focus
+### Working life
 
-My primary interests now include:
+My studies, career and work focus were a million miles away from handy work.  I did however develop over time a keen interest with DIY projects in and around the house, built up a good selection of tools and regard myself as reasonably good at handy work.  I have always struggled with attention to detail, and doing things to perfection.
 
-**Maritime Models** - Historical sailing vessels with full rigging and realistic weathering  
-**Rural & Natural Scenes** - Countryside cottages, farms, and woodland settings  
-**Architectural Dioramas** - Buildings with character, history, and detail  
-**Atmospheric Photography** - Using green screens and digital backgrounds to enhance presentation
+### How modelling started
 
-### Skills & Techniques
+In many respects, my journey to start with modeling is unlike other modelers: I did not start young, did not built up skills by selecting simple kits such as aircraft, cars, and ships to assemble, and did not see myself as being creative of a flair for art. It all started with trying to solve a problem that I created for my grandson (buying a model for him that is way beyond his skill level) combined with me being very anxious about what I am going to do in the winter months when I am retired and cannot go out into the garden.
 
-Over time, I've developed capabilities in:
+### What happened
 
-- Scratch-building and kit-bashing
-- Advanced weathering and aging effects
-- Natural scenery (trees, water, vegetation)
-- Ship rigging and nautical details
-- Winter and seasonal effects
-- Digital photo enhancement with green screen replacement
+In the past 5 years I discovered a new me.  I can have attention to detail; I see color in a completely new perspective; I am creative; I love working with alls sorts of materials; I am improving every time. I am looking forward to what the remaining few years have to offer.
 
-The [Techniques]({{ '/techniques/' | relative_url }}) section documents these methods for others to learn from and adapt.
+The [Techniques]({{ '/techniques/' | relative_url }}) section documents some of my discoveries, methods and journeys for others to learn from and adapt.
 
 ---
 
@@ -64,15 +62,15 @@ The [Techniques]({{ '/techniques/' | relative_url }}) section documents these me
 
 ### Documentation & Memory
 
-Projects take months or even years to complete. By documenting them online, I create a permanent record of the process - photos of stages that would otherwise be lost, notes about techniques that worked (or didn't), and a timeline of how skills evolve.
+Projects take months or even years to complete. By documenting them online, I create a permanent record of the process - photos of stages that would otherwise be lost, notes about techniques that worked (or didn't), and a timeline of how skills evolve. It is mainly for my own benefit, but you are welcome to share it.
 
 ### Community & Learning
 
-The modeling community is incredibly generous with knowledge. This site is my way of giving back - sharing what I've learned so others can benefit, avoid my mistakes, and perhaps feel inspired to try something new.
+The modeling community is incredibly generous with knowledge. I research and discover things all the time by tapping into the community.  This site is my way of giving back - sharing what I've learned so others can benefit, avoid my mistakes, and perhaps feel inspired to try something new.
 
 ### Accountability & Motivation
 
-Public documentation creates gentle accountability. When progress is visible, it motivates continued work. Build logs turn large projects into manageable milestones.
+Public documentation creates gentle accountability. I need to think through what I am doing, remember to record it, and keep going. When progress is visible, it motivates me. 
 
 ---
 
@@ -90,75 +88,7 @@ This site is built with:
 
 Everything is [open source on GitHub](https://github.com/lcilliers/hobbies-modelling4comfort), and the [Publishing Guide]({{ site.baseurl }}/PUBLISHING-GUIDE.html) documents the workflow for anyone interested in a similar setup.
 
-### Photography Setup
-
-Project photography uses:
-
-- **Green screen backgrounds** - For clean, replaceable backdrops
-- **Digital backgrounds** - Sky scenes with clouds and atmosphere
-- **Natural lighting** - Supplemented with diffused LED panels
-- **Macro lens** - For detail shots and close-ups
-- **Image optimization** - Batch processing for web display
-
-The [backgrounds folder](https://github.com/lcilliers/hobbies-modelling4comfort/tree/main/backgrounds) includes resources and guides for setting up similar photography.
-
----
-
-## Current Projects
-
-### Active Builds
-
-**[German Sail Boat]({{ '/projects/german-sail-boat/' | relative_url }})** - Traditional sailing vessel nearing completion. Focus on authentic rigging and realistic weathering.
-
-**SS Great Britain** - Ambitious large-scale steamship project. Early planning stages.
-
-### On the Workbench
-
-Multiple projects in various stages - from planning to final details. The [Projects Gallery]({{ '/projects/' | relative_url }}) shows the full collection, and [Build Logs]({{ '/builds/' | relative_url }}) track active progress.
-
----
-
-## The Collection
-
-Projects span several themes and scales:
-
-**Maritime** - German Sail Boat, SS Great Britain, Sea Rescue  
-**Rural & Farm** - SA Farm Home, Country House, Plant Display  
-**Natural Scenes** - Ancient Forest, English Country Garden, Riverside Cabin  
-**Architectural** - Cabin in Woods, Henrhyd Falls South Wales  
-**Recreational** - Caravaning
-
-Each project brings unique challenges and learning opportunities.
-
----
-
-## Tools & Workspace
-
-### Essential Tools
-
-My workspace includes:
-
-- **Hand tools** - Various knives, files, saws, clamps
-- **Airbrush setup** - Compressor and multiple airbrushes for fine work
-- **Brushes** - Collection ranging from 10/0 detail to 1" flat
-- **Power tools** - Dremel, mini drill press, small band saw
-- **Measurement & cutting** - Metal rulers, cutting mat, precision knives
-- **Photography equipment** - Camera, lights, green screen backdrop
-
-The [Techniques section]({{ '/techniques/' | relative_url }}) includes detailed tool recommendations for specific tasks.
-
-### Materials Library
-
-A growing collection of:
-
-- Paints (acrylics, enamels, oils)
-- Weathering pigments and pastels
-- Various adhesives and mediums
-- Textural materials (sand, gravel, static grass, etc.)
-- Detail parts and scratch-building supplies
-- Reference books and materials
-
----
+--
 
 ## Contact & Community
 
@@ -180,40 +110,9 @@ All content on this site is shared freely for educational purposes. If you use t
 
 ---
 
-## Future Plans
-
-### Site Development
-
-- Publish remaining project pages (10 projects documented)
-- Add comprehensive build logs for active projects
-- Create detailed technique tutorials with step-by-step photos
-- Enable comment system for community interaction
-- Add search functionality for easier navigation
-
-### Modeling Plans
-
-- Complete German Sail Boat with full rigging
-- Begin serious work on SS Great Britain
-- Document Ancient Forest from planning to completion
-- Experiment with advanced water effects
-- Develop enhanced photography techniques
-- Try new weathering methods
-
----
-
-## Why "Models4Comfort"?
-
-The name keeps coming back to the core reason for this hobby: **comfort**. In the act of creating something with your hands, there's a profound comfort. In seeing a blank base transform into a living scene, there's satisfaction. In sharing the journey with others who understand the passion, there's community.
-
-These models aren't just objects - they're tangible evidence of time spent in a state of flow, of challenges overcome, of skills developed, and of stories told. They're comfortable to create, comforting to look at, and hopefully inspiring to others.
-
----
-
 ## Thank You
 
 Thank you for visiting and taking an interest in these projects. Whether you're a fellow modeler, someone curious about the hobby, or just browsing, I hope you find something here that inspires, informs, or simply entertains.
-
-Now, back to the workbench - those projects won't build themselves!
 
 ---
 

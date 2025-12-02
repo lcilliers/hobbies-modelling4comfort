@@ -2,11 +2,10 @@
 layout: default
 title: Build Logs
 permalink: /builds/
-published: false  # This page won't be published
+published: true  
 date: 2025-12-01
 ---
 
-# Build Logs
 
 Follow along with my diorama projects as they develop from concept to completion. Each build log documents the process, challenges, solutions, and lessons learned along the way.
 
@@ -22,9 +21,9 @@ Build logs are detailed progress updates that chronicle the construction of each
 
 ---
 
-## Latest Build Updates
+## Build Updates (in descending order)
 
-### German Sail Boat - Build Log Series
+### SS Great Britain - Build Log Series
 
 A traditional German sailing vessel taking shape. Follow the journey from bare hull to fully rigged vessel.
 

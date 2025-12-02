@@ -5,7 +5,7 @@ date: 2022-02-01
 categories: [maritime, nautical, steamship]
 tags: [ship-model, historical, iron-hull, steam-power]
 status: completed
-scale: "1:150"
+scale: "1:98"
 difficulty: advanced
 featured_image: assets/images/projects/ss-great-britain/ss-great-britain-gallery-008.jpg
 gallery:
