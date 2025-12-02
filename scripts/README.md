@@ -4,7 +4,49 @@ This folder contains PowerShell scripts to help manage your website content.
 
 ## 📜 Available Scripts
 
-### 1. imagemagick-optimize.ps1 ⭐ **RECOMMENDED**
+### 1. new-build-log.ps1 ⭐ **NEW - Create Build Logs**
+
+**Purpose**: Quickly create new build log entries from the template
+
+**What it does**:
+- ✅ Creates project folder if it doesn't exist
+- ✅ Copies template to correct location with proper naming
+- ✅ Auto-updates front matter (title, date, project, build_number)
+- ✅ Formats build number with leading zeros (001, 002, 003)
+- ✅ Optionally opens the file in VS Code for immediate editing
+- ✅ Validates project and title use proper naming (lowercase, hyphens)
+
+**Usage**:
+```powershell
+# Create a new build log
+.\scripts\new-build-log.ps1 -ProjectName "ss-great-britain" -BuildNumber 2 -Title "hull-construction"
+
+# With specific date and auto-open in editor
+.\scripts\new-build-log.ps1 `
+    -ProjectName "gorch-fock" `
+    -BuildNumber 1 `
+    -Title "kit-review-unboxing" `
+    -Date "2025-12-01" `
+    -OpenInEditor
+
+# Create first log for a new project (folder created automatically)
+.\scripts\new-build-log.ps1 -ProjectName "new-diorama-project" -BuildNumber 1 -Title "planning-phase"
+```
+
+**Parameters**:
+- `-ProjectName` (required) - Project slug using lowercase and hyphens (e.g., "ss-great-britain")
+- `-BuildNumber` (required) - Sequential log number (1, 2, 3, etc.)
+- `-Title` (required) - Short description with hyphens (e.g., "hull-construction")
+- `-Date` (optional) - Date in YYYY-MM-DD format (defaults to today)
+- `-OpenInEditor` (optional) - Opens the file in VS Code after creation
+
+**Output**:
+- Creates: `_builds/{project-name}/{number}-{title}.md`
+- Example: `_builds/ss-great-britain/002-hull-construction.md`
+
+---
+
+### 2. imagemagick-optimize.ps1 ⭐ **RECOMMENDED**
 
 **Purpose**: Advanced image optimization with HEIC support and green screen removal
 
@@ -57,7 +99,7 @@ Creates a subfolder with optimized images ready for web use.
 
 ---
 
-### 2. optimize-images.ps1 (Fallback)
+### 3. optimize-images.ps1 (Fallback)
 
 **Purpose**: Resize and compress images using Windows .NET (no external dependencies)
 
@@ -101,7 +143,8 @@ Creates a subfolder with optimized images ready for web use.
 
 ---
 
-### 2. copy-project-images.ps1
+### 4. copy-project-images.ps1
+
 **Purpose**: Copy images from source folders to website structure
 
 **What it does**:

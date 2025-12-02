@@ -36,7 +36,42 @@ Examples:
 
 ## Creating a New Build Log
 
-### Method 1: Copy Template (Easiest)
+### Method 1: PowerShell Script (Easiest & Recommended)
+
+Use the `new-build-log.ps1` script to automatically create a new build log:
+
+```powershell
+.\scripts\new-build-log.ps1 -ProjectName "project-name" -BuildNumber 2 -Title "stage-description"
+```
+
+**Parameters:**
+- `-ProjectName` - Project slug (e.g., "ss-great-britain", "gorch-fock")
+- `-BuildNumber` - Sequential number (1, 2, 3, etc.)
+- `-Title` - Short description with hyphens (e.g., "hull-construction")
+- `-Date` - Optional: Date in YYYY-MM-DD format (defaults to today)
+- `-OpenInEditor` - Optional: Opens file in VS Code after creation
+
+**Examples:**
+
+```powershell
+# Create build log #2 for SS Great Britain
+.\scripts\new-build-log.ps1 -ProjectName "ss-great-britain" -BuildNumber 2 -Title "hull-construction"
+
+# Create with specific date and open in editor
+.\scripts\new-build-log.ps1 -ProjectName "gorch-fock" -BuildNumber 1 -Title "kit-review" -Date "2025-12-01" -OpenInEditor
+
+# Create first log for new project (folder will be created automatically)
+.\scripts\new-build-log.ps1 -ProjectName "new-project" -BuildNumber 1 -Title "planning"
+```
+
+**What the script does:**
+- ✓ Creates project folder if it doesn't exist
+- ✓ Copies template to correct location with proper naming
+- ✓ Updates front matter (title, date, project, build_number)
+- ✓ Formats build number with leading zeros (001, 002, etc.)
+- ✓ Shows next steps for editing and committing
+
+### Method 2: Copy Template Manually
 
 1. Copy `TEMPLATE-build-log.md`
 2. Rename to your project folder: `_builds/project-name/###-title.md`
@@ -45,7 +80,7 @@ Examples:
 5. Add photos to `assets/images/builds/project-name/`
 6. Commit and push
 
-### Method 2: GitHub Web Editor
+### Method 3: GitHub Web Editor
 
 1. Go to your repository on github.com
 2. Navigate to `_builds/your-project/`
