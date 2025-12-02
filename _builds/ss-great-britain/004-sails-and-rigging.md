@@ -4,33 +4,51 @@ title: "Ss Great Britain - Build Log #4: Sails And Rigging"
 date: 2025-12-02
 project: ss-great-britain
 build_number: 4
-categories: [category1, category2]
-tags: [tag1, tag2, tag3]
-excerpt: "Brief one-sentence summary of this build log entry for listings."
+categories: [ships, rigging]
+tags: [sails, rigging, masts, detail-work]
+excerpt: "Complex rigging work including six masts, sails, and associated lines and details."
 ---
 
 ## Current Build Stage
 
-**Phase:** Current construction phase  
-**Focus:** What you're working on now
+**Phase:** Sails & Rigging  
+**Focus:** Mast installation, rigging lines, and sail assembly
 
 ## Work Completed Since Last Update
 
-- Major accomplishment 1
-- Major accomplishment 2
-- Major accomplishment 3
-- Specific tasks completed
-- Progress milestones reached
+- Masts constructed and installed
+- Standing rigging completed
+- Running rigging in progress
+- Sails prepared and attached
+- Detail work on rigging complexity
 
 ## Photo Gallery
 
-*Add photos here with captions*
+### Sails and Rigging Progress
 
-![Description of photo]({{ 'assets/images/builds/project-name/log-XXX-photo1.jpg' | relative_url }})
-*Caption explaining what the photo shows*
+![Rigging 1]({{ 'assets/images/builds/ss-great-britain/ss-great-britain-build-020.jpg' | relative_url }})
+*Caption: Add description of rigging work*
 
-![Description of photo]({{ 'assets/images/builds/project-name/log-XXX-photo2.jpg' | relative_url }})
-*Caption explaining what the photo shows*
+![Rigging 2]({{ 'assets/images/builds/ss-great-britain/ss-great-britain-build-021.jpg' | relative_url }})
+*Caption: Add description*
+
+![Rigging 3]({{ 'assets/images/builds/ss-great-britain/ss-great-britain-build-022.jpg' | relative_url }})
+*Caption: Add description*
+
+![Rigging 4]({{ 'assets/images/builds/ss-great-britain/ss-great-britain-build-023.jpg' | relative_url }})
+*Caption: Add description*
+
+![Rigging 5]({{ 'assets/images/builds/ss-great-britain/ss-great-britain-build-024.jpg' | relative_url }})
+*Caption: Add description*
+
+![Rigging 6]({{ 'assets/images/builds/ss-great-britain/ss-great-britain-build-025.jpg' | relative_url }})
+*Caption: Add description*
+
+![Rigging 7]({{ 'assets/images/builds/ss-great-britain/ss-great-britain-build-026.jpg' | relative_url }})
+*Caption: Add description*
+
+![Rigging 8]({{ 'assets/images/builds/ss-great-britain/ss-great-britain-build-027.jpg' | relative_url }})
+*Caption: Add description*
 
 ## Techniques Used
 

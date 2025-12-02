@@ -4,33 +4,45 @@ title: "Ss Great Britain - Build Log #5: Decoration"
 date: 2025-12-02
 project: ss-great-britain
 build_number: 5
-categories: [category1, category2]
-tags: [tag1, tag2, tag3]
-excerpt: "Brief one-sentence summary of this build log entry for listings."
+categories: [ships, detailing]
+tags: [decoration, painting, detail-work]
+excerpt: "Decorative details, painting, and final detailing work before completion."
 ---
 
 ## Current Build Stage
 
-**Phase:** Current construction phase  
-**Focus:** What you're working on now
+**Phase:** Decoration & Detailing  
+**Focus:** Paint work, decorative elements, and fine details
 
 ## Work Completed Since Last Update
 
-- Major accomplishment 1
-- Major accomplishment 2
-- Major accomplishment 3
-- Specific tasks completed
-- Progress milestones reached
+- Color scheme applied
+- Decorative striping and details
+- Brass fittings and small details
+- Name plates and identification
+- Fine detail work throughout
 
 ## Photo Gallery
 
-*Add photos here with captions*
+### Decoration Progress
 
-![Description of photo]({{ 'assets/images/builds/project-name/log-XXX-photo1.jpg' | relative_url }})
-*Caption explaining what the photo shows*
+![Decoration 1]({{ 'assets/images/builds/ss-great-britain/ss-great-britain-build-028.jpg' | relative_url }})
+*Caption: Add description of decoration work*
 
-![Description of photo]({{ 'assets/images/builds/project-name/log-XXX-photo2.jpg' | relative_url }})
-*Caption explaining what the photo shows*
+![Decoration 2]({{ 'assets/images/builds/ss-great-britain/ss-great-britain-build-029.jpg' | relative_url }})
+*Caption: Add description*
+
+![Decoration 3]({{ 'assets/images/builds/ss-great-britain/ss-great-britain-build-030.jpg' | relative_url }})
+*Caption: Add description*
+
+![Decoration 4]({{ 'assets/images/builds/ss-great-britain/ss-great-britain-build-032.jpg' | relative_url }})
+*Caption: Add description*
+
+![Decoration 5]({{ 'assets/images/builds/ss-great-britain/ss-great-britain-build-033.jpg' | relative_url }})
+*Caption: Add description*
+
+![Decoration 6]({{ 'assets/images/builds/ss-great-britain/ss-great-britain-build-034.jpg' | relative_url }})
+*Caption: Add description*
 
 ## Techniques Used
 

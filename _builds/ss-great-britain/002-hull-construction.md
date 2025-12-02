@@ -1,36 +1,59 @@
 ---
 layout: post
-title: "Project Name - Build Log #XXX: Stage Title"
+title: "Ss Great Britain - Build Log #2: Hull Construction"
 date: 2025-12-02
-project: project-slug
+project: ss-great-britain
 build_number: 2
-categories: [category1, category2]
-tags: [tag1, tag2, tag3]
-excerpt: "Brief one-sentence summary of this build log entry for listings."
+categories: [ships, construction]
+tags: [hull, iron-plating, assembly]
+excerpt: "Hull construction phase - assembling the iron hull and adding structural details."
 ---
 
 ## Current Build Stage
 
-**Phase:** Current construction phase  
-**Focus:** What you're working on now
+**Phase:** Hull Construction  
+**Focus:** Iron hull assembly and detailing
 
 ## Work Completed Since Last Update
 
-- Major accomplishment 1
-- Major accomplishment 2
-- Major accomplishment 3
-- Specific tasks completed
-- Progress milestones reached
+- Hull assembly started
+- Iron plating details being added
+- Structural work in progress
+- Testing techniques for realistic iron appearance
 
 ## Photo Gallery
 
-*Add photos here with captions*
+### Hull Construction Progress
 
-![Description of photo]({{ 'assets/images/builds/project-name/log-XXX-photo1.jpg' | relative_url }})
-*Caption explaining what the photo shows*
+![Hull Construction 1]({{ 'assets/images/builds/ss-great-britain/ss-great-britain-build-002.jpg' | relative_url }})
+*Caption: Add description of hull work*
 
-![Description of photo]({{ 'assets/images/builds/project-name/log-XXX-photo2.jpg' | relative_url }})
-*Caption explaining what the photo shows*
+![Hull Construction 2]({{ 'assets/images/builds/ss-great-britain/ss-great-britain-build-003.jpg' | relative_url }})
+*Caption: Add description*
+
+![Hull Construction 3]({{ 'assets/images/builds/ss-great-britain/ss-great-britain-build-004.jpg' | relative_url }})
+*Caption: Add description*
+
+![Hull Construction 4]({{ 'assets/images/builds/ss-great-britain/ss-great-britain-build-005.jpg' | relative_url }})
+*Caption: Add description*
+
+![Hull Construction 5]({{ 'assets/images/builds/ss-great-britain/ss-great-britain-build-006.jpg' | relative_url }})
+*Caption: Add description*
+
+![Hull Construction 6]({{ 'assets/images/builds/ss-great-britain/ss-great-britain-build-007.jpg' | relative_url }})
+*Caption: Add description*
+
+![Hull Construction 7]({{ 'assets/images/builds/ss-great-britain/ss-great-britain-build-008.jpg' | relative_url }})
+*Caption: Add description*
+
+![Hull Construction 8]({{ 'assets/images/builds/ss-great-britain/ss-great-britain-build-009.jpg' | relative_url }})
+*Caption: Add description*
+
+![Hull Construction 9]({{ 'assets/images/builds/ss-great-britain/ss-great-britain-build-010.jpg' | relative_url }})
+*Caption: Add description*
+
+![Hull Construction 10]({{ 'assets/images/builds/ss-great-britain/ss-great-britain-build-011.jpg' | relative_url }})
+*Caption: Add description*
 
 ## Techniques Used
 

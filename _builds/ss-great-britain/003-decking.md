@@ -4,33 +4,50 @@ title: "Ss Great Britain - Build Log #3: Decking"
 date: 2025-12-02
 project: ss-great-britain
 build_number: 3
-categories: [category1, category2]
-tags: [tag1, tag2, tag3]
-excerpt: "Brief one-sentence summary of this build log entry for listings."
+categories: [ships, construction]
+tags: [decking, detail-work]
+excerpt: "Deck construction and detailing work including planking and deck furniture."
 ---
 
 ## Current Build Stage
 
-**Phase:** Current construction phase  
-**Focus:** What you're working on now
+**Phase:** Deck Construction  
+**Focus:** Deck planking, hatches, and structural details
 
 ## Work Completed Since Last Update
 
-- Major accomplishment 1
-- Major accomplishment 2
-- Major accomplishment 3
-- Specific tasks completed
-- Progress milestones reached
+- Deck planking applied
+- Hatches and deck details added
+- Deck furniture positioning
+- Surface preparation for further detailing
 
 ## Photo Gallery
 
-*Add photos here with captions*
+### Deck Construction Progress
 
-![Description of photo]({{ 'assets/images/builds/project-name/log-XXX-photo1.jpg' | relative_url }})
-*Caption explaining what the photo shows*
+![Decking 1]({{ 'assets/images/builds/ss-great-britain/ss-great-britain-build-012.jpg' | relative_url }})
+*Caption: Add description of deck work*
 
-![Description of photo]({{ 'assets/images/builds/project-name/log-XXX-photo2.jpg' | relative_url }})
-*Caption explaining what the photo shows*
+![Decking 2]({{ 'assets/images/builds/ss-great-britain/ss-great-britain-build-013.jpg' | relative_url }})
+*Caption: Add description*
+
+![Decking 3]({{ 'assets/images/builds/ss-great-britain/ss-great-britain-build-014.jpg' | relative_url }})
+*Caption: Add description*
+
+![Decking 4]({{ 'assets/images/builds/ss-great-britain/ss-great-britain-build-015.jpg' | relative_url }})
+*Caption: Add description*
+
+![Decking 5]({{ 'assets/images/builds/ss-great-britain/ss-great-britain-build-016.jpg' | relative_url }})
+*Caption: Add description*
+
+![Decking 6]({{ 'assets/images/builds/ss-great-britain/ss-great-britain-build-017.jpg' | relative_url }})
+*Caption: Add description*
+
+![Decking 7]({{ 'assets/images/builds/ss-great-britain/ss-great-britain-build-018.jpg' | relative_url }})
+*Caption: Add description*
+
+![Decking 8]({{ 'assets/images/builds/ss-great-britain/ss-great-britain-build-019.jpg' | relative_url }})
+*Caption: Add description*
 
 ## Techniques Used
 

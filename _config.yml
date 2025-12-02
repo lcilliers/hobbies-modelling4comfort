@@ -72,6 +72,8 @@ exclude:
   - README.md
   - package.json
   - package-lock.json
+  - _builds/TEMPLATE-build-log.md
+  - scripts/
 
 # Image settings
 image_path: /assets/images

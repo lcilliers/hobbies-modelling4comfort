@@ -4,33 +4,57 @@ title: "Ss Great Britain - Build Log #6: Finish"
 date: 2025-12-02
 project: ss-great-britain
 build_number: 6
-categories: [category1, category2]
-tags: [tag1, tag2, tag3]
-excerpt: "Brief one-sentence summary of this build log entry for listings."
+categories: [ships, completion]
+tags: [final-details, weathering, completion]
+excerpt: "Final weathering, touch-ups, and completion of the SS Great Britain model."
 ---
 
 ## Current Build Stage
 
-**Phase:** Current construction phase  
-**Focus:** What you're working on now
+**Phase:** Final Finishing & Completion  
+**Focus:** Weathering, final details, and project completion
 
 ## Work Completed Since Last Update
 
-- Major accomplishment 1
-- Major accomplishment 2
-- Major accomplishment 3
-- Specific tasks completed
-- Progress milestones reached
+- Final weathering applied
+- Touch-ups and corrections completed
+- Display base prepared
+- Final photography
+- Project completed!
 
 ## Photo Gallery
 
-*Add photos here with captions*
+### Final Build and Completion
 
-![Description of photo]({{ 'assets/images/builds/project-name/log-XXX-photo1.jpg' | relative_url }})
-*Caption explaining what the photo shows*
+![Final Build 1]({{ 'assets/images/builds/ss-great-britain/ss-great-britain-build-035.jpg' | relative_url }})
+*Caption: Add description of final build*
 
-![Description of photo]({{ 'assets/images/builds/project-name/log-XXX-photo2.jpg' | relative_url }})
-*Caption explaining what the photo shows*
+![Final Build 2]({{ 'assets/images/builds/ss-great-britain/ss-great-britain-build-036.jpg' | relative_url }})
+*Caption: Add description*
+
+![Final Build 3]({{ 'assets/images/builds/ss-great-britain/ss-great-britain-build-037.jpg' | relative_url }})
+*Caption: Add description*
+
+![Final Build 4]({{ 'assets/images/builds/ss-great-britain/ss-great-britain-build-038.jpg' | relative_url }})
+*Caption: Add description*
+
+![Final Build 5]({{ 'assets/images/builds/ss-great-britain/ss-great-britain-build-039.jpg' | relative_url }})
+*Caption: Add description*
+
+![Final Build 6]({{ 'assets/images/builds/ss-great-britain/ss-great-britain-build-040.jpg' | relative_url }})
+*Caption: Add description*
+
+![Final Build 7]({{ 'assets/images/builds/ss-great-britain/ss-great-britain-build-041.jpg' | relative_url }})
+*Caption: Add description*
+
+![Final Build 8]({{ 'assets/images/builds/ss-great-britain/ss-great-britain-build-042.jpg' | relative_url }})
+*Caption: Add description*
+
+![Final Build 9]({{ 'assets/images/builds/ss-great-britain/ss-great-britain-build-001.jpg' | relative_url }})
+*Caption: Completed model - final display shot*
+
+![Final Build 10]({{ 'assets/images/builds/ss-great-britain/ss-great-britain-build-031.jpg' | relative_url }})
+*Caption: Completed model - another angle*
 
 ## Techniques Used
 

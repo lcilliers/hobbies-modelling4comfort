@@ -27,7 +27,35 @@ This is the first log for the SS Great Britain project. Initial work includes:
 
 ## Photo Gallery
 
-*Add build photos here as work progresses*
+### Reference Materials Collected
+
+Below are some of the key reference images gathered for this build:
+
+![Reference Image 1]({{ 'assets/images/builds/ss-great-britain/ss-great-britain-reference-001.jpg' | relative_url }})
+*Caption: Add description*
+
+![Reference Image 2]({{ 'assets/images/builds/ss-great-britain/ss-great-britain-reference-002.jpg' | relative_url }})
+*Caption: Add description*
+
+![Reference Image 3]({{ 'assets/images/builds/ss-great-britain/ss-great-britain-reference-003.jpg' | relative_url }})
+*Caption: Add description*
+
+![Reference Image 4]({{ 'assets/images/builds/ss-great-britain/ss-great-britain-reference-004.jpg' | relative_url }})
+*Caption: Add description*
+
+![Reference Image 5]({{ 'assets/images/builds/ss-great-britain/ss-great-britain-reference-005.jpg' | relative_url }})
+*Caption: Add description*
+
+![Reference Image 6]({{ 'assets/images/builds/ss-great-britain/ss-great-britain-reference-006.jpg' | relative_url }})
+*Caption: Add description*
+
+![Reference Image 7]({{ 'assets/images/builds/ss-great-britain/ss-great-britain-reference-007.jpg' | relative_url }})
+*Caption: Add description*
+
+![Reference Image 8]({{ 'assets/images/builds/ss-great-britain/ss-great-britain-reference-008.jpg' | relative_url }})
+*Caption: Add description*
+
+*Additional reference photos (009-052) available in assets folder for detailed work*
 
 ## Research & Reference Materials
 
