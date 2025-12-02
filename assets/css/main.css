@@ -444,6 +444,51 @@ a:hover {
   text-align: center;
 }
 
+/* === Build Log Content Images === */
+.post-content img,
+.build-content img,
+article img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: var(--spacing-md) auto;
+  border-radius: 8px;
+  box-shadow: var(--shadow);
+}
+
+/* Limit very large images */
+.post-content img,
+.build-content img {
+  max-height: 800px;
+  object-fit: contain;
+}
+
+/* Caption styling (italic text after images) */
+.post-content p > em,
+.build-content p > em,
+article p > em {
+  display: block;
+  text-align: center;
+  color: var(--text-light);
+  font-size: 0.9rem;
+  margin-top: calc(var(--spacing-xs) * -1);
+  margin-bottom: var(--spacing-md);
+}
+
+/* Photo Gallery sections in build logs */
+.post-content h3 + p > img,
+.build-content h3 + p > img {
+  margin-top: var(--spacing-sm);
+}
+
+/* Responsive image sizing */
+@media (max-width: 768px) {
+  .post-content img,
+  .build-content img {
+    max-height: 500px;
+  }
+}
+
 /* === Build Log Posts === */
 .post-list {
   list-style: none;
