@@ -21,7 +21,7 @@ git push
 
 **Or use the one-liner:**
 ```powershell
-git add . && git commit -m "Update content" && git push
+git add . && git commit -m "Update builds and about" && git push
 ```
 
 ---

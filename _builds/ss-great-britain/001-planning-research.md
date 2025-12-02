@@ -1,0 +1,224 @@
+---
+layout: post
+title: "SS Great Britain - Build Log #001: Planning & Research"
+date: 2022-02-10
+project: ss-great-britain
+build_number: 1
+categories: [ships, planning]
+tags: [research, planning, kit-review, reference-materials]
+excerpt: "Starting the ambitious SS Great Britain project with extensive research, reference gathering, and planning the build approach."
+---
+
+## Current Build Stage
+
+**Phase:** Initial Planning & Research  
+**Focus:** Gathering reference materials, studying ship plans, and determining build approach
+
+## Work Completed Since Last Update
+
+This is the first log for the SS Great Britain project. Initial work includes:
+
+- Researched historical photos and museum documentation
+- Collected ship plans and technical drawings
+- Reviewed available kit options (chose Revell 1:150)
+- Gathered 87 reference images from various sources
+- Studied hull construction techniques for iron-hulled vessels
+- Identified key challenges: iron plating detail, rigging complexity, propeller/funnel integration
+
+## Photo Gallery
+
+*Add build photos here as work progresses*
+
+## Research & Reference Materials
+
+### Historical Background
+
+The SS Great Britain was revolutionary for her time (1843):
+- First ocean-going iron-hulled ship
+- First to use screw propeller for Atlantic crossing
+- Designed by Isambard Kingdom Brunel
+- Now preserved as museum ship in Bristol
+
+### Reference Sources Collected
+
+**Visual References:** 87 photos including:
+- Museum photos of the restored ship
+- Historical drawings and paintings
+- Technical plans and cross-sections
+- Detail shots of hull plating, rigging, deck fittings
+- Period photographs from archives
+
+**Technical Documentation:**
+- Original ship plans from Bristol archives
+- Hull construction diagrams
+- Rigging plans for both sail and steam configurations
+- Deck layout drawings
+
+### Kit Selection
+
+**Chosen Kit:** Revell SS Great Britain 1:150 scale
+
+**Reasons:**
+- Good level of detail for this scale
+- Reasonably accurate hull lines
+- Includes basic rigging components
+- Affordable and readily available
+- Established modeling community with tips
+
+**Known Issues to Address:**
+- Hull plating detail needs enhancement
+- Rigging supplied is simplified
+- Deck fittings require additional detailing
+- Paint scheme needs research for accuracy
+
+## Techniques to Learn
+
+For this build, I'll need to develop or refine:
+
+1. **Iron Hull Detailing**
+   - Simulating riveted iron plates
+   - Panel line enhancement
+   - Weathering for oxidized metal
+
+2. **Complex Rigging**
+   - Six-masted sailing configuration
+   - Running vs standing rigging differentiation
+   - Proper tension and scale appearance
+
+3. **Steam Era Details**
+   - Funnel weathering
+   - Coal dust effects
+   - Brass/copper fittings
+
+4. **Mixed Construction**
+   - Combining plastic kit with scratch-built details
+   - Photo-etched brass enhancements
+   - Wood deck overlays
+
+## Challenges Anticipated
+
+### Technical Challenges
+
+**Hull Construction:**
+- Challenge: Achieving convincing iron plate appearance
+- Approach: Research photo-etch options, scribing techniques, weathering methods
+
+**Scale Rigging:**
+- Challenge: Managing complexity of six masts plus steam rigging
+- Approach: Study period photos, create rigging diagram, work systematically
+
+**Historical Accuracy:**
+- Challenge: Ship had multiple configurations through her life
+- Approach: Choose specific period (1845 maiden voyage configuration)
+
+### Practical Challenges
+
+**Time Investment:**
+- This will be a long-term project (estimated 4-6 months)
+- Need to maintain momentum through complex phases
+- Document regularly even when progress seems slow
+
+**Workspace:**
+- Large model requires dedicated space
+- Rigging phase needs room to work around entire model
+- Photo setup for documentation
+
+**Reference Management:**
+- 87 reference photos need organization
+- Cross-reference between plans and photos
+- Track which references apply to which period
+
+## Materials & Tools Preparation
+
+### Ordered/Acquired:
+
+- Revell SS Great Britain kit (1:150)
+- Additional brass photo-etch detail set
+- Scale rigging thread in various diameters
+- Specialized ship model paints (iron oxide, coal black, etc.)
+- Scribing tools for panel lines
+
+### Still Needed:
+
+- Brass rod for mast reinforcement
+- Wood deck planking material
+- Additional reference books
+- Rigging blocks and deadeyes
+- Display base materials
+
+## Build Strategy
+
+### Phased Approach:
+
+**Phase 1: Hull** (Weeks 1-6)
+- Basic hull assembly
+- Add iron plate detailing
+- Paint base colors
+- Initial weathering
+
+**Phase 2: Superstructure** (Weeks 7-10)
+- Deck construction
+- Funnel assembly and detailing
+- Deckhouse construction
+- Install major fittings
+
+**Phase 3: Masts & Rigging** (Weeks 11-16)
+- Mast construction and installation
+- Standing rigging first
+- Running rigging systematically
+- Sail installation (if including)
+
+**Phase 4: Finishing** (Weeks 17-18)
+- Final weathering
+- Detail painting
+- Base construction
+- Photography
+
+## Next Steps
+
+1. **Organize References**
+   - Sort 87 photos by subject (hull, rigging, details, etc.)
+   - Create reference binder for workbench
+   - Print key plans for easy reference
+
+2. **Kit Inventory**
+   - Open kit and inventory all parts
+   - Check for damage or missing pieces
+   - Wash sprues to remove mold release
+
+3. **Workspace Setup**
+   - Clear dedicated build area
+   - Set up good lighting
+   - Organize tools and materials
+   - Prepare photo documentation setup
+
+4. **Begin Hull Work**
+   - Study hull assembly instructions
+   - Test fit major hull sections
+   - Plan iron plate detail approach
+   - Start Build Log #002 when hull work begins
+
+## Time Investment
+
+**This Planning Phase:** Approximately 8-10 hours
+- Research: 4 hours
+- Reference gathering: 3 hours  
+- Kit selection and ordering: 1 hour
+- Planning and documentation: 2 hours
+
+## Lessons from Previous Projects
+
+Building the Gorch Fock taught me:
+- Importance of thorough planning before starting
+- Document as you go - memory fades quickly
+- Test techniques on scrap before applying to model
+- Rigging requires patience - can't be rushed
+- Good references are worth the time to gather
+
+The SS Great Britain will be more ambitious in every way, but that experience provides a foundation to build on.
+
+---
+
+**Status:** Planning Complete ✓  
+**Next Log:** Hull Construction Begins  
+**Estimated Next Update:** February 17, 2022

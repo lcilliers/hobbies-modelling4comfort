@@ -21,37 +21,37 @@ Build logs are detailed progress updates that chronicle the construction of each
 
 ---
 
-## Build Updates (in descending order)
+## Latest Build Updates (Last 10)
 
-### SS Great Britain - Build Log Series
+{% assign recent_logs = site.builds | sort: 'date' | reverse | limit: 10 %}
+{% if recent_logs.size > 0 %}
+{% for log in recent_logs %}
+**[{{ log.title }}]({{ log.url | relative_url }})**  
+*{{ log.date | date: "%B %d, %Y" }}* - {{ log.excerpt }}
 
-A traditional German sailing vessel taking shape. Follow the journey from bare hull to fully rigged vessel.
-
-#### Recent Updates
-
-**Latest:** [Build Log #003 - Deck Construction]({{ '/builds/german-sail-boat-003/' | relative_url }})  
-*Coming Soon - Deck planking and detailing*
-
-**[Build Log #002 - Hull Assembly and Preparation]({{ '/builds/german-sail-boat-002/' | relative_url }})**  
-*Coming Soon - Initial assembly and surface preparation*
-
-**[Build Log #001 - Planning and Kit Review]({{ '/builds/german-sail-boat-001/' | relative_url }})**  
-*Coming Soon - Project introduction and component review*
+{% endfor %}
+{% else %}
+*No build logs published yet. Check back soon!*
+{% endif %}
 
 ---
 
-## Build Log Archive
+## Build Logs by Project
 
-### By Project
+{% assign projects = site.builds | map: 'project' | uniq | sort %}
+{% for project_slug in projects %}
+{% assign project_logs = site.builds | where: 'project', project_slug | sort: 'date' | reverse %}
+{% if project_logs.size > 0 %}
 
-- **[German Sail Boat]({{ '/projects/german-sail-boat/' | relative_url }})** - In Progress (3 logs)
-- **SS Great Britain** - Coming Soon
-- **Ancient Forest** - Coming Soon
-- **More projects...** - [View All Projects]({{ '/projects/' | relative_url }})
+### {{ project_logs.first.project | replace: '-', ' ' | capitalize }}
 
-### By Date
+{% for log in project_logs %}
+- **[{{ log.title }}]({{ log.url | relative_url }})**  
+  *{{ log.date | date: "%B %d, %Y" }}* - {{ log.excerpt }}
+{% endfor %}
 
-*Build logs will appear here as they're published, newest first*
+{% endif %}
+{% endfor %}
 
 ---
 
