@@ -27,11 +27,21 @@ Browse through my models and diorama builds and see the creative process unfold.
 
 ### Latest completed project and in progress 
 
-**[SS Great Britain 1:96 scale scratch build]({{ '/projects/22-great-britain/' | relative_url }})** - SS Great Britain steam ship with sails. *Completed 2022*
+In progress - none.
+
+**[Henrhyd Waterfalls diorama scratch build]({{ '/projects/henrhyd-falls-south-wales/' | relative_url }})** - Henrhyd Waterfalls in South Wales. *Completed 2025*
 
 ### Scratch build projects
 
-**[SS Great Britain 1:96 scale scratch build]({{ '/projects/22-great-britain/' | relative_url }})** - SS Great Britain steam ship with sails. *Completed 2022*
+**[SS Great Britain 1:96 scale scratch build]({{ '/projects/ss-great-britain/' | relative_url }})** - SS Great Britain steam ship with sails. *Completed 2022*
+
+**[Log Cabin diorama scratch build]({{ '/projects/log-cabin/' | relative_url }})** - log cabin in the woods. *Completed 2023*
+
+**[English Country Garden diorama scratch build]({{ '/projects/english-country-garden/' | relative_url }})** - Victorian english country house with garden. *Completed 2024*
+
+**[Traditional English Cottage diorama scratch build]({{ '/projects/traditional-english-cottage/' | relative_url }})** - Traditional flint stone and brick cottage in Hampshire England. *Completed 2024*
+
+**[Henrhyd Waterfalls diorama scratch build]({{ '/projects/henrhyd-falls-south-wales/' | relative_url }})** - Henrhyd Waterfalls in South Wales. *Completed 2025*
 
 ### kit build projects
 
