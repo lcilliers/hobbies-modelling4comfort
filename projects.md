@@ -4,9 +4,9 @@ title: Projects Gallery
 permalink: /projects/
 ---
 
-Welcome to my collection of modeling projects, including dioramas, scratch builds, kits and more. Each piece represents hours of careful craftsmanship, attention to detail, and creative problem-solving. I love to recycle and discover the use of new materials. From maritime vessels to gardens, english houses and tranquil forest scenes, these miniature worlds tell their own stories.
+Welcome to my collection of modeling projects, including dioramas, scratch builds, kits and more. Each piece represents hours of careful craftsmanship, attention to detail, and creative problem-solving. I love to recycle and discover the use of new materials. From maritime vessels to gardens, english houses and tranquil nature scenes, these miniature worlds tell their own stories.
 
-## Projects
+## Projects (in build sequence)
 
 {: .projects-grid}
 

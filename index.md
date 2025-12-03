@@ -23,11 +23,20 @@ What I am showing is from the real world - it is not necessarily the best, or th
 
 ## Featured Content
 
-### Latest Projects
+Browse through my models and diorama builds and see the creative process unfold.
 
-Browse through my diorama builds and see the creative process unfold.
+### Latest completed project and in progress 
 
-**[Gorch Fock Training Ship 1:150 scale plastic kit]({{ '/projects/german-sail-boat/' | relative_url }})** - German training vessel with authentic rigging and realistic weathering. *Completed*
+**[SS Great Britain 1:96 scale scratch build]({{ '/projects/22-great-britain/' | relative_url }})** - SS Great Britain steam ship with sails. *Completed 2022*
+
+### Scratch build projects
+
+**[SS Great Britain 1:96 scale scratch build]({{ '/projects/22-great-britain/' | relative_url }})** - SS Great Britain steam ship with sails. *Completed 2022*
+
+### kit build projects
+
+**[Gorch Fock Training Ship 1:150 scale blasawood kit]({{ '/projects/german-sail-boat/' | relative_url }})** - German WWII training sail ship with authentic rigging and realistic weathering. *Completed 2020*
+
 
 [View All Projects →]({{ '/projects/' | relative_url }})
 
@@ -41,10 +50,8 @@ Follow along as projects take shape from concept to completion.
 
 Learn the methods used across projects - from weathering to rigging, scenery to photography.
 
-**[Winter Weathering Effects]({{ '/techniques/winter-weathering/' | relative_url }})** - Create realistic snow and ice effects. *Now Available*
-
 [View All Techniques →]({{ '/techniques/' | relative_url }})
 
 ---
 
-*This is a hobby project showcasing the art of diorama modeling. Feel free to leave comments and share your thoughts!*
+*This is a hobby project showcasing the art of scratch building diorama and other types of modeling with some kit building inbetween. Feel free to leave comments and share your thoughts!*
