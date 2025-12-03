@@ -1,15 +1,22 @@
 ---
 layout: post
 title: "SS Great Britain - Build Log #001: Planning & Research"
-date: 2022-02-10
+date: 2021-12-25
 project: ss-great-britain
 build_number: 1
 categories: [ships, planning]
-tags: [research, planning, kit-review, reference-materials]
+tags: [research, planning, kit-review, scratch build, reference-materials]
 excerpt: "Starting the ambitious SS Great Britain project with extensive research, reference gathering, and planning the build approach."
 ---
 
-## Planning Phase
+
+```markdown
+<img src="{{ 'assets/images/builds/ss-great-britain/ss-great-britain-reference-003.jpg' | relative_url }}" alt="SS Great Britain model in museum" class="img-left">
+
+This magnificent model on the SS Great Britain is displayed in the entrance of the museum. It reminded me of the the Gorch Foch I built 18 months earlier and sparked my interest to tackle another one
+
+<div class="clear"></div>
+```
 
 Currently researching and gathering:
 
@@ -84,9 +91,6 @@ Below are some of the key reference images gathered for this build:
 *Caption: Add description*
 
 ![Reference Image 2]({{ 'assets/images/builds/ss-great-britain/ss-great-britain-reference-002.jpg' | relative_url }})
-*Caption: Add description*
-
-![Reference Image 3]({{ 'assets/images/builds/ss-great-britain/ss-great-britain-reference-003.jpg' | relative_url }})
 *Caption: Add description*
 
 ![Reference Image 4]({{ 'assets/images/builds/ss-great-britain/ss-great-britain-reference-004.jpg' | relative_url }})
