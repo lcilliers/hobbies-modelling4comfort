@@ -9,13 +9,14 @@ A comprehensive guide to editing and maintaining your Models4Comfort website, in
 1. [Hiding Content from Publication](#hiding-content-from-publication)
 2. [Front Matter Standards](#front-matter-standards)
 3. [Image Guidelines](#image-guidelines)
-4. [Writing Style Guide](#writing-style-guide)
-5. [Link Best Practices](#link-best-practices)
-6. [Markdown Formatting](#markdown-formatting)
-7. [File Naming Conventions](#file-naming-conventions)
-8. [SEO Best Practices](#seo-best-practices)
-9. [Common Mistakes to Avoid](#common-mistakes-to-avoid)
-10. [Quick Reference](#quick-reference)
+4. [Image Layout Options](#image-layout-options)
+5. [Writing Style Guide](#writing-style-guide)
+6. [Link Best Practices](#link-best-practices)
+7. [Markdown Formatting](#markdown-formatting)
+8. [File Naming Conventions](#file-naming-conventions)
+9. [SEO Best Practices](#seo-best-practices)
+10. [Common Mistakes to Avoid](#common-mistakes-to-avoid)
+11. [Quick Reference](#quick-reference)
 
 ---
 
@@ -283,6 +284,70 @@ gallery:
 
 ---
 
+## Image Layout Options
+
+For detailed information about advanced image layouts in build logs, see **[IMAGE-LAYOUT-GUIDE.md](IMAGE-LAYOUT-GUIDE.md)**.
+
+### Quick Overview
+
+You have multiple layout options for displaying images:
+
+**1. Default Centered (Single Images)**
+```markdown
+![Description]({{ 'assets/images/builds/project/photo.jpg' | relative_url }})
+*Caption: Description*
+```
+
+**2. Two Images Side by Side**
+```html
+<div class="image-row-2">
+  <div>
+    <img src="{{ 'path/photo1.jpg' | relative_url }}" alt="Description">
+    <div class="caption">Caption 1</div>
+  </div>
+  <div>
+    <img src="{{ 'path/photo2.jpg' | relative_url }}" alt="Description">
+    <div class="caption">Caption 2</div>
+  </div>
+</div>
+```
+
+**3. Three Images Side by Side**
+```html
+<div class="image-row-3">
+  <!-- Similar structure with three images -->
+</div>
+```
+
+**4. Image Left with Text Wrap**
+```markdown
+<img src="photo.jpg" class="img-left" alt="Description">
+
+Your text wraps around the image on the right...
+
+<div class="clear"></div>
+```
+
+**5. Image Right with Text Wrap**
+```markdown
+<img src="photo.jpg" class="img-right" alt="Description">
+
+Your text wraps around the image on the left...
+
+<div class="clear"></div>
+```
+
+### When to Use Each Layout
+
+- **Centered**: Main photos, hero shots, important progress images
+- **2-in-row**: Before/after comparisons, two-angle views
+- **3-in-row**: Detail sequences, multi-angle documentation
+- **Left/Right wrap**: Technique explanations, reference photos with detailed text
+
+**→ See [IMAGE-LAYOUT-GUIDE.md](IMAGE-LAYOUT-GUIDE.md) for complete examples and code samples**
+
+---
+
 ## Writing Style Guide
 
 ### Tone & Voice
@@ -384,6 +449,48 @@ gallery:
 ```
 
 **Why?** Ensures links work with GitHub Pages baseurl.
+
+### Anchor Links (Jumping to Sections)
+
+**Jekyll automatically creates anchor IDs from headings:**
+
+- Converts to lowercase
+- Replaces spaces with hyphens
+- Removes special characters
+
+**Examples:**
+
+```markdown
+## Build Logs by Project
+```
+Creates anchor: `#build-logs-by-project`
+
+```markdown
+## Latest Build Updates (Last 10)
+```
+Creates anchor: `#latest-build-updates-last-10`
+
+**Link to these sections:**
+
+```markdown
+[View build logs by project]({{ '/builds/#build-logs-by-project' | relative_url }})
+[Jump to SS Great Britain section]({{ '/builds/#ss-great-britain' | relative_url }})
+```
+
+**Within the same page:**
+
+```markdown
+[Back to top](#top)
+[See the techniques section](#techniques)
+```
+
+**Custom anchor IDs (if needed):**
+
+```markdown
+## My Section {#custom-id}
+```
+
+Then link with: `[Link text](#custom-id)`
 
 ### External Links
 
