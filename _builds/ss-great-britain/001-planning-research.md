@@ -9,7 +9,7 @@ tags: [research, planning, kit-review, scratch build, reference-materials]
 excerpt: "Starting the ambitious SS Great Britain project with extensive research, reference gathering, and planning the build approach."
 ---
 
-<div style="float: left; max-width: 50%; margin-right: 20px;">
+<div style="float: left; max-width: 30%; margin-right: 20px;">
   <img src="{{ 'assets/images/builds/ss-great-britain/ss-great-britain-reference-003.jpg' | relative_url }}" alt="SS Great Britain model" style="width: 100%;">
   <div class="caption" style="font-style: italic; font-size: 0.9em; text-align: center; margin-top: 5px;">SS Great Britain model displayed at the museum entrance</div>
 </div>
