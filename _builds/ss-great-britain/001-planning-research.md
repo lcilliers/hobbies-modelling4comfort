@@ -9,14 +9,11 @@ tags: [research, planning, kit-review, scratch build, reference-materials]
 excerpt: "Starting the ambitious SS Great Britain project with extensive research, reference gathering, and planning the build approach."
 ---
 
-
-```markdown
 <img src="{{ 'assets/images/builds/ss-great-britain/ss-great-britain-reference-003.jpg' | relative_url }}" alt="SS Great Britain model in museum" class="img-left">
 
 This magnificent model on the SS Great Britain is displayed in the entrance of the museum. It reminded me of the the Gorch Foch I built 18 months earlier and sparked my interest to tackle another one
 
 <div class="clear"></div>
-```
 
 Currently researching and gathering:
 
