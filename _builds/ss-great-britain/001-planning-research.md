@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "SS Great Britain - Build Log #001: Planning & Research"
+title: "SS Great Britain - Planning & Research"
 date: 2021-12-25
 project: ss-great-britain
-build_number: 1
+build_number: "#001"
 categories: [ships, planning]
 tags: [research, planning, kit-review, scratch build, reference-materials]
 excerpt: "Starting the ambitious SS Great Britain project with extensive research, reference gathering, and planning the build approach."
@@ -18,9 +18,10 @@ excerpt: "Starting the ambitious SS Great Britain project with extensive researc
 This magnificent model on the SS Great Britain is displayed in the entrance of the museum. It reminded me of the the Gorch Foch I built 18 months earlier and sparked my interest to tackle another one
 </div>
 
+
 <div class="clear"></div>
 
-Currently researching and gathering:
+## Currently researching and gathering
 
 - **Reference materials** - Historical drawings, photographs, museum documentation
 - **Kit selection** - Evaluating available kits or planning scratch-build approach
