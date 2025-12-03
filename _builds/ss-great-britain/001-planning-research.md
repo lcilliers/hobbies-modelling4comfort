@@ -14,14 +14,14 @@ excerpt: "Starting the ambitious SS Great Britain project with extensive researc
   <div class="caption" style="font-style: italic; font-size: 0.9em; text-align: center; margin-top: 5px;">SS Great Britain model displayed at the museum entrance</div>
 </div>
 
-<div style="text-align: left; padding-top: 5px;">
-This magnificent model on the SS Great Britain is displayed in the entrance of the museum. It reminded me of the the Gorch Foch I built 18 months earlier and sparked my interest to tackle another one
+<div style="text-align: left; padding-top: 10px;">
+This magnificent model of the SS Great Britain displayed in the entrance of the museum, reminded me of the the Gorch Foch I built 18 months earlier and sparked my interest to tackle another one. Back home I started the search for a kit or model building plans but had no luck.  At one time I ordered an advertised item, just to be told that it is no longer available and there are no indication when they will be able to source it again.  
 </div>
 
 
 <div class="clear"></div>
 
-## Currently researching and gathering
+## Research and planning the build:
 
 - **Reference materials** - Historical drawings, photographs, museum documentation
 - **Kit selection** - Evaluating available kits or planning scratch-build approach
