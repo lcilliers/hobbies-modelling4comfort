@@ -11,7 +11,7 @@ excerpt: "Starting the ambitious SS Great Britain project with extensive researc
 
 <img src="{{ 'assets/images/builds/ss-great-britain/ss-great-britain-reference-003.jpg' | relative_url }}" alt="SS Great Britain model in museum" class="img-left" style="max-width: 50%; margin-right: 20px;">
 
-<div style="text-align: left; margin-top: 100px;">
+<div style="text-align: left; padding-top: 100px;">
 This magnificent model on the SS Great Britain is displayed in the entrance of the museum. It reminded me of the the Gorch Foch I built 18 months earlier and sparked my interest to tackle another one
 </div>
 
