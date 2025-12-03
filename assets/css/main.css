@@ -489,6 +489,95 @@ article p > em {
   }
 }
 
+/* === Image Layout Utilities === */
+
+/* Image row containers - 2 images side by side */
+.image-row-2 {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: var(--spacing-md);
+  margin: var(--spacing-md) 0;
+}
+
+.image-row-2 img {
+  width: 100%;
+  height: auto;
+  margin: 0;
+  max-height: 400px;
+  object-fit: cover;
+}
+
+/* Image row containers - 3 images side by side */
+.image-row-3 {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  gap: var(--spacing-sm);
+  margin: var(--spacing-md) 0;
+}
+
+.image-row-3 img {
+  width: 100%;
+  height: auto;
+  margin: 0;
+  max-height: 300px;
+  object-fit: cover;
+}
+
+/* Image aligned left with text wrap */
+.img-left {
+  float: left;
+  max-width: 350px;
+  margin: 0 var(--spacing-md) var(--spacing-md) 0;
+  border-radius: 8px;
+  box-shadow: var(--shadow);
+}
+
+/* Image aligned right with text wrap */
+.img-right {
+  float: right;
+  max-width: 350px;
+  margin: 0 0 var(--spacing-md) var(--spacing-md);
+  border-radius: 8px;
+  box-shadow: var(--shadow);
+}
+
+/* Clear floats after wrapped images */
+.clear {
+  clear: both;
+}
+
+/* Caption for images in rows */
+.image-row-2 .caption,
+.image-row-3 .caption {
+  font-size: 0.85rem;
+  color: var(--text-light);
+  font-style: italic;
+  text-align: center;
+  margin-top: var(--spacing-xs);
+}
+
+/* Responsive behavior for image rows */
+@media (max-width: 768px) {
+  .image-row-2,
+  .image-row-3 {
+    grid-template-columns: 1fr;
+  }
+  
+  .image-row-2 img,
+  .image-row-3 img {
+    max-height: 500px;
+  }
+  
+  .img-left,
+  .img-right {
+    float: none;
+    max-width: 100%;
+    margin: var(--spacing-md) auto;
+    display: block;
+  }
+}
+
+
 /* === Build Log Posts === */
 .post-list {
   list-style: none;
