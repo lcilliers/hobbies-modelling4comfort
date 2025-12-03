@@ -9,6 +9,14 @@ tags: [sails, rigging, masts, detail-work]
 excerpt: "Complex rigging work including six masts, sails, and associated lines and details."
 ---
 
+
+### Rigging & Sails
+- Six-masted sailing rig (as originally configured)
+- Authentic rope work and tackle
+- Period-correct sail material and weathering
+- Running and standing rigging differentiated
+
+
 ## Current Build Stage
 
 **Phase:** Sails & Rigging  

@@ -19,6 +19,45 @@ Currently researching and gathering:
 - **Materials sourcing** - Brass etchings, wooden deck materials, rigging supplies
 - **Technique development** - Iron plating effects, steam machinery details
 
+## Challenges Anticipated
+
+**Technical:**
+- Combining iron hull appearance with model materials
+- Balancing sail and steam propulsion elements
+- Achieving proper scale for intricate machinery
+- Managing the large size and complexity
+
+**Research:**
+- Finding accurate historical references for specific periods
+- Determining authentic color schemes and markings
+- Understanding the evolution of the ship through various refits
+
+**Skills Required:**
+- Advanced metalwork techniques for hull plating
+- Scratch-building steam machinery components
+- Complex rigging for multiple mast configurations
+- Photo-etched brass work for fine details
+
+## Learning Objectives
+
+This project will develop skills in:
+
+- **Metal finishing techniques** for iron hull effects
+- **Mechanical modeling** for steam propulsion systems
+- **Mixed-material construction** combining wood, metal, and plastic
+- **Historical research** and accuracy in maritime modeling
+- **Advanced rigging** for transitional steam-sail vessels
+
+## Research Resources
+
+Key sources being consulted:
+
+- SS Great Britain Museum archives
+- Brunel Institute research collections
+- Contemporary maritime journals and newspapers
+- Modern engineering analyses of her construction
+- Photography from restoration project
+
 ## Current Build Stage
 
 **Phase:** Initial Planning & Research  

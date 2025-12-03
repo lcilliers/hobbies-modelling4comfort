@@ -9,6 +9,18 @@ tags: [decking, detail-work]
 excerpt: "Deck construction and detailing work including planking and deck furniture."
 ---
 
+### Propulsion Systems
+- Visible propeller and shaft
+- Steam engine details (if cutaway approach)
+- Funnel with realistic weathering
+- Coal bunker details
+
+### Deck Details
+- Passenger accommodations
+- Cargo handling equipment
+- Period navigation instruments
+- Crew work areas
+
 ## Current Build Stage
 
 **Phase:** Deck Construction  

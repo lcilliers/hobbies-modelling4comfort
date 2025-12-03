@@ -9,6 +9,12 @@ tags: [hull, iron-plating, assembly]
 excerpt: "Hull construction phase - assembling the iron hull and adding structural details."
 ---
 
+### Hull & Structure
+- Detailed iron plating with rivet work
+- Authentic waterline and copper bottom
+- Proper deck planking with caulking lines
+- Accurate funnel and ventilation details
+
 ## Current Build Stage
 
 **Phase:** Hull Construction  
