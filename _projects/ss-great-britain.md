@@ -23,7 +23,7 @@ The SS Great Britain was a revolutionary passenger steamship designed by Isambar
 
 ## Project Overview
 
-**Build Type:**Scratch build from pictures**
+**Build Type:** Scratch build from pictures
 **Scale:** 1:96  
 **Status:** Completed  
 **Start Date:** February 2022  
@@ -45,26 +45,23 @@ This vessel bridged the gap between the age of sail and modern steam-powered oce
 
 ## Why This Project?
 
-The SS Great Britain represents a personal fascination with:
+I would love to say that my facination with building this is related to the SS Great Britain historic significance or the engineering genius of Brunel.  It was however driven much more by the pure joy of visiting the Dockyard with the family, observing the facination with old vessels on their faces and seeing the magnificently built model in the entrance.
 
-- The engineering genius of Brunel
-- The transition period from sail to steam
-- Bristol's rich maritime heritage
-- The preservation and restoration efforts that saved this historic vessel
-
-This will be the most ambitious project undertaken so far, requiring new skills, extensive research, and dedication to historical accuracy.
+This simply lead to a promise that this ship is my next project for them. In no doubt this would be the most ambitious project undertaken so far, requiring new skills, extensive research, and dedication to historical accuracy.  I just assumed that I will be able to source a kit to make it easier.
 
 ## Project Goals
 
 - Source kit or build from scratch
 - Accurately represent the iron hull construction with proper plating detail
 - Reproduce the complex rigging system (combination of steam and sail)
-- Imitate on deck features of the period
+- Imitate the on deck features of the period
 - Weather and detail to show the ship in her prime operational period
+
+I steered away from including the interiors of the ship that was equilly facinating but beyond my ambition.
 
 ## Build
 
-The build process is described in more detail:
+The build process is described in more detail and include my journey into discovering the world of scatch build, a term that I did not know even exist when I started the journey:
 
 - **Planning and research** - Research building options and background of the ship
 - **Hull construction** - Building the hull
