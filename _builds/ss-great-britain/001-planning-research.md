@@ -9,6 +9,16 @@ tags: [research, planning, kit-review, reference-materials]
 excerpt: "Starting the ambitious SS Great Britain project with extensive research, reference gathering, and planning the build approach."
 ---
 
+## Planning Phase
+
+Currently researching and gathering:
+
+- **Reference materials** - Historical drawings, photographs, museum documentation
+- **Kit selection** - Evaluating available kits or planning scratch-build approach
+- **Scale determination** - Balancing detail requirements with workspace constraints
+- **Materials sourcing** - Brass etchings, wooden deck materials, rigging supplies
+- **Technique development** - Iron plating effects, steam machinery details
+
 ## Current Build Stage
 
 **Phase:** Initial Planning & Research  

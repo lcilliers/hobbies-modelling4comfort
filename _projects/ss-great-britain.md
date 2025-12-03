@@ -51,15 +51,18 @@ This vessel bridged the gap between the age of sail and modern steam-powered oce
 - Imitate on deck features of the period
 - Weather and detail to show the ship in her prime operational period
 
-## Planning Phase
+## Build
 
-Currently researching and gathering:
+The build process is described in more detail:
 
-- **Reference materials** - Historical drawings, photographs, museum documentation
-- **Kit selection** - Evaluating available kits or planning scratch-build approach
-- **Scale determination** - Balancing detail requirements with workspace constraints
-- **Materials sourcing** - Brass etchings, wooden deck materials, rigging supplies
-- **Technique development** - Iron plating effects, steam machinery details
+- **Planning and research** - Research building options and background of the ship
+- **Hull construction** - Building the hull
+- **Decking** - Laying out and constructing all the elements of the deck, including the masts.
+- **Sails and rigging** - Preparing the sails and installing all the rigging
+- **Decoration** - Painting the model
+- **Finish** - Finishing it off to get it presentation ready
+
+[View SS Great Britain build logs →]({{ '/builds/#build-logs-by-project' | relative_url }})
 
 ## Planned Features
 
