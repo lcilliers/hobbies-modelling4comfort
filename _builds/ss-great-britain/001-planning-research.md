@@ -11,30 +11,30 @@ excerpt: "Starting the ambitious SS Great Britain project with extensive researc
 
 <div class="image-row-3">
   <div>
-    <img src="{{ 'assets/images/builds/ss-great-britain/ss-great-britain-build-003.jpg' | relative_url }}" alt="Deck forward">
+    <img src="{{ 'assets/images/builds/ss-great-britain/ss-great-britain-reference-003.jpg' | relative_url }}" alt="Deck forward">
     <div class="caption">Forward deck</div>
   </div>
   <div>
-    <img src="{{ 'assets/images/builds/ss-great-britain/ss-great-britain-build-007.jpg' | relative_url }}" alt="Deck midship">
+    <img src="{{ 'assets/images/builds/ss-great-britain/ss-great-britain-reference-007.jpg' | relative_url }}" alt="Deck midship">
     <div class="caption">Midship section</div>
   </div>
   <div>
-    <img src="{{ 'assets/images/builds/ss-great-britain/ss-great-britain-build-008.jpg' | relative_url }}" alt="Deck aft">
+    <img src="{{ 'assets/images/builds/ss-great-britain/ss-great-britain-reference-008.jpg' | relative_url }}" alt="Deck aft">
     <div class="caption">Aft deck detail</div>
   </div>
 </div>
 
 <div class="image-row-3">
   <div>
-    <img src="{{ 'assets/images/builds/ss-great-britain/ss-great-britain-build-066.jpg' | relative_url }}" alt="Deck forward">
+    <img src="{{ 'assets/images/builds/ss-great-britain/ss-great-britain-reference-066.jpg' | relative_url }}" alt="Deck forward">
     <div class="caption">Forward deck</div>
   </div>
   <div>
-    <img src="{{ 'assets/images/builds/ss-great-britain/ss-great-britain-build-079.jpg' | relative_url }}" alt="Deck midship">
+    <img src="{{ 'assets/images/builds/ss-great-britain/ss-great-britain-reference-079.jpg' | relative_url }}" alt="Deck midship">
     <div class="caption">Midship section</div>
   </div>
   <div>
-    <img src="{{ 'assets/images/builds/ss-great-britain/ss-great-britain-build-080.jpg' | relative_url }}" alt="Deck aft">
+    <img src="{{ 'assets/images/builds/ss-great-britain/ss-great-britain-reference-080.jpg' | relative_url }}" alt="Deck aft">
     <div class="caption">Aft deck detail</div>
   </div>
 </div>
