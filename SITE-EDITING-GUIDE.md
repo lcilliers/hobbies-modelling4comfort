@@ -13,10 +13,11 @@ A comprehensive guide to editing and maintaining your Models4Comfort website, in
 5. [Writing Style Guide](#writing-style-guide)
 6. [Link Best Practices](#link-best-practices)
 7. [Markdown Formatting](#markdown-formatting)
-8. [File Naming Conventions](#file-naming-conventions)
-9. [SEO Best Practices](#seo-best-practices)
-10. [Common Mistakes to Avoid](#common-mistakes-to-avoid)
-11. [Quick Reference](#quick-reference)
+8. [Build Log Organization & Naming](#build-log-organization--naming)
+9. [File Naming Conventions](#file-naming-conventions)
+10. [SEO Best Practices](#seo-best-practices)
+11. [Common Mistakes to Avoid](#common-mistakes-to-avoid)
+12. [Quick Reference](#quick-reference)
 
 ---
 
@@ -577,6 +578,130 @@ This paragraph will have a class.
 ## My Section
 {: #custom-id}
 ```
+
+---
+
+## Build Log Organization & Naming
+
+### Folder Structure
+
+Build logs are organized by project in separate folders within `_builds/`:
+
+```
+_builds/
+  ├── log-cabin/
+  │   ├── 001-project-planning.md
+  │   ├── 002-foundation-walls.md
+  │   └── 003-roof-construction.md
+  ├── ss-great-britain/
+  │   ├── 001-planning-research.md
+  │   ├── 002-hull-construction.md
+  │   ├── 003-decking.md
+  │   └── 004-sails-and-rigging.md
+  └── german-sail-boat/
+      └── 001-initial-assembly.md
+```
+
+### Why This Structure Works
+
+**✅ Each folder is a unique namespace:**
+- Files in different folders don't conflict
+- Jekyll creates unique URLs: `/builds/project-name/001-phase/`
+- Easy to find all logs for a specific project
+
+**✅ Consistent numbering across projects is GOOD:**
+- Every project can have `001-planning.md`
+- Numbers show sequence within each project
+- Predictable organization makes maintenance easier
+
+**✅ Folder name provides project context:**
+- No need to include project name in filename
+- Keeps filenames shorter and cleaner
+- `001-planning.md` is better than `ss-great-britain-001-planning.md`
+
+### Naming Convention for Build Logs
+
+**Pattern:** `###-descriptive-phase.md`
+
+**Examples:**
+- `001-planning-research.md` - Initial planning and research
+- `002-hull-construction.md` - Hull building phase
+- `003-painting-weathering.md` - Painting and weathering
+- `004-final-assembly.md` - Final assembly
+- `005-completion.md` - Project completion
+
+**Best Practices:**
+
+1. **Use sequential numbers starting at 001:**
+   ```
+   001-planning.md
+   002-construction.md
+   003-detailing.md
+   ```
+
+2. **Keep phase names descriptive but concise:**
+   - ✅ `001-planning-research.md`
+   - ✅ `002-hull-construction.md`
+   - ❌ `001-p.md` (too vague)
+   - ❌ `001-initial-planning-phase-and-material-research.md` (too long)
+
+3. **Use consistent phase naming across projects:**
+   - Most projects start with planning/research
+   - Similar projects use similar phase names
+   - Makes it easier to understand progress across portfolio
+
+### Linking Build Logs to Projects
+
+Use the `project:` field in front matter to link build logs to their project page:
+
+**In build log file:**
+```yaml
+---
+layout: post
+title: "SS Great Britain - Build Log #001: Planning"
+project: ss-great-britain  # Must match project file name
+build_number: 1
+---
+```
+
+**Corresponding project file:**
+```
+_projects/ss-great-britain.md  # Filename matches project: field
+```
+
+**This creates connections for:**
+- "View all logs for this project" links
+- Filtering build logs by project
+- Project page showing associated logs
+- Navigation between related content
+
+### Common Questions
+
+**Q: Can two projects have the same build log number?**  
+**A:** Yes! Each project folder is independent. Both `log-cabin/001-planning.md` and `ss-great-britain/001-planning.md` coexist without conflict.
+
+**Q: Do I need to include the project name in the filename?**  
+**A:** No. The folder name provides the project context. Just use `001-phase.md` not `project-001-phase.md`.
+
+**Q: What if I want to add a log between 002 and 003?**  
+**A:** Use decimals: `002.5-intermediate-phase.md` or renumber all subsequent files. Renumbering is cleaner but more work.
+
+**Q: Can I skip numbers?**  
+**A:** Technically yes, but don't. Sequential numbering (001, 002, 003) is clearest.
+
+### URL Structure Generated
+
+Jekyll creates URLs from the folder structure:
+
+```
+File: _builds/ss-great-britain/001-planning-research.md
+URL:  /builds/ss-great-britain/001-planning-research/
+
+File: _builds/log-cabin/001-project-planning.md  
+URL:  /builds/log-cabin/001-project-planning/
+```
+
+These URLs are completely unique even though both use number 001.
 
 ---
 
