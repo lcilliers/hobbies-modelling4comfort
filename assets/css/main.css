@@ -200,6 +200,20 @@ a:hover {
   color: var(--primary-color);
 }
 
+.footer-legal-links {
+  margin-top: var(--spacing-sm);
+  font-size: 0.9rem;
+}
+
+.footer-legal-links a {
+  color: var(--text-light);
+  margin: 0 var(--spacing-sm);
+}
+
+.footer-legal-links a:hover {
+  color: var(--primary-color);
+}
+
 /* === Home Page === */
 .home-intro {
   text-align: center;
