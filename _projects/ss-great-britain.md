@@ -9,14 +9,13 @@ scale: "1:98"
 difficulty: advanced
 featured_image: assets/images/projects/ss-great-britain/ss-great-britain-gallery-008.jpg
 gallery:
-  - assets/images/projects/ss-great-britain/ss-great-britain-gallery-008.jpg
-  - assets/images/projects/ss-great-britain/ss-great-britain-gallery-001.jpg
-  - assets/images/projects/ss-great-britain/ss-great-britain-gallery-002.jpg
-  - assets/images/projects/ss-great-britain/ss-great-britain-gallery-003.jpg
-  - assets/images/projects/ss-great-britain/ss-great-britain-gallery-004.jpg
   - assets/images/projects/ss-great-britain/ss-great-britain-gallery-005.jpg
   - assets/images/projects/ss-great-britain/ss-great-britain-gallery-006.jpg
-  - assets/images/projects/ss-great-britain/ss-great-britain-gallery-007.jpg
+  - assets/images/projects/ss-great-britain/ss-great-britain-gallery-009.jpg
+  - assets/images/projects/ss-great-britain/ss-great-britain-gallery-011.jpg
+  - assets/images/projects/ss-great-britain/ss-great-britain-gallery-012.jpg
+  - assets/images/projects/ss-great-britain/ss-great-britain-gallery-013.jpg
+
 ---
 
 The SS Great Britain was a revolutionary passenger steamship designed by Isambard Kingdom Brunel. Launched in 1843, she was the first iron-hulled, propeller-driven ship to cross the Atlantic. This ambitious project captures one of the most significant vessels in maritime history.
