@@ -16,49 +16,106 @@ excerpt: "Starting the ambitious SS Great Britain project with extensive researc
 </div>
 
 <div style="text-align: left; padding-top: 10px;">
-This magnificent model of the SS Great Britain displayed in the entrance of the museum, reminded me of the the Gorch Foch I built 18 months earlier and sparked my interest to tackle another one. Back home I started the search for a kit or model building plans but had no luck.  At one time I ordered an advertised item, just to be told that it is no longer available and there are no indication when they will be able to source it again.  A number of other models could be traced online but unfortunely no kits or complete building plans.
+This magnificent model of the SS Great Britain displayed in the entrance of the museum, reminded me of the the Gorch Foch I built 18 months earlier and sparked my interest to tackle another one. Back home I started the search for a kit or model building plans but had no luck.  At one time I ordered an advertised item, just to be told that it is no longer available and there are no indication when they will be able to source it again.  A number of other models could be traced online but unfortunely no kits or complete building plans where found. All these pictures contributed to this build in some or other way.
 </div>
 
 <div class="image-row-3">
   <div>
-    <img src="{{ 'assets/images/builds/ss-great-britain/ss-great-britain-reference-066.jpg' | relative_url }}" alt="Deck forward">
-    <div class="caption">Forward deck</div>
+    <img src="{{ 'assets/images/builds/ss-great-britain/ss-great-britain-reference-066.jpg' | relative_url }}" alt="SS Great britain - source unknown">
+    <div class="caption">single sail on each mast, chimney in middel</div>
   </div>
   <div>
-    <img src="{{ 'assets/images/builds/ss-great-britain/ss-great-britain-reference-007.jpg' | relative_url }}" alt="Deck midship">
-    <div class="caption">Midship section</div>
+    <img src="{{ 'assets/images/builds/ss-great-britain/ss-great-britain-reference-007.jpg' | relative_url }}" alt="smaller model - source unknown">
+    <div class="caption">without sails, good view of propeller</div>
   </div>
   <div>
-    <img src="{{ 'assets/images/builds/ss-great-britain/ss-great-britain-reference-008.jpg' | relative_url }}" alt="Deck aft">
-    <div class="caption">Aft deck detail</div>
+    <img src="{{ 'assets/images/builds/ss-great-britain/ss-great-britain-reference-008.jpg' | relative_url }}" alt="museum display">
+    <div class="caption">duel sails on each mast, longer hull, good view of deck</div>
   </div>
 </div>
 
 <div class="image-row-3">
   <div>
-    <img src="{{ 'assets/images/builds/ss-great-britain/ss-great-britain-reference-081.jpg' | relative_url }}" alt="Deck forward">
-    <div class="caption">Forward deck</div>
+    <img src="{{ 'assets/images/builds/ss-great-britain/ss-great-britain-reference-081.jpg' | relative_url }}" alt="Rear image - the model shipyard">
+    <div class="caption">propeller and rear decorations</div>
   </div>
   <div>
-    <img src="{{ 'assets/images/builds/ss-great-britain/ss-great-britain-reference-079.jpg' | relative_url }}" alt="Deck midship">
-    <div class="caption">Midship section</div>
+    <img src="{{ 'assets/images/builds/ss-great-britain/ss-great-britain-reference-079.jpg' | relative_url }}" alt="Bow - the model shipyard">
+    <div class="caption">spinacker and front decorations</div>
   </div>
   <div>
-    <img src="{{ 'assets/images/builds/ss-great-britain/ss-great-britain-reference-080.jpg' | relative_url }}" alt="Deck aft">
-    <div class="caption">Aft deck detail</div>
+    <img src="{{ 'assets/images/builds/ss-great-britain/ss-great-britain-reference-080.jpg' | relative_url }}" alt="Deck front">
+    <div class="caption">front deck layout</div>
   </div>
 </div>
-
 
 <div class="clear"></div>
 
 ## Research and planning the build:
 
-- **Reference materials** - Historical drawings, photographs, museum documentation
-- **Kit selection** - Evaluating available kits or planning scratch-build approach
-- **Scale determination** - Balancing detail requirements with workspace constraints
-- **Materials sourcing** - Brass etchings, wooden deck materials, rigging supplies
-- **Technique development** - Iron plating effects, steam machinery details
+in this phase I focussed on sourcing a suitable kit, and after failed attempts started to collate reference materials about the ship and about building a model without detail cutting plans.  The reference materials included online resources such as historical drawings, photographs, museum documentation and general knowledge of ships in the era.  I also sources a book about the SS Great Britain, and on how to build model ships.
+
+### drawings and plans
+
+<div class="image-row-3">
+  <div>
+    <img src="{{ 'assets/images/builds/ss-great-britain/ss-great-britain-reference-002.jpg' | relative_url }}" alt="side and deck">
+    <div class="caption">detail in plans not visible but good deck layout</div>
+  </div>
+  <div>
+    <img src="{{ 'assets/images/builds/ss-great-britain/ss-great-britain-reference-005.jpg' | relative_url }}" alt="hull cross section">
+    <div class="caption">good diagram for the shape of the hull</div>
+  </div>
+  <div>
+    <img src="{{ 'assets/images/builds/ss-great-britain/ss-great-britain-reference-023.jpg' | relative_url }}" alt="general ship building diagrams">
+    <div class="caption">this is not diagrams for the Great Britain, but representative of the hull shape</div>
+  </div>
+</div>
+
+<div class="image-row-3">
+  <div>
+    <img src="{{ 'assets/images/builds/ss-great-britain/ss-great-britain-reference-067.jpg' | relative_url }}" alt="Raleigh - sister ship">
+    <div class="caption">The Raleigh diagrams was helpful to shape different parts of the hull</div>
+  </div>
+  <div>
+    <img src="{{ 'assets/images/builds/ss-great-britain/ss-great-britain-reference-076.jpg' | relative_url }}" alt="Interior of ship">
+    <div class="caption">this diagram of the interiors did provide input on the proportial positioning of the items on the deck</div>
+  </div>
+  <div>
+    <img src="{{ 'assets/images/builds/ss-great-britain/ss-great-britain-reference-082.jpg' | relative_url }}" alt="great britain diagram - source unknown">
+    <div class="caption">this diagram, nonwithstanding poor quality, provided good insight in the rigging</div>
+  </div>
+</div>
+
+The diagrams and historical drawings was particularly handy to assess the layout of the deck and proportial measurements of the positioning of the chimney and masts, rigging and hull shape. The different diagrams emphasized the fact that the ship changed layout, number of masts, and usage over time.
+
+### pictures of the ship itself
+
+A few pictures could be traced of the ship in its haydays and demise.
+
+<div class="image-row-2">
+  <div>
+    <img src="{{ 'assets/images/builds/ss-great-britain/ss-great-britain-reference-004.jpg' | relative_url }}" alt="in the docks">
+    <div class="caption">in the bristol docyard</div>
+  </div>
+  <div>
+    <img src="{{ 'assets/images/builds/ss-great-britain/ss-great-britain-reference-056.jpg' | relative_url }}" alt="the recovery">
+    <div class="caption">Interesting view of the propeller during the salvage operations</div>
+  </div>
+</div>
+
+The salvaging process is documented in the book SS Great Britain - transatlantic liner 1843 by Wyn Davies & Herb Schitz.  This book was a great help to get a better understanding of the history and had several pictures that was very helpful in the build.
+
+### restored ship in shipyard
+
+The pictures I took during our visit to the museum was particularly handy.
+
+
+
+
+
+
+
 
 ## Challenges Anticipated
 
