@@ -9,9 +9,19 @@ tags: [research, planning, kit-review, scratch build, reference-materials]
 excerpt: "Starting the ambitious SS Great Britain project with extensive research, reference gathering, and planning the build approach."
 ---
 
+
+<div style="float: left; max-width: 30%; margin-right: 20px;">
+  <img src="{{ 'assets/images/builds/ss-great-britain/ss-great-britain-reference-003.jpg' | relative_url }}" alt="SS Great Britain model" style="width: 100%;">
+  <div class="caption" style="font-style: italic; font-size: 0.9em; text-align: center; margin-top: 5px;">SS Great Britain model displayed at the museum entrance</div>
+</div>
+
+<div style="text-align: left; padding-top: 10px;">
+This magnificent model of the SS Great Britain displayed in the entrance of the museum, reminded me of the the Gorch Foch I built 18 months earlier and sparked my interest to tackle another one. Back home I started the search for a kit or model building plans but had no luck.  At one time I ordered an advertised item, just to be told that it is no longer available and there are no indication when they will be able to source it again.  A number of other models could be traced online but unfortunely no kits or complete building plans.
+</div>
+
 <div class="image-row-3">
   <div>
-    <img src="{{ 'assets/images/builds/ss-great-britain/ss-great-britain-reference-003.jpg' | relative_url }}" alt="Deck forward">
+    <img src="{{ 'assets/images/builds/ss-great-britain/ss-great-britain-reference-066.jpg' | relative_url }}" alt="Deck forward">
     <div class="caption">Forward deck</div>
   </div>
   <div>
@@ -26,7 +36,7 @@ excerpt: "Starting the ambitious SS Great Britain project with extensive researc
 
 <div class="image-row-3">
   <div>
-    <img src="{{ 'assets/images/builds/ss-great-britain/ss-great-britain-reference-066.jpg' | relative_url }}" alt="Deck forward">
+    <img src="{{ 'assets/images/builds/ss-great-britain/ss-great-britain-reference-081.jpg' | relative_url }}" alt="Deck forward">
     <div class="caption">Forward deck</div>
   </div>
   <div>
@@ -37,17 +47,6 @@ excerpt: "Starting the ambitious SS Great Britain project with extensive researc
     <img src="{{ 'assets/images/builds/ss-great-britain/ss-great-britain-reference-080.jpg' | relative_url }}" alt="Deck aft">
     <div class="caption">Aft deck detail</div>
   </div>
-</div>
-
-
-
-<div style="float: left; max-width: 30%; margin-right: 20px;">
-  <img src="{{ 'assets/images/builds/ss-great-britain/ss-great-britain-reference-003.jpg' | relative_url }}" alt="SS Great Britain model" style="width: 100%;">
-  <div class="caption" style="font-style: italic; font-size: 0.9em; text-align: center; margin-top: 5px;">SS Great Britain model displayed at the museum entrance</div>
-</div>
-
-<div style="text-align: left; padding-top: 10px;">
-This magnificent model of the SS Great Britain displayed in the entrance of the museum, reminded me of the the Gorch Foch I built 18 months earlier and sparked my interest to tackle another one. Back home I started the search for a kit or model building plans but had no luck.  At one time I ordered an advertised item, just to be told that it is no longer available and there are no indication when they will be able to source it again.  
 </div>
 
 
