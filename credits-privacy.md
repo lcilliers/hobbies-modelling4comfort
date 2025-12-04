@@ -20,12 +20,13 @@ Some background images and reference photos used on this site are sourced from f
 - **Unsplash** ([unsplash.com](https://unsplash.com)) - Free high-quality photos under Unsplash License
 - **Pexels** ([pexels.com](https://pexels.com)) - Free stock photos and videos
 - **Pixabay** ([pixabay.com](https://pixabay.com)) - Free images released under Pixabay License
+- **Freepik** ([freepik.com](https://www.freepik.com)) - Free design resources
 
 **Specific Attributions:**
 
-When individual images require specific credit, they are noted below:
+- **Background Images** - <a href="http://www.freepik.com">Designed by Layerace / Freepik</a>
 
-<!-- Add specific credits here as needed, for example:
+<!-- Add additional specific credits here as needed, for example:
 - **Forest Background** - Photo by [Photographer Name](link) on Unsplash
 - **Ocean Sunset** - Photo by [Photographer Name](link) on Pexels
 -->
