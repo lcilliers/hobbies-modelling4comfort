@@ -26,6 +26,7 @@ Some background images and reference photos used on this site are sourced from f
 
 - **Background Images** - <a href="http://www.freepik.com">Designed by Layerace / Freepik</a>
 - **SS Great Britain Reference** - Historical information and reference materials from <a href="https://www.stephensandkenau.com/ship/ss-great-britain/">Stephens and Kenau</a>
+- **Reference Images** - Various reference images from <a href="https://www.alamy.com">Alamy</a>
 
 <!-- Add additional specific credits here as needed, for example:
 - **Forest Background** - Photo by [Photographer Name](link) on Unsplash
