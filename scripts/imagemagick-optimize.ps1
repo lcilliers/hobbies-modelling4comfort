@@ -136,23 +136,31 @@ function Optimize-ImageMagick {
         
         if ($ReplaceGreenScreen -and $BackgroundPath) {
             # Green screen replacement workflow
-            # 1. Load background image and resize to match dimensions
-            # 2. Load foreground (green screen) image
-            # 3. Make green pixels transparent
-            # 4. Composite over background
+            # Get the dimensions of the foreground image first
+            $imageInfo = & magick identify -format "%wx%h" $InputPath 2>&1
+            if ($LASTEXITCODE -ne 0) {
+                throw "Failed to get image dimensions: $imageInfo"
+            }
+            
+            # Parse dimensions (format is "WIDTHxHEIGHT")
+            $dimensions = $imageInfo.ToString().Trim()
             
             $magickArgs += @(
-                "-size", "${MaxWidth}x${MaxHeight}",
+                # Process background: resize to exact foreground dimensions
+                "(",
                 $BackgroundPath,
-                "-resize", "${MaxWidth}x${MaxHeight}^",
+                "-resize", "${dimensions}^",
                 "-gravity", "center",
-                "-extent", "${MaxWidth}x${MaxHeight}",
+                "-extent", $dimensions,
+                ")",
+                # Process foreground: remove green and resize if needed
                 "(",
                 $InputPath,
                 "-fuzz", "${GreenTolerance}%",
                 "-transparent", "green",
                 "-resize", "${MaxWidth}x${MaxHeight}>",
                 ")",
+                # Composite foreground over background
                 "-gravity", "center",
                 "-composite",
                 "-quality", $JpegQuality,
