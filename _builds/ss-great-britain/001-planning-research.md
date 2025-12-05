@@ -234,22 +234,15 @@ When I look back then these challenges all awaited in the wings.
 
 With all of that said, the hull assembly could start. The rest of the build is described in the following sections.
 
-## Build Logs by Project
+## SS Great Britain Build Logs
 
-{% assign projects = site.builds | map: 'project' | uniq | sort %}
-{% for project_slug in projects %}
-{% assign project_logs = site.builds | where: 'project', project_slug | sort: 'date' | reverse %}
-{% if project_logs.size > 0 %}
-
-### {{ project_logs.first.project | replace: '-', ' ' | capitalize }}
+{% assign project_logs = site.builds | where: 'project', 'ss-great-britain' | sort: 'date' %}
 
 {% for log in project_logs %}
 - **[{{ log.title }}]({{ log.url | relative_url }})**  
   *{{ log.date | date: "%B %d, %Y" }}* - {{ log.excerpt }}
 {% endfor %}
 
-{% endif %}
-{% endfor %}
 
 
 ## Techniques to Learn
