@@ -36,6 +36,21 @@ This magnificent model of the SS Great Britain displayed in the entrance of the 
 
 <div class="image-row-3">
   <div>
+    <img src="{{ 'assets/images/builds/ss-great-britain/ss-great-britain-reference-058.jpg' | relative_url }}" alt="deck layout">
+    <div class="caption">deck layout from the model</div>
+  </div>
+  <div>
+    <img src="{{ 'assets/images/builds/ss-great-britain/ss-great-britain-reference-007.jpg' | relative_url }}" alt="rear layout">
+    <div class="caption">rear view of the model</div>
+  </div>
+  <div>
+    <img src="{{ 'assets/images/builds/ss-great-britain/ss-great-britain-reference-008.jpg' | relative_url }}" alt="main model example">
+    <div class="caption">great example of model that I aspired to</div>
+  </div>
+</div>
+
+<div class="image-row-3">
+  <div>
     <img src="{{ 'assets/images/builds/ss-great-britain/ss-great-britain-reference-081.jpg' | relative_url }}" alt="Rear image - the model shipyard">
     <div class="caption">propeller and rear decorations</div>
   </div>
@@ -53,7 +68,17 @@ This magnificent model of the SS Great Britain displayed in the entrance of the 
 
 ## Research and planning the build:
 
-in this phase I focussed on sourcing a suitable kit, and after failed attempts started to collate reference materials about the ship and about building a model without detail cutting plans.  The reference materials included online resources such as historical drawings, photographs, museum documentation and general knowledge of ships in the era.  I also sources a book about the SS Great Britain, and on how to build model ships.
+in this phase I focussed on sourcing a suitable kit, and after failed attempts started to collate reference materials about the ship and about building a model without detail cutting plans.  The reference materials included online resources such as historical drawings, photographs, museum documentation and general knowledge of ships in the era.  I also sources a book about the SS Great Britain, and on how to build model ships.  The book Model Ships from Scratch by Scott Robinson was very helpful.
+
+Discovering the resources, materials, methods and how to go about it was an ongoing process throughout the build.  The following pictures celebarate those that had the biggest impact.
+
+### Historical Background
+
+The SS Great Britain was revolutionary for her time (1843):
+- First ocean-going iron-hulled ship
+- First to use screw propeller for Atlantic crossing
+- Designed by Isambard Kingdom Brunel
+- Now preserved as museum ship in Bristol
 
 ### drawings and plans
 
@@ -96,7 +121,7 @@ A few pictures could be traced of the ship in its haydays and demise.
 <div class="image-row-2">
   <div>
     <img src="{{ 'assets/images/builds/ss-great-britain/ss-great-britain-reference-004.jpg' | relative_url }}" alt="in the docks">
-    <div class="caption">in the bristol docyard</div>
+    <div class="caption">in the bristol dockyard</div>
   </div>
   <div>
     <img src="{{ 'assets/images/builds/ss-great-britain/ss-great-britain-reference-056.jpg' | relative_url }}" alt="the recovery">
@@ -110,138 +135,122 @@ The salvaging process is documented in the book SS Great Britain - transatlantic
 
 The pictures I took during our visit to the museum was particularly handy.
 
+<div class="image-row-3">
+  <div>
+    <img src="{{ 'assets/images/builds/ss-great-britain/ss-great-britain-reference-001.jpg' | relative_url }}" alt="Restored SSGreat Britain">
+    <div class="caption">The SS Great Britain in the dockyard on the day of our visit</div>
+  </div>
+  <div>
+    <img src="{{ 'assets/images/builds/ss-great-britain/ss-great-britain-reference-006.jpg' | relative_url }}" alt="Middle deck">
+    <div class="caption">middle deck section with hatches</div>
+  </div>
+  <div>
+    <img src="{{ 'assets/images/builds/ss-great-britain/ss-great-britain-reference-011.jpg' | relative_url }}" alt="Chimney with masts">
+    <div class="caption">the chimney stack with masts and some rigging</div>
+  </div>
+
+<div class="image-row-3">
+  <div>
+    <img src="{{ 'assets/images/builds/ss-great-britain/ss-great-britain-reference-012.jpg' | relative_url }}" alt="rear decorations">
+    <div class="caption">decorations on the rear</div>
+  </div>
+  <div>
+    <img src="{{ 'assets/images/builds/ss-great-britain/ss-great-britain-reference-014.jpg' | relative_url }}" alt="back decorations">
+    <div class="caption">decorations on the rear</div>
+  </div>
+  <div>
+    <img src="{{ 'assets/images/builds/ss-great-britain/ss-great-britain-reference-016.jpg' | relative_url }}" alt="spinacker">
+    <div class="caption">front spinacker</div>
+  </div>
+
+<div class="image-row-3">
+  <div>
+    <img src="{{ 'assets/images/builds/ss-great-britain/ss-great-britain-reference-018.jpg' | relative_url }}" alt="front decorations">
+    <div class="caption">decorations on the front</div>
+  </div>
+  <div>
+    <img src="{{ 'assets/images/builds/ss-great-britain/ss-great-britain-reference-021.jpg' | relative_url }}" alt="the bow">
+    <div class="caption">the bow shape</div>
+  </div>
+  <div>
+    <img src="{{ 'assets/images/builds/ss-great-britain/ss-great-britain-reference-027.jpg' | relative_url }}" alt="bullwork">
+    <div class="caption">the side walk with some of the bullwork</div>
+  </div>
+
+<div class="image-row-3">
+  <div>
+    <img src="{{ 'assets/images/builds/ss-great-britain/ss-great-britain-reference-033.jpg' | relative_url }}" alt="airvents">
+    <div class="caption">storage and air vents at the rear</div>
+  </div>
+  <div>
+    <img src="{{ 'assets/images/builds/ss-great-britain/ss-great-britain-reference-035.jpg' | relative_url }}" alt="the bow">
+    <div class="caption">the steering</div>
+  </div>
+  <div>
+    <img src="{{ 'assets/images/builds/ss-great-britain/ss-great-britain-reference-062.jpg' | relative_url }}" alt="rigging">
+    <div class="caption">side view with rigging</div>
+  </div>
 
 
+## The Challenge 
 
+I am a complete novice, know very little about historic ships, have never done a scratch build, and have virtually no specialists tools. In addition, I am not a draftsman, struggle to see shapes and picture the outcome in my head.
 
+The biggest blessing when I started off was that I had no idea of the challenges that was lying ahead.
 
-
-
-## Challenges Anticipated
+When I look back then these challenges all awaited in the wings.
 
 **Technical:**
-- Combining iron hull appearance with model materials
+- Combining iron hull appearance with available model materials
+- working with different materials including plating, wood, cloth, rope, plastic
 - Balancing sail and steam propulsion elements
-- Achieving proper scale for intricate machinery
-- Managing the large size and complexity
+- Achieving proper scale for intricate deck and rigging
+- working with all sorts of new tools and modelling techniques
+- Six-masted sailing configuration
+- Running vs standing rigging differentiation
+- Proper tension and scale appearance
 
 **Research:**
 - Finding accurate historical references for specific periods
 - Determining authentic color schemes and markings
 - Understanding the evolution of the ship through various refits
 
-**Skills Required:**
-- Advanced metalwork techniques for hull plating
-- Scratch-building steam machinery components
+**Skills:**
+- manufacturing and shaping the hull with metal finishing techniques for iron hull effects
+- Scratch-building all the deck fittings and mast
+- sizing, cutting and fitting the sails and flags 
 - Complex rigging for multiple mast configurations
-- Photo-etched brass work for fine details
+- etcheding brass work, side ports and other fine details
+- Managing the minute sizes with a model that could not exceed 30 cm.
 
-## Learning Objectives
+### Design choices
 
-This project will develop skills in:
+**historical relevance** The model must reflect the unique build of this magnificent ship
+**Scratch build:** SS Great Britain model could not be larger than 30 cm. With the ship being approx 212 feet long, this converted to a scale of 1:96
+**iron null** With this being the first steel hull ocean liner, it was important to build this into the model
+**sail configuration** The ship has gone through various stages of sail configuration changes. The model is showing 6 sails, with chimney and double sails on each mast
+**material selection** The aim as to use recycled materials, and self manufactured components, rather than buying in components.
+**interiors** The interiors of the ship would not be visible.
 
-- **Metal finishing techniques** for iron hull effects
-- **Mechanical modeling** for steam propulsion systems
-- **Mixed-material construction** combining wood, metal, and plastic
-- **Historical research** and accuracy in maritime modeling
-- **Advanced rigging** for transitional steam-sail vessels
+With all of that said, the hull assembly could start. The rest of the build is described in the following sections.
 
-## Research Resources
+## Build Logs by Project
 
-Key sources being consulted:
+{% assign projects = site.builds | map: 'project' | uniq | sort %}
+{% for project_slug in projects %}
+{% assign project_logs = site.builds | where: 'project', project_slug | sort: 'date' | reverse %}
+{% if project_logs.size > 0 %}
 
-- SS Great Britain Museum archives
-- Brunel Institute research collections
-- Contemporary maritime journals and newspapers
-- Modern engineering analyses of her construction
-- Photography from restoration project
+### {{ project_logs.first.project | replace: '-', ' ' | capitalize }}
 
-## Current Build Stage
+{% for log in project_logs %}
+- **[{{ log.title }}]({{ log.url | relative_url }})**  
+  *{{ log.date | date: "%B %d, %Y" }}* - {{ log.excerpt }}
+{% endfor %}
 
-**Phase:** Initial Planning & Research  
-**Focus:** Gathering reference materials, studying ship plans, and determining build approach
+{% endif %}
+{% endfor %}
 
-## Work Completed Since Last Update
-
-This is the first log for the SS Great Britain project. Initial work includes:
-
-- Researched historical photos and museum documentation
-- Collected ship plans and technical drawings
-- Reviewed available kit options (chose Revell 1:150)
-- Gathered 87 reference images from various sources
-- Studied hull construction techniques for iron-hulled vessels
-- Identified key challenges: iron plating detail, rigging complexity, propeller/funnel integration
-
-## Photo Gallery
-
-### Reference Materials Collected
-
-Below are some of the key reference images gathered for this build:
-
-![Reference Image 1]({{ 'assets/images/builds/ss-great-britain/ss-great-britain-reference-001.jpg' | relative_url }})
-*Caption: Add description*
-
-![Reference Image 2]({{ 'assets/images/builds/ss-great-britain/ss-great-britain-reference-002.jpg' | relative_url }})
-*Caption: Add description*
-
-![Reference Image 4]({{ 'assets/images/builds/ss-great-britain/ss-great-britain-reference-004.jpg' | relative_url }})
-*Caption: Add description*
-
-![Reference Image 5]({{ 'assets/images/builds/ss-great-britain/ss-great-britain-reference-005.jpg' | relative_url }})
-*Caption: Add description*
-
-![Reference Image 6]({{ 'assets/images/builds/ss-great-britain/ss-great-britain-reference-006.jpg' | relative_url }})
-*Caption: Add description*
-
-![Reference Image 7]({{ 'assets/images/builds/ss-great-britain/ss-great-britain-reference-007.jpg' | relative_url }})
-*Caption: Add description*
-
-![Reference Image 8]({{ 'assets/images/builds/ss-great-britain/ss-great-britain-reference-008.jpg' | relative_url }})
-*Caption: Add description*
-
-*Additional reference photos (009-052) available in assets folder for detailed work*
-
-## Research & Reference Materials
-
-### Historical Background
-
-The SS Great Britain was revolutionary for her time (1843):
-- First ocean-going iron-hulled ship
-- First to use screw propeller for Atlantic crossing
-- Designed by Isambard Kingdom Brunel
-- Now preserved as museum ship in Bristol
-
-### Reference Sources Collected
-
-**Visual References:** 87 photos including:
-- Museum photos of the restored ship
-- Historical drawings and paintings
-- Technical plans and cross-sections
-- Detail shots of hull plating, rigging, deck fittings
-- Period photographs from archives
-
-**Technical Documentation:**
-- Original ship plans from Bristol archives
-- Hull construction diagrams
-- Rigging plans for both sail and steam configurations
-- Deck layout drawings
-
-### Kit Selection
-
-**Chosen Kit:** Revell SS Great Britain 1:150 scale
-
-**Reasons:**
-- Good level of detail for this scale
-- Reasonably accurate hull lines
-- Includes basic rigging components
-- Affordable and readily available
-- Established modeling community with tips
-
-**Known Issues to Address:**
-- Hull plating detail needs enhancement
-- Rigging supplied is simplified
-- Deck fittings require additional detailing
-- Paint scheme needs research for accuracy
 
 ## Techniques to Learn
 
