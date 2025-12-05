@@ -148,6 +148,7 @@ The pictures I took during our visit to the museum was particularly handy.
     <img src="{{ 'assets/images/builds/ss-great-britain/ss-great-britain-reference-011.jpg' | relative_url }}" alt="Chimney with masts">
     <div class="caption">the chimney stack with masts and some rigging</div>
   </div>
+ </div>
 
 <div class="image-row-3">
   <div>
@@ -162,7 +163,7 @@ The pictures I took during our visit to the museum was particularly handy.
     <img src="{{ 'assets/images/builds/ss-great-britain/ss-great-britain-reference-016.jpg' | relative_url }}" alt="spinacker">
     <div class="caption">front spinacker</div>
   </div>
-
+ </div>
 <div class="image-row-3">
   <div>
     <img src="{{ 'assets/images/builds/ss-great-britain/ss-great-britain-reference-018.jpg' | relative_url }}" alt="front decorations">
@@ -176,7 +177,7 @@ The pictures I took during our visit to the museum was particularly handy.
     <img src="{{ 'assets/images/builds/ss-great-britain/ss-great-britain-reference-027.jpg' | relative_url }}" alt="bullwork">
     <div class="caption">the side walk with some of the bullwork</div>
   </div>
-
+ </div>
 <div class="image-row-3">
   <div>
     <img src="{{ 'assets/images/builds/ss-great-britain/ss-great-britain-reference-033.jpg' | relative_url }}" alt="airvents">
@@ -190,7 +191,7 @@ The pictures I took during our visit to the museum was particularly handy.
     <img src="{{ 'assets/images/builds/ss-great-britain/ss-great-britain-reference-062.jpg' | relative_url }}" alt="rigging">
     <div class="caption">side view with rigging</div>
   </div>
-
+ </div>
 
 ## The Challenge 
 
@@ -242,7 +243,6 @@ With all of that said, the hull assembly could start. The rest of the build is d
 - **[{{ log.title }}]({{ log.url | relative_url }})**  
   *{{ log.date | date: "%B %d, %Y" }}* - {{ log.excerpt }}
 {% endfor %}
-
 
 
 ## Techniques to Learn

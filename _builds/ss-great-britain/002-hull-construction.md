@@ -3,11 +3,12 @@ layout: post
 title: "Ss Great Britain - Build Log #2: Hull Construction"
 date: 2025-12-02
 project: ss-great-britain
-build_number: 2
+build_number: #002
 categories: [ships, construction]
 tags: [hull, iron-plating, assembly]
 excerpt: "Hull construction phase - assembling the iron hull and adding structural details."
 ---
+
 
 ### Hull & Structure
 - Detailed iron plating with rivet work
