@@ -74,8 +74,14 @@ The core of the hull was filled with sawdust and glue, ready for the steel hull.
 
 <div class="clear"></div>
 
-## Next build
+## SS Great Britain Build Logs
 
+{% assign project_logs = site.builds | where: 'project', 'ss-great-britain' | sort: 'date' %}
+
+{% for log in project_logs %}
+- **[{{ log.title }}]({{ log.url | relative_url }})**  
+  *{{ log.date | date: "%B %d, %Y" }}* - {{ log.excerpt }}
+{% endfor %}
 
 
 ---

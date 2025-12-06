@@ -6,7 +6,7 @@ published: true
 date: 2025-12-01
 ---
 
-**[{{title}}]**
+# Build Logs
 
 Follow along with my diorama projects as they develop from concept to completion. Each build log documents the process, challenges, solutions, and lessons learned along the way.
 

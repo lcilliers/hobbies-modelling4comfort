@@ -75,4 +75,11 @@ With the hull tinned, I would turn my attention to the different structures on t
 </div>
 
 
+## SS Great Britain Build Logs
 
+{% assign project_logs = site.builds | where: 'project', 'ss-great-britain' | sort: 'date' %}
+
+{% for log in project_logs %}
+- **[{{ log.title }}]({{ log.url | relative_url }})**  
+  *{{ log.date | date: "%B %d, %Y" }}* - {{ log.excerpt }}
+{% endfor %}
