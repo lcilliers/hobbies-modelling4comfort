@@ -2,6 +2,7 @@
 layout: build
 title: "Build Log #1 - Base Construction"
 date: 2025-11-30
+published: false
 project: "/projects/sample-project/"
 project_name: "Sample Diorama Project"
 step: 1

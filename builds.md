@@ -39,7 +39,7 @@ Build logs are detailed progress updates that chronicle the construction of each
 
 ## Build Logs by Project
 
-{% assign all_builds = site.builds | where_exp: 'item', 'item.project != "sample-project"' %}
+{% assign all_builds = site.builds | where_exp: 'item', 'item.published != false' %}
 {% assign projects = all_builds | map: 'project' | uniq | sort %}
 {% for project_slug in projects %}
 {% assign project_logs = all_builds | where: 'project', project_slug | sort: 'date' %}
