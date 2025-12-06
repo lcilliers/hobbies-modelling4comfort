@@ -40,11 +40,11 @@ This magnificent model of the SS Great Britain displayed in the entrance of the 
     <div class="caption">deck layout from the model</div>
   </div>
   <div>
-    <img src="{{ 'assets/images/builds/ss-great-britain/ss-great-britain-reference-007.jpg' | relative_url }}" alt="rear layout">
+    <img src="{{ 'assets/images/builds/ss-great-britain/ss-great-britain-reference-061.jpg' | relative_url }}" alt="rear layout">
     <div class="caption">rear view of the model</div>
   </div>
   <div>
-    <img src="{{ 'assets/images/builds/ss-great-britain/ss-great-britain-reference-008.jpg' | relative_url }}" alt="main model example">
+    <img src="{{ 'assets/images/builds/ss-great-britain/ss-great-britain-reference-062.jpg' | relative_url }}" alt="main model example">
     <div class="caption">great example of model that I aspired to</div>
   </div>
 </div>
@@ -202,6 +202,7 @@ The biggest blessing when I started off was that I had no idea of the challenges
 When I look back then these challenges all awaited in the wings.
 
 **Technical:**
+
 - Combining iron hull appearance with available model materials
 - working with different materials including plating, wood, cloth, rope, plastic
 - Balancing sail and steam propulsion elements
@@ -212,11 +213,13 @@ When I look back then these challenges all awaited in the wings.
 - Proper tension and scale appearance
 
 **Research:**
+
 - Finding accurate historical references for specific periods
 - Determining authentic color schemes and markings
 - Understanding the evolution of the ship through various refits
 
 **Skills:**
+
 - manufacturing and shaping the hull with metal finishing techniques for iron hull effects
 - Scratch-building all the deck fittings and mast
 - sizing, cutting and fitting the sails and flags 
@@ -247,12 +250,7 @@ With all of that said, the hull assembly could start. The rest of the build is d
 
 ## Techniques to Learn
 
-For this build, I'll need to develop or refine:
 
-1. **Iron Hull Detailing**
-   - Simulating riveted iron plates
-   - Panel line enhancement
-   - Weathering for oxidized metal
 
 2. **Complex Rigging**
    - Six-masted sailing configuration
@@ -272,10 +270,6 @@ For this build, I'll need to develop or refine:
 ## Challenges Anticipated
 
 ### Technical Challenges
-
-**Hull Construction:**
-- Challenge: Achieving convincing iron plate appearance
-- Approach: Research photo-etch options, scribing techniques, weathering methods
 
 **Scale Rigging:**
 - Challenge: Managing complexity of six masts plus steam rigging
@@ -324,11 +318,7 @@ For this build, I'll need to develop or refine:
 
 ### Phased Approach:
 
-**Phase 1: Hull** (Weeks 1-6)
-- Basic hull assembly
-- Add iron plate detailing
-- Paint base colors
-- Initial weathering
+
 
 **Phase 2: Superstructure** (Weeks 7-10)
 - Deck construction
