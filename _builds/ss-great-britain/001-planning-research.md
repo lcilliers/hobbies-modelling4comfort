@@ -56,7 +56,7 @@ This magnificent model of the SS Great Britain displayed in the entrance of the 
   </div>
   <div>
     <img src="{{ 'assets/images/builds/ss-great-britain/ss-great-britain-reference-079.jpg' | relative_url }}" alt="Bow - the model shipyard">
-    <div class="caption">spinacker and front decorations</div>
+    <div class="caption">Bowsprit and front decorations</div>
   </div>
   <div>
     <img src="{{ 'assets/images/builds/ss-great-britain/ss-great-britain-reference-080.jpg' | relative_url }}" alt="Deck front">
@@ -129,7 +129,8 @@ A few pictures could be traced of the ship in its haydays and demise.
   </div>
 </div>
 
-The salvaging process is documented in the book SS Great Britain - transatlantic liner 1843 by Wyn Davies & Herb Schitz.  This book was a great help to get a better understanding of the history and had several pictures that was very helpful in the build.
+The salvaging process is documented in the book SS Great Britain - transatlantic liner 1843 by
+ Wyn Davies & Herb Schitz.  This book was a great help to get a better understanding of the history and had several pictures that was very helpful in the build.
 
 ### restored ship in shipyard
 
@@ -160,8 +161,8 @@ The pictures I took during our visit to the museum was particularly handy.
     <div class="caption">decorations on the rear</div>
   </div>
   <div>
-    <img src="{{ 'assets/images/builds/ss-great-britain/ss-great-britain-reference-016.jpg' | relative_url }}" alt="spinacker">
-    <div class="caption">front spinacker</div>
+    <img src="{{ 'assets/images/builds/ss-great-britain/ss-great-britain-reference-016.jpg' | relative_url }}" alt="bowsprit">
+    <div class="caption">front bowsprit</div>
   </div>
  </div>
 <div class="image-row-3">
@@ -238,7 +239,7 @@ When I look back then these challenges all awaited in the wings.
 
 With all of that said, the hull assembly could start. The rest of the build is described in the following sections.
 
-## SS Great Britain Build Logs
+## Next build
 
 {% assign project_logs = site.builds | where: 'project', 'ss-great-britain' | sort: 'date' %}
 

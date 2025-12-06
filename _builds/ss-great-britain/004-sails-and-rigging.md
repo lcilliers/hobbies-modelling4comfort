@@ -10,6 +10,40 @@ excerpt: "Complex rigging work including six masts, sails, and associated lines 
 ---
 
 
+
+## Sails and rigging
+
+<div class="image-row-3">
+  <div>
+    <img src="{{ 'assets/images/builds/ss-great-britain/ss-great-britain-build-028.jpg' | relative_url }}" alt="filling the hull">
+    <div class="caption">hull filed with sawdust and glue and beer cans used for the skin.</div>
+  </div>
+  <div>
+    <img src="{{ 'assets/images/builds/ss-great-britain/ss-great-britain-build-029.jpg' | relative_url }}" alt="glueing the hull">
+    <div class="caption">glueing the sheets of beer cans</div>
+  </div>
+  <div>
+    <img src="{{ 'assets/images/builds/ss-great-britain/ss-great-britain-build-038.jpg' | relative_url }}" alt="outer skin of hull">
+    <div class="caption">finished skin</div>
+  </div>
+</div>
+
+<div class="image-row-3">
+  <div>
+    <img src="{{ 'assets/images/builds/ss-great-britain/ss-great-britain-build-041.jpg' | relative_url }}" alt="filling the hull">
+    <div class="caption">hull filed with sawdust and glue and beer cans used for the skin.</div>
+  </div>
+  <div>
+    <img src="{{ 'assets/images/builds/ss-great-britain/ss-great-britain-build-040.jpg' | relative_url }}" alt="glueing the hull">
+    <div class="caption">glueing the sheets of beer cans</div>
+  </div>
+  <div>
+    <img src="{{ 'assets/images/builds/ss-great-britain/ss-great-britain-build-036.jpg' | relative_url }}" alt="outer skin of hull">
+    <div class="caption">finished skin</div>
+  </div>
+</div>
+
+
 ### Rigging & Sails
 - Six-masted sailing rig (as originally configured)
 - Authentic rope work and tackle
