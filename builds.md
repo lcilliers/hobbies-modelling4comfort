@@ -6,6 +6,7 @@ published: true
 date: 2025-12-01
 ---
 
+**[{{title}}]**
 
 Follow along with my diorama projects as they develop from concept to completion. Each build log documents the process, challenges, solutions, and lessons learned along the way.
 
@@ -40,7 +41,7 @@ Build logs are detailed progress updates that chronicle the construction of each
 
 {% assign projects = site.builds | map: 'project' | uniq | sort %}
 {% for project_slug in projects %}
-{% assign project_logs = site.builds | where: 'project', project_slug | sort: 'date' | reverse %}
+{% assign project_logs = site.builds | where: 'project', project_slug | sort: 'date' %}
 {% if project_logs.size > 0 %}
 
 ### {{ project_logs.first.project | replace: '-', ' ' | capitalize }}
