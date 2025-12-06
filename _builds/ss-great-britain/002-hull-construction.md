@@ -27,12 +27,18 @@ Getting started with the actual build commenced with calculating the base measur
 
 ## The hull framework
 
-With the length and the beam, I could proceed to draft the deck and the hull framework.  Personally, I have a big shortccoming, in that I never learnt to do proper drawings, and just had to resort to trial and error, pen and paper, and cutting the forms out of paper to visually confirm the layout.  Not ideal, but it served me well.
+Initially I searched the internet to see if I can find a plastic hull, similar to the Gorch Fock that I built, but this turned out to be fruitless.  I really wanted to present the hull with material that will celebrate the significance that this was the first intercontinental steel hull ship.
 
-![drafting the hull]({{ 'assets/images/builds/ss-great-britain/ss-great-britain-build-001.jpg' | relative_url }})
-*Caption: Derived from the guides, the first hull layout*
+<div style="float: left; max-width: 30%; margin-right: 20px;">
+  <img src="{{ 'assets/images/builds/ss-great-britain/ss-great-britain-build-001.jpg' | relative_url }}" alt="drafting the hull" style="width: 100%;">
+  <div class="caption" style="font-style: italic; font-size: 0.9em; text-align: center; margin-top: 5px;">Derived from the guides, the first hull layout</div>
+</div>
+<div style="text-align: left; padding-top: 10px;">
+With the length and the beam, I then proceeded to draft the deck and the hull framework.  Personally, I have a big shortccoming, in that I never learnt to do proper drawings, and just had to resort to trial and error, pen and paper, and cutting the forms out of paper to visually confirm the layout.  Not ideal, but it was a good starting point.
 
 Using a paper model I attempted to visualise the taper of the hull, and proceded to use a mixture of pinewood and balsawood to form the deck and main ridge.  The ribs were added to prepare for forming the metal sheeting over the ribs. The ribs did not work well, and I replaced it by forming the hull in processive sheets of balsawood.
+
+</div>
 
 <div class="image-row-3">
   <div>
@@ -66,7 +72,24 @@ The core of the hull was filled with sawdust and glue, ready for the steel hull.
   </div>
 </div>
 
+<div class="clear"></div>
+
 ## preparing the deck
+
+<div class="image-row-3">
+  <div>
+    <img src="{{ 'assets/images/builds/ss-great-britain/ss-great-britain-build-014.jpg' | relative_url }}" alt="filling the hull">
+    <div class="caption">hull filed with sawdust and glue and beer cans used for the skin.</div>
+  </div>
+  <div>
+    <img src="{{ 'assets/images/builds/ss-great-britain/ss-great-britain-build-016.jpg' | relative_url }}" alt="glueing the hull">
+    <div class="caption">glueing the sheets of beer cans</div>
+  </div>
+  <div>
+    <img src="{{ 'assets/images/builds/ss-great-britain/ss-great-britain-build-013.jpg' | relative_url }}" alt="outer skin of hull">
+    <div class="caption">finished skin</div>
+  </div>
+</div>
 
 
 ## Techniques Required
