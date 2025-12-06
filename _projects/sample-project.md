@@ -4,6 +4,7 @@ title: "Sample Diorama Project"
 date: 2025-11-30
 scale: "1:35"
 status: "In Progress"
+published: false
 featured_image: "/assets/images/sample-project.jpg"
 tags:
   - WW2
