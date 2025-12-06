@@ -25,10 +25,48 @@ Getting started with the actual build commenced with calculating the base measur
 | Height (deck to keel)    | 32.50          | 3.34       | 33.40      |
 | Propeller diameter       | 15.50          | 1.59       | 15.90      |
 
-With the length and the beam, I could proceed to draft the deck.  Personally, I have a big shortccoming, in that I never learnt to do proper drawings, and just had to resort to trial and error, pen and paper, and cutting the forms out of paper to visually confirm the layout.  Not ideal, but it served me well.
+## The hull framework
+
+With the length and the beam, I could proceed to draft the deck and the hull framework.  Personally, I have a big shortccoming, in that I never learnt to do proper drawings, and just had to resort to trial and error, pen and paper, and cutting the forms out of paper to visually confirm the layout.  Not ideal, but it served me well.
 
 ![drafting the hull]({{ 'assets/images/builds/ss-great-britain/ss-great-britain-build-001.jpg' | relative_url }})
 *Caption: Derived from the guides, the first hull layout*
+
+Using a paper model I attempted to visualise the taper of the hull, and proceded to use a mixture of pinewood and balsawood to form the deck and main ridge.  The ribs were added to prepare for forming the metal sheeting over the ribs. The ribs did not work well, and I replaced it by forming the hull in processive sheets of balsawood.
+
+<div class="image-row-3">
+  <div>
+    <img src="{{ 'assets/images/builds/ss-great-britain/ss-great-britain-build-011.jpg' | relative_url }}" alt="main ridge">
+    <div class="caption">first parts of the deck frame</div>
+  </div>
+  <div>
+    <img src="{{ 'assets/images/builds/ss-great-britain/ss-great-britain-build-006.jpg' | relative_url }}" alt="ribs for the hull">
+    <div class="caption">ribs added to form the tapering</div>
+  </div>
+  <div>
+    <img src="{{ 'assets/images/builds/ss-great-britain/ss-great-britain-build-013.jpg' | relative_url }}" alt="tapering with layers">
+    <div class="caption">replacing ribs with balsawood layers</div>
+  </div>
+</div>
+
+The core of the hull was filled with sawdust and glue, ready for the steel hull.  Beer cans turned out to have just the right thickness of steel to proceed with the forming of the outer skin. Strips of beer cans were then glued in place with superglue. 
+
+<div class="image-row-3">
+  <div>
+    <img src="{{ 'assets/images/builds/ss-great-britain/ss-great-britain-build-014.jpg' | relative_url }}" alt="filling the hull">
+    <div class="caption">hull filed with sawdust and glue and beer cans used for the skin.</div>
+  </div>
+  <div>
+    <img src="{{ 'assets/images/builds/ss-great-britain/ss-great-britain-build-016.jpg' | relative_url }}" alt="glueing the hull">
+    <div class="caption">glueing the sheets of beer cans</div>
+  </div>
+  <div>
+    <img src="{{ 'assets/images/builds/ss-great-britain/ss-great-britain-build-013.jpg' | relative_url }}" alt="outer skin of hull">
+    <div class="caption">finished skin</div>
+  </div>
+</div>
+
+## preparing the deck
 
 
 ## Techniques Required
