@@ -239,7 +239,7 @@ When I look back then these challenges all awaited in the wings.
 
 With all of that said, the hull assembly could start. The rest of the build is described in the following sections.
 
-## Next build
+## SS Great Britain Build Logs
 
 {% assign project_logs = site.builds | where: 'project', 'ss-great-britain' | sort: 'date' %}
 
