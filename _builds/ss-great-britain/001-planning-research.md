@@ -230,7 +230,7 @@ When I look back then these challenges all awaited in the wings.
 ### Design choices
 
 **historical relevance** The model must reflect the unique build of this magnificent ship
-**Scratch build:** SS Great Britain model could not be larger than 30 cm. With the ship being approx 212 feet long, this converted to a scale of 1:96
+**Scratch build:** SS Great Britain model could not be larger than 30 cm. With the ship being 322 feet long, this converted to a scale of 1:300
 **iron null** With this being the first steel hull ocean liner, it was important to build this into the model
 **sail configuration** The ship has gone through various stages of sail configuration changes. The model is showing 6 sails, with chimney and double sails on each mast
 **material selection** The aim as to use recycled materials, and self manufactured components, rather than buying in components.

@@ -5,7 +5,7 @@ date: 2022-02-01
 categories: [maritime, nautical, steamship]
 tags: [ship-model, historical, iron-hull, steam-power]
 status: completed
-scale: "1:98"
+scale: "1:300"
 difficulty: advanced
 featured_image: assets/images/projects/ss-great-britain/ss-great-britain-gallery-008.jpg
 gallery:
@@ -23,8 +23,8 @@ The SS Great Britain was a revolutionary passenger steamship designed by Isambar
 ## Project Overview
 
 **Build Type:** Scratch build from pictures
-**Scale:** 1:96  
-**Status:** Completed  
+**Scale:** 1:300
+**Status:** Completed
 **Start Date:** February 2022  
 **Completion:** May 2022  
 **Skill Level:** Advanced  

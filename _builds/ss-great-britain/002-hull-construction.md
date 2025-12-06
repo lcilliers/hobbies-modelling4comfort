@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Ss Great Britain - Build Log #2: Hull Construction"
-date: 2025-12-02
+title: "Ss Great Britain - Build Log: Hull Construction"
+date: 2022-02-10
 project: ss-great-britain
 build_number: #002
 categories: [ships, construction]
@@ -11,16 +11,21 @@ excerpt: "Hull construction phase - assembling the iron hull and adding structur
 
 Getting started with the actual build commenced with calculating the base measurements. I got most of the key measurements from the [Wikipedia article on SS Great Britain](https://en.wikipedia.org/wiki/SS_Great_Britain).
 
-| Measurement | ft | model | scale 1:150 |
-|-------------|-----|-------|-------------|
-|             |     | foot  | mm          |
-| **Scale** |     | 150   |             |
-| Chimney | 8 |  0.64 | 76.8 |
-| Bulkhead to bulkhead | 25 | 2 | 240 |
-| Length | 322 | 25.76 | 3091.2 |
-| Beam (width) | 50.5 | 4.04 | 484.8 |
-| Height (main deck to keel) | 32.5 | 2.6 | 312 |
-| Propeller - diameter | 15.5 | 1.24 | 148.8 |
+## Dimensions and Scale
+
+**Scale: 1:300** (calculated from actual model measurements)
+
+| Measurement              | Real Ship (ft) | Model (cm) | Model (mm) |
+|--------------------------|---------------:|-----------:|-----------:|
+| Length (w/o bowsprit)    | 322.00         | 33.00      | 330.00     |
+| Beam (width)             | 50.50          | 5.50       | 55.00      |
+| Chimney height           | 8.00           | 6.50       | 65.00      |
+| Main sail height (deck)  | -              | 18.00      | 180.00     |
+| Bulkhead to bulkhead     | 25.00          | 2.57       | 25.70      |
+| Height (deck to keel)    | 32.50          | 3.34       | 33.40      |
+| Propeller diameter       | 15.50          | 1.59       | 15.90      |
+
+## Techniques Required
 
 For this build, I'll need to develop or refine:
 
