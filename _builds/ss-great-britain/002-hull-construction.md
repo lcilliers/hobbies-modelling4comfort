@@ -9,7 +9,7 @@ tags: [hull, iron-plating, assembly]
 excerpt: "Hull construction phase - assembling the iron hull and adding structural details."
 ---
 
-Getting started with the actual build commenced with calculating the base measurements. I got most of the key measurements from the [Wikipedia article on SS Great Britain](https://en.wikipedia.org/wiki/SS_Great_Britain).
+Getting started with the actual build commenced with calculating the base measurements. I got most of the key measurements from the [Wikipedia article on SS Great Britain](https://en.wikipedia.org/wiki/SS_Great_Britain).  Most of the detail measurements were gathered from other pictures and calculated based on the length of the ship in the picture.  
 
 ## Dimensions and Scale
 
@@ -24,6 +24,12 @@ Getting started with the actual build commenced with calculating the base measur
 | Bulkhead to bulkhead     | 25.00          | 2.57       | 25.70      |
 | Height (deck to keel)    | 32.50          | 3.34       | 33.40      |
 | Propeller diameter       | 15.50          | 1.59       | 15.90      |
+
+With the length and the beam, I could proceed to draft the deck.  Personally, I have a big shortccoming, in that I never learnt to do proper drawings, and just had to resort to trial and error, pen and paper, and cutting the forms out of paper to visually confirm the layout.  Not ideal, but it served me well.
+
+![drafting the hull]({{ 'assets/images/builds/ss-great-britain/ss-great-britain-build-001.jpg' | relative_url }})
+*Caption: Derived from the guides, the first hull layout*
+
 
 ## Techniques Required
 
