@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Ss Great Britain - Build Log: Hull Construction"
-date: 2022-02-10
+title: "Ss Great Britain - Build Log #2: Hull Construction"
+date: 2025-12-02
 project: ss-great-britain
 build_number: #002
 categories: [ships, construction]
@@ -9,26 +9,16 @@ tags: [hull, iron-plating, assembly]
 excerpt: "Hull construction phase - assembling the iron hull and adding structural details."
 ---
 
-Getting started with the actual build commenced with calculating the base measurements.  I got most of the key measurements from the [Wikipedia article on SS Great Britain](https://en.wikipedia.org/wiki/SS_Great_Britain). 
-
-
-For this build, I'll need to develop or refine:
-
-1. **Iron Hull Detailing**
-   - Simulating riveted iron plates
-   - Panel line enhancement
-   - Weathering for oxidized metal
-
-
-**Hull Construction:**
-- Challenge: Achieving convincing iron plate appearance
-- Approach: Research photo-etch options, scribing techniques, weathering methods
-
-**Phase 1: Hull** (Weeks 1-6)
-- Basic hull assembly
-- Add iron plate detailing
-- Paint base colors
-- Initial weathering
+| Measurement | ft | model | scale 1:150 |
+|-------------|-----|-------|-------------|
+|             |     | foot  | mm          |
+| **Scale** |     | 150   |             |
+| Chimney | 8 |  0.64 | 76.8 |
+| Bulkhead to bulkhead | 25 | 2 | 240 |
+| Length | 322 | 25.76 | 3091.2 |
+| Beam (width) | 50.5 | 4.04 | 484.8 |
+| Height (main deck to keel) | 32.5 | 2.6 | 312 |
+| Propeller - diameter | 15.5 | 1.24 | 148.8 |
 
 ### Hull & Structure
 - Detailed iron plating with rivet work
