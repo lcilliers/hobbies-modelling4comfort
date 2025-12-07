@@ -9,8 +9,11 @@ tags: [decking, detail-work]
 excerpt: "Deck construction and detailing work including planking, hatches, structural details and masts."
 ---
 
-With the hull covered with its steel skin, I would turn my attention to the different structures on the deck.  I started off by experimenting with crafting the hatches as illustrated at assets/images/builds/ss-great-britain/ss-great-britain-reference-006.jpg.
-First however, the pinewood deck was planked with thin strips of veneer. The veneer was left over from the previous build.
+{{ page.title }}
+
+With the hull covered with its steel skin, I would turn my attention to the different structures on the deck. I started off by experimenting with crafting the hatches [as illustrated in this reference photo]({{ 'assets/images/builds/ss-great-britain/ss-great-britain-reference-006.jpg' | relative_url }}){:target="_blank"}.
+
+The pinewood deck was planked with thin strips of veneer. The veneer was left over from the previous build.
 
 
 ## preparing the deck
@@ -21,8 +24,8 @@ First however, the pinewood deck was planked with thin strips of veneer. The ven
     <div class="caption">first attempt of hatch making</div>
   </div>
   <div>
-    <img src="{{ 'assets/images/builds/ss-great-britain/ss-great-britain-build-020.jpg' | relative_url }}" alt="glueing the hull">
-    <div class="caption">glueing the sheets of beer cans</div>
+    <img src="{{ 'assets/images/builds/ss-great-britain/ss-great-britain-build-020.jpg' | relative_url }}" alt="rim">
+    <div class="caption">fixing the rim to in stages</div>
   </div>
   <div>
     <img src="{{ 'assets/images/builds/ss-great-britain/ss-great-britain-build-022.jpg' | relative_url }}" alt="outer skin of hull">
