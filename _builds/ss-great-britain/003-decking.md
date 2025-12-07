@@ -9,15 +9,16 @@ tags: [decking, detail-work]
 excerpt: "Deck construction and detailing work including planking, hatches, structural details and masts."
 ---
 
-With the hull tinned, I would turn my attention to the different structures on the deck. First however, the pinewood was planked with thin strips of veneer. The veneer was left over from the previous build.
+With the hull covered with its steel skin, I would turn my attention to the different structures on the deck.  I started off by experimenting with crafting the hatches as illustrated at assets/images/builds/ss-great-britain/ss-great-britain-reference-006.jpg.
+First however, the pinewood deck was planked with thin strips of veneer. The veneer was left over from the previous build.
 
 
 ## preparing the deck
 
 <div class="image-row-3">
   <div>
-    <img src="{{ 'assets/images/builds/ss-great-britain/ss-great-britain-build-018.jpg' | relative_url }}" alt="filling the hull">
-    <div class="caption">hull filed with sawdust and glue and beer cans used for the skin.</div>
+    <img src="{{ 'assets/images/builds/ss-great-britain/ss-great-britain-build-018.jpg' | relative_url }}" alt="hatch construction">
+    <div class="caption">first attempt of hatch making</div>
   </div>
   <div>
     <img src="{{ 'assets/images/builds/ss-great-britain/ss-great-britain-build-020.jpg' | relative_url }}" alt="glueing the hull">

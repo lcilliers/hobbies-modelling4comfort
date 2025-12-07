@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ss Great Britain - Build Log: Hull Construction"
+title: "SS Great Britain - Build Log: Hull Construction"
 date: 2022-02-10
 project: ss-great-britain
 build_number: #002
