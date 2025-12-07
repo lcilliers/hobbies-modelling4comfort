@@ -9,7 +9,6 @@ tags: [decking, detail-work]
 excerpt: "Deck construction and detailing work including planking, hatches, structural details and masts."
 ---
 
-{{ page.title }}
 
 With the hull covered with its steel skin, I would turn my attention to the different structures on the deck. I started off by experimenting with crafting the hatches [as illustrated in this reference photo]({{ 'assets/images/builds/ss-great-britain/ss-great-britain-reference-006.jpg' | relative_url }}){:target="_blank"}.
 
