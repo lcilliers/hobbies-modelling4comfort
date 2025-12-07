@@ -20,6 +20,15 @@ layout: default
     </p>
   </header>
 
+  <nav class="post-navigation post-navigation-top">
+    {% if page.previous.url %}
+      <a href="{{ page.previous.url | relative_url }}" class="prev-post">← {{ page.previous.title }}</a>
+    {% endif %}
+    {% if page.next.url %}
+      <a href="{{ page.next.url | relative_url }}" class="next-post">{{ page.next.title }} →</a>
+    {% endif %}
+  </nav>
+
   <div class="post-content e-content" itemprop="articleBody">
     {{ content }}
   </div>
