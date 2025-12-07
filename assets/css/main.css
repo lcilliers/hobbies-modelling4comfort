@@ -988,3 +988,32 @@ article p > em {
     padding: 10px;
   }
 }
+
+/* === Top Post Navigation === */
+.post-navigation-top {
+  display: flex;
+  justify-content: space-between;
+  padding: 15px 0;
+  margin: 20px 0;
+  border-top: 1px solid #e8e8e8;
+  border-bottom: 1px solid #e8e8e8;
+}
+
+.post-navigation-top .prev-post,
+.post-navigation-top .next-post {
+  color: #2a7ae2;
+  text-decoration: none;
+  padding: 8px 12px;
+  border-radius: 4px;
+  transition: background-color 0.2s;
+}
+
+.post-navigation-top .prev-post:hover,
+.post-navigation-top .next-post:hover {
+  background-color: #f0f0f0;
+  text-decoration: none;
+}
+
+.post-navigation-top .next-post {
+  margin-left: auto;
+}
