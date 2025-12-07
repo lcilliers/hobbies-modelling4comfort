@@ -3,9 +3,17 @@ layout: default
 title: Models4Comfort
 ---
 
+<div class="home-banner">
+  <img src="{{ '/assets/images/models4comfort_banner.jpeg' | relative_url }}" alt="Models4Comfort Banner">
+</div>
+
 ## Welcome
 
 This is about my journey into the world of diorama modeling, scale models, and miniature craftsmanship.  The projects and this site is actively worked and may show work in progress, ideas and prompts for my own benefit.
+
+<div class="feature-image">
+  <img src="{{ '/assets/images/models4comfort_deco.jpeg' | relative_url }}" alt="Model Building">
+</div>
 
 ## This Site
 

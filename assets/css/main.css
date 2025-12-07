@@ -860,3 +860,54 @@ article p > em {
     text-decoration: underline;
   }
 }
+
+/* === Site Logo and Banner === */
+.site-logo {
+  height: 50px;
+  width: auto;
+  margin-right: 15px;
+  vertical-align: middle;
+  border-radius: 8px;
+}
+
+.home-banner {
+  width: 100%;
+  margin: 0 0 30px 0;
+  overflow: hidden;
+  border-radius: 12px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.home-banner img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
+.feature-image {
+  float: right;
+  max-width: 400px;
+  margin: 0 0 20px 30px;
+  border-radius: 8px;
+  overflow: hidden;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.feature-image img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
+@media (max-width: 768px) {
+  .site-logo {
+    height: 40px;
+    margin-right: 10px;
+  }
+  
+  .feature-image {
+    float: none;
+    max-width: 100%;
+    margin: 20px 0;
+  }
+}
