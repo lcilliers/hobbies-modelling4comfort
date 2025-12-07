@@ -863,7 +863,7 @@ article p > em {
 
 /* === Site Logo and Banner === */
 .site-logo {
-  height: 50px;
+  height: 50px !important;
   width: auto;
   margin-right: 15px;
   vertical-align: middle;
@@ -898,7 +898,6 @@ article p > em {
   height: auto;
   display: block;
 }
-
 @media (max-width: 768px) {
   .site-logo {
     height: 40px;
