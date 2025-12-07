@@ -946,8 +946,12 @@ article p > em {
 }
 
 .project-thumbnail {
-  width: 80px;
-  height: 80px;
+  width: 80px !important;
+  height: 80px !important;
+  min-width: 80px !important;
+  max-width: 80px !important;
+  min-height: 80px !important;
+  max-height: 80px !important;
   object-fit: cover;
   border-radius: 6px;
   flex-shrink: 0;
@@ -968,9 +972,16 @@ article p > em {
 
 @media (max-width: 600px) {
   .project-thumbnail {
-    width: 60px;
-    height: 60px;
-  }
+  width: 80px !important;
+  height: 80px !important;
+  min-width: 80px !important;
+  max-width: 80px !important;
+  min-height: 80px !important;
+  max-height: 80px !important;
+  object-fit: cover;
+  border-radius: 6px;
+  flex-shrink: 0;
+}
   
   .project-link-item {
     gap: 10px;
