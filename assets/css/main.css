@@ -864,10 +864,14 @@ article p > em {
 /* === Site Logo and Banner === */
 .site-logo {
   height: 50px !important;
-  width: auto;
+  max-height: 50px !important;
+  width: auto !important;
+  max-width: 50px !important;
   margin-right: 15px;
   vertical-align: middle;
   border-radius: 8px;
+  display: inline-block;
+  object-fit: contain;
 }
 
 .home-banner {
@@ -900,9 +904,16 @@ article p > em {
 }
 @media (max-width: 768px) {
   .site-logo {
-    height: 40px;
-    margin-right: 10px;
-  }
+  height: 50px !important;
+  max-height: 50px !important;
+  width: auto !important;
+  max-width: 50px !important;
+  margin-right: 15px;
+  vertical-align: middle;
+  border-radius: 8px;
+  display: inline-block;
+  object-fit: contain;
+}
   
   .feature-image {
     float: none;
