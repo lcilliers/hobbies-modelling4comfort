@@ -41,19 +41,53 @@ In progress - none.
 
 ### Scratch build projects
 
-**[SS Great Britain 1:96 scale scratch build]({{ '/projects/ss-great-britain/' | relative_url }})** - SS Great Britain steam ship with sails. *Completed 2022*
-
-**[Log Cabin diorama scratch build]({{ '/projects/log-cabin/' | relative_url }})** - log cabin in the woods. *Completed 2023*
-
-**[English Country Garden diorama scratch build]({{ '/projects/english-country-garden/' | relative_url }})** - Victorian english country house with garden. *Completed 2024*
-
-**[Traditional English Cottage diorama scratch build]({{ '/projects/traditional-english-cottage/' | relative_url }})** - Traditional flint stone and brick cottage in Hampshire England. *Completed 2024*
-
-**[Henrhyd Waterfalls diorama scratch build]({{ '/projects/henrhyd-falls-south-wales/' | relative_url }})** - Henrhyd Waterfalls in South Wales. *Completed 2025*
+<div class="project-links">
+  <div class="project-link-item">
+    <img src="{{ '/assets/images/projects/ss-great-britain/ss-great-britain-gallery-008.jpg' | relative_url }}" alt="SS Great Britain" class="project-thumbnail">
+    <div class="project-link-text">
+      <strong><a href="{{ '/projects/ss-great-britain/' | relative_url }}">SS Great Britain 1:300 scale scratch build</a></strong> - SS Great Britain steam ship with sails. <em>Completed 2022</em>
+    </div>
+  </div>
+  
+  <div class="project-link-item">
+    <img src="{{ '/assets/images/projects/log-cabin/log-cabin-placeholder.jpg' | relative_url }}" alt="Log Cabin" class="project-thumbnail">
+    <div class="project-link-text">
+      <strong><a href="{{ '/projects/log-cabin/' | relative_url }}">Log Cabin diorama scratch build</a></strong> - log cabin in the woods. <em>Completed 2023</em>
+    </div>
+  </div>
+  
+  <div class="project-link-item">
+    <img src="{{ '/assets/images/projects/english-country-garden/english-country-garden-placeholder.jpg' | relative_url }}" alt="English Country Garden" class="project-thumbnail">
+    <div class="project-link-text">
+      <strong><a href="{{ '/projects/english-country-garden/' | relative_url }}">English Country Garden diorama scratch build</a></strong> - Victorian english country house with garden. <em>Completed 2024</em>
+    </div>
+  </div>
+  
+  <div class="project-link-item">
+    <img src="{{ '/assets/images/projects/traditional-english-cottage/traditional-english-cottage-placeholder.jpg' | relative_url }}" alt="Traditional English Cottage" class="project-thumbnail">
+    <div class="project-link-text">
+      <strong><a href="{{ '/projects/traditional-english-cottage/' | relative_url }}">Traditional English Cottage diorama scratch build</a></strong> - Traditional flint stone and brick cottage in Hampshire England. <em>Completed 2024</em>
+    </div>
+  </div>
+  
+  <div class="project-link-item">
+    <img src="{{ '/assets/images/projects/henrhyd-falls-south-wales/henrhyd-falls-south-wales-placeholder.jpg' | relative_url }}" alt="Henrhyd Waterfalls" class="project-thumbnail">
+    <div class="project-link-text">
+      <strong><a href="{{ '/projects/henrhyd-falls-south-wales/' | relative_url }}">Henrhyd Waterfalls diorama scratch build</a></strong> - Henrhyd Waterfalls in South Wales. <em>Completed 2025</em>
+    </div>
+  </div>
+</div>
 
 ### kit build projects
 
-**[Gorch Fock Training Ship 1:150 scale blasawood kit]({{ '/projects/german-sail-boat/' | relative_url }})** - German WWII training sail ship with authentic rigging and realistic weathering. *Completed 2020*
+<div class="project-links">
+  <div class="project-link-item">
+    <img src="{{ '/assets/images/projects/german-sail-boat/IMG-20220403-WA0009.jpg' | relative_url }}" alt="Gorch Fock" class="project-thumbnail">
+    <div class="project-link-text">
+      <strong><a href="{{ '/projects/german-sail-boat/' | relative_url }}">Gorch Fock Training Ship 1:150 scale balsawood kit</a></strong> - German WWII training sail ship with authentic rigging and realistic weathering. <em>Completed 2020</em>
+    </div>
+  </div>
+</div>
 
 
 [View All Projects →]({{ '/projects/' | relative_url }})
