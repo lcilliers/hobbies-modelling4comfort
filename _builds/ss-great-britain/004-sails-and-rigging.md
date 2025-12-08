@@ -33,7 +33,7 @@ The rope ladders were knotted individually. Research helped to uncover the desig
 <div class="image-row-3">
   <div>
     <img src="{{ 'assets/images/builds/ss-great-britain/ss-great-britain-build-041.jpg' | relative_url }}" alt="rope ladder tool">
-    <div class="caption">r or 6 ropes are tied together and then kept apart with the nails to to provide even spaces for the ladder effect. </div>
+    <div class="caption">5 or 6 ropes are tied together and then kept apart with the nails to provide even spaces for the ladder effect. </div>
   </div>
   <div>
     <img src="{{ 'assets/images/builds/ss-great-britain/ss-great-britain-build-040.jpg' | relative_url }}" alt="rope ladders">

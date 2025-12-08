@@ -11,6 +11,7 @@ featured_image: assets/images/projects/ss-great-britain/ss-great-britain-gallery
 gallery:
   - assets/images/projects/ss-great-britain/ss-great-britain-gallery-005.jpg
   - assets/images/projects/ss-great-britain/ss-great-britain-gallery-006.jpg
+  - assets/images/projects/ss-great-britain/ss-great-britain-gallery-007.jpg
   - assets/images/projects/ss-great-britain/ss-great-britain-gallery-009.jpg
   - assets/images/projects/ss-great-britain/ss-great-britain-gallery-011.jpg
   - assets/images/projects/ss-great-britain/ss-great-britain-gallery-012.jpg
