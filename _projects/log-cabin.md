@@ -9,14 +9,14 @@ difficulty: intermediate
 status: completed
 featured_image: assets/images/projects/log-cabin/log-cabin-gallery-004.jpg
 gallery:
-  - log-cabin-gallery-001.jpg
-  - log-cabin-gallery-002.jpg
-  - log-cabin-gallery-003.jpg
-  - log-cabin-gallery-004.jpg
-  - log-cabin-gallery-005.jpg
-  - log-cabin-gallery-006.jpg
-  - log-cabin-gallery-007.jpg
-  - log-cabin-gallery-008.jpg
+  - assets/images/projects/log-cabin/log-cabin-gallery-001.jpg
+  - assets/images/projects/log-cabin/log-cabin-gallery-002.jpg
+  - assets/images/projects/log-cabin/log-cabin-gallery-003.jpg
+  - assets/images/projects/log-cabin/log-cabin-gallery-004.jpg
+  - assets/images/projects/log-cabin/log-cabin-gallery-005.jpg
+  - assets/images/projects/log-cabin/log-cabin-gallery-006.jpg
+  - assets/images/projects/log-cabin/log-cabin-gallery-007.jpg
+  - assets/images/projects/log-cabin/log-cabin-gallery-008.jpg
 excerpt: "Rustic woodland cabin diorama with natural scenery and detailed weathering"
 ---
 
