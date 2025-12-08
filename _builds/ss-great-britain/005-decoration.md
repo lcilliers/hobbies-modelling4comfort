@@ -28,3 +28,7 @@ Fortunately I remembered to paint the masts, bowsprit, deck structures and chimn
 
 The finished SS Great Britain on 22 May 2022 represented a very steap learning curve, the acquisition of a whole range of new tools, utilities and skills and a shift in my view of my own abilities.  It was simply very satisfying.
 
+
+---
+
+[View SS Great Britain Gallery →]({{ '/projects/ss-great-britain/' | relative_url }})
