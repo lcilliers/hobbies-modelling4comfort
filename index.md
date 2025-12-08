@@ -51,9 +51,9 @@ In progress - none.
   </div>
   
   <div class="project-link-item">
-    <img src="{{ '/assets/images/projects/log-cabin/log-cabin-placeholder.jpg' | relative_url }}" alt="Log Cabin" class="project-thumbnail">
+    <img src="{{ '/assets/images/projects/log-cabin/log-cabin-gallery-004.jpg' | relative_url }}" alt="Log Cabin" class="project-thumbnail">
     <div class="project-link-text">
-      <strong><a href="{{ '/projects/log-cabin/' | relative_url }}">Log Cabin diorama scratch build</a></strong> - log cabin in the woods. <em>Completed 2023</em>
+      <strong><a href="{{ '/projects/log-cabin/' | relative_url }}">Log Cabin in the Woods 1:35 scale scratch build</a></strong> - Rustic woodland cabin with natural scenery. <em>Completed April 2024</em>
     </div>
   </div>
   
