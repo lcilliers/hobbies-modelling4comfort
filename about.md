@@ -12,23 +12,23 @@ Welcome to my modeling journey! This site documents my passion for creating mini
 
 ## The Story Behind Models4Comfort
 
-I discovered the enjoyment of building models quite recently, in 2020. It goes hand in hand with searching for things to keep me focussed in retirement after a very busy and full working career. I started to take photos of the build phase from the building of the SS Great Britain but only decided in december 2025 to organize the outcomes in an effort to create a digital show cabinet of my endeavors.  I simply ran out of space to display the completed items.
+I discovered the enjoyment of building models quite recently, in 2020. It goes hand in hand with searching for things to keep me focussed in retirement, after a very busy and full working career. I only started to take photos of my building steps in 2022 during the building of the SS Great Britain. In December 2025 I started to organize the individual projects in a website to create a digital show cabinet of my endeavors.  I simply ran out of physical shelf space to display my work and some of the models have new custodians.
 
-Years ago, the name 4Comfort was registered and since then I had other focusses with 4Comfort included such as Gardens4Comfort.uk . In essence, modeling gives me great joy and comfort.  I do it for myself, it is not my desire to compete, shout out at shows, run it as a business or become a modeling guru. Models4Comfort is for my benefit and enjoyment, but you are welcome to share my experience and be inspired.
+20 years ago, the name 4Comfort was crafted into the family company, and since then I had several other focusses using the 4Comfort name, most notably Gardens4Comfort.uk. Modelling4Comfort followed naturally.  In essence, modelling gives me great joy and comfort.  I do it for myself, it is not my desire to compete, shout out at shows, run it as a business or become a modeling guru. Modelling4Comfort is for my benefit and enjoyment, but you are welcome to share my experience and be inspired.
 
-Each model that I build have story associated with it and is carefully selected. It preserves a memory, or brings to life an event, technical challenge or scene that is close to my heart.
+Each model that I build have a story associated with it and is carefully selected. It preserves a memory, or brings to life an event, technical challenge or scene that is close to my heart.
 
 ### Why models?
 
-When I discovered in 2020 that building models is something that I can do indoors at odd hours, especially in the winter months, it surfaced on the radar as something to add to my activities for retirement.  My main passion, gardening, does not really keep me busy enough when it is dark and miserable out there.
+When I discovered in 2020 building models is something that I can do indoors at odd hours, especially in the winter months, it surfaced on the radar as something to add to my activities for retirement.  My main passion, gardening, does not really keep me occupied enough when it is dark and miserable out there.
 
-My interest in building models are very specific.  Although I do build to occasional kits, that is not my focus.  I love problem solving, re-using materials, and discovering new ways of doing things.  My main focus is therefore scratch building - creating most of the components from scratch and where possible from re-cycled materials
+My interest in building models are very specific.  Although I do build the occasional kits, kits are not my focus.  I love problem solving, re-using materials, and discovering new ways of doing things.  My main focus is therefore scratch building - creating most of the components from scratch and where possible from re-cycled materials.
 
 My projects to date came about from different angles:
 
-- **kit building** - some of the kits I built to date was meant for others to do (Gorch Fock ship, historic Ford car, simon's coffee shop and cathy's flower house) and I landed building it for them. Other kits was presents (Bookshop memories).  
-- **commissions** - in a few cases I had a requested build something on behalf of others (SS Great Britain, doll house bunker, and Caravaning)
-- **technical challenge** - in most cases the models provide ample opportunity for a challenge, but some is selected specifically to explore some technical skills (Henrhyd Falls - South Wales, cabin in the woods and bamboo river lookout)
+- **kit building** - some of the kits I built to date was meant for others to build (Gorch Fock ship, historic Ford car, simon's coffee shop and cathy's flower house) and I landed building it for them. In some cases the kits were presents (Bookshop memories).  
+- **commissions** - in a few cases I had a requested to build something as commissioned work (SS Great Britain, doll house bunker, and caravaning)
+- **technical challenge** - in most cases the models provide ample opportunity for a challenge, but some is selected specifically to explore technical skills (Henrhyd Falls - South Wales, cabin in the woods and bamboo river lookout)
 - **passion for plants** - many models feature plants, trees, flowers and nature scenes and some was selected specifically to celebrate this passion (plant displays, english country garden, country house)
 - **restorations** - I did a few restorations and planning to do more (hand carved spitfire)
 
@@ -48,13 +48,14 @@ My studies, career and work focus were a million miles away from handy work.  I 
 
 ### How modelling started
 
-In many respects, my journey to start with modeling is unlike other modelers: I did not start young, did not built up skills by selecting simple kits such as aircraft, cars, and ships to assemble, and did not see myself as being creative of a flair for art. It all started with trying to solve a problem that I created for my grandson (buying a model for him that is way beyond his skill level) combined with me being very anxious about what I am going to do in the winter months when I am retired and cannot go out into the garden.
+In many respects, my journey to modelling is unlike other modelers: I did not start young, did not built up skills by selecting simple kits such as aircraft, cars, and ships to assemble, and did not see myself as being creative or have a flare for art. It all started with trying to solve a problem I created for my grandson (buying a model for him way beyond his skill level), and with me being very anxious about what I am going to do in the winter months when I am retired and cannot go out into the garden.
 
 ### What happened
 
-In the past 5 years I discovered a new me.  I can have attention to detail; I see color in a completely new perspective; I am creative; I love working with alls sorts of materials; I am improving every time. I am looking forward to what the remaining few years have to offer.
+In the past 5 years I discovered a new me.  I can have attention to detail; I see color in a completely new perspective; I am creative; I love working with alls sorts of materials; I am improving every time. I am looking forward to the remaining few years. 
 
-The [Techniques]({{ '/techniques/' | relative_url }}) section documents some of my discoveries, methods and journeys for others to learn from and adapt.
+The [Builds]({{ '/builds/' | relative_url }}) section elaborates and logs the build of some of the projects and I intend to get better at the logging. 
+The [Techniques]({{ '/techniques/' | relative_url }}) section documents some of my discoveries, methods and journeys, show the evolution of skills and highlights elements for others to learn from and adapt.
 
 ---
 
@@ -62,15 +63,15 @@ The [Techniques]({{ '/techniques/' | relative_url }}) section documents some of 
 
 ### Documentation & Memory
 
-Projects take months or even years to complete. By documenting them online, I create a permanent record of the process - photos of stages that would otherwise be lost, notes about techniques that worked (or didn't), and a timeline of how skills evolve. It is mainly for my own benefit, but you are welcome to share it.
+Projects take months or even years to complete. By documenting them online, I create a permanent record of the process - photos of stages that would otherwise be lost, notes about techniques that worked (or didn't), and a timeline of how skills evolve.  A digital showcase is more convenient and easier to access that a dusty old shelf at the back of the room.  The showcase and record is mainly for my own benefit, but you are welcome to share it.
 
 ### Community & Learning
 
-The modeling community is incredibly generous with knowledge. I research and discover things all the time by tapping into the community.  This site is my way of giving back - sharing what I've learned so others can benefit, avoid my mistakes, and perhaps feel inspired to try something new.
+The modeling community is incredibly generous with knowledge. I research and discover things all the time by tapping into the community.  This site is my way of giving back - sharing what I've learned so others can benefit, avoid my mistakes, and perhaps feel inspired to try something new.  It also keeps my friends and family informed.
 
 ### Accountability & Motivation
 
-Public documentation creates gentle accountability. I need to think through what I am doing, remember to record it, and keep going. When progress is visible, it motivates me. 
+Public documentation creates gentle accountability. I need to think through what I am doing, remember to record it, and keep going. When progress is visible, it motivates me and I put more thought into it. 
 
 ---
 
@@ -78,7 +79,7 @@ Public documentation creates gentle accountability. I need to think through what
 
 ### Website Technology
 
-This site is built with:
+This site extensively made use of Go-Pilot to build with:
 
 - **Jekyll** - Static site generator for fast, secure pages
 - **GitHub Pages** - Free hosting with version control
