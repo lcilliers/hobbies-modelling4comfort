@@ -7,6 +7,7 @@ title: Models4Comfort
   <img src="{{ '/assets/images/models4comfort_banner.jpeg' | relative_url }}" alt="Models4Comfort Banner">
 </div>
 
+
 ## Welcome
 
 This is about my journey into the world of diorama modeling, scale models, and miniature craftsmanship.  The projects and this site is actively worked and may show work in progress, ideas and prompts for my own benefit.
@@ -85,6 +86,13 @@ In progress - none.
     <img src="{{ '/assets/images/projects/german-sail-boat/IMG-20220403-WA0009.jpg' | relative_url }}" alt="Gorch Fock" class="project-thumbnail">
     <div class="project-link-text">
       <strong><a href="{{ '/projects/german-sail-boat/' | relative_url }}">Gorch Fock Training Ship 1:150 scale balsawood kit</a></strong> - German WWII training sail ship with authentic rigging and realistic weathering. <em>Completed 2020</em>
+    </div>
+  </div>
+
+  <div class="project-link-item">
+    <img src="{{ '/assets/images/projects/cathy-flower-house/cathy-flower-house-009.jpg' | relative_url }}" alt="Cathy's Flower House" class="project-thumbnail">
+    <div class="project-link-text">
+      <strong><a href="{{ '/projects/cathy-flower-house/' | relative_url }}">Cathy's Flower House 1:24 scale Rolife kit</a></strong> - Charming miniature flower shop with LED lighting. <em>Completed January 2024</em>
     </div>
   </div>
 </div>
