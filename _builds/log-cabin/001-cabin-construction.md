@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Log Cabin - Build Log 1: Cabin Construction"
+title: "Log Cabin - Build Log: Cabin Construction"
 date: 2024-01-20
 project: log-cabin
 build_number: 1
@@ -8,18 +8,55 @@ categories: [diorama, scratch-build]
 tags: [cabin, construction, logs, weathering, structure]
 ---
 
+## Project conceptualisation
+
+Cathy's flower house kit introduced me to the skill of making small plants, and I love plants.  I was all fired up to make some trees, and all sorts of plants.  With the encouragement of the internet, I then decided to create a log cabin - seeing that i have quite a bit of bamboo available. I first had to figure out how large it should be, and put some plans together. 
+
 ## Project Start
 
-Started the Log Cabin in the Woods project on January 20, 2024. This scratch-build diorama focuses on creating an authentic rustic cabin from individual components, set within a natural woodland environment at 1:35 scale.
+I started the Log Cabin in the Woods project on January 20, 2024. This scratch-build diorama focuses on creating an authentic rustic cabin from without a kit.  It would be set within a natural woodland environment at 1:35 scale.
+
+20 mm Styrofoam seemed just the right material for the base, and setting the cabin again the backdrop of a rocky cliff lead to pieces of styrofoam being glued together into the bare shape of the cliff.  I quickly realised that it would need some support for the cliff and added a thin plywood backing for this. measuring the footprint of the cabin in relation to the cliff, allowed me to size the cabin and built it from paper and cardboard to get a perspective of its height and layout.
+
+<div class="image-row-2">
+  <div class="image-container">
+    <img src="{{ '/assets/images/projects/log-cabin/log-cabin-build1-001.jpg' | relative_url }}" alt="styrofoam cliff and base">
+    <p class="image-caption">starting the base and cliff in relation to the cabin</p>
+  </div>
+  <div class="image-container">
+    <img src="{{ '/assets/images/projects/log-cabin/log-cabin-build1-002.jpg' | relative_url }}" alt="testing layouts">
+    <p class="image-caption">testing different positions of the cabin in relation to the cliff and a figure</p>
+  </div>
+</div>
+
+## Preparing the base
+
+Mixing a paste of flour, PVA glue and water, with a bit of vinigar and cooking oil, then covered the foam with layers and let it dry.  It did crack badly, most likely because of the composition on the paste mix, but I kept filling in the cracks until it hardened off. 
+
+<div class="image-row-2">
+  <div class="image-container">
+    <img src="{{ '/assets/images/projects/log-cabin/log-cabin-build1-003.jpg' | relative_url }}" alt="paste the base">
+    <p class="image-caption">adding a layer of paste over the styrofoam</p>
+  </div>
+  <div class="image-container">
+    <img src="{{ '/assets/images/projects/log-cabin/log-cabin-build3-001.jpg' | relative_url }}" alt="cliff painted">
+    <p class="image-caption">cliff, value and river were all painted in some base natural colors</p>
+  </div>
+</div>
+
+
+
+## Constructing the cabin
+
 
 ## Planning and Materials
 
 Initial planning involved:
-- Researching authentic log cabin construction techniques
+- Researching authentic log cabin construction techniques.  The plan was to use bamboo and other materials in and around the house.
 - Gathering reference images of traditional cabin architecture
-- Sourcing appropriate materials for scaled logs
 - Planning the cabin dimensions and layout
 - Sketching the basic structure
+- Building a prototype to visualise the scale and positioning.
 
 Key materials for cabin construction:
 - Basswood strips and dowels for logs
