@@ -6,6 +6,7 @@ project: log-cabin
 build_number: 1
 categories: [diorama, scratch-build]
 tags: [cabin, construction, logs, weathering, structure]
+excerpt: "Project conceptualisation and initial construction of a scratch-built log cabin at 1:35 scale, set within a natural woodland environment."
 ---
 
 ## Project conceptualisation

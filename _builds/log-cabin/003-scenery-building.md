@@ -6,6 +6,7 @@ project: log-cabin
 build_number: 3
 categories: [diorama, terrain]
 tags: [scenery, terrain, trees, groundwork, landscape]
+excerpt: "Building the terrain base and integrating all elements into a cohesive woodland environment around the completed cabin structure."
 ---
 
 ## Scenery Construction Phase

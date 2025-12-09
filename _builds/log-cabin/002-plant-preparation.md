@@ -6,6 +6,7 @@ project: log-cabin
 build_number: 2
 categories: [diorama, vegetation]
 tags: [plants, natural-materials, trees, foliage, preparation]
+excerpt: "Collecting, processing, and preparing natural materials to create realistic scaled trees, undergrowth, and forest floor details."
 ---
 
 ## Natural Materials Phase

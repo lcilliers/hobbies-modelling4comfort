@@ -6,6 +6,7 @@ project: log-cabin
 build_number: 4
 categories: [diorama, finishing]
 tags: [weathering, details, completion, display]
+excerpt: "Final weathering, adding fine details, and bringing cohesion to the entire diorama to create a unified, realistic woodland scene."
 ---
 
 ## Final Phase: Finishing and Details
