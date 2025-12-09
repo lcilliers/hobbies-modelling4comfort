@@ -58,9 +58,9 @@ In progress - none.
   </div>
   
   <div class="project-link-item">
-    <img src="{{ '/assets/images/projects/english-country-garden/english-country-garden-placeholder.jpg' | relative_url }}" alt="English Country Garden" class="project-thumbnail">
+    <img src="{{ '/assets/images/projects/english-country-garden/Gallery/ecg-gal-039.jpg' | relative_url }}" alt="English Country Garden" class="project-thumbnail">
     <div class="project-link-text">
-      <strong><a href="{{ '/projects/english-country-garden/' | relative_url }}">English Country Garden diorama scratch build</a></strong> - Victorian english country house with garden. <em>Completed 2024</em>
+      <strong><a href="{{ '/projects/english-country-garden/' | relative_url }}">English Country Garden 1:50 scale scratch build</a></strong> - Historic cottage with thatched roof in traditional cottage garden featuring 50+ miniature plant species. <em>Completed November 2024</em>
     </div>
   </div>
   
