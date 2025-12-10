@@ -41,12 +41,12 @@ This ambitious project captured one of the most significant vessels in maritime 
 
 ---
 
-### [Log Cabin - 2023]({{ '/projects/log-cabin/' | relative_url }})
+### [Log Cabin in the Woods - 2024]({{ '/projects/log-cabin/' | relative_url }})
 
-A rustic hand-built log cabin nestled in a woodland clearing, complete with stone chimney, detailed interior visible through windows, and surrounding natural terrain with trees and undergrowth. This project showcases traditional log construction techniques at miniature scale.
+A detailed scratch-built log cabin diorama set deep in the woods, featuring handcrafted cabin structure with individual logs, stone chimney, and timber roof. The woodland environment uses real plant materials, natural moss and lichen, and carefully prepared vegetation to create an authentic forest setting. The cabin features detailed corner notching, weathered shingles, and a front porch integrated naturally into the landscape.
 
-**Status:** Completed
-**Scale:** 1:50 (1m = 2cm)
+**Status:** Completed (April 2024)
+**Scale:** 1:35
 **Category:** Architectural/Nature
 **Build Type:** Scratch-build
 
