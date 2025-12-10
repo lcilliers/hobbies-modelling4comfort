@@ -41,31 +41,29 @@ This ambitious project captured one of the most significant vessels in maritime 
 
 ---
 
-### Cabin in Woods
+### [Log Cabin - 2023]({{ '/projects/log-cabin/' | relative_url }})
 
-Rustic woodland cabin surrounded by pine trees and natural terrain.
+A rustic hand-built log cabin nestled in a woodland clearing, complete with stone chimney, detailed interior visible through windows, and surrounding natural terrain with trees and undergrowth. This project showcases traditional log construction techniques at miniature scale.
 
-**Status:** Completed  
-**Scale:** 1:87 (HO)  
+**Status:** Completed
+**Scale:** 1:50 (1m = 2cm)
 **Category:** Architectural/Nature
+**Build Type:** Scratch-build
 
-*Pictures Coming Soon*
+[View Project →]({{ '/projects/log-cabin/' | relative_url }})
 
----
+---### [English Country Garden - 2024]({{ '/projects/english-country-garden/' | relative_url }})
 
-### English Country Garden
+A charming English cottage with authentic thatched roof surrounded by a traditional cottage garden featuring over 50 miniature plant species. The 12m × 12m garden (at scale) includes climbing roses, herbaceous borders, vegetable patches, and carefully arranged flowerbeds capturing the essence of classic English garden design.
 
-Victorian-era garden scene with period-appropriate flora and garden features.
-
-**Status:** Completed  
-**Scale:** 1:48  
+**Status:** Completed (November 2024)
+**Scale:** 1:50 (1m = 2cm)
 **Category:** Architectural/Garden
+**Build Type:** Scratch-build
 
-*Pictures Coming Soon*
+[View Project →]({{ '/projects/english-country-garden/' | relative_url }})
 
----
-
-### Henrhyd Falls, South Wales
+---### Henrhyd Falls, South Wales
 
 Dramatic waterfall scene inspired by the tallest waterfall in the Brecon Beacons.
 
