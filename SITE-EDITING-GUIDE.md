@@ -716,12 +716,13 @@ ancient-forest.md
 ss-great-britain.md
 ```
 
-**Build Logs:** `project-name-###.md` (with build number)
+**Build Logs:** `_builds/project-name/###-phase.md` (folder structure)
 ```
-german-sail-boat-001.md
-german-sail-boat-002.md
-ancient-forest-001.md
+_builds/ss-great-britain/001-planning.md
+_builds/ss-great-britain/002-hull-construction.md
+_builds/log-cabin/001-project-planning.md
 ```
+See **[_builds/README.md](_builds/README.md)** for complete build log organization guide.
 
 **Techniques:** `technique-name.md` (descriptive)
 ```
@@ -735,8 +736,8 @@ scratch-building-trees.md
 
 Match project/content naming:
 ```
-assets/images/projects/german-sail-boat/
-assets/images/builds/german-sail-boat-001/
+assets/images/projects/ss-great-britain/
+assets/images/builds/ss-great-britain/
 assets/images/techniques/winter-weathering/
 ```
 
@@ -916,12 +917,12 @@ Content here...
 - [ ] Commit with descriptive message
 
 **Adding a Build Log:**
-- [ ] Create `project-name-###.md` in `_builds/`
-- [ ] Follow build log template structure
-- [ ] Add progress photos
-- [ ] Link to project page
+- [ ] Use `scripts/new-build-log.ps1` or create manually in `_builds/project-name/###-title.md`
+- [ ] Follow build log template structure (see _builds/TEMPLATE-build-log.md)
+- [ ] Add progress photos to `assets/images/builds/project-name/`
+- [ ] Link to project page using `project:` front matter field
 - [ ] Reference techniques used
-- [ ] Update builds.md landing page
+- [ ] Builds.md automatically lists new logs (no manual update needed)
 - [ ] Commit and push
 
 **Adding a Technique Tutorial:**

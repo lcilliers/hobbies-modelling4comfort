@@ -1,8 +1,19 @@
+# ⚠️ HISTORICAL RECORD - Initial Setup Documentation
+
+**Date:** November 30, 2025  
+**Type:** Historical Record  
+**Status:** Archived - For reference only
+
+> **Note:** This document records the initial setup of the Models4Comfort website.  
+> For current guidance on using the website, refer to the active documentation files in the root folder.
+
+---
+
 # 🎨 Models4Comfort Website - Setup Complete!
 
 ## ✅ What We've Accomplished
 
-Your diorama modeling website is now fully set up with a comprehensive, professional structure!
+Your diorama modeling website is now fully set up with a comprehensive, professional structure!  
 
 ### 1. ✅ Four Complete Static Site Generators
 
@@ -100,7 +111,7 @@ Models4Comfort/
 └── 📄 COMMENTS-SETUP.md  # Comment system guide
 ```
 
-## 🚀 Next Steps
+## 🚀 Next Steps (As of November 30, 2025)
 
 ### Immediate (Must Do)
 
