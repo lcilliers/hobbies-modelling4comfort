@@ -10,9 +10,9 @@ Welcome to my collection of modeling projects, including dioramas, scratch build
 
 {: .projects-grid}
 
-### [Gorch Fock training ship - 2019]({{ '/projects/german-sail-boat/' | relative_url }})
+### [Gorch Fock training ship - 2020]({{ '/projects/german-sail-boat/' | relative_url }})
 
-I have never imagined me getting involved in model building. The closest I got was buying a kit for my grandson to inspire him. Unfortunately it remained in the cupboard, until several years later I offered to build it for him. After several months of intense learning through trial and error I completed the Gorch Fock training ship in 2019.
+I have never imagined me getting involved in model building. The closest I got was buying a kit for my grandson to inspire him. Unfortunately it remained in the cupboard, until several years later I offered to build it for him. After several months of intense learning through trial and error I completed the Gorch Fock training ship in May 2020.
 
 This detailed replica of a traditional German sailing vessel is complete with authentic rigging and weathered details.  Unfortunately I do not have any record of the building process.
 
@@ -62,16 +62,6 @@ A charming English cottage with authentic thatched roof surrounded by a traditio
 **Build Type:** Scratch-build
 
 [View Project →]({{ '/projects/english-country-garden/' | relative_url }})
-
----### Henrhyd Falls, South Wales
-
-Dramatic waterfall scene inspired by the tallest waterfall in the Brecon Beacons.
-
-**Status:** Completed  
-**Scale:** 1:48  
-**Category:** Nature/Landscape
-
-*Pictures Coming Soon*
 
 ---
 

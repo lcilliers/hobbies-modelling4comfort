@@ -3,6 +3,7 @@ layout: project
 title: "Henrhyd Falls South Wales"
 date: 2025-12-03
 status: "planning"
+published: false
 featured_image: henrhyd-falls-south-wales-placeholder.jpg
 gallery:
   - henrhyd-falls-south-wales-placeholder.jpg

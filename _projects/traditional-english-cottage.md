@@ -3,6 +3,7 @@ layout: project
 title: "Traditional English Cottage"
 date: 2025-12-03
 status: "planning"
+published: false
 featured_image: traditional-english-cottage-placeholder.jpg
 gallery:
   - traditional-english-cottage-placeholder.jpg

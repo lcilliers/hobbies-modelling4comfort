@@ -15,9 +15,15 @@ gallery:
   - assets/images/projects/german-sail-boat/20251130_202139.jpg
 ---
 
-The original Gorch Fock was built in 1933 in Hamburg.  It is a three-masted steel-hulled barque, designed for safety with strong righting momentum to prevent capsizing. It served as a training ship until WWII. Later in life it served as a Soviet and later Ukrainian training ship, sailed globally, and participated in tall ship races.  It is now a museum ship in Stralsund.
+## Historical Context
 
-This ship was used as a miniature modeling subject since the early plastic kit era in the 1950s. This detailed replica of a traditional German sailing vessel, captured the elegance and craftsmanship of historical maritime engineering giving rise to many iterations of models. It was adopted by Heller and Revell in the 1980s to create a detail kit with some 700 parts - ideal for advanced users.  Revell re-issued several re-boxed sets in the 2000s with 1:150 to 1:350 scales.
+During my research for this build, I learned about the fascinating history of the original vessel. The original Gorch Fock was built in 1933 in Hamburg.  It is a three-masted steel-hulled barque, designed for safety with strong righting momentum to prevent capsizing. It served as a training ship until WWII. Later in life it served as a Soviet and later Ukrainian training ship, sailed globally, and participated in tall ship races.  It is now a museum ship in Stralsund.
+
+## About the Kit
+
+I also discovered that this ship has been a popular modeling subject since the early plastic kit era in the 1950s. This detailed replica of a traditional German sailing vessel captured the elegance and craftsmanship of historical maritime engineering, giving rise to many iterations of models. It was adopted by Heller and Revell in the 1980s to create a detailed kit with some 700 parts - ideal for advanced users.  Revell re-issued several re-boxed sets in the 2000s with 1:150 to 1:350 scales.
+
+## My Journey with This Build
 
 When I bought the kit in 2007 I had no idea of its complexity or history. I only wanted to stimulate my grandson to build balsawood models.
 

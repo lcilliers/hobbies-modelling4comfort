@@ -424,4 +424,169 @@ Every doc should start with:
 
 ---
 
+## WEBSITE CONTENT VALIDATION AUDIT
+
+**Date:** December 10, 2025  
+**Purpose:** Classify all website content pages by validation status
+
+### Classification Categories
+
+1. **✅ ALL CONTENT VALIDATED** - All information verified from actual project files, data, or documentation
+2. **⚠️ PARTIALLY VALIDATED** - Mix of verified data and unverified/placeholder content
+3. **❌ NOT VALIDATED** - Template, placeholder, or assumed content not verified against actual data
+
+---
+
+### Landing Pages (Public-Facing)
+
+| Page | Status | Notes |
+|------|--------|-------|
+| **index.md** (Homepage) | ✅ **ALL VALIDATED** | Project links, scales, dates, thumbnails all match actual project files. Personal narrative is user's own content. |
+| **about.md** | ✅ **ALL VALIDATED** | Personal biography, modeling journey, site technology - all user's authentic content. No assumptions. |
+| **projects.md** | ⚠️ **PARTIALLY VALIDATED** | - Gorch Fock: Validated (matches german-sail-boat.md)<br>- SS Great Britain: Validated (matches ss-great-britain.md)<br>- Log Cabin: Validated (matches log-cabin.md)<br>- English Country Garden: Validated (matches english-country-garden.md)<br>- Henrhyd Falls: ❌ Placeholder text, marked "Pictures Coming Soon"<br>- Riverside Cabin: ❌ Placeholder text, marked "Pictures Coming Soon"<br>- Sea Rescue: ❌ Placeholder text, marked "Planning" |
+| **builds.md** | ⚠️ **PARTIALLY VALIDATED** | - Page structure and instructions: Validated<br>- Content references: Uses Liquid to auto-generate from actual build logs<br>- ❌ Footer text: "Build logs coming soon! German Sail Boat series..." contradicts existence of actual build logs |
+| **techniques.md** | ⚠️ **PARTIALLY VALIDATED** | - Winter Weathering tutorial exists and is validated<br>- ❌ All other techniques: Placeholder "Coming Soon" links for non-existent tutorials<br>- ❌ Lists projects that don't exist or uses placeholder names<br>- `published: false` (not currently public) |
+| **credits-privacy.md** | Not reviewed | - |
+
+---
+
+### Project Pages (_projects/)
+
+| Project File | Status | Notes |
+|--------------|--------|-------|
+| **english-country-garden.md** | ✅ **ALL VALIDATED** | Complete project with scale (1:50), dates (April 13 - Nov 30, 2024), 50+ plant species documented, 14 gallery images with verified paths, detailed build information. All content matches actual work completed. |
+| **log-cabin.md** | ✅ **ALL VALIDATED** | Complete project with scale (1:35), dates (Jan-April 2024), base size (30×25cm), 8 gallery images, detailed build description. Content matches completed work. |
+| **ss-great-britain.md** | ✅ **ALL VALIDATED** | Complete project with personal build narrative (Feb-May 2022), scale (1:300), scratch build details verified. 13 gallery images and 5 detailed build logs with actual construction photos. Historical context now properly framed as research with sources cited (Wikipedia, Stephens & Kenau). Excellent documentation of ambitious scratch build project. |
+| **german-sail-boat.md** | ✅ **ALL VALIDATED** | Complete project with personal build narrative (Nov 2019 - May 2020), scale (1:150), kit details, gallery images verified. Historical and kit information now properly contextualized as research conducted for the build. Date consistency fixed across all pages. No build logs planned for this project. |
+| **cathy-flower-house.md** | Not reviewed | Appears on homepage with actual image path |
+| **henrhyd-falls-south-wales.md** | ❌ **NOT VALIDATED** | Status: "planning", all content is placeholder:<br>- "TBD" for scale, start date<br>- Generic descriptions<br>- No actual build information<br>- No gallery images<br>- "Build logs will be posted as work progresses" (future tense) |
+| **traditional-english-cottage.md** | ❌ **NOT VALIDATED** | Status: "planning", all content is placeholder:<br>- "TBD" for scale, start date<br>- Generic architectural descriptions<br>- No actual build information<br>- "Build logs will be posted as work progresses" (future tense)<br>- Lists "challenges" and "techniques to explore" (not actual work) |
+| **sample-project.md** | ❌ **NOT VALIDATED** | `published: false`<br>Clearly marked as example/template:<br>- Fictional WWII winter scene<br>- Generic "Tamiya/Dragon" kit references<br>- "Sample Diorama Project" in title<br>- This is intentionally a template, not a problem |
+
+---
+
+### Build Log Pages (_builds/)
+
+| Build Log File | Status | Notes |
+|----------------|--------|-------|
+| **TEMPLATE-build-log.md** | ❌ **NOT VALIDATED** | Template file with XXX placeholders - this is correct and expected. Not a validation issue. |
+| **log-cabin/001-cabin-construction.md** | Not reviewed | - |
+| **log-cabin/002-plant-preparation.md** | Not reviewed | - |
+| **log-cabin/003-scenery-building.md** | Not reviewed | - |
+| **log-cabin/004-finishing.md** | Not reviewed | - |
+| **ss-great-britain/001-planning-research.md** | ✅ **ALL VALIDATED** | Detailed content with actual reference photos, personal narrative about museum visit, research process, historical facts verified. Real build documentation. |
+| **ss-great-britain/002-hull-construction.md** | ✅ **ALL VALIDATED** | Detailed construction narrative with dimensions table, personal trial-and-error process, actual build photos (beer cans for hull, sawdust filling, wood framework). Real build documentation. |
+| **ss-great-britain/003-decking.md** | ✅ **ALL VALIDATED** | Deck construction with personal narrative about hatches, masts, rigging preparation. Actual build photos and learning experiences documented. |
+| **ss-great-britain/004-sails-and-rigging.md** | ✅ **ALL VALIDATED** | Sail construction and rigging installation with 15 sails, rope ladders, personal challenges documented. Actual build photos. |
+| **ss-great-britain/005-decoration.md** | ✅ **ALL VALIDATED** | Final painting, detailing, and completion. Personal reflections on learning curve. Completion date: 22 May 2022. Actual photos. |
+| **english-country-garden/001-planning-research.md** | ❌ **NOT VALIDATED** | Contains template boilerplate:<br>- Generic "Current Build Stage", "Phase: Current construction phase"<br>- Placeholder image paths with "log-XXX-photo1.jpg"<br>- Template sections unchanged<br>- Date is April 13, 2024 (project start) but content is not populated |
+| **english-country-garden/002-base-construction.md** | Not reviewed | Likely same template status |
+| **english-country-garden/003-cottage-building.md** | Not reviewed | Likely same template status |
+| **english-country-garden/004-scenery-planting.md** | Not reviewed | Likely same template status |
+| **cathy-flower-house/001-build-log.md** | Not reviewed | - |
+| **build-log-001.md** | Not reviewed | Old flat-structure build log |
+
+---
+
+### Technique Pages (_techniques/)
+
+| Technique File | Status | Notes |
+|----------------|--------|-------|
+| **winter-weathering.md** | ⚠️ **PARTIALLY VALIDATED** | - Technique descriptions appear to be general modeling knowledge (not project-specific)<br>- Examples reference "Cabin in Woods, Country House" but log-cabin.md doesn't mention winter weathering<br>- No photos or actual project examples shown<br>- Content reads as tutorial/general guidance rather than documented personal experience |
+
+---
+
+## SUMMARY OF FINDINGS
+
+### Overall Statistics
+
+**Total Pages Reviewed:** 20 content pages (excluding documentation, archives, templates)
+
+**Validation Breakdown:**
+- ✅ **Fully Validated:** 10 pages (50%)
+  - index.md
+  - about.md
+  - english-country-garden.md (project)
+  - log-cabin.md (project)
+  - german-sail-boat.md (project)
+  - ss-great-britain.md (project)
+  - ss-great-britain/001-planning-research.md (build log)
+  - ss-great-britain/002-hull-construction.md (build log)
+  - ss-great-britain/003-decking.md (build log)
+  - ss-great-britain/004-sails-and-rigging.md (build log)
+  - ss-great-britain/005-decoration.md (build log)
+
+- ⚠️ **Partially Validated:** 4 pages (20%)
+  - projects.md (validated entries + placeholder entries)
+  - builds.md (structure valid + contradictory footer)
+  - techniques.md (1 real + many placeholders)
+  - winter-weathering.md (general knowledge + unverified examples)
+
+- ❌ **Not Validated:** 3 pages (15%)
+  - henrhyd-falls-south-wales.md (planning/placeholder)
+  - traditional-english-cottage.md (planning/placeholder)
+  - english-country-garden build logs (unpopulated templates)
+
+- **Not Fully Reviewed:** 3 pages (15%)
+  - Remaining build logs (log-cabin, cathy-flower-house)
+
+### Key Observations
+
+#### 1. Strong Foundation Content
+**Positive:** The core completed projects (English Country Garden, Log Cabin, German Sail Boat) have excellent, fully validated content with actual data, real photos, and authentic personal narratives. The homepage and about page are entirely authentic.
+
+#### 2. Placeholder Projects Are Clearly Marked
+**Mixed:** Projects like Henrhyd Falls and Traditional English Cottage are marked as "planning" status with "Pictures Coming Soon" or "TBD" fields, making it clear they're placeholders. However, they contain generic descriptive content that reads as if it's about actual projects rather than being clearly marked as templates or future plans.
+
+#### 3. Build Logs: Template vs. Completed
+**Concern:** The English Country Garden build logs were created using the template script but haven't been populated with actual content. They contain template boilerplate (e.g., "log-XXX-photo1.jpg", "Phase: Current construction phase") which makes them appear unfinished or abandoned rather than clearly marked as "to be completed."
+
+**Positive:** SS Great Britain build log 001 is excellent - fully validated with actual research, photos, and personal narrative.
+
+#### 4. Techniques Section
+**Concern:** The techniques.md landing page lists many techniques marked "Coming Soon" but presents them as if they exist, with skill levels and project references. This could mislead visitors.
+
+**Concern:** Winter weathering technique appears to be general modeling knowledge rather than documented personal experience from actual projects. Claims "Used in: Cabin in Woods, Country House" but log-cabin.md makes no mention of winter weathering techniques.
+
+#### 5. Landing Pages Contain Contradictions
+**Issue:** builds.md footer states "Build logs coming soon! The German Sail Boat series will be the first to be published" but actual build logs already exist for SS Great Britain and other projects. This suggests the footer text is outdated or copied from a template without updating.
+
+### Recommendations
+
+#### HIGH PRIORITY
+
+1. **Update builds.md footer** - Remove contradictory text about "coming soon" when build logs already exist
+
+2. **Clarify placeholder projects** - Add clear headers to henrhyd-falls and traditional-english-cottage stating:
+   ```markdown
+   > **⚠️ PROJECT IN PLANNING PHASE**  
+   > This project is in early planning. Content below represents ideas and goals, not completed work.
+   ```
+
+3. **Address template build logs** - Either:
+   - Mark as `published: false` until populated, OR
+   - Add a notice: "⚠️ Build log content coming soon"
+
+4. **Review winter-weathering.md** - Verify if technique was actually used in referenced projects. If not, mark as:
+   ```markdown
+   > **Note:** This technique guide is based on general modeling practices.  
+   > Future updates will include examples from Models4Comfort projects.
+   ```
+
+#### MEDIUM PRIORITY
+
+5. **Audit techniques.md** - Either remove placeholder techniques or clearly mark them as "future tutorials" rather than presenting them as existing content
+
+6. **Review remaining build logs** - Verify if other build logs contain actual content or template boilerplate
+
+#### LOW PRIORITY
+
+7. **External knowledge labeling** - Where content is based on general knowledge rather than personal experience (e.g., historical facts about ships, general techniques), add disclaimers as previously discussed
+
+---
+
+*Content validation audit completed: December 10, 2025*
+
+---
+
 *Audit completed: December 10, 2025*

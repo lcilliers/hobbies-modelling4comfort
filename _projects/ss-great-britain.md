@@ -19,35 +19,29 @@ gallery:
 
 ---
 
-The SS Great Britain was a revolutionary passenger steamship designed by Isambard Kingdom Brunel. Launched in 1843, she was the first iron-hulled, propeller-driven ship to cross the Atlantic. This ambitious project captures one of the most significant vessels in maritime history.
+## Historical Context
+
+During my research for this project, I learned about the ship's significance in maritime history. The SS Great Britain was a revolutionary passenger steamship designed by Isambard Kingdom Brunel. Launched in 1843, she was the first iron-hulled, propeller-driven ship to cross the Atlantic. 
+
+The SS Great Britain represents a pivotal moment in naval engineering - the first ocean-going ship with an iron hull and screw propeller, designed by one of history's greatest engineers. Launched in 1843 in Bristol, England, she revolutionized transatlantic travel with speed and reliability. She is now beautifully restored as a museum ship in Bristol's Great Western Dockyard, where the restoration work is magnificent and inspired me to capture it in miniature.
+
+*Historical information gathered from [Wikipedia](https://en.wikipedia.org/wiki/SS_Great_Britain) and [Stephens and Kenau](https://www.stephensandkenau.com/ship/ss-great-britain/) during research for this build.*
+
+## Why This Project?
+
+I would love to say that my fascination with building this is related to the SS Great Britain historic significance or the engineering genius of Brunel.  It was however driven much more by the pure joy of visiting the Dockyard with the family, observing the fascination with old vessels on their faces and seeing the magnificently built model in the entrance.
+
+This simply lead to a promise that this ship is my next project for them. In no doubt this would be the most ambitious project undertaken so far, requiring new skills, extensive research, and dedication to historical accuracy.  I just assumed that I will be able to source a kit to make it easier.
 
 ## Project Overview
 
-**Build Type:** Scratch build from pictures
-**Scale:** 1:300
-**Status:** Completed
+**Build Type:** Scratch build from pictures  
+**Scale:** 1:300  
+**Status:** Completed  
 **Start Date:** February 2022  
 **Completion:** May 2022  
 **Skill Level:** Advanced  
 **Difficulty:** Expert - No plans or kit, Complex rigging, iron hull detailing, steam machinery
-
-## Historical Significance
-
-The SS Great Britain represents a pivotal moment in naval engineering:
-
-- **First ocean-going ship** with an iron hull and screw propeller
-- **Designed by Isambard Kingdom Brunel** - one of history's greatest engineers
-- **Launched in 1843** in Bristol, England
-- **Revolutionized transatlantic travel** with speed and reliability
-- **Now a museum ship** in Bristol's Great Western Dockyard
-
-This vessel bridged the gap between the age of sail and modern steam-powered ocean liners. The restoration work in the museum in Bristol is magnificent, inspiring me to capture it in miniature.
-
-## Why This Project?
-
-I would love to say that my facination with building this is related to the SS Great Britain historic significance or the engineering genius of Brunel.  It was however driven much more by the pure joy of visiting the Dockyard with the family, observing the facination with old vessels on their faces and seeing the magnificently built model in the entrance.
-
-This simply lead to a promise that this ship is my next project for them. In no doubt this would be the most ambitious project undertaken so far, requiring new skills, extensive research, and dedication to historical accuracy.  I just assumed that I will be able to source a kit to make it easier.
 
 ## Project Goals
 

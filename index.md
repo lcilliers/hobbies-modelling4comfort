@@ -34,12 +34,6 @@ What I am showing is from the real world - it is not necessarily the best, or th
 
 Browse through my models and diorama builds and see the creative process unfold.
 
-### Latest completed project and in progress 
-
-In progress - none.
-
-**[Henrhyd Waterfalls diorama scratch build]({{ '/projects/henrhyd-falls-south-wales/' | relative_url }})** - Henrhyd Waterfalls in South Wales. *Completed 2025*
-
 ### Scratch build projects
 
 <div class="project-links">
@@ -61,20 +55,6 @@ In progress - none.
     <img src="{{ '/assets/images/projects/english-country-garden/Gallery/ecg-gal-039.jpg' | relative_url }}" alt="English Country Garden" class="project-thumbnail">
     <div class="project-link-text">
       <strong><a href="{{ '/projects/english-country-garden/' | relative_url }}">English Country Garden 1:50 scale scratch build</a></strong> - Historic cottage with thatched roof in traditional cottage garden featuring 50+ miniature plant species. <em>Completed November 2024</em>
-    </div>
-  </div>
-  
-  <div class="project-link-item">
-    <img src="{{ '/assets/images/projects/traditional-english-cottage/traditional-english-cottage-placeholder.jpg' | relative_url }}" alt="Traditional English Cottage" class="project-thumbnail">
-    <div class="project-link-text">
-      <strong><a href="{{ '/projects/traditional-english-cottage/' | relative_url }}">Traditional English Cottage diorama scratch build</a></strong> - Traditional flint stone and brick cottage in Hampshire England. <em>Completed 2024</em>
-    </div>
-  </div>
-  
-  <div class="project-link-item">
-    <img src="{{ '/assets/images/projects/henrhyd-falls-south-wales/henrhyd-falls-south-wales-placeholder.jpg' | relative_url }}" alt="Henrhyd Waterfalls" class="project-thumbnail">
-    <div class="project-link-text">
-      <strong><a href="{{ '/projects/henrhyd-falls-south-wales/' | relative_url }}">Henrhyd Waterfalls diorama scratch build</a></strong> - Henrhyd Waterfalls in South Wales. <em>Completed 2025</em>
     </div>
   </div>
 </div>
