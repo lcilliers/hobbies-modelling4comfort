@@ -1064,3 +1064,115 @@ article p > em {
 .post-navigation-top .next-post {
   margin-left: auto;
 }
+
+/* === Log Cabin Project - Chapter-based Layout === */
+.project-header {
+  margin-bottom: 3rem;
+  padding-bottom: 2rem;
+  border-bottom: 2px solid #ddd;
+}
+
+.project-meta {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1.5rem;
+  margin-top: 1rem;
+  font-size: 0.95rem;
+  color: #666;
+}
+
+.chapter-section {
+  margin: 3rem 0;
+  padding: 2rem 0;
+}
+
+.chapter-section h2 {
+  color: #2c5f2d;
+  margin-bottom: 1.5rem;
+  padding-bottom: 0.5rem;
+  border-bottom: 1px solid #97c2a2;
+}
+
+.chapter-section h3 {
+  color: #4a7c4e;
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+}
+
+/* Image layout styles for project pages */
+.build-image,
+.build-image-medium,
+.build-image-large {
+  margin: 2rem 0;
+}
+
+.build-image img,
+.build-image-medium img,
+.build-image-large img {
+  width: 100%;
+  height: auto;
+  border-radius: 4px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+.build-image-medium {
+  max-width: 70%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.build-image-large {
+  max-width: 90%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.build-image figcaption,
+.build-image-medium figcaption,
+.build-image-large figcaption {
+  font-size: 0.9rem;
+  color: #666;
+  font-style: italic;
+  margin-top: 0.5rem;
+  text-align: center;
+}
+
+/* Special handling for small figure images */
+.figure-small {
+  max-width: 400px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* Grid layouts for multiple images */
+.image-row-2 {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 1.5rem;
+  margin: 2rem 0;
+}
+
+.image-row-3 {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 1.5rem;
+  margin: 2rem 0;
+}
+
+/* Responsive adjustments for project images */
+@media (max-width: 768px) {
+  .image-row-2,
+  .image-row-3 {
+    grid-template-columns: 1fr;
+  }
+
+  .build-image-medium,
+  .build-image-large {
+    max-width: 100%;
+  }
+
+  .project-meta {
+    flex-direction: column;
+    gap: 0.5rem;
+  }
+}
