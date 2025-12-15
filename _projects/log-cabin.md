@@ -83,11 +83,11 @@ The challenge: fitting all this onto a 25cm × 25cm base due to space limitation
 - Provides surfaces for moss and lichen details
 - Artistic freedom for the composition I envisioned
 
-</section>
+
 
 ---
 
-<section class="chapter-section" id="chapter-3">
+
 
 ## Chapter 3: The Base - A Disaster That Taught Me Patience
 
@@ -130,11 +130,11 @@ All wood material came from garden trees, properly dried and cut into strips of 
 
 **Lesson Learned:** Next time I'd add more PVA and less water. I'll explore other ingredients in future models - plaster, wood sawdust, or paper mache.
 
-</section>
+
 
 ---
 
-<section class="chapter-section" id="chapter-4">
+
 
 ## Chapter 4: Keeping Momentum - Parallel Plant Preparation
 
@@ -200,11 +200,11 @@ This experimentation led to selecting trees and shrubs for the landscape. Many a
 
 **Time Investment:** Approximately 25-30 hours
 
-</section>
+
 
 ---
 
-<section class="chapter-section" id="chapter-5">
+
 
 ## Chapter 5: Building the Cabin
 
@@ -308,11 +308,11 @@ Each log was individually cut to size and fitted. The logs were stained to add c
 
 **Time Investment:** Approximately 40-45 hours
 
-</section>
+
 
 ---
 
-<section class="chapter-section" id="chapter-6">
+
 
 ## Chapter 6: Creating the Forest - Trees and Vegetation
 
@@ -397,11 +397,11 @@ After completing the cabin structure (around early March 2024), I focused on veg
 
 **Time Investment:** Approximately 25-30 hours
 
-</section>
+
 
 ---
 
-<section class="chapter-section" id="chapter-7">
+
 
 ## Chapter 7: Building the Landscape
 
@@ -492,11 +492,11 @@ Rich set of plants on one side, river bank on the other, leading up to the bridg
 
 **Time Investment:** Approximately 45-50 hours
 
-</section>
+
 
 ---
 
-<section class="chapter-section" id="chapter-8">
+
 
 ## Chapter 8: Structures and Figures - Adding Life to the Scene
 
@@ -582,11 +582,11 @@ No log cabin is complete without a logging area.
   </figure>
 </div>
 
-</section>
+
 
 ---
 
-<section class="chapter-section" id="chapter-9">
+
 
 ## Chapter 9: Reflections and Lessons
 
@@ -673,4 +673,5 @@ This diorama demonstrates that patience, attention to natural details, and thoug
   {% endfor %}
 </div>
 {% endif %}
+
 
