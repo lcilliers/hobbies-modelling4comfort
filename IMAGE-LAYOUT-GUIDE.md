@@ -1,8 +1,241 @@
-# Image Layout Guide for Build Logs
+# Image Layout Guide
 
-This guide shows how to use different image layouts in your build log markdown files.
+This guide shows how to use different image layouts in Jekyll markdown files for both build logs and project pages.
 
-## Default Centered Image (Current Behavior)
+## Table of Contents
+1. [Source-Narrative Approach (Recommended for Projects)](#source-narrative-approach)
+2. [Build Log Image Layouts](#build-log-image-layouts)
+3. [Quick Reference](#quick-reference)
+4. [Best Practices](#best-practices)
+
+---
+
+## Source-Narrative Approach
+
+**Recommended for:** Comprehensive project pages with integrated storytelling
+
+### Overview
+
+The Source-Narrative methodology uses **pure markdown** with strategically placed images throughout a narrative. This approach works best for completed projects where you're creating a comprehensive story rather than incremental build log entries.
+
+### Key Principles
+
+1. **Pure Markdown Only** - No HTML tags mixed with markdown
+2. **Absolute Paths** - Always use `/assets/images/...` format
+3. **Template-Generated Gallery** - Don't create manual galleries
+4. **Strategic Placement** - Images enhance narrative flow
+
+### Image Syntax for Projects
+
+**Standard Inline Image:**
+```markdown
+![Caption describing the image](/assets/images/projects/project-name/image-file.jpg)
+*Additional context or technique notes in italics below*
+```
+
+**Example in Context:**
+```markdown
+## Chapter 2: Foundation Construction
+**Timeline: January 28 - February 3, 2024**
+
+I began by shaping extruded polystyrene foam to create the rocky cliff foundation.
+
+![Rocky cliff foundation](/assets/images/projects/log-cabin/log-cabin-build1-001.jpg)
+*Starting with the foundation - extruded polystyrene shaped into rocky cliff face*
+
+After shaping the basic form, I tested different cabin placements to find the optimal composition that would balance the visual weight.
+
+![Testing cabin placement](/assets/images/projects/log-cabin/log-cabin-build1-002.jpg)
+*Testing various cabin positions to find the best visual balance*
+```
+
+### Path Requirements
+
+**✅ CORRECT - Absolute paths:**
+```markdown
+![Caption](/assets/images/projects/project-name/filename.jpg)
+```
+
+**❌ WRONG - Relative paths:**
+```markdown
+![Caption](../assets/images/project-name/filename.jpg)
+![Caption](./images/filename.jpg)
+![Caption](filename.jpg)
+```
+
+**❌ WRONG - Liquid template syntax in content:**
+```markdown
+![Caption]({{ '/assets/images/...' | relative_url }})
+```
+
+### Gallery Setup (Front Matter)
+
+The project template automatically generates a gallery from the front matter. **Never create manual gallery sections.**
+
+**Front Matter Example:**
+```yaml
+---
+layout: project
+title: "Project Name"
+date: 2024-04-10
+gallery:
+  - /assets/images/projects/project-name/project-name-gallery-001.jpg
+  - /assets/images/projects/project-name/project-name-gallery-002.jpg
+  - /assets/images/projects/project-name/project-name-gallery-003.jpg
+  - /assets/images/projects/project-name/project-name-gallery-004.jpg
+---
+```
+
+**Critical Requirements:**
+- Gallery paths must be **absolute** (`/assets/images/...`)
+- Paths start with forward slash `/`
+- Full path including filename and extension
+- Template applies `relative_url` filter automatically
+
+### Image Sizing
+
+Project pages need CSS for proper image sizing. Add to `assets/css/main.css`:
+
+```css
+/* Project Page Images */
+.page-content img {
+  max-width: 600px;
+  height: auto;
+  display: block;
+  margin: 1rem auto;
+  border-radius: 4px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+}
+
+.page-content img + em {
+  display: block;
+  text-align: center;
+  font-size: 0.9rem;
+  color: #666;
+  margin-top: 0.5rem;
+  margin-bottom: 1.5rem;
+}
+
+/* Responsive sizing */
+@media (max-width: 768px) {
+  .page-content img {
+    max-width: 100%;
+  }
+}
+```
+
+### Complete Project Page Example
+
+```markdown
+---
+layout: project
+title: "Log Cabin in the Woods - Scratch-Built Wilderness Diorama"
+date: 2024-04-10
+categories: [Architectural, Nature]
+tags: [scratch-build, cabin, woodland, diorama]
+scale: "1:35"
+featured_image: /assets/images/projects/log-cabin/log-cabin-gallery-001.jpg
+gallery:
+  - /assets/images/projects/log-cabin/log-cabin-gallery-001.jpg
+  - /assets/images/projects/log-cabin/log-cabin-gallery-002.jpg
+  - /assets/images/projects/log-cabin/log-cabin-gallery-003.jpg
+---
+
+A detailed scratch-built log cabin diorama set deep in the woods, featuring 
+handcrafted cabin structure with individual logs, stone chimney, and timber roof.
+
+## Chapter 1: Concept and Planning
+**Timeline: January 20-27, 2024**
+
+Cathy's flower house kit introduced me to the skill of making small plants, 
+and I love plants. I was all fired up to make some trees.
+
+![Initial foundation](/assets/images/projects/log-cabin/log-cabin-build1-001.jpg)
+*Starting with the foundation - extruded polystyrene shaped into rocky cliff*
+
+The foundation set the stage for the entire diorama's composition.
+
+![Testing layouts](/assets/images/projects/log-cabin/log-cabin-build1-002.jpg)
+*Testing various cabin positions to find optimal placement*
+
+## Chapter 2: Foundation Construction
+**Timeline: January 28 - February 3, 2024**
+
+[Content continues...]
+
+## Completion
+
+The project was completed on April 10, 2024, after 81 days of focused work.
+
+**Completion Date:** April 10, 2024
+```
+
+### What NOT to Do
+
+**❌ Don't mix HTML with markdown:**
+```markdown
+<div class="image-container">
+  ![Image](/path/to/image.jpg)
+</div>
+```
+
+**❌ Don't use inline styles:**
+```markdown
+<style>
+  img { max-width: 600px; }
+</style>
+```
+
+**❌ Don't create manual gallery sections:**
+```markdown
+## Gallery
+
+{% for image in page.gallery %}
+  <img src="{{ image }}">
+{% endfor %}
+```
+
+**❌ Don't use HTML figure tags:**
+```markdown
+<figure>
+  <img src="/path/to/image.jpg">
+  <figcaption>Caption</figcaption>
+</figure>
+```
+
+### Why Pure Markdown?
+
+**Jekyll's Kramdown processor doesn't handle mixed HTML/markdown well:**
+- HTML tags can break markdown rendering
+- Inline styles are stripped during processing
+- Template conflicts cause rendering issues
+- Pure markdown ensures consistent output
+
+### Image Organization Pattern
+
+**Recommended naming convention:**
+```
+assets/images/projects/project-name/
+├── project-name-build1-001.jpg  (Chapter 1 images)
+├── project-name-build1-002.jpg
+├── project-name-build2-001.jpg  (Chapter 2 images)
+├── project-name-build2-002.jpg
+├── project-name-build3-001.jpg  (Chapter 3 images)
+...
+├── project-name-gallery-001.jpg (Gallery images)
+├── project-name-gallery-002.jpg
+└── project-name-gallery-003.jpg
+```
+
+**Benefits:**
+- Easy to locate images by chapter
+- Clear distinction between process and gallery images
+- Sequential numbering simplifies narrative flow
+- Consistent naming across projects
+
+---
+
+## Build Log Image Layouts
 
 **Use this for:** Single photos that should be displayed prominently
 
@@ -233,4 +466,122 @@ As you can see from the comparison above...
 
 ---
 
-**Need help?** Refer to this guide when adding photos to your build logs. All layouts are already set up in the CSS and ready to use!
+**Need help?** Refer to this guide when adding photos to your build logs and project pages.
+
+---
+
+## Best Practices
+
+### Choosing Between Approaches
+
+**Use Source-Narrative (Pure Markdown) For:**
+- ✅ Comprehensive project pages
+- ✅ Completed projects
+- ✅ Portfolio-quality presentation
+- ✅ Single cohesive narrative
+- ✅ When all content/images ready
+
+**Use Build Log Layouts (HTML + Markdown) For:**
+- 📝 Incremental build updates
+- 📝 Projects in progress
+- 📝 Real-time documentation
+- 📝 Multiple comparison layouts needed
+- 📝 Side-by-side image comparisons
+
+### General Image Guidelines
+
+**File Naming:**
+- Use descriptive, consistent names
+- Include project name in filename
+- Use sequential numbering
+- Separate process from gallery images
+- Example: `project-name-build1-001.jpg`
+
+**File Organization:**
+```
+assets/images/
+├── projects/
+│   └── project-name/
+│       ├── project-name-build1-001.jpg
+│       ├── project-name-build2-001.jpg
+│       └── project-name-gallery-001.jpg
+└── builds/
+    └── project-name/
+        ├── update-001.jpg
+        └── update-002.jpg
+```
+
+**Image Quality:**
+- Inline/process images: 600-800px wide
+- Gallery images: 1200-1600px wide
+- Compress appropriately (balance quality/size)
+- Consistent aspect ratios preferred
+- Good lighting and focus
+
+**Caption Strategy:**
+- Caption describes what's shown (in brackets or alt text)
+- Italic text below provides context/technique
+- Keep captions concise (one sentence)
+- Use context text for detailed explanations
+
+### CSS Integration
+
+**For Project Pages** - Add to `assets/css/main.css`:
+```css
+/* Project-specific image sizing */
+.page-content img {
+  max-width: 600px;
+  height: auto;
+  display: block;
+  margin: 1rem auto;
+}
+
+@media (max-width: 768px) {
+  .page-content img {
+    max-width: 100%;
+  }
+}
+```
+
+**For Build Logs** - Layouts already configured in site CSS:
+- `.image-row-2` - Two images side by side
+- `.image-row-3` - Three images side by side
+- `.img-left` / `.img-right` - Text wrapping
+
+### Troubleshooting
+
+**Images not displaying:**
+- ✓ Check path is absolute (`/assets/images/...`)
+- ✓ Verify file exists at that location
+- ✓ Confirm filename matches exactly (case-sensitive)
+- ✓ Check for typos in path
+
+**Images too large:**
+- ✓ Add CSS max-width rules
+- ✓ Check responsive breakpoints
+- ✓ Verify CSS file is loading
+
+**Gallery not appearing:**
+- ✓ Check front matter gallery array exists
+- ✓ Verify paths are absolute
+- ✓ Ensure no manual gallery section in markdown
+- ✓ Confirm using `layout: project` in front matter
+
+**Layout broken:**
+- ✓ Remove HTML tags from markdown
+- ✓ Use pure markdown syntax
+- ✓ Check for unclosed HTML tags
+- ✓ Verify no inline styles
+
+---
+
+## Additional Resources
+
+- **SOURCE-NARRATIVE-METHODOLOGY.md** - Complete workflow guide
+- **SITE-EDITING-GUIDE.md** - General site editing
+- **PUBLISHING-GUIDE.md** - Deployment workflows
+- **LESSONS-LEARNED.md** - Technical pitfalls and solutions
+
+---
+
+*Last updated: December 15, 2025*

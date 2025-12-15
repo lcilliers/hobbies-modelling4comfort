@@ -583,6 +583,178 @@ This paragraph will have a class.
 
 ## Build Log Organization & Naming
 
+### Documentation Approaches: When to Use Each
+
+The site supports two distinct approaches for documenting projects:
+
+#### 1. Comprehensive Project Pages (Source-Narrative)
+**Best for:** Completed projects, portfolio showcases, comprehensive retrospectives
+
+A single, cohesive project page that tells the complete story from concept to completion with integrated images throughout the narrative.
+
+**Characteristics:**
+- Single markdown file in `_projects/`
+- Organized into 6-10 chronological chapters
+- 40-50+ inline images integrated throughout narrative
+- Template-generated gallery from front matter
+- Pure markdown (no HTML tags)
+- Professional portfolio presentation
+- Complete story in one place
+
+**Example:** `_projects/log-cabin.md` (679 lines, 9 chapters, 50 images)
+
+**Use when:**
+- ✅ Project is completely finished
+- ✅ You have all images and content ready
+- ✅ Want polished, portfolio-quality presentation
+- ✅ Story flows better as unified narrative
+- ✅ Retrospective documentation
+
+**Front Matter Example:**
+```yaml
+---
+layout: project
+title: "Log Cabin in the Woods - Scratch-Built Wilderness Diorama"
+date: 2024-04-10
+categories: [Architectural, Nature]
+tags: [scratch-build, cabin, woodland]
+scale: "1:35"
+featured_image: /assets/images/projects/log-cabin/log-cabin-gallery-001.jpg
+gallery:
+  - /assets/images/projects/log-cabin/log-cabin-gallery-001.jpg
+  - /assets/images/projects/log-cabin/log-cabin-gallery-002.jpg
+  - /assets/images/projects/log-cabin/log-cabin-gallery-003.jpg
+---
+```
+
+**See:** [SOURCE-NARRATIVE-METHODOLOGY.md](SOURCE-NARRATIVE-METHODOLOGY.md) for complete workflow
+
+#### 2. Incremental Build Logs
+**Best for:** Projects in progress, real-time updates, collaborative projects
+
+Multiple build log entries documenting progress as it happens, organized by project folder.
+
+**Characteristics:**
+- Multiple markdown files in `_builds/project-name/`
+- Each entry = distinct build session or phase
+- Sequential numbering (001-, 002-, 003-)
+- Real-time documentation during construction
+- Can include detailed comparisons and layouts
+- Easier to update incrementally
+
+**Example:** `_builds/ss-great-britain/` (5 build log files)
+
+**Use when:**
+- ✅ Project is currently in progress
+- ✅ Want to document as you build
+- ✅ Learning/process documentation is priority
+- ✅ Project might pause and resume
+- ✅ Multiple people contributing
+- ✅ Frequent incremental updates
+
+**Front Matter Example:**
+```yaml
+---
+layout: build
+title: "SS Great Britain - Build Log #002: Hull Construction"
+date: 2022-02-10
+project: ss-great-britain
+step: 2
+materials: [balsa wood, styrene, brass rod]
+tags: [hull, construction, scratch-building]
+---
+```
+
+#### Comparison Table
+
+| Aspect | Project Page | Build Logs |
+|--------|--------------|------------|
+| **Files** | 1 comprehensive file | Multiple incremental files |
+| **When** | After completion | During construction |
+| **Narrative** | Unified story | Episodic updates |
+| **Images** | 40-50+ integrated | 5-10 per entry |
+| **Organization** | Chapters | Sequential entries |
+| **Maintenance** | Single file to update | Multiple files |
+| **Presentation** | Portfolio quality | Process documentation |
+| **Gallery** | Template auto-generated | Manual in each entry |
+| **Best For** | Showcasing finished work | Learning/process docs |
+
+#### Transitioning from Build Logs to Project Page
+
+When a project is complete, you may want to create a comprehensive project page:
+
+**Option 1: Archive Build Logs**
+Create a redirect README in the build logs folder:
+
+```markdown
+---
+layout: build  
+title: "Project Name - Build Documentation"
+date: 2024-01-20
+project: project-name
+excerpt: "Complete build documentation has been incorporated into the main project page."
+---
+
+## Build Documentation Moved
+
+The complete build process for this project has been incorporated into the main 
+project page as a comprehensive narrative.
+
+**[View the complete project story →]({{ '/projects/project-name/' | relative_url }})**
+
+The project page includes:
+- Full build narrative from concept to completion
+- X chronological chapters covering all construction phases
+- XX integrated build process images
+- X-image gallery of the finished diorama
+
+*Project completed: YYYY-MM-DD*
+```
+
+Then delete the old individual build log files, keeping only the README redirect.
+
+**Option 2: Keep Both**
+Maintain both build logs (process documentation) and project page (final showcase).
+- Build logs show real-time construction journey
+- Project page presents polished final narrative
+- Cross-link between them for different audiences
+
+#### Template Behavior - Auto-Generated Galleries
+
+**CRITICAL**: The `project` layout template automatically generates galleries.
+
+**How It Works:**
+1. Template reads `gallery:` array from front matter
+2. Auto-generates `<section class="project-gallery">` at bottom of page
+3. Creates grid layout with all gallery images
+4. Applies `relative_url` filter to each path
+
+**Template Code** (`_layouts/project.html`):
+```html
+{% if page.gallery %}
+<section class="project-gallery">
+  <h2>Gallery</h2>
+  <div class="gallery-grid">
+    {% for image in page.gallery %}
+    <div class="gallery-item">
+      <img src="{{ image | relative_url }}" alt="{{ page.title }} - Gallery Image">
+    </div>
+    {% endfor %}
+  </div>
+</section>
+{% endif %}
+```
+
+**Requirements:**
+- ✅ Gallery paths must be **absolute**: `/assets/images/projects/name/file.jpg`
+- ✅ Paths start with forward slash `/`
+- ✅ Include full path and filename
+- ❌ Never create manual gallery sections in markdown
+- ❌ Don't use relative paths (just filenames won't work)
+
+**Why Absolute Paths?**
+Template applies `{{ image | relative_url }}` filter which needs the full path from site root to resolve correctly.
+
 ### Folder Structure
 
 Build logs are organized by project in separate folders within `_builds/`:
