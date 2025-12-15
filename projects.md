@@ -52,7 +52,9 @@ A detailed scratch-built log cabin diorama set deep in the woods, featuring hand
 
 [View Project →]({{ '/projects/log-cabin/' | relative_url }})
 
----### [English Country Garden - 2024]({{ '/projects/english-country-garden/' | relative_url }})
+---
+
+### [English Country Garden - 2024]({{ '/projects/english-country-garden/' | relative_url }})
 
 A charming English cottage with authentic thatched roof surrounded by a traditional cottage garden featuring over 50 miniature plant species. The 12m × 12m garden (at scale) includes climbing roses, herbaceous borders, vegetable patches, and carefully arranged flowerbeds capturing the essence of classic English garden design.
 
