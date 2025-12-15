@@ -3,6 +3,7 @@ layout: build
 title: "Log Cabin - Build Documentation"
 date: 2024-01-20
 project: log-cabin
+excerpt: "Complete build documentation has been incorporated into the main project page."
 ---
 
 ## Build Documentation Moved
