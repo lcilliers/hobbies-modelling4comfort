@@ -18,18 +18,13 @@ gallery:
 excerpt: "A three-month journey into scratch building: from garden waste to authentic log cabin scene with handcrafted vegetation, my first sculpted figure, and natural materials throughout."
 ---
 
-<div class="project-header">
-  <h2>A Three-Month Journey into Scratch-Built Diorama Modeling</h2>
-  <div class="project-meta">
-    <span><strong>Duration:</strong> January 20 - April 10, 2024 (3 months, ~130-140 hours)</span>
-    <span><strong>Approach:</strong> Freelance scale - "accurate to the eye rather than mathematically precise"</span>
-    <span><strong>Final Size:</strong> 25cm × 25cm base</span>
-  </div>
-</div>
+## A Three-Month Journey into Scratch-Built Diorama Modeling
+
+**Duration:** January 20 - April 10, 2024 (3 months, ~130-140 hours)  
+**Approach:** Freelance scale - "accurate to the eye rather than mathematically precise"  
+**Final Size:** 25cm × 25cm base
 
 ---
-
-<section class="chapter-section" id="chapter-1">
 
 ## Chapter 1: The Spark of Inspiration
 
@@ -45,11 +40,7 @@ As a keen gardener, I maintain an active composting area, recycling the majority
 
 Internet searches revealed lovely log cabin images that captured my imagination - 42 research images organized by category became my reference library for this project.
 
-</section>
-
 ---
-
-<section class="chapter-section" id="chapter-2">
 
 ## Chapter 2: Planning and Prototyping
 
@@ -57,16 +48,11 @@ Internet searches revealed lovely log cabin images that captured my imagination 
 
 I first had to figure out the scale and size. Since I cannot make architectural drawings, I work "accurate to the eye rather than mathematically precise" - sizing components by what looks right. This meant I had to size, measure, and fit each component during the actual building process.
 
-<div class="image-row-2">
-  <figure class="build-image">
-    <img src="{{ site.baseurl }}/assets/images/projects/log-cabin/log-cabin-build1-001.jpg" alt="Prototype cabin with rocky backdrop">
-    <figcaption>Prototype cabin positioned against rocky backdrop, showing potential river location</figcaption>
-  </figure>
-  <figure class="build-image">
-    <img src="{{ site.baseurl }}/assets/images/projects/log-cabin/log-cabin-build1-002.jpg" alt="Cardboard prototype">
-    <figcaption>Paper and cardboard prototype establishing footprint and proportions</figcaption>
-  </figure>
-</div>
+![Prototype cabin with rocky backdrop]({{ site.baseurl }}/assets/images/projects/log-cabin/log-cabin-build1-001.jpg)  
+*Prototype cabin positioned against rocky backdrop, showing potential river location*
+
+![Cardboard prototype]({{ site.baseurl }}/assets/images/projects/log-cabin/log-cabin-build1-002.jpg)  
+*Paper and cardboard prototype establishing footprint and proportions*
 
 My approach: create a paper and cardboard prototype cabin to establish the footprint and visualize proportions. The cabin ended up at 13cm × 9cm.
 
@@ -87,11 +73,7 @@ The challenge: fitting all this onto a 25cm × 25cm base due to space limitation
 - Provides surfaces for moss and lichen details
 - Artistic freedom for the composition I envisioned
 
-</section>
-
 ---
-
-<section class="chapter-section" id="chapter-3">
 
 ## Chapter 3: The Base - A Disaster That Taught Me Patience
 
@@ -112,10 +94,8 @@ I researched homemade paste recipes to cover the styrofoam. Most used similar in
 
 I mixed my paste and covered the foam with layers, letting it dry. But I probably started adding landscaping structures too early. The paste continued cracking for some time and started to curl.
 
-<figure class="build-image-large">
-  <img src="{{ site.baseurl }}/assets/images/projects/log-cabin/log-cabin-build1-003.jpg" alt="Paste cracking visible">
-  <figcaption>Extensive cracking and curling of the paste mixture - a frustrating but educational experience</figcaption>
-</figure>
+![Paste cracking visible]({{ site.baseurl }}/assets/images/projects/log-cabin/log-cabin-build1-003.jpg)  
+*Extensive cracking and curling of the paste mixture - a frustrating but educational experience*
 
 **THE BIG PROBLEM:** It cracked badly, most likely due to the paste composition.
 
@@ -134,11 +114,7 @@ All wood material came from garden trees, properly dried and cut into strips of 
 
 **Lesson Learned:** Next time I'd add more PVA and less water. I'll explore other ingredients in future models - plaster, wood sawdust, or paper mache.
 
-</section>
-
 ---
-
-<section class="chapter-section" id="chapter-4">
 
 ## Chapter 4: Keeping Momentum - Parallel Plant Preparation
 
@@ -146,16 +122,11 @@ All wood material came from garden trees, properly dried and cut into strips of 
 
 While waiting for the paste to dry and dealing with cracking issues, I kept momentum by collecting and preparing materials for plants and trees. This parallel work proved essential during the frustrating drying period.
 
-<div class="image-row-2">
-  <figure class="build-image">
-    <img src="{{ site.baseurl }}/assets/images/projects/log-cabin/log-cabin-build1-006.jpg" alt="Collected grasses and twigs">
-    <figcaption>Grasses and twigs collected from woodland areas and garden prunings</figcaption>
-  </figure>
-  <figure class="build-image">
-    <img src="{{ site.baseurl }}/assets/images/projects/log-cabin/log-cabin-build3-002.jpg" alt="Organized material collection">
-    <figcaption>Tubs showing organized collected materials by type and texture</figcaption>
-  </figure>
-</div>
+![Collected grasses and twigs]({{ site.baseurl }}/assets/images/projects/log-cabin/log-cabin-build1-006.jpg)  
+*Grasses and twigs collected from woodland areas and garden prunings*
+
+![Organized material collection]({{ site.baseurl }}/assets/images/projects/log-cabin/log-cabin-build3-002.jpg)  
+*Tubs showing organized collected materials by type and texture*
 
 ### The Material Hunt
 
@@ -178,25 +149,18 @@ Combined with internet research, I started experimenting:
 - Attaching twigs to main branches using drill-and-pin technique with CA glue
 - Using pillow filling for shrubs, gluing sawdust to it for texture
 
-<figure class="build-image-medium">
-  <img src="{{ site.baseurl }}/assets/images/projects/log-cabin/log-cabin-build1-005.jpg" alt="Experimental tree constructions">
-  <figcaption>Selection of experimental trees showing different material approaches - many were discarded before achieving the right look</figcaption>
-</figure>
+![Experimental tree constructions]({{ site.baseurl }}/assets/images/projects/log-cabin/log-cabin-build1-005.jpg)  
+*Selection of experimental trees showing different material approaches - many were discarded before achieving the right look*
 
 ### Custom Tool Creation
 
 I made a tool for twisting wires and setting sisal into pine trees.
 
-<div class="image-row-2">
-  <figure class="build-image">
-    <img src="{{ site.baseurl }}/assets/images/projects/log-cabin/log-cabin-build5-023.jpg" alt="Custom wire-twisting tool">
-    <figcaption>Custom wire-twisting tool for pine tree construction</figcaption>
-  </figure>
-  <figure class="build-image">
-    <img src="{{ site.baseurl }}/assets/images/projects/log-cabin/log-cabin-build5-024.jpg" alt="Tool detail">
-    <figcaption>Tool detail showing wire mechanism</figcaption>
-  </figure>
-</div>
+![Custom wire-twisting tool]({{ site.baseurl }}/assets/images/projects/log-cabin/log-cabin-build5-023.jpg)  
+*Custom wire-twisting tool for pine tree construction*
+
+![Tool detail]({{ site.baseurl }}/assets/images/projects/log-cabin/log-cabin-build5-024.jpg)  
+*Tool detail showing wire mechanism*
 
 ### Selection and Rejection
 
@@ -204,11 +168,7 @@ This experimentation led to selecting trees and shrubs for the landscape. Many a
 
 **Time Investment:** Approximately 25-30 hours
 
-</section>
-
 ---
-
-<section class="chapter-section" id="chapter-5">
 
 ## Chapter 5: Building the Cabin
 
@@ -237,10 +197,8 @@ With a good selection of landscape material at hand, I decided to build the cabi
 
 Each wall was separately framed, then fitted with wood strips. Windows and doors were framed individually. This approach made assembly easier and ensured everything was square before joining walls together.
 
-<figure class="build-image-medium">
-  <img src="{{ site.baseurl }}/assets/images/projects/log-cabin/log-cabin-build1-008.jpg" alt="Framed walls before assembly">
-  <figcaption>Individual wall frames ready for log work - each window and door carefully positioned</figcaption>
-</figure>
+![Framed walls before assembly]({{ site.baseurl }}/assets/images/projects/log-cabin/log-cabin-build1-008.jpg)  
+*Individual wall frames ready for log work - each window and door carefully positioned*
 
 This was particularly important for positioning doors and windows correctly, and for fitting the chimney - all requiring careful measurement and fitting during the building process.
 
@@ -268,23 +226,16 @@ Each log was individually cut to size and fitted. The logs were stained to add c
 
 **Chimney:** The core made from scrap wood, then covered with milliput standard epoxy putty with mortar lines scratched in. Bricks painted in different shades of acrylic reddish and weathered with black and white.
 
-<div class="image-row-2">
-  <figure class="build-image">
-    <img src="{{ site.baseurl }}/assets/images/projects/log-cabin/log-cabin-build1-009.jpg" alt="Chimney construction">
-    <figcaption>Chimney core with epoxy putty before painting</figcaption>
-  </figure>
-  <figure class="build-image">
-    <img src="{{ site.baseurl }}/assets/images/projects/log-cabin/log-cabin-build2-002.jpg" alt="Painted chimney">
-    <figcaption>Finished chimney with mortar lines and brick weathering</figcaption>
-  </figure>
-</div>
+![Chimney construction]({{ site.baseurl }}/assets/images/projects/log-cabin/log-cabin-build1-009.jpg)  
+*Chimney core with epoxy putty before painting*
+
+![Painted chimney]({{ site.baseurl }}/assets/images/projects/log-cabin/log-cabin-build2-002.jpg)  
+*Finished chimney with mortar lines and brick weathering*
 
 **Porch Features:**
 
-<figure class="build-image-large">
-  <img src="{{ site.baseurl }}/assets/images/projects/log-cabin/log-cabin-build2-001.jpg" alt="Finished cabin before mounting">
-  <figcaption>Complete cabin before installation showing porch posts, trellis, and details</figcaption>
-</figure>
+![Finished cabin before mounting]({{ site.baseurl }}/assets/images/projects/log-cabin/log-cabin-build2-001.jpg)  
+*Complete cabin before installation showing porch posts, trellis, and details*
 
 - Front porch posts with supporting beams
 - Firewood rack with stacked ready-to-use wood
@@ -292,16 +243,11 @@ Each log was individually cut to size and fitted. The logs were stained to add c
 - Clay flower pot with plant
 - Trellis over side of porch with vine growing through (bamboo trellis with thicker bamboo base fittings)
 
-<div class="image-row-2">
-  <figure class="build-image">
-    <img src="{{ site.baseurl }}/assets/images/projects/log-cabin/log-cabin-build5-007.jpg" alt="Firewood rack and chair">
-    <figcaption>Firewood rack with stacked wood and weathered chair detail</figcaption>
-  </figure>
-  <figure class="build-image">
-    <img src="{{ site.baseurl }}/assets/images/projects/log-cabin/log-cabin-build5-005.jpg" alt="Steps to river">
-    <figcaption>Wooden steps from porch down to the river</figcaption>
-  </figure>
-</div>
+![Firewood rack and chair]({{ site.baseurl }}/assets/images/projects/log-cabin/log-cabin-build5-007.jpg)  
+*Firewood rack with stacked wood and weathered chair detail*
+
+![Steps to river]({{ site.baseurl }}/assets/images/projects/log-cabin/log-cabin-build5-005.jpg)  
+*Wooden steps from porch down to the river*
 
 **Challenges:**
 - Maintaining consistent log dimensions
@@ -312,11 +258,7 @@ Each log was individually cut to size and fitted. The logs were stained to add c
 
 **Time Investment:** Approximately 40-45 hours
 
-</section>
-
 ---
-
-<section class="chapter-section" id="chapter-6">
 
 ## Chapter 6: Creating the Forest - Trees and Vegetation
 
@@ -342,16 +284,11 @@ After completing the cabin structure (around early March 2024), I focused on veg
 6. Apply washes to enhance texture and depth
 7. Add foliage using scenic adhesive or hairspray
 
-<div class="image-row-2">
-  <figure class="build-image">
-    <img src="{{ site.baseurl }}/assets/images/projects/log-cabin/log-cabin-build4-005.jpg" alt="Shrub base construction">
-    <figcaption>Shrub base constructed from twisted copper wire</figcaption>
-  </figure>
-  <figure class="build-image">
-    <img src="{{ site.baseurl }}/assets/images/projects/log-cabin/log-cabin-build4-003.jpg" alt="Moss application">
-    <figcaption>Gluing moss on shrub structure while drying</figcaption>
-  </figure>
-</div>
+![Shrub base construction]({{ site.baseurl }}/assets/images/projects/log-cabin/log-cabin-build4-005.jpg)  
+*Shrub base constructed from twisted copper wire*
+
+![Moss application]({{ site.baseurl }}/assets/images/projects/log-cabin/log-cabin-build4-003.jpg)  
+*Gluing moss on shrub structure while drying*
 
 ### Material Processing and Preservation
 
@@ -364,10 +301,8 @@ After completing the cabin structure (around early March 2024), I focused on veg
 
 ### Tree Variety and Placement
 
-<figure class="build-image-medium">
-  <img src="{{ site.baseurl }}/assets/images/projects/log-cabin/log-cabin-build1-010.jpg" alt="Tree placement testing">
-  <figcaption>Testing tree positions and initial bridge placement (later repositioned)</figcaption>
-</figure>
+![Tree placement testing]({{ site.baseurl }}/assets/images/projects/log-cabin/log-cabin-build1-010.jpg)  
+*Testing tree positions and initial bridge placement (later repositioned)*
 
 **Tree types created:**
 - Fir trees positioned on rocky cliff
@@ -377,20 +312,14 @@ After completing the cabin structure (around early March 2024), I focused on veg
 - Other twigs covered with fine pieces of hollow fiber from cushions, then colored sawdust
 - Pyracantha shrub branches (with long thorns and tough wood) resembled tree frames perfectly - thorns covered with thinned and colored hollow fiber and sawdust
 
-<div class="image-row-3">
-  <figure class="build-image">
-    <img src="{{ site.baseurl }}/assets/images/projects/log-cabin/log-cabin-build4-012.jpg" alt="Tall trees behind house">
-    <figcaption>Two main tall trees positioned behind cabin</figcaption>
-  </figure>
-  <figure class="build-image">
-    <img src="{{ site.baseurl }}/assets/images/projects/log-cabin/log-cabin-build5-009.jpg" alt="Fir trees on cliff">
-    <figcaption>Fir trees growing on rocky cliff outcrop</figcaption>
-  </figure>
-  <figure class="build-image">
-    <img src="{{ site.baseurl }}/assets/images/projects/log-cabin/log-cabin-build4-011.jpg" alt="Cliff trees detail">
-    <figcaption>Vegetation detail on cliff with rear footpath</figcaption>
-  </figure>
-</div>
+![Tall trees behind house]({{ site.baseurl }}/assets/images/projects/log-cabin/log-cabin-build4-012.jpg)  
+*Two main tall trees positioned behind cabin*
+
+![Fir trees on cliff]({{ site.baseurl }}/assets/images/projects/log-cabin/log-cabin-build5-009.jpg)  
+*Fir trees growing on rocky cliff outcrop*
+
+![Cliff trees detail]({{ site.baseurl }}/assets/images/projects/log-cabin/log-cabin-build4-011.jpg)  
+*Vegetation detail on cliff with rear footpath*
 
 **Challenges:**
 - Finding branches at appropriate scale required extensive searching
@@ -401,11 +330,7 @@ After completing the cabin structure (around early March 2024), I focused on veg
 
 **Time Investment:** Approximately 25-30 hours
 
-</section>
-
 ---
-
-<section class="chapter-section" id="chapter-7">
 
 ## Chapter 7: Building the Landscape
 
@@ -441,44 +366,26 @@ Material collected and organized from various sources for easy access when match
 
 Experimented with making small flowers from prepared materials, adding wire stems to help with installation.
 
-<div class="image-row-3">
-  <figure class="build-image">
-    <img src="{{ site.baseurl }}/assets/images/projects/log-cabin/log-cabin-build4-001.jpg" alt="Flower making 1">
-    <figcaption>Flower-making experiments</figcaption>
-  </figure>
-  <figure class="build-image">
-    <img src="{{ site.baseurl }}/assets/images/projects/log-cabin/log-cabin-build4-002.jpg" alt="Flower making 2">
-    <figcaption>Testing different materials and techniques</figcaption>
-  </figure>
-  <figure class="build-image">
-    <img src="{{ site.baseurl }}/assets/images/projects/log-cabin/log-cabin-build4-006.jpg" alt="Flower details">
-    <figcaption>Additional flower construction details</figcaption>
-  </figure>
-</div>
+![Flower-making experiments]({{ site.baseurl }}/assets/images/projects/log-cabin/log-cabin-build4-001.jpg)  
+![Testing different materials and techniques]({{ site.baseurl }}/assets/images/projects/log-cabin/log-cabin-build4-002.jpg)  
+![Additional flower construction details]({{ site.baseurl }}/assets/images/projects/log-cabin/log-cabin-build4-006.jpg)
 
 ### Pathway System
 
 **Rear Footpath:**
 Path from river to rear of house, climbing up the cliff. Rich foliage of different forest plants and shrubs with small bluebells lining the path. Covered with mixture of tea bags and colored sawdust (greens and various browns).
 
-<div class="image-row-2">
-  <figure class="build-image">
-    <img src="{{ site.baseurl }}/assets/images/projects/log-cabin/log-cabin-build5-004.jpg" alt="Rear footpath">
-    <figcaption>Rear footpath climbing the rocky cliff with dense foliage</figcaption>
-  </figure>
-  <figure class="build-image">
-    <img src="{{ site.baseurl }}/assets/images/projects/log-cabin/log-cabin-build4-011.jpg" alt="Path detail">
-    <figcaption>Detail of cliff vegetation and path integration</figcaption>
-  </figure>
-</div>
+![Rear footpath]({{ site.baseurl }}/assets/images/projects/log-cabin/log-cabin-build5-004.jpg)  
+*Rear footpath climbing the rocky cliff with dense foliage*
+
+![Path detail]({{ site.baseurl }}/assets/images/projects/log-cabin/log-cabin-build4-011.jpg)  
+*Detail of cliff vegetation and path integration*
 
 **Riverside Footpath:**
 Rich set of plants on one side, river bank on the other, leading up to the bridge.
 
-<figure class="build-image-medium">
-  <img src="{{ site.baseurl }}/assets/images/projects/log-cabin/log-cabin-build5-003.jpg" alt="Riverside path">
-  <figcaption>Riverside path with varied vegetation leading to bridge</figcaption>
-</figure>
+![Riverside path]({{ site.baseurl }}/assets/images/projects/log-cabin/log-cabin-build5-003.jpg)  
+*Riverside path with varied vegetation leading to bridge*
 
 ### Composition Principles
 
@@ -496,11 +403,7 @@ Rich set of plants on one side, river bank on the other, leading up to the bridg
 
 **Time Investment:** Approximately 45-50 hours
 
-</section>
-
 ---
-
-<section class="chapter-section" id="chapter-8">
 
 ## Chapter 8: Structures and Figures - Adding Life to the Scene
 
@@ -510,16 +413,11 @@ I wanted to add a figure next to the river, but make the figure myself. At this 
 
 After researching appropriate figures and techniques, I realized epoxy putty is not easy to work with at all. To make life easier, I selected a simple pose: a seated fisherman.
 
-<div class="image-row-2">
-  <figure class="build-image figure-small">
-    <img src="{{ site.baseurl }}/assets/images/projects/log-cabin/log-cabin-build1-004-figure.jpg" alt="First figure attempt">
-    <figcaption>My first attempt at sculpting a figure - a seated fisherman (cropped detail)</figcaption>
-  </figure>
-  <figure class="build-image">
-    <img src="{{ site.baseurl }}/assets/images/projects/log-cabin/log-cabin-build5-001.jpg" alt="Fisherman in scene">
-    <figcaption>Fisherman positioned beside the river in completed scene</figcaption>
-  </figure>
-</div>
+![First figure attempt]({{ site.baseurl }}/assets/images/projects/log-cabin/log-cabin-build1-004-figure.jpg)  
+*My first attempt at sculpting a figure - a seated fisherman (cropped detail)*
+
+![Fisherman in scene]({{ site.baseurl }}/assets/images/projects/log-cabin/log-cabin-build5-001.jpg)  
+*Fisherman positioned beside the river in completed scene*
 
 **Challenges faced:**
 - Getting proportions right
@@ -541,27 +439,17 @@ After researching appropriate figures and techniques, I realized epoxy putty is 
 **Positioning evolution:**
 Initially played with positioning the bridge from left to right across the river, but finally positioned it to allow more space for the fisherman at the model edge. This meant creating a pathway from the cabin stairs along the river to the bridge.
 
-<div class="image-row-2">
-  <figure class="build-image">
-    <img src="{{ site.baseurl }}/assets/images/projects/log-cabin/log-cabin-build3-003.jpg" alt="Bridge construction">
-    <figcaption>Bridge in progress among other component parts</figcaption>
-  </figure>
-  <figure class="build-image">
-    <img src="{{ site.baseurl }}/assets/images/projects/log-cabin/log-cabin-build3-008.jpg" alt="Final bridge positioning">
-    <figcaption>Final positioning showing pathway solution and space for fisherman</figcaption>
-  </figure>
-</div>
+![Bridge construction]({{ site.baseurl }}/assets/images/projects/log-cabin/log-cabin-build3-003.jpg)  
+*Bridge in progress among other component parts*
 
-<div class="image-row-2">
-  <figure class="build-image">
-    <img src="{{ site.baseurl }}/assets/images/projects/log-cabin/log-cabin-build5-002.jpg" alt="Bridge in model">
-    <figcaption>Completed bridge in the landscape</figcaption>
-  </figure>
-  <figure class="build-image">
-    <img src="{{ site.baseurl }}/assets/images/projects/log-cabin/log-cabin-build5-006.jpg" alt="Bridge alternate angle">
-    <figcaption>Bridge from different angle showing pathway integration</figcaption>
-  </figure>
-</div>
+![Final bridge positioning]({{ site.baseurl }}/assets/images/projects/log-cabin/log-cabin-build3-008.jpg)  
+*Final positioning showing pathway solution and space for fisherman*
+
+![Bridge in model]({{ site.baseurl }}/assets/images/projects/log-cabin/log-cabin-build5-002.jpg)  
+*Completed bridge in the landscape*
+
+![Bridge alternate angle]({{ site.baseurl }}/assets/images/projects/log-cabin/log-cabin-build5-006.jpg)  
+*Bridge from different angle showing pathway integration*
 
 ### The Logging Station
 
@@ -575,22 +463,13 @@ No log cabin is complete without a logging area.
 
 **Positioning:** Finally positioned at rear of cabin, surrounded by a tree, grasses, moss, and tea leaves to cover the base.
 
-<div class="image-row-2">
-  <figure class="build-image">
-    <img src="{{ site.baseurl }}/assets/images/projects/log-cabin/log-cabin-build3-004.jpg" alt="Logging station detail">
-    <figcaption>Finished logging station with crosscut saw and log pile</figcaption>
-  </figure>
-  <figure class="build-image">
-    <img src="{{ site.baseurl }}/assets/images/projects/log-cabin/log-cabin-build5-008.jpg" alt="Logging station in context">
-    <figcaption>Logging station integrated into the scene at cabin rear</figcaption>
-  </figure>
-</div>
+![Logging station detail]({{ site.baseurl }}/assets/images/projects/log-cabin/log-cabin-build3-004.jpg)  
+*Finished logging station with crosscut saw and log pile*
 
-</section>
+![Logging station in context]({{ site.baseurl }}/assets/images/projects/log-cabin/log-cabin-build5-008.jpg)  
+*Logging station integrated into the scene at cabin rear*
 
 ---
-
-<section class="chapter-section" id="chapter-9">
 
 ## Chapter 9: Reflections and Lessons
 
@@ -662,8 +541,6 @@ This diorama demonstrates that patience, attention to natural details, and thoug
 
 **Completion Date:** April 10, 2024
 
-</section>
-
 ---
 
 ## Gallery
@@ -679,4 +556,3 @@ This diorama demonstrates that patience, attention to natural details, and thoug
   {% endfor %}
 </div>
 {% endif %}
-
