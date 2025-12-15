@@ -1159,6 +1159,26 @@ article p > em {
   margin: 2rem 0;
 }
 
+/* Size control for inline images in project pages */
+.page-content img {
+  max-width: 600px;
+  width: 100%;
+  height: auto;
+  display: block;
+  margin: 1.5rem auto;
+  border-radius: 4px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+.page-content img + em {
+  display: block;
+  text-align: center;
+  font-size: 0.9rem;
+  color: #666;
+  margin-top: -1rem;
+  margin-bottom: 1.5rem;
+}
+
 /* Responsive adjustments for project images */
 @media (max-width: 768px) {
   .image-row-2,
@@ -1174,5 +1194,9 @@ article p > em {
   .project-meta {
     flex-direction: column;
     gap: 0.5rem;
+  }
+  
+  .page-content img {
+    max-width: 100%;
   }
 }
