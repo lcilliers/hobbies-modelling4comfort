@@ -20,6 +20,9 @@ param(
     [string]$OutputSubFolder = "web-optimized",
     
     [Parameter(Mandatory=$false)]
+    [string]$TargetFolder = "",
+    
+    [Parameter(Mandatory=$false)]
     [switch]$PreserveOriginal,
     
     [Parameter(Mandatory=$false)]
@@ -315,21 +318,35 @@ Write-Info "Configuration:"
 Write-Host "  Source Folder:    $SourceFolder" -ForegroundColor White
 Write-Host "  Max Dimensions:   ${MaxWidth}×${MaxHeight} px" -ForegroundColor White
 Write-Host "  JPEG Quality:     $JpegQuality%" -ForegroundColor White
-Write-Host "  Output Subfolder: $OutputSubFolder" -ForegroundColor White
+if ($TargetFolder) {
+    Write-Host "  Target Folder:    $TargetFolder" -ForegroundColor White
+} else {
+    Write-Host "  Output Subfolder: $OutputSubFolder" -ForegroundColor White
+}
 Write-Host "  Recursive:        $Recursive" -ForegroundColor White
 Write-Host ""
 
 # Create output folder
-$outputPath = Join-Path $SourceFolder $OutputSubFolder
-if (-not (Test-Path $outputPath)) {
-    New-Item -ItemType Directory -Path $outputPath -Force | Out-Null
-    Write-Success "Created output folder: $outputPath"
+if ($TargetFolder) {
+    $outputPath = $TargetFolder
+    if (-not (Test-Path $outputPath)) {
+        New-Item -ItemType Directory -Path $outputPath -Force | Out-Null
+        Write-Success "Created target folder: $outputPath"
+    } else {
+        Write-Info "Using existing target folder: $outputPath"
+    }
 } else {
-    Write-Warning "Output folder already exists: $outputPath"
-    $response = Read-Host "Continue and overwrite existing files? (Y/N)"
-    if ($response -ne "Y" -and $response -ne "y") {
-        Write-Info "Operation cancelled."
-        exit 0
+    $outputPath = Join-Path $SourceFolder $OutputSubFolder
+    if (-not (Test-Path $outputPath)) {
+        New-Item -ItemType Directory -Path $outputPath -Force | Out-Null
+        Write-Success "Created output folder: $outputPath"
+    } else {
+        Write-Warning "Output folder already exists: $outputPath"
+        $response = Read-Host "Continue and overwrite existing files? (Y/N)"
+        if ($response -ne "Y" -and $response -ne "y") {
+            Write-Info "Operation cancelled."
+            exit 0
+        }
     }
 }
 Write-Host ""

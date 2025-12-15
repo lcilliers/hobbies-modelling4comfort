@@ -1,0 +1,558 @@
+---
+layout: project
+title: "Log Cabin in the Woods"
+date: 2024-04-10
+categories: dioramas
+tags: [scratch-build, landscaping, woodland, architecture, natural-materials, figures]
+scale: "Freelance (~1:35)"
+featured_image: "/assets/images/projects/log-cabin/log-cabin-gallery-001.jpg"
+gallery:
+  - log-cabin-gallery-001.jpg
+  - log-cabin-gallery-002.jpg
+  - log-cabin-gallery-003.jpg
+  - log-cabin-gallery-004.jpg
+  - log-cabin-gallery-005.jpg
+  - log-cabin-gallery-006.jpg
+  - log-cabin-gallery-007.jpg
+  - log-cabin-gallery-008.jpg
+excerpt: "A three-month journey into scratch building: from garden waste to authentic log cabin scene with handcrafted vegetation, my first sculpted figure, and natural materials throughout."
+---
+
+## A Three-Month Journey into Scratch-Built Diorama Modeling
+
+**Duration:** January 20 - April 10, 2024 (3 months, ~130-140 hours)  
+**Approach:** Freelance scale - "accurate to the eye rather than mathematically precise"  
+**Final Size:** 25cm × 25cm base
+
+---
+
+## Chapter 1: The Spark of Inspiration
+
+### From Kit Builder to Scratch Builder
+
+My journey into scratch building began with Cathy's Flower House, a beautifully designed kit that introduced me to the art of making miniature plants. The kit came with everything flat-packed and indexed - all the plants, flowers, and garden equipment meticulously supplied with proper assembly guidance. I love plants, and this kit awakened something in me: the desire to create these miniature worlds myself, using materials from around my own house, tool room, and garden.
+
+At this stage, I didn't even know the terms "diorama" or "scratch build." I simply wanted to experiment with this newfound skill. Only later, through internet research, did I discover there was an entire industry of skilled and experienced enthusiasts worldwide doing exactly what I wanted to do.
+
+### The Garden Connection
+
+As a keen gardener, I maintain an active composting area, recycling the majority of garden material. Some thicker branches (1.5 inches and more) couldn't go through the chipper, so I started experimenting with slicing them into 2mm × 50mm strips using my table saw. Looking at these strips, inspiration struck: I could build a cabin with them!
+
+Internet searches revealed lovely log cabin images that captured my imagination - 42 research images organized by category became my reference library for this project.
+
+---
+
+## Chapter 2: Planning and Prototyping
+
+### Working Without Architectural Drawings
+
+I first had to figure out the scale and size. Since I cannot make architectural drawings, I work "accurate to the eye rather than mathematically precise" - sizing components by what looks right. This meant I had to size, measure, and fit each component during the actual building process.
+
+![Prototype cabin with rocky backdrop]({{ site.baseurl }}/assets/images/projects/log-cabin/log-cabin-build1-001.jpg)  
+*Prototype cabin positioned against rocky backdrop, showing potential river location*
+
+![Cardboard prototype]({{ site.baseurl }}/assets/images/projects/log-cabin/log-cabin-build1-002.jpg)  
+*Paper and cardboard prototype establishing footprint and proportions*
+
+My approach: create a paper and cardboard prototype cabin to establish the footprint and visualize proportions. The cabin ended up at 13cm × 9cm.
+
+### The Landscape Vision
+
+Key features I wanted:
+- An authentic log cabin in the woods
+- A flowing river
+- Several larger trees
+- A dramatic rocky backdrop
+
+The challenge: fitting all this onto a 25cm × 25cm base due to space limitations.
+
+**Design Decision:** I deliberately kept the rocky backdrop even though the scale isn't strictly realistic compared to the cabin. My reasons:
+- Creates perspective and depth
+- Dramatic visual effect
+- Allows showing different tree types growing on rocks
+- Provides surfaces for moss and lichen details
+- Artistic freedom for the composition I envisioned
+
+---
+
+## Chapter 3: The Base - A Disaster That Taught Me Patience
+
+### Initial Construction
+
+Setting the cabin against a rocky cliff backdrop, I glued pieces of 20mm styrofoam together to form the basic cliff shape. I quickly realized the structure needed support, so I added a thin plywood backing initially.
+
+The cliff backing was fitted diagonally to the height of the rocks, which both sturdied the structure and created visual continuity for the eye to follow.
+
+**Materials:**
+- 20mm styrofoam (base and rocky backdrop)
+- Flour, PVA glue, water, vinegar, cooking oil (paste mixture)
+- Initially: thin plywood backing (later changed)
+
+### The Paste Mixture Disaster
+
+I researched homemade paste recipes to cover the styrofoam. Most used similar ingredients: flour, PVA glue, water, with vinegar (to suppress mold) and cooking oil (to reduce stickiness).
+
+I mixed my paste and covered the foam with layers, letting it dry. But I probably started adding landscaping structures too early. The paste continued cracking for some time and started to curl.
+
+![Paste cracking visible]({{ site.baseurl }}/assets/images/projects/log-cabin/log-cabin-build1-003.jpg)  
+*Extensive cracking and curling of the paste mixture - a frustrating but educational experience*
+
+**THE BIG PROBLEM:** It cracked badly, most likely due to the paste composition.
+
+**My Solution:** I kept filling in the cracks until it hardened - spending probably closer to 2 weeks total on this frustrating process.
+
+### Improving the Design
+
+While dealing with the cracking, I made a significant change: replaced the plywood backdrop with proper wood strips glued together from dried garden tree branches.
+
+**Three reasons for this change:**
+1. **Consistency** - using natural wood matched my overall material philosophy
+2. **Improved stability** - stronger structural support
+3. **Better aesthetics** - natural wood grain and texture
+
+All wood material came from garden trees, properly dried and cut into strips of different thicknesses and widths with a table saw. The edges of the lower ground area were framed to hide the polystyrene base.
+
+**Lesson Learned:** Next time I'd add more PVA and less water. I'll explore other ingredients in future models - plaster, wood sawdust, or paper mache.
+
+---
+
+## Chapter 4: Keeping Momentum - Parallel Plant Preparation
+
+### Turning Frustration into Productivity
+
+While waiting for the paste to dry and dealing with cracking issues, I kept momentum by collecting and preparing materials for plants and trees. This parallel work proved essential during the frustrating drying period.
+
+![Collected grasses and twigs]({{ site.baseurl }}/assets/images/projects/log-cabin/log-cabin-build1-006.jpg)  
+*Grasses and twigs collected from woodland areas and garden prunings*
+
+![Organized material collection]({{ site.baseurl }}/assets/images/projects/log-cabin/log-cabin-build3-002.jpg)  
+*Tubs showing organized collected materials by type and texture*
+
+### The Material Hunt
+
+**Materials collected:**
+- Twigs and dried plant roots (from woodland areas and garden prunings)
+- Sisal untwined from rope (for pine needles)
+- Dried moss
+- Different types of grass
+- Sawdust (for foliage texture)
+- Sifted soil
+- Small stones (horticultural grit)
+- Pillow filling or hollowfibre (for shrubs and bushes)
+
+### Experimentation and Technique Development
+
+Combined with internet research, I started experimenting:
+- Coloring sawdust to cover twigs for trees and shrubs
+- Coloring sisal for pine trees
+- Using a glue gun to set grasses into little bundles
+- Attaching twigs to main branches using drill-and-pin technique with CA glue
+- Using pillow filling for shrubs, gluing sawdust to it for texture
+
+![Experimental tree constructions]({{ site.baseurl }}/assets/images/projects/log-cabin/log-cabin-build1-005.jpg)  
+*Selection of experimental trees showing different material approaches - many were discarded before achieving the right look*
+
+### Custom Tool Creation
+
+I made a tool for twisting wires and setting sisal into pine trees.
+
+![Custom wire-twisting tool]({{ site.baseurl }}/assets/images/projects/log-cabin/log-cabin-build5-023.jpg)  
+*Custom wire-twisting tool for pine tree construction*
+
+![Tool detail]({{ site.baseurl }}/assets/images/projects/log-cabin/log-cabin-build5-024.jpg)  
+*Tool detail showing wire mechanism*
+
+### Selection and Rejection
+
+This experimentation led to selecting trees and shrubs for the landscape. Many attempts were discarded before achieving the right look - a normal part of the creative process and discovery.
+
+**Time Investment:** Approximately 25-30 hours
+
+---
+
+## Chapter 5: Building the Cabin
+
+### Construction Philosophy
+
+With a good selection of landscape material at hand, I decided to build the cabin itself. My approach remained consistent: measure, fit, and adjust during construction since I work without formal architectural drawings.
+
+### Materials
+
+**Structural:**
+- Wood strips reclaimed from garden tree branches, various thicknesses and widths (mainly Acer and Bay leaves)
+- Square pieces for shaping logs for wall frames, doors, windows, and roof
+- Planks for floor, steps, and walls
+- Clear plastic for windows
+- Dowels for roof structure
+- Bamboo of different thicknesses for the patio
+- Balsa wood for cabin base
+- Epoxy putty for the chimney
+- 3 sheets of 80gr paper glued together for roof tile thickness
+
+**Details:**
+- Epoxy putty for stone-textured chimney (I only discovered air dry clay later)
+- Water-based acrylic paint (various reddish shades for bricks, black and white for weathering)
+
+### Wall Construction Method
+
+Each wall was separately framed, then fitted with wood strips. Windows and doors were framed individually. This approach made assembly easier and ensured everything was square before joining walls together.
+
+![Framed walls before assembly]({{ site.baseurl }}/assets/images/projects/log-cabin/log-cabin-build1-008.jpg)  
+*Individual wall frames ready for log work - each window and door carefully positioned*
+
+This was particularly important for positioning doors and windows correctly, and for fitting the chimney - all requiring careful measurement and fitting during the building process.
+
+### Log Work
+
+Each log was individually cut to size and fitted. The logs were stained to add color variation and natural wood tones. I did NOT do any bark texturing - the natural texture of the wood strips provided the character.
+
+**Wall assembly details:**
+- Corner notching carefully cut for authentic interlocking
+- Each log cut with slight length variations for realism
+- Painted with watered-down acrylic with various wood tones for natural variation
+- Fitted and glued with corner notches aligned
+- Stone foundation wall to level cabin (using horticultural grit for stones)
+- Weathered foundation with plants growing in wall crevices
+
+### Roof Construction
+
+- Ridge beam running the cabin length
+- Individual rafters evenly spaced
+- Cross bracing for stability
+- Roof boards laid perpendicular to rafters
+- Individual shingles made from 3 sheets of paper glued together with PVA to get the right thickness, painted dark grey to black, weathered, then cut into single tiles and applied row by row (time-intensive but worthwhile)
+
+### Details That Bring Life
+
+**Chimney:** The core made from scrap wood, then covered with milliput standard epoxy putty with mortar lines scratched in. Bricks painted in different shades of acrylic reddish and weathered with black and white.
+
+![Chimney construction]({{ site.baseurl }}/assets/images/projects/log-cabin/log-cabin-build1-009.jpg)  
+*Chimney core with epoxy putty before painting*
+
+![Painted chimney]({{ site.baseurl }}/assets/images/projects/log-cabin/log-cabin-build2-002.jpg)  
+*Finished chimney with mortar lines and brick weathering*
+
+**Porch Features:**
+
+![Finished cabin before mounting]({{ site.baseurl }}/assets/images/projects/log-cabin/log-cabin-build2-001.jpg)  
+*Complete cabin before installation showing porch posts, trellis, and details*
+
+- Front porch posts with supporting beams
+- Firewood rack with stacked ready-to-use wood
+- Weathered wooden chair
+- Clay flower pot with plant
+- Trellis over side of porch with vine growing through (bamboo trellis with thicker bamboo base fittings)
+
+![Firewood rack and chair]({{ site.baseurl }}/assets/images/projects/log-cabin/log-cabin-build5-007.jpg)  
+*Firewood rack with stacked wood and weathered chair detail*
+
+![Steps to river]({{ site.baseurl }}/assets/images/projects/log-cabin/log-cabin-build5-005.jpg)  
+*Wooden steps from porch down to the river*
+
+**Challenges:**
+- Maintaining consistent log dimensions
+- Aligning corner notches precisely for tight fit
+- Leveling of stone wall to fit base
+- Wall, window, door, chimney alignment
+- Miniature shaping and moulding: plant pot, chair, steps
+
+**Time Investment:** Approximately 40-45 hours
+
+---
+
+## Chapter 6: Creating the Forest - Trees and Vegetation
+
+### The Tree-Making Process
+
+After completing the cabin structure (around early March 2024), I focused on vegetation. Built 8 main tree armatures (heights 5-12cm) and 15 smaller saplings/bushes.
+
+**Collection sources:**
+- Local woodland areas (small twigs and branches with appropriate scale)
+- Garden prunings (fine branching structures)
+- Dried flowers and seed heads (foliage texture)
+- Moss and lichen specimens
+- Fine grasses and stems
+
+### Tree Assembly Technique
+
+**Step-by-step process:**
+1. Select main trunk with good taper and character
+2. Drill small holes at natural branch points
+3. Insert and glue secondary branches using CA glue, strengthened with steel wire pins
+4. Add finer twigs to branch tips for detail
+5. Paint trunk and branches with bark colors
+6. Apply washes to enhance texture and depth
+7. Add foliage using scenic adhesive or hairspray
+
+![Shrub base construction]({{ site.baseurl }}/assets/images/projects/log-cabin/log-cabin-build4-005.jpg)  
+*Shrub base constructed from twisted copper wire*
+
+![Moss application]({{ site.baseurl }}/assets/images/projects/log-cabin/log-cabin-build4-003.jpg)  
+*Gluing moss on shrub structure while drying*
+
+### Material Processing and Preservation
+
+- Air dried in dark, dry location to prevent color fade
+- After painting and drying, sealed with diluted PVA (white glue)
+- Foliage dried thoroughly with vinegar to suppress mould
+- Broken into appropriately scaled pieces and sifted into different grades
+- Sorted by texture and color
+- Treated with diluted PVA to seal and strengthen
+
+### Tree Variety and Placement
+
+![Tree placement testing]({{ site.baseurl }}/assets/images/projects/log-cabin/log-cabin-build1-010.jpg)  
+*Testing tree positions and initial bridge placement (later repositioned)*
+
+**Tree types created:**
+- Fir trees positioned on rocky cliff
+- Two main tall trees positioned to the back of house
+- Dried plant roots turned upside down to form trees
+- Twigs selected for tree-like form, glued with moss
+- Other twigs covered with fine pieces of hollow fiber from cushions, then colored sawdust
+- Pyracantha shrub branches (with long thorns and tough wood) resembled tree frames perfectly - thorns covered with thinned and colored hollow fiber and sawdust
+
+![Tall trees behind house]({{ site.baseurl }}/assets/images/projects/log-cabin/log-cabin-build4-012.jpg)  
+*Two main tall trees positioned behind cabin*
+
+![Fir trees on cliff]({{ site.baseurl }}/assets/images/projects/log-cabin/log-cabin-build5-009.jpg)  
+*Fir trees growing on rocky cliff outcrop*
+
+![Cliff trees detail]({{ site.baseurl }}/assets/images/projects/log-cabin/log-cabin-build4-011.jpg)  
+*Vegetation detail on cliff with rear footpath*
+
+**Challenges:**
+- Finding branches at appropriate scale required extensive searching
+- Some materials proved too fragile after drying
+- Quite a bit of experimentation had to be discarded
+- Color changes during drying weren't always predictable
+- Organization of many small components
+
+**Time Investment:** Approximately 25-30 hours
+
+---
+
+## Chapter 7: Building the Landscape
+
+### Ground Texturing - A Layered Approach
+
+**Layer 1 - Base:**
+- Diluted PVA glue brushed over entire surface
+- Fine sand and soil mixture sprinkled while wet
+- Multiple coats for solid, durable base
+- Allowed complete drying between coats
+
+**Layer 2 - Secondary Texturing:**
+- Coarser sand and small gravel in pathway areas
+- Fine turf fibers in grassy areas
+- Darker earth tones near cabin for trampled look
+- Stone texture added with small pebbles
+
+**Layer 3 - Organic Materials:**
+
+Material collected and organized from various sources for easy access when matching texture and color:
+- Sifted gravel (various grades)
+- Grasses (multiple types)
+- Dried moss from roof tiles
+- Tea leaves
+- Bark pieces
+- Different coloring of hollow fiber
+- Different colors and grades of sawdust
+- Sphagnum moss colored in different shades
+- Horticultural grit
+- Sisal untwisted from ropes and cut into short pieces
+
+### Flowering Plants
+
+Experimented with making small flowers from prepared materials, adding wire stems to help with installation.
+
+![Flower-making experiments]({{ site.baseurl }}/assets/images/projects/log-cabin/log-cabin-build4-001.jpg)  
+![Testing different materials and techniques]({{ site.baseurl }}/assets/images/projects/log-cabin/log-cabin-build4-002.jpg)  
+![Additional flower construction details]({{ site.baseurl }}/assets/images/projects/log-cabin/log-cabin-build4-006.jpg)
+
+### Pathway System
+
+**Rear Footpath:**
+Path from river to rear of house, climbing up the cliff. Rich foliage of different forest plants and shrubs with small bluebells lining the path. Covered with mixture of tea bags and colored sawdust (greens and various browns).
+
+![Rear footpath]({{ site.baseurl }}/assets/images/projects/log-cabin/log-cabin-build5-004.jpg)  
+*Rear footpath climbing the rocky cliff with dense foliage*
+
+![Path detail]({{ site.baseurl }}/assets/images/projects/log-cabin/log-cabin-build4-011.jpg)  
+*Detail of cliff vegetation and path integration*
+
+**Riverside Footpath:**
+Rich set of plants on one side, river bank on the other, leading up to the bridge.
+
+![Riverside path]({{ site.baseurl }}/assets/images/projects/log-cabin/log-cabin-build5-003.jpg)  
+*Riverside path with varied vegetation leading to bridge*
+
+### Composition Principles
+
+**Applied throughout the landscape:**
+- Depth and perspective (larger elements in foreground)
+- Natural randomness (avoided symmetrical placement)
+- Visual balance (cabin off-center for interest)
+- Scale consistency (all vegetation appropriately sized)
+
+**Challenges:**
+- Balancing detail density - knowing when to stop adding materials
+- Maintaining scale consistency with natural materials
+- Working around already-placed trees to add undergrowth
+- Preventing glue from showing through ground cover
+
+**Time Investment:** Approximately 45-50 hours
+
+---
+
+## Chapter 8: Structures and Figures - Adding Life to the Scene
+
+### My First Figure: The Riverside Fisherman
+
+I wanted to add a figure next to the river, but make the figure myself. At this point I had never made any figures - completely new territory. The only clay available was Milliput standard two-part epoxy putty.
+
+After researching appropriate figures and techniques, I realized epoxy putty is not easy to work with at all. To make life easier, I selected a simple pose: a seated fisherman.
+
+![First figure attempt]({{ site.baseurl }}/assets/images/projects/log-cabin/log-cabin-build1-004-figure.jpg)  
+*My first attempt at sculpting a figure - a seated fisherman (cropped detail)*
+
+![Fisherman in scene]({{ site.baseurl }}/assets/images/projects/log-cabin/log-cabin-build5-001.jpg)  
+*Fisherman positioned beside the river in completed scene*
+
+**Challenges faced:**
+- Getting proportions right
+- Epoxy putty difficult to work with - arms and legs kept breaking off
+- Finer details (face, hands) impossible for me to master at this stage
+
+**Lessons for future:** In later models I changed to different clay, added wire armatures for figures, studied proportions more carefully, and sought guidance. Nevertheless, I was proud of my first miniature man catching fish next to the river.
+
+### The Bridge Crossing
+
+**Construction method:**
+- Cut two strips in a bow for bridge sides
+- Glued planks across
+- Cut and sanded 1.5mm square poles to size
+- Drilled holes in each pole
+- Bent copper eyelets and fixed to old jewelry chain on each side
+- Aging and weathering done with acrylic paint
+
+**Positioning evolution:**
+Initially played with positioning the bridge from left to right across the river, but finally positioned it to allow more space for the fisherman at the model edge. This meant creating a pathway from the cabin stairs along the river to the bridge.
+
+![Bridge construction]({{ site.baseurl }}/assets/images/projects/log-cabin/log-cabin-build3-003.jpg)  
+*Bridge in progress among other component parts*
+
+![Final bridge positioning]({{ site.baseurl }}/assets/images/projects/log-cabin/log-cabin-build3-008.jpg)  
+*Final positioning showing pathway solution and space for fisherman*
+
+![Bridge in model]({{ site.baseurl }}/assets/images/projects/log-cabin/log-cabin-build5-002.jpg)  
+*Completed bridge in the landscape*
+
+![Bridge alternate angle]({{ site.baseurl }}/assets/images/projects/log-cabin/log-cabin-build5-006.jpg)  
+*Bridge from different angle showing pathway integration*
+
+### The Logging Station
+
+No log cabin is complete without a logging area.
+
+**Construction:**
+- Two-man crosscut saw with logging stand
+- Saw blade cut from tin can, two handles glued at ends
+- Stand glued together from rough-cut wood strips
+- Log pile made from garden twigs
+
+**Positioning:** Finally positioned at rear of cabin, surrounded by a tree, grasses, moss, and tea leaves to cover the base.
+
+![Logging station detail]({{ site.baseurl }}/assets/images/projects/log-cabin/log-cabin-build3-004.jpg)  
+*Finished logging station with crosscut saw and log pile*
+
+![Logging station in context]({{ site.baseurl }}/assets/images/projects/log-cabin/log-cabin-build5-008.jpg)  
+*Logging station integrated into the scene at cabin rear*
+
+---
+
+## Chapter 9: Reflections and Lessons
+
+### Project Statistics
+
+**Total Build Time:** Approximately 130-140 hours over 3 months
+- Cabin construction: 40-45 hours
+- Plant preparation: 25-30 hours
+- Scenery building: 45-50 hours
+- Finishing and details: 20-25 hours
+
+**Final Dimensions:**
+- Base: 25cm × 25cm
+- Height (tallest tree): ~15cm
+- Cabin: 8cm × 6cm × 7cm (with chimney)
+
+### What Worked Well
+
+- Individual log construction gave authentic appearance
+- Corner notching technique created realistic joints
+- Variation in wood tones added natural character
+- Roof structure method was sturdy and realistic
+- Natural materials provided instant realism
+- Variety in collection gave options during scenery building
+- Layered weathering approach created realistic aging
+- Small details brought personality to the scene
+- Color harmonization unified disparate elements
+
+### Challenges Encountered
+
+- Paste mixture cracking (solved with multiple fill applications)
+- Preparing all the wood work from scratch in terms of thickness, sizes and texture
+- Finding scale-appropriate branches and other materials required extensive searching
+- Some materials too fragile after drying, had to be preserved
+- Color changes during drying unpredictable
+- Knowing when to stop adding details
+- Balancing weathering - not too clean, not too dirty
+
+### Skills Developed
+
+- Fine detail work at small scale - lots of wood carving and shaping
+- Scale woodworking techniques
+- Building structural elements from scratch
+- Weathering and aging wood surfaces
+- Plant material selection and evaluation
+- Miniature flower making with different materials
+- Preservation and sealing techniques
+- Tree armature construction
+- Natural material organization and workflow
+- Terrain building and contouring
+- Composition and visual balance
+- Working with natural materials at scale
+- Layering techniques for realistic ground texture
+- Advanced weathering techniques
+- Micro-detail placement and creation
+- Color theory and harmonization
+- Scene composition and storytelling
+- Protective finishing methods
+- Basic figure sculpting (though much to learn)
+- In all respects the learning was just an introduction with lots to discover, practice and refine in time to come
+
+### Final Thoughts
+
+The Log Cabin in the Woods project was a rewarding journey into scratch building and natural material diorama work. The three-month build time allowed for careful development of each phase while the scratch-built approach provided complete creative control.
+
+The combination of handcrafted cabin structure, carefully prepared vegetation, and thoughtful scenery building resulted in a cohesive woodland scene that captures the peaceful isolation of a cabin deep in the forest. Each viewing reveals new details, from the weathered cabin logs to the tiny bluebells along the path to my first attempt at figure-making.
+
+This diorama demonstrates that patience, attention to natural details, and thoughtful weathering can transform basic materials - garden waste, household items, and collected natural specimens - into a convincing miniature world.
+
+**Completion Date:** April 10, 2024
+
+---
+
+## Gallery
+
+{% if page.gallery %}
+<div class="project-gallery">
+  {% for image in page.gallery %}
+  <div class="gallery-item">
+    <a href="{{ site.baseurl }}/assets/images/projects/log-cabin/{{ image }}" data-lightbox="gallery">
+      <img src="{{ site.baseurl }}/assets/images/projects/log-cabin/{{ image }}" alt="Log Cabin - {{ image }}">
+    </a>
+  </div>
+  {% endfor %}
+</div>
+{% endif %}

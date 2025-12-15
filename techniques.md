@@ -63,7 +63,7 @@ Learn how to create realistic snow, ice, and winter weather effects on buildings
 [View Full Tutorial →]({{ '/techniques/winter-weathering/' | relative_url }})
 
 **Skill Level:** Intermediate  
-**Used in:** Cabin in Woods, Country House  
+**Status:** General knowledge tutorial - not yet applied to Models4Comfort projects  
 **Key Materials:** Baking soda, white glue, texture paste, white pigments
 {: .technique-card}
 

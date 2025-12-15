@@ -10,6 +10,12 @@ tags:
 comments: true
 ---
 
+> **⚠️ GENERAL KNOWLEDGE TUTORIAL**
+> 
+> This technique guide is based on general scale modeling practices and external research (books, videos, community knowledge), not personal project experience from Models4Comfort builds.
+> 
+> Future updates will include examples and photos from Models4Comfort projects when winter-themed dioramas are completed.
+
 ## Introduction to Winter Weathering
 
 Winter dioramas present unique challenges and opportunities for weathering. The combination of snow, ice, mud, and extreme cold creates distinct weathering patterns that differ significantly from other environments.
