@@ -7,6 +7,203 @@ The Source-Narrative methodology is an approach to documenting modeling projects
 
 **Key Principle**: Write the story first, then integrate images where they naturally enhance the narrative.
 
+**Critical Requirement**: All content must be validated to ensure authenticity and accuracy.
+
+---
+
+## Content Validation Framework
+
+### Classification System
+
+All content should be classified using the three-tier validation system:
+
+#### 1. ✅ ALL CONTENT VALIDATED
+**Definition**: All information verified from actual project files, data, or personal documentation.
+
+**Characteristics:**
+- Project specifications (scale, dates, dimensions) verified against actual work
+- Build narrative reflects authentic personal experience and memories
+- Image paths verified to exist in asset folders
+- Technical details match actual techniques used
+- Timeline matches actual build progression
+- No assumed or placeholder content
+
+**Example**: log-cabin project page and all 4 build logs - 130-140 hours documented with real photos, authentic challenges, verified timeline.
+
+#### 2. ⚠️ PARTIALLY VALIDATED
+**Definition**: Mix of verified data and unverified/placeholder content.
+
+**Characteristics:**
+- Some sections fully validated, others need review
+- May contain AI-organized content requiring human verification
+- Placeholder sections present but clearly marked
+- Template boilerplate mixed with actual content
+
+**Use when:**
+- Project page completed but some sections need expansion
+- AI has organized content but human hasn't verified all sections
+- Transitioning from template to actual content
+
+**Required action**: Mark unvalidated sections with `[AI-CHECK]` or `[NEEDS MORE]`
+
+#### 3. ❌ NOT VALIDATED
+**Definition**: Template, placeholder, or AI-generated content not yet verified by human.
+
+**Characteristics:**
+- Template boilerplate not yet replaced with actual content
+- AI-generated content awaiting human review
+- Assumed content not verified against actual data
+- Future/planning content not based on completed work
+- Generic descriptions not specific to actual project
+
+**Use when:**
+- Creating initial project structure
+- Planning future projects
+- AI has generated draft content for review
+
+**Required action**: Set `published: false` or clearly mark as draft/template
+
+### Human Review Workflow
+
+**Critical Principle**: All AI-generated or AI-organized content MUST go through human validation before publication.
+
+#### Workflow Steps:
+
+1. **Human Authors Source Material**
+   - Write raw narrative in plain language
+   - This is the SOURCE OF TRUTH
+   - Include all remembered details, dates, dimensions, challenges
+   - Mark sections with validation status
+
+2. **AI Reads and Questions**
+   - AI reads narrative and identifies gaps
+   - AI asks clarifying questions
+   - AI notes areas needing more detail
+
+3. **Human Expands Content**
+   - Human adds more details based on AI prompts
+   - Human clarifies ambiguities
+   - Human provides missing information
+
+4. **AI Structures Content**
+   - AI organizes into proper markdown format
+   - AI adds chapter structure and transitions
+   - AI marks all AI-generated additions with `[AI-CHECK]`
+
+5. **Human Reviews and Approves** ← CRITICAL VALIDATION STEP
+   - Human reviews ALL content, especially `[AI-CHECK]` sections
+   - Human verifies AI didn't misinterpret or assume anything
+   - Human validates all technical details, dates, dimensions
+   - Human approves or requests revisions
+
+6. **AI Applies Approved Content**
+   - AI creates final project page with validated content only
+   - AI removes validation markers from approved sections
+   - AI deploys to website
+
+### Validation Markers
+
+Use these markers in source files to track validation status:
+
+**`[AI-CHECK]`** - AI added this content
+```markdown
+[AI-CHECK] The cabin structure took approximately 40-45 hours to complete.
+```
+*Use when*: AI inferred information, added transitions, or structured content
+*Action needed*: Human must verify accuracy before publication
+
+**`[COMPLETE]`** - Human has validated this section
+```markdown
+[COMPLETE]
+I started the log cabin project on January 20, 2024, inspired by 
+Cathy's flower house kit which taught me miniature plant making.
+```
+*Use when*: Content is 100% verified and accurate
+*Action needed*: None - ready for publication
+
+**`[NEEDS MORE]`** - Content exists but needs expansion
+```markdown
+[NEEDS MORE]
+I built the chimney from small stones, but need to add details 
+about the mortar mixture and assembly technique.
+```
+*Use when*: Basic content present but lacks sufficient detail
+*Action needed*: Human adds more information
+
+**`[TODO]`** - Section not yet written
+```markdown
+[TODO] Add section about weathering techniques used on cabin exterior
+```
+*Use when*: Placeholder for future content
+*Action needed*: Human writes this section
+
+### Content Provenance Tracking
+
+Every source file should include a provenance header:
+
+```markdown
+<!--
+═══════════════════════════════════════════════════════════════
+PROJECT NAME - SOURCE NARRATIVE
+═══════════════════════════════════════════════════════════════
+
+PURPOSE: This file contains YOUR raw narrative about the project
+in your own words. This is the SOURCE OF TRUTH.
+
+CONTENT PROVENANCE:
+All content below is YOUR authentic experience and memories.
+Created: YYYY-MM-DD
+Last Updated: YYYY-MM-DD
+Validation Status: [COMPLETE / NEEDS MORE / TODO]
+
+═══════════════════════════════════════════════════════════════
+-->
+```
+
+**Why This Matters:**
+- Distinguishes human-authored from AI-organized content
+- Tracks when content was created/updated
+- Provides validation status at a glance
+- Ensures authenticity of published content
+
+### Validation Checklist
+
+Before publishing any project page, verify:
+
+**Technical Accuracy:**
+- [ ] Scale verified (matches actual project)
+- [ ] Dates verified (start/completion match actual timeline)
+- [ ] Dimensions verified (measurements match actual diorama)
+- [ ] Materials listed are actually used
+- [ ] Techniques described are actually employed
+- [ ] Time estimates are realistic and verified
+
+**Narrative Authenticity:**
+- [ ] All experiences described are personal/actual
+- [ ] No assumed or invented details
+- [ ] Challenges described actually occurred
+- [ ] Learning moments are genuine
+- [ ] No generic template text remains
+
+**Image Validation:**
+- [ ] All image paths verified to exist
+- [ ] Image captions describe actual photos
+- [ ] Gallery images are from actual project
+- [ ] No placeholder image references
+
+**AI-Generated Content Review:**
+- [ ] All `[AI-CHECK]` markers reviewed
+- [ ] AI-generated transitions verified for accuracy
+- [ ] AI-organized structure approved by human
+- [ ] No AI assumptions or inventions present
+
+**Publication Readiness:**
+- [ ] All `[TODO]` sections completed or removed
+- [ ] All `[NEEDS MORE]` sections expanded
+- [ ] Content marked `[COMPLETE]`
+- [ ] Validation markers removed from final version
+- [ ] Front matter `published:` set appropriately
+
 ---
 
 ## Why Source-Narrative?
