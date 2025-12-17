@@ -1,3 +1,6 @@
+---
+published: false
+---
 <!--
 ═══════════════════════════════════════════════════════════════════════════════
 LOG CABIN PROJECT - ORGANIZED NARRATIVE
@@ -169,7 +172,7 @@ Combined with internet research, I started experimenting:
 
 ### Selection and Rejection
 
-This experimentation led to selecting trees and shrubs for the landscape. Many attempts were discarded before achieving the right look - a normal part of the creative process. [AI-CHECK: "creative process" - verify this matches your experience]
+This experimentation led to selecting trees and shrubs for the landscape. Many attempts were discarded before achieving the right look - a normal part of the creative process and discovery. 
 
 ---
 
@@ -182,14 +185,17 @@ With a good selection of landscape material at hand, I decided to build the cabi
 ### Materials
 
 **Structural:**
-- Wood strips reclaimed from garden tree branches
+- Wood strips reclaimed from garden tree branches, various thinknesses, widths. Mainly used Acer and Bayleave wood. square pieces for shaping logs for the frames of the walls, doors windows and the roof; planks for the floor, steps, and walls
+- clear plastic for windows
 - Dowels for roof structure
+- bamboo of different thicknesses for the patio
 - Balsa wood for cabin base
+- epoxy putty for the chimney
 - 3 sheets of 80gr paper glued together for roof tile thickness
 
 **Details:**
-- Air dry clay for stone-textured chimney
-- Acrylic paint (various reddish shades for bricks, black and white for weathering)
+- epoxy putty for stone-textured chimney (I only discovered air dry clay later)
+- water based Acrylic paint (various reddish shades for bricks, black and white for weathering)
 
 **Reference photos (HomeMedia):**
 - `20240225_072535.jpg` - Roof dowel structure
@@ -212,7 +218,7 @@ Each log was individually cut to size and fitted. The logs were stained to add c
 **Wall assembly details:**
 - Corner notching carefully cut for authentic interlocking
 - Each log cut with slight length variations for realism
-- Stained with various wood tones for natural variation
+- painted with watered down Acrylic with various wood tones for natural variation
 - Fitted and glued with corner notches aligned
 - Stone foundation wall to level cabin (using horticultural grit for stones)
 - Weathered foundation with plants growing in wall crevices
@@ -223,11 +229,11 @@ Each log was individually cut to size and fitted. The logs were stained to add c
 - Individual rafters evenly spaced
 - Cross bracing for stability
 - Roof boards laid perpendicular to rafters
-- Individual shingles cut and applied row by row (time-intensive but worthwhile)
+- Individual shingles made from 3 sheets of paper glued together with PVC glue to get the right thinkness, painted darkgrey to black, weathered, then cut into single tiles and applied row by row (time-intensive but worthwhile)
 
 ### Details That Bring Life
 
-**Chimney:** Built from air dry clay with mortar lines scratched in. Bricks painted in different shades of acrylic reddish and weathered with black and white.
+**Chimney:** The core made from scrap wood, then covered with milliput standard epoxy putty with mortar lines scratched in. Bricks painted in different shades of acrylic reddish and weathered with black and white.
 
 **Images:**
 - `log-cabin-build1-009.jpg` - Chimney construction
@@ -244,15 +250,17 @@ Each log was individually cut to size and fitted. The logs were stained to add c
 - `log-cabin-build2-001.jpg` - Finished cabin before mounting, showing porch details and trellis
 - `log-cabin-build5-007.jpg` - Firewood rack and weathered chair detail
 
-**Wooden Stairs:** From porch down to the river
+**Wooden Steps:** From porch down to the river
 
 **Images:**
-- `log-cabin-build5-005.jpg` - Stairs to river
+- `log-cabin-build5-005.jpg` - Steps to river
 
 **Challenges:**
 - Maintaining consistent log dimensions
 - Aligning corner notches precisely for tight fit
-- Keeping walls level as height increased
+- leveling of stone wall to fit base
+- wall, window, door, chimney alignment
+- miniature shaping and moulding: plant pot, chair, steps 
 
 **Time Investment:** Approximately 40-45 hours
 
@@ -287,7 +295,6 @@ After completing the cabin structure (around early March 2024), I focused on veg
 5. Paint trunk and branches with bark colors
 6. Apply washes to enhance texture and depth
 7. Add foliage using scenic adhesive or hairspray
-8. Seal entire tree with matte varnish
 
 **Images showing shrub construction:**
 - `log-cabin-build4-005.jpg` - Shrub base from twisted copper wire
@@ -296,15 +303,14 @@ After completing the cabin structure (around early March 2024), I focused on veg
 ### Preservation Techniques
 
 - Air dried in dark, dry location to prevent color fade
-- Treated with clear matte varnish solution for flexibility retention
-- After painting and drying, sealed with diluted PVA (white glue)
+- After painting and drying, sealed with diluted PVA (white glue) 
 - Stored in labeled containers by material type
 
 ### Material Processing
 
 **Foliage:**
-- Dried thoroughly to prevent decay
-- Broke into appropriately scaled pieces
+- Dried thoroughly to prevent decay, add viniger to suppress mould
+- Broke into appropriately scaled pieces, sifted into different grades
 - Sorted by texture and color
 - Treated with diluted PVA to seal and strengthen
 
@@ -509,74 +515,8 @@ No log cabin is complete without a logging area.
 
 ---
 
-## CHAPTER 9: WEATHERING AND FINISHING - BRINGING IT ALL TOGETHER
 
-### Weathering the Cabin
-
-**Applied effects:**
-- Dirt splash on lower logs from rain runoff
-- Moss and lichen growth on north-facing surfaces
-- Faded wood tones where sunlight would hit
-- Darker staining in protected areas
-- Dust and cobwebs in porch corners
-- Rusty staining around metal fixtures [AI-CHECK: Were there actually metal fixtures to rust? Verify this detail]
-
-### Environmental Weathering
-
-- Tree bark variation with washes and dry brushing
-- Moss on base of older trees
-- Dead leaves in protected corners and against walls
-- Path areas lighter from foot traffic
-- Erosion marks in soil near drainage paths
-- Natural debris accumulated against obstacles
-
-### Micro-Details That Tell Stories
-
-- Woodpile stacked near cabin door
-- Simple rustic furniture on porch (chair, small table) [AI-CHECK: Was there a small table? Verify]
-- Stone pathway leading to door
-- Small rocks and pebbles in natural arrangements
-- Acorns and pine cones scattered on ground
-- Bark pieces and wood chips near woodpile
-- Dust and dirt accumulation in corners
-
-### Color Harmonization
-
-**Wash recipes used:**
-- Brown wash: Raw umber + water + flow improver
-- Green wash: Olive green + brown + water
-- Grey wash: Black + white + water (for weathering)
-- Sepia wash: For aged wood effects
-
-**Application approach:**
-- Thin washes applied over entire scene
-- Subtle earth tone unification
-- Darkening shadows under trees and cabin eaves
-- Lightening areas where sunlight would naturally hit
-- Dust effects on surfaces
-- Atmospheric perspective in distant areas
-
-### Protective Finishing
-
-**Matte varnish spray application:**
-- Tested on scrap materials first
-- Applied in thin layers from 30cm distance
-- Allowed to dry between coats (4-6 hours)
-- Total of 3 light coats
-- Avoided pooling in details
-- Maintained matte finish throughout
-
-**Purpose:**
-- Seal entire scene
-- Protect natural materials from decay
-- Prevent UV fading
-- Create durable surface
-
-**Time Investment:** Approximately 20-25 hours for finishing phase
-
----
-
-## CHAPTER 10: REFLECTIONS AND LESSONS
+## CHAPTER 9: REFLECTIONS AND LESSONS
 
 ### Project Statistics
 
@@ -587,19 +527,18 @@ No log cabin is complete without a logging area.
 - Finishing and details: 20-25 hours
 
 **Final Dimensions:**
-- Base: 30cm × 25cm
+- Base: 25cm × 25cm
 - Height (tallest tree): ~15cm
 - Cabin: 8cm × 6cm × 7cm (with chimney)
 
 ### What Worked Well
 
-- Individual log construction gave authentic appearance [AI-CHECK: Verify - you didn't texture logs, just stained them]
+- Individual log construction gave authentic appearance 
 - Corner notching technique created realistic joints
 - Variation in wood tones added natural character
 - Roof structure method was sturdy and realistic
 - Natural materials provided instant realism
 - Variety in collection gave options during scenery building
-- Pre-treating materials prevented future deterioration
 - Layered weathering approach created realistic aging
 - Small details brought personality to the scene
 - Color harmonization unified disparate elements
@@ -607,20 +546,21 @@ No log cabin is complete without a logging area.
 ### Challenges Encountered
 
 - Paste mixture cracking (solved with multiple fill applications)
-- Maintaining consistent log dimensions [AI-CHECK: Was this actually a challenge if you didn't texture them?]
-- Finding scale-appropriate branches required extensive searching
-- Some materials too fragile after drying
+- Preparing all the wood work from scratch in terms of thickness, sizes and texture
+- Finding scale-appropriate branches and other materials required extensive searching
+- Some materials too fragile after drying, had to be preserved
 - Color changes during drying unpredictable
 - Knowing when to stop adding details
 - Balancing weathering - not too clean, not too dirty
 
 ### Skills Developed
 
-- Fine detail work at small scale [AI-CHECK: "Fine detail carving for bark texture" was in original but you didn't carve bark - verify what skills you actually developed]
+- Fine detail work at small scale - lots of would carving and shaping
 - Scale woodworking techniques
 - Building structural elements from scratch
 - Weathering and aging wood surfaces
 - Plant material selection and evaluation
+- Miniature flower making with different materials
 - Preservation and sealing techniques
 - Tree armature construction
 - Natural material organization and workflow
@@ -634,33 +574,7 @@ No log cabin is complete without a logging area.
 - Scene composition and storytelling
 - Protective finishing methods
 - Basic figure sculpting (though much to learn)
-
-### Lessons Learned
-
-**Planning:**
-- Collect reference images throughout build, not just at start
-- Test finishing techniques on scrap before applying to model
-- Document progress regularly for future reference
-
-**Execution:**
-- Build in phases allows for correction and refinement
-- Natural materials require extra preparation time but worth it
-- Less can be more - avoid overcrowding details
-- Step back regularly to assess overall composition
-
-**Materials:**
-- Quality brushes essential for weathering work [AI-CHECK: Did you actually use this in this project or is this forward-looking?]
-- Mix custom colors rather than using straight from bottle
-- Test all materials for compatibility before combining
-- Seal natural materials early to prevent changes during build
-
-### Future Project Ideas
-
-[AI-CHECK: Were these actually YOUR ideas or AI suggestions? Mark clearly]
-- More ambitious terrain features (water, rock faces)
-- Seasonal variations (winter, autumn colors)
-- Multiple buildings in single scene
-- Smaller scales for more compact dioramas
+- In all respects the learning was just an introduction with lots to discover, practice and refine in time to come
 
 ---
 
@@ -669,18 +583,13 @@ No log cabin is complete without a logging area.
 **Completion Date:** April 10, 2024
 
 **Display Setup:**
-- Displayed under protective clear acrylic case
-- Natural materials sealed to prevent deterioration while maintaining organic appearance
-- Dark wood base matches forest floor tones
-- Small brass nameplate with project title
-- Display from slightly elevated angle for best view
-- Lighting from above-front simulates dappled forest light
+- Displayed on the counter in the lounge.  Space would become a perennial issue, giving rise to this site to create a non physical display cabinet.
 
 ### Final Thoughts
 
 The Log Cabin in the Woods project was a rewarding journey into scratch building and natural material diorama work. The three-month build time allowed for careful development of each phase while the scratch-built approach provided complete creative control.
 
-The combination of handcrafted cabin structure, carefully prepared vegetation, and thoughtful scenery building resulted in a cohesive woodland scene that captures the peaceful isolation of a cabin deep in the forest. Each viewing reveals new details, from the weathered cabin logs to the tiny bluebells along the path [AI-CHECK: verify bluebells were mentioned in your original], to my first attempt at figure-making.
+The combination of handcrafted cabin structure, carefully prepared vegetation, and thoughtful scenery building resulted in a cohesive woodland scene that captures the peaceful isolation of a cabin deep in the forest. Each viewing reveals new details, from the weathered cabin logs to the tiny bluebells along the path to my first attempt at figure-making.
 
 This diorama demonstrates that patience, attention to natural details, and thoughtful weathering can transform basic materials - garden waste, household items, and collected natural specimens - into a convincing miniature world.
 

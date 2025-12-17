@@ -67,27 +67,38 @@ A charming English cottage with authentic thatched roof surrounded by a traditio
 
 ---
 
+The Following projects are all completed, but not yet included in this site
+
+### Cathy's flower house
+
+### Caravaning
+
 ### Riverside Cabin
 
-Peaceful waterside retreat with detailed interior and natural surroundings.
+### Bookshop memories
 
-**Status:** Completed  
-**Scale:** 1:48  
-**Category:** Architectural/Nature
+### Bamboo river lookout
 
-*Pictures Coming Soon*
+### Plane restore
 
----
+### 1906 Renaught
+
+### Dollhouse bunker bed
+
+### Traditional country cottage
+
+### Simon's coffee shop
+
+### Plant display
+
+### Hendryd falls
+
+
+Next projects in concept stage
 
 ### Sea Rescue
 
-Dynamic coastal rescue scene with figures, equipment, and dramatic lighting.
-
-**Status:** Planning  
-**Scale:** 1:35  
-**Category:** Maritime/Action
-
-*Coming Soon*
+### Ancient Forest
 
 ---
 
