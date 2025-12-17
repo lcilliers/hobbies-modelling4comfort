@@ -1229,3 +1229,15 @@ article p > em {
   color: #45a049;
 }
 
+/* Remove bullets from footer links */
+.footer-links,
+.social-links {
+  list-style: none;
+  padding-left: 0;
+}
+
+.footer-links li,
+.social-links li {
+  margin-bottom: 0.5rem;
+}
+
