@@ -17,7 +17,8 @@ A comprehensive guide to editing and maintaining your Models4Comfort website, in
 9. [File Naming Conventions](#file-naming-conventions)
 10. [SEO Best Practices](#seo-best-practices)
 11. [Common Mistakes to Avoid](#common-mistakes-to-avoid)
-12. [Quick Reference](#quick-reference)
+12. [Feedback & Contact Forms](#feedback--contact-forms)
+13. [Quick Reference](#quick-reference)
 
 ---
 
@@ -1070,6 +1071,73 @@ Content here...
 - Check image paths work
 - Verify links aren't broken
 - Review on mobile view
+
+---
+
+## Feedback & Contact Forms
+
+### Enabling Feedback CTAs on Pages
+
+The site uses a privacy-focused feedback system that directs visitors to a contact form instead of embedding third-party commenting systems.
+
+#### How to Enable Feedback CTAs
+
+Add `comments: true` to the front matter of any project or build log page:
+
+```yaml
+---
+layout: project
+title: "Log Cabin in the Woods"
+date: 2024-04-10
+comments: true  # This enables the feedback CTA
+categories: dioramas
+tags: [scratch-build, landscaping]
+---
+```
+
+**What happens:**
+- A subtle call-to-action appears at the bottom of the page
+- For projects: "Enjoyed this project? Have questions or suggestions? I'd love to hear from you."
+- For build logs: "Questions about this build step? Send me a message — I'm happy to help!"
+- Links direct visitors to `/feedback/` page
+
+#### Customizing CTA Text
+
+CTAs are defined in layout templates:
+- **Project pages:** `_layouts/project.html` (`.project-feedback` section)
+- **Build logs:** `_layouts/build.html` (`.build-feedback` section)
+
+Edit these templates to change wording or styling.
+
+#### Styling
+
+Feedback CTAs use these CSS classes in `assets/css/main.css`:
+- `.build-feedback` / `.project-feedback` - Container styling
+- Green left border and light gray background for subtle emphasis
+- Responsive design included
+
+**Example customization:**
+
+```css
+.project-feedback {
+  background-color: #e8f5e9;  /* Light green background */
+  border-left: 4px solid #2e7d32;  /* Darker green border */
+  padding: 1.5rem;
+}
+```
+
+### The Feedback Form
+
+The main contact form is at `/feedback/` (`feedback.md` in root directory).
+
+**Key features:**
+- Uses Formspree for form handling (https://formspree.io)
+- No tracking scripts or third-party embeds
+- Honeypot spam protection built-in
+- Mobile-responsive design
+- Direct email notification to site owner
+
+**For detailed setup and configuration, see:** [FEEDBACK-FORM-GUIDE.md](FEEDBACK-FORM-GUIDE.md)
 
 ---
 
