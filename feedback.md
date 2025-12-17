@@ -6,7 +6,16 @@ permalink: /feedback/
 
 # Get in Touch
 
-I'd love to hear from you! Whether you have questions about a project, suggestions for improvements, or just want to share your own modelling experiences, feel free to reach out.
+Your feedback, questions, and insights are always welcome! Whether you're curious about a specific build technique, want to suggest ideas for future projects, or simply wish to share your own modelling journey, I'd genuinely love to hear from you.
+
+## Why Reach Out?
+
+- **Ask Questions** - Stuck on a technique or want to know more about a specific project? Don't hesitate to ask.
+- **Share Ideas** - Have a suggestion for future builds or improvements? Your input helps shape this site.
+- **Connect** - Fellow modeller? Let's exchange experiences and inspiration.
+- **Collaborate** - Interested in working together on a project or tutorial? Let's discuss!
+
+Simply fill out the form below, and I'll get back to you as soon as possible. All messages go directly to my inbox.
 
 <form action="https://formspree.io/f/mwpggoqz" method="POST" class="feedback-form">
   <div class="form-group">
