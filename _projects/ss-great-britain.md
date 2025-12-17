@@ -7,6 +7,7 @@ tags: [ship-model, historical, iron-hull, steam-power]
 status: completed
 scale: "1:300"
 difficulty: advanced
+comments: true
 featured_image: assets/images/projects/ss-great-britain/ss-great-britain-gallery-008.jpg
 gallery:
   - assets/images/projects/ss-great-britain/ss-great-britain-gallery-005.jpg

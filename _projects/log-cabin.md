@@ -6,6 +6,7 @@ categories: dioramas
 tags: [scratch-build, landscaping, woodland, architecture, natural-materials, figures]
 scale: "Freelance (~1:35)"
 featured_image: "/assets/images/projects/log-cabin/log-cabin-gallery-001.jpg"
+comments: true
 gallery:
   - /assets/images/projects/log-cabin/log-cabin-gallery-001.jpg
   - /assets/images/projects/log-cabin/log-cabin-gallery-002.jpg
