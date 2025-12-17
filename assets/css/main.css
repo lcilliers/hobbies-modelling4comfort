@@ -1200,3 +1200,32 @@ article p > em {
     max-width: 100%;
   }
 }
+
+/* === Feedback & Contact Styles === */
+.build-feedback,
+.project-feedback {
+  margin: 2rem 0;
+  padding: 1rem 1.5rem;
+  background-color: #f9f9f9;
+  border-left: 4px solid #4CAF50;
+  border-radius: 4px;
+  font-size: 0.95rem;
+}
+
+.build-feedback p,
+.project-feedback p {
+  margin: 0;
+  color: var(--text-color);
+}
+
+.build-feedback a,
+.project-feedback a {
+  color: #4CAF50;
+  font-weight: 600;
+}
+
+.build-feedback a:hover,
+.project-feedback a:hover {
+  color: #45a049;
+}
+

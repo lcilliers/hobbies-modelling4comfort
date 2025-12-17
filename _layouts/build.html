@@ -51,6 +51,10 @@ layout: default
     {% include comments.html %}
   {% endif %}
 
+  <aside class="build-feedback">
+    <p>Questions about this build step? <a href="{{ '/feedback' | relative_url }}">Send me a message</a> — I'm happy to help!</p>
+  </aside>
+
   <footer class="build-footer">
     <nav class="build-navigation">
       {% if page.previous_step %}
