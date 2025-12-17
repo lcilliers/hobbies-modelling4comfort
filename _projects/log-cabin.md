@@ -86,9 +86,9 @@ The challenge: fitting all this onto a 25cm × 25cm base due to space limitation
 
 ---
 
-<section class="chapter-section" id="chapter-3">
-
+{: .chapter-section}
 ## Chapter 3: The Base - A Disaster That Taught Me Patience
+{: #chapter-3}
 
 ### Initial Construction
 
@@ -131,9 +131,9 @@ All wood material came from garden trees, properly dried and cut into strips of 
 
 ---
 
-<section class="chapter-section" id="chapter-4">
-
+{: .chapter-section}
 ## Chapter 4: Keeping Momentum - Parallel Plant Preparation
+{: #chapter-4}
 
 ### Turning Frustration into Productivity
 
@@ -199,9 +199,9 @@ This experimentation led to selecting trees and shrubs for the landscape. Many a
 
 ---
 
-<section class="chapter-section" id="chapter-5">
-
+{: .chapter-section}
 ## Chapter 5: Building the Cabin
+{: #chapter-5}
 
 ### Construction Philosophy
 
@@ -305,9 +305,9 @@ Each log was individually cut to size and fitted. The logs were stained to add c
 
 ---
 
-<section class="chapter-section" id="chapter-6">
-
+{: .chapter-section}
 ## Chapter 6: Creating the Forest - Trees and Vegetation
+{: #chapter-6}
 
 ### The Tree-Making Process
 
@@ -392,9 +392,9 @@ After completing the cabin structure (around early March 2024), I focused on veg
 
 ---
 
-<section class="chapter-section" id="chapter-7">
-
+{: .chapter-section}
 ## Chapter 7: Building the Landscape
+{: #chapter-7}
 
 ### Ground Texturing - A Layered Approach
 
@@ -485,9 +485,9 @@ Rich set of plants on one side, river bank on the other, leading up to the bridg
 
 ---
 
-<section class="chapter-section" id="chapter-8">
-
+{: .chapter-section}
 ## Chapter 8: Structures and Figures - Adding Life to the Scene
+{: #chapter-8}
 
 ### My First Figure: The Riverside Fisherman
 
@@ -573,9 +573,9 @@ No log cabin is complete without a logging area.
 
 ---
 
-<section class="chapter-section" id="chapter-9">
-
+{: .chapter-section}
 ## Chapter 9: Reflections and Lessons
+{: #chapter-9}
 
 ### Project Statistics
 
