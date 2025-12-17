@@ -6,11 +6,11 @@ published: true
 date: 2025-12-01
 ---
 
-# About Models4Comfort
+# About Modelling4Comfort
 
 Welcome to my modeling journey! This site documents my passion for creating miniature worlds - from historical ships to rural scenes, from english country side to cozy cabins.
 
-## The Story Behind Models4Comfort
+## The Story Behind Modelling4Comfort
 
 I discovered the enjoyment of building models quite recently, in 2020. It goes hand in hand with searching for things to keep me focussed in retirement, after a very busy and full working career. I only started to take photos of my building steps in 2022 during the building of the SS Great Britain. In December 2025 I started to organize the individual projects in a website to create a digital show cabinet of my endeavors.  I simply ran out of physical shelf space to display my work and some of the models have new custodians.
 

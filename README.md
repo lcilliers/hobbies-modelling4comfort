@@ -1,4 +1,4 @@
-# Models4Comfort - Diorama Modeling Website 🎨
+# Modelling4Comfort - Diorama Modeling Website 🎨
 
 A comprehensive website for showcasing diorama modeling projects, build logs, and techniques.
 

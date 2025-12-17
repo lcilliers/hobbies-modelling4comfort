@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Models4Comfort
+title: Modelling4Comfort
 ---
 
 <div class="home-banner">

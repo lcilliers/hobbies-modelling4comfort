@@ -36,7 +36,7 @@ GitHub Actions automatically builds and deploys your site.
 - Red X ❌ = error (check the logs)
 
 **View your live site:**
-- https://lcilliers.github.io/hobbies-modelling4comfort/
+- https://modelling4comfort.uk/
 
 ---
 
@@ -234,7 +234,7 @@ git reset --hard HEAD~1
    ```
 
 5. **Wait 2-3 minutes and check:**
-   - https://lcilliers.github.io/hobbies-modelling4comfort/projects/german-sail-boat/
+   - https://modelling4comfort.uk/projects/german-sail-boat/
 
 ---
 
@@ -246,4 +246,4 @@ git reset --hard HEAD~1
 3. `git push`
 4. Wait 2-3 minutes
 
-**Your site:** https://lcilliers.github.io/hobbies-modelling4comfort/
+**Your site:** https://modelling4comfort.uk/

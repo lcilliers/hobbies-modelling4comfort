@@ -46,7 +46,7 @@ Historical photographs and technical drawings used for research and reference pu
 
 ### Original Content
 
-Unless otherwise noted, all project photographs, build documentation, and tutorial content are original works created by Models4Comfort and are © 2025 Models4Comfort.
+Unless otherwise noted, all project photographs, build documentation, and tutorial content are original works created by Modelling4Comfort and are © 2025 Modelling4Comfort.
 
 You are welcome to:
 - ✅ Share links to this website

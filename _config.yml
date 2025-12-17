@@ -1,16 +1,16 @@
-# Jekyll Configuration for Models4Comfort Diorama Website
+# Jekyll Configuration for Modelling4Comfort Diorama Website
 # https://jekyllrb.com/docs/configuration/
 
 # Site Settings
-title: Models4Comfort
+title: Modelling4Comfort
 description: >- 
   Diorama modeling, build processes, and creative development. 
   Showcasing scale models, techniques, and the journey of bringing miniature worlds to life.
 author: 
   name: Your Name
   email: your.email@example.com
-baseurl: "/hobbies-modelling4comfort" # the subpath of your site, e.g. /blog
-url: "https://lcilliers.github.io" # the base hostname & protocol for your site
+baseurl: "" # Empty for custom domain root
+url: "https://modelling4comfort.uk" # the base hostname & protocol for your site
 
 # Build settings
 markdown: kramdown

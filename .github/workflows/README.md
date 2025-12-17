@@ -82,7 +82,7 @@ After pushing to main:
 1. Go to Actions tab in your repository
 2. Watch the workflow run
 3. Once complete (green checkmark), visit your site:
-   - `https://lcilliers.github.io/hobbies-modelling4comfort/`
+   - `https://modelling4comfort.uk/`
 
 ## Troubleshooting
 

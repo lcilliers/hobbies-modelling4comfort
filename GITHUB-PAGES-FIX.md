@@ -120,7 +120,7 @@ Once Pages is enabled:
 
 1. **Wait 2-3 minutes** for initial deployment
 2. **Check Actions tab**: https://github.com/lcilliers/hobbies-modelling4comfort/actions
-3. **View your site**: https://lcilliers.github.io/hobbies-modelling4comfort/
+3. **View your site**: https://modelling4comfort.uk/
 
 ## Current Status Check
 
