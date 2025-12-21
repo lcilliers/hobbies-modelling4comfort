@@ -69,69 +69,107 @@ The main focus of this build was researching and mastering techniques for creati
 ## CHAPTER 1: PLANNING AND RESEARCH
 **Timeline:** April 2024 
 
-Selecting the scale, as in the case of the Log Cabin, was determined 
-Extensive research and collection of reference material kick started the build. Hundreds of pictures of both formal and cottage gardens, individual plant and flower displays as well as a wide range of thatched roof cottages, especially those with country style gardens were reviewed.  
+### scale and layout
+
+Selecting the scale, as in the case of the Log Cabin, was determined by the space available to display. This was long before this site came into being. The overall scale had to be around 25cm square.  With that in mind I tried to imagine the size of the house and garden and put the following prototype together. assets\images\projects\english-country-garden\base\ecg-base-002.jpg
+
+A footprint prototype of the house provided a better assessment of the space on the base
+
+assets\images\projects\english-country-garden\base\ecg-base-003.jpg
+
+Extensive research and collection of reference material kick started. Hundreds of pictures of both formal and cottage gardens, individual plant and flower displays as well as a wide range of thatched roof cottages, especially those with country style gardens were reviewed.  
+
+### cottages
 
 A few cottages stood out, providing the right layout and look and feel for the targeted base.
 
-[NEEDS MORE - User should provide detailed planning story]
+assets\images\projects\english-country-garden\planning\cottages\ecg-plan-cot-002.jpg providing a view on how the house will fit in with the small garden
+assets\images\projects\english-country-garden\planning\cottages\ecg-plan-cot-003.jpg the roof and chimney of this house resonated.
+assets\images\projects\english-country-garden\planning\cottages\ecg-plan-cot-010.jpg the annex and aging of this cottage appealed to me
+assets\images\projects\english-country-garden\planning\cottages\ecg-plan-cot-014.jpg the house with annex, tree, path in the middle formed a an appealing combination
 
-### Research Phase
+### flowers and plants
 
-[COMPLETE - From validated project file:]
-This project involved extensive research into:
-- **Plant Morphology:** Studying flower shapes, leaf structures, and growth patterns
-- **Miniature Flower Techniques:** Learning various methods for creating realistic blooms and foliage
-- **English Garden Design:** Understanding the informal, densely-planted cottage garden aesthetic
-- **Traditional Thatching:** Researching historic roofing techniques and materials
-- **Garden Tools and Accessories:** Creating scale-appropriate garden elements
+A large part of the driving force behind the model was making the flowers. I prepared a long list from my own garden book of all the flowers that potentially could be modelled.  I then started to document more detail about each flower, focussing on characteristics such as the flower spike or arrangement, flower base, leaf type and form, flower shape, colour varieties. Some of the plants included in this analysis included foxgloves, delphiniums, roses, hollyhocks, lavender, ferns, hostas, daisies, carea (grasses), poppies, cosmos, clematis,lilies and many more.  ![collage for display while I am building the flowers](assets/images/projects/english-country-garden/planning/flowers/ecg-plan-flw-004.jpg)
 
-**Training Resources Used:**
-- YouTube tutorials on thatched cottage construction
-- YouTube flower-making demonstrations
-- Reference photos of authentic English cottage gardens
-- Botanical guides for plant identification and characteristics
+These gardens were such an inspiration:
 
-[TODO - User to expand:]
-- Which specific YouTube channels or tutorials did you follow?
-- What books or websites were most helpful?
-- Did you visit any actual English cottage gardens for reference?
-- How long did the research phase take?
-- What surprised you most during research?
-- Any specific cottage or garden that inspired the design?
+assets\images\projects\english-country-garden\planning\flowers\ecg-plan-flw-005.jpg
+assets\images\projects\english-country-garden\planning\flowers\ecg-plan-flw-007.jpg
+assets\images\projects\english-country-garden\planning\flowers\ecg-plan-flw-009.jpg
+assets\images\projects\english-country-garden\planning\flowers\ecg-plan-flw-010.jpg
 
-### Reference Images Collected
+The gardens from the research was so overwhelmingly beautiful, I almost got distracted and lost in the collection of examples of all the flowers and plants.
 
-[COMPLETE - From image inventory:]
-**119 reference images organized by category:**
-- Cottage-gardens: 6 images
-- Cottages: 16 images  
-- Flowers: 16 images
-- Garden-tools: 3 images
-- Landscape: 23 images
-- Plants-and-trees: 30 images
-- Training-and-references: 26 images
+Ii my attention had to move on to learn more on how to create these magnificent specimens, especially after my first attempt during the log cabin project demonstrated that it is not that easy. 
 
-[TODO - User to add:]
-- What were you specifically researching in each category?
-- Any particular reference images that became crucial?
-- Did you create mood boards or reference collections?
+Trawling through the internet, botanical books and magazines, and through my own garden book in gardens4comfort.uk I collate may paper cut stencils, paint and drawing stencils and catelogs of flower shapes and types. Some pictures stood out assets\images\projects\english-country-garden\planning\training-and-references\ecg-plan-ref-011.jpg; assets\images\projects\english-country-garden\planning\training-and-references\ecg-plan-ref-015.jpg; assets\images\projects\english-country-garden\planning\training-and-references\ecg-plan-ref-016.jpg;
 
-### Planning the Build
+This inspiration got me straight into experimentation with making flowers.  Research continued to be woven into the practical construction and building. Step 1 was to get a sense for the size and scale of objects, then to imagine the broad layout to determine what type of structures would be required. Work started on making the flowers.  If I could not manage to get the flowers done, there was no use continuing with the other main parts such as the cabin. From previous experience, fitting items to the base follows making most the parts, rather than fitting each part as it is being made.  
 
-[TODO - User to provide:]
-- How did you decide on the 25cm × 25cm base size?
-- What was your plan for the cottage placement?
-- Did you sketch designs or create a layout plan?
-- How did you plan the plant species selection?
-- What materials did you identify as needed?
-- What was your estimated timeline? (actual: 7.5 months)
+## CHAPTER 2:  FLOWERS
 
-**Images for this chapter:**
-- Reference images from planning folder
-- [TODO - Any sketches or design drawings?]
+Each flower was individually made, and for this materials had to be collated and made.
 
----
+### material preparation
+
+Wire: I recovered quit a bit of copper wire from wire stripping, capacitor leads and coil windings.  The grades of copper vary from Ultra-fine wire: Almost hair-thin, typically around 0.1 mm or less in diameter, fine wire: Around 0.3–0.5 mm diameter, good for delicate work like flower stems or small details, medium wire: About 0.8–1.2 mm diameter, often used for structural parts or thicker stems and heavy wire: Up to 2 mm diameter, suitable for strong frameworks or bases. I discovered how handy copper wire is in this project, and it is now indespensible in my dioramas.
+
+To prepare, the wire is pre coated with acrylic paint or left water based paint in various darker colours to hide the copper gloss of the wires.  These are then cut into different sizes and bundled together, ready for use.  \assets\images\projects\english-country-garden\scenary\ecg-sce-035.jpg
+
+Paper: I collected a range of different types of paper for different parts of the flowers including Standard 80 gsm printer paper (for petals and templates), packing tissue (17–35 gsm) (for soft, delicate layers) and Cardstock (160–220 gsm) (for stems, leaves, and structural parts).  Sheets of the different types of paper were colored with acrylic of a range of colours to suite the different flowers.  the sheets were all dried and then filed in a folder for easy access.
+
+Natural materials: saw dust was sifted into different grades, and then coloured in greens, whites, pinks and reds in small quantities.  This was very useful for some of the fine cluster types of flowers.    Other materials used for leaves include, seed heads, spagnum moss and tea leaves.
+
+### making flowers
+
+Selecting the methods for making flowers were largely centered around shapes, illustrated well with the following
+\assets\images\projects\english-country-garden\planning\training-and-references\ecg-plan-ref-014.jpg
+
+strap shaped (daisy)
+bell or funnel shaped (bluebell, arum lily)
+Cluster (lavender)
+spike (foxgloves, hollyhocks)
+Flat top (ammi majus)
+distinct petals (rose, dahlia,geum,flox,lily )
+star (clematis, marygold)
+saucer (butter cup, cosmos)
+pompom (poppy, thissle)
+trailing (rose, clematis, wisteria)
+
+The following pictures illustrate different techiniques. Note that some of these example experimentations never made it to the garden as I discovered new tools and techniques for making similar flowers.
+
+assets\images\projects\english-country-garden\scenary\ecg-sce-003.jpg micro cups
+assets\images\projects\english-country-garden\scenary\ecg-sce-004.jpg clay, natural seed heads
+assets\images\projects\english-country-garden\scenary\ecg-sce-005.jpg stencil cut
+assets\images\projects\english-country-garden\scenary\ecg-sce-006.jpg paper cuts
+assets\images\projects\english-country-garden\scenary\ecg-sce-007.jpg various paper cuts
+assets\images\projects\english-country-garden\scenary\ecg-sce-008.jpg making spikes, cluster flowers, and stamin (centre of flowers)
+
+A leather hole cutting tool was used to cut the micro cups, made into a cup with a small size ball scalping tool, it was glued individually to a green wire stem.
+
+The funnel of the arum lilies were made out of clay, and folded around a wire stem dipped in yellow saw dust for the stigma.
+
+Some of the completed fowers can be seen in these displays
+
+
+ 
+
+### making leafy plants
+
+making the leafs, especially when distinct, for both leafy plants and the base for the flowering plants all centered leaf size and shape.  Ferns were by far the most challenging, especially as at the miniaturisation I am working towards. \assets\images\projects\english-country-garden\planning\training-and-references\ecg-plan-ref-014.jpg
+
+hostas
+ferns
+grasses
+heleborus
+
+###making shrubs
+
+philadelphus
+
+
+
 
 ## CHAPTER 2: BASE CONSTRUCTION
 **Timeline:** [TODO - User to provide dates]
