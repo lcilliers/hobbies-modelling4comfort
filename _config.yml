@@ -32,7 +32,7 @@ collections:
     permalink: /projects/:name/
   builds:
     output: true
-    permalink: /builds/:name/
+    permalink: /builds/:path/
   techniques:
     output: true
     permalink: /techniques/:name/
