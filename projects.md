@@ -67,6 +67,19 @@ A charming English cottage with authentic thatched roof surrounded by a traditio
 
 ---
 
+### [Sea Rescue - 2025]({{ '/projects/sea-rescue/' | relative_url }})
+
+A dramatic maritime rescue scene capturing the bravery and dedication of sea rescue services. This project will feature a detailed rescue vessel in action with authentic equipment, dynamic seascape, and realistic water effects to honor those who risk their lives saving others at sea.
+
+**Status:** In Progress - Planning Phase  
+**Scale:** 1:50  
+**Category:** Maritime/Nautical  
+**Build Type:** Scratch-build  
+
+[View Project →]({{ '/projects/sea-rescue/' | relative_url }})
+
+---
+
 The Following projects are all completed, but not yet included in this site
 
 ### Cathy's flower house
@@ -95,8 +108,6 @@ The Following projects are all completed, but not yet included in this site
 
 
 Next projects in concept stage
-
-### Sea Rescue
 
 ### Ancient Forest
 
