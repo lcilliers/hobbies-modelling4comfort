@@ -59,7 +59,7 @@ Deciding on the type of rescue vessel to model:
 - Available reference materials
 - Build complexity vs. skill level
 - Visual interest and character
-- Scale feasibility at 1:50
+- Scale feasibility at 1:72
 
 ### Reference Materials Needed
 
