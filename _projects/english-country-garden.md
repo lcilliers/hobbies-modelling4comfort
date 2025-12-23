@@ -294,8 +294,8 @@ Most importantly, it laid the foundation for building more and different models,
 ---
 
 **Related Build Logs:**
-- [Build Log #001 - Planning & Research](/builds/english-country-garden/001-planning-research/)
-- [Build Log #002 - Flowers & Plant Creation](/builds/english-country-garden/002-flowers-plants/)
-- [Build Log #003 - Base & Structures](/builds/english-country-garden/003-base-structures/)
-- [Build Log #004 - Cottage Construction](/builds/english-country-garden/004-cottage-construction/)
-- [Build Log #005 - Garden Planting & Finishing](/builds/english-country-garden/005-garden-finishing/)
+- [Build Log #001 - Planning & Research]({{ '/builds/english-country-garden/001-planning-research/' | relative_url }})
+- [Build Log #002 - Flowers & Plant Creation]({{ '/builds/english-country-garden/002-flowers-plants/' | relative_url }})
+- [Build Log #003 - Base & Structures]({{ '/builds/english-country-garden/003-base-structures/' | relative_url }})
+- [Build Log #004 - Cottage Construction]({{ '/builds/english-country-garden/004-cottage-construction/' | relative_url }})
+- [Build Log #005 - Garden Planting & Finishing]({{ '/builds/english-country-garden/005-garden-finishing/' | relative_url }})
