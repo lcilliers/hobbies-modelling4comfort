@@ -35,7 +35,9 @@ Each project page provides a comprehensive **overview** of the concept, goals, a
       <span><strong>Scale:</strong> 1:150</span>
       <span><strong>Type:</strong> Balsawood Kit</span>
     </div>
-    <p><a href="{{ '/projects/german-sail-boat/' | relative_url }}">View Project →</a></p>
+    <div class="project-buttons">
+      <a href="{{ '/projects/german-sail-boat/' | relative_url }}" class="project-btn project-btn-primary">Project Overview</a>
+    </div>
   </div>
 </div>
 
@@ -52,7 +54,10 @@ Each project page provides a comprehensive **overview** of the concept, goals, a
       <span><strong>Scale:</strong> 1:96</span>
       <span><strong>Type:</strong> Advanced Scratch-Build</span>
     </div>
-    <p><a href="{{ '/projects/ss-great-britain/' | relative_url }}">View Project →</a></p>
+    <div class="project-buttons">
+      <a href="{{ '/projects/ss-great-britain/' | relative_url }}" class="project-btn project-btn-primary">Project Overview</a>
+      <a href="{{ '/builds/ss-great-britain/001-planning-research/' | relative_url }}" class="project-btn project-btn-secondary">Build Logs</a>
+    </div>
   </div>
 </div>
 
@@ -68,7 +73,10 @@ Each project page provides a comprehensive **overview** of the concept, goals, a
       <span><strong>Scale:</strong> 1:24</span>
       <span><strong>Type:</strong> Rolife Kit</span>
     </div>
-    <p><a href="{{ '/projects/cathy-flower-house/' | relative_url }}">View Project →</a></p>
+    <div class="project-buttons">
+      <a href="{{ '/projects/cathy-flower-house/' | relative_url }}" class="project-btn project-btn-primary">Project Overview</a>
+      <a href="{{ '/builds/cathy-flower-house/001-build-log/' | relative_url }}" class="project-btn project-btn-secondary">Build Logs</a>
+    </div>
   </div>
 </div>
 
@@ -84,7 +92,9 @@ Each project page provides a comprehensive **overview** of the concept, goals, a
       <span><strong>Scale:</strong> 1:35</span>
       <span><strong>Type:</strong> Scratch-Build</span>
     </div>
-    <p><a href="{{ '/projects/log-cabin/' | relative_url }}">View Project →</a></p>
+    <div class="project-buttons">
+      <a href="{{ '/projects/log-cabin/' | relative_url }}" class="project-btn project-btn-primary">Project Overview</a>
+    </div>
   </div>
 </div>
 
@@ -100,7 +110,10 @@ Each project page provides a comprehensive **overview** of the concept, goals, a
       <span><strong>Scale:</strong> 1:50 (1m = 2cm)</span>
       <span><strong>Type:</strong> Scratch-Build</span>
     </div>
-    <p><a href="{{ '/projects/english-country-garden/' | relative_url }}">View Project →</a></p>
+    <div class="project-buttons">
+      <a href="{{ '/projects/english-country-garden/' | relative_url }}" class="project-btn project-btn-primary">Project Overview</a>
+      <a href="{{ '/builds/english-country-garden/001-planning-research/' | relative_url }}" class="project-btn project-btn-secondary">Build Logs</a>
+    </div>
   </div>
 </div>
 
@@ -116,7 +129,10 @@ Each project page provides a comprehensive **overview** of the concept, goals, a
       <span><strong>Scale:</strong> 1:50</span>
       <span><strong>Type:</strong> Scratch-Build</span>
     </div>
-    <p><a href="{{ '/projects/sea-rescue/' | relative_url }}">View Project →</a></p>
+    <div class="project-buttons">
+      <a href="{{ '/projects/sea-rescue/' | relative_url }}" class="project-btn project-btn-primary">Project Overview</a>
+      <a href="{{ '/builds/sea-rescue/001-planning/' | relative_url }}" class="project-btn project-btn-secondary">Build Logs</a>
+    </div>
   </div>
 </div>
 

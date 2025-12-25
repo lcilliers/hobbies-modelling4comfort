@@ -1337,7 +1337,7 @@ article p > em {
   background-color: #f9f9f9;
   border-radius: 8px;
   transition: box-shadow 0.3s ease;
-  align-items: center;
+  align-items: flex-start;
 }
 
 .project-item:hover {
@@ -1361,8 +1361,8 @@ article p > em {
 }
 
 .project-image-large {
-  flex: 0 0 250px;
-  max-width: 250px;
+  flex: 0 0 280px;
+  max-width: 280px;
 }
 
 .project-image-large img {
@@ -1385,6 +1385,54 @@ article p > em {
 .project-details p {
   margin: 0.75rem 0;
   line-height: 1.6;
+}
+
+.project-buttons {
+  display: flex;
+  gap: 1rem;
+  margin-top: 1.5rem;
+}
+
+.project-item.right-image .project-buttons {
+  justify-content: flex-end;
+}
+
+.project-btn {
+  display: inline-block;
+  padding: 0.6rem 1.2rem;
+  border-radius: 6px;
+  text-decoration: none;
+  font-weight: 500;
+  transition: all 0.2s ease;
+  font-size: 0.9rem;
+}
+
+.project-btn-primary {
+  background-color: #2c5282;
+  color: white;
+  border: 2px solid #2c5282;
+}
+
+.project-btn-primary:hover {
+  background-color: #1a365d;
+  border-color: #1a365d;
+  text-decoration: none;
+  transform: translateY(-2px);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.project-btn-secondary {
+  background-color: transparent;
+  color: #2c5282;
+  border: 2px solid #2c5282;
+}
+
+.project-btn-secondary:hover {
+  background-color: #2c5282;
+  color: white;
+  text-decoration: none;
+  transform: translateY(-2px);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
 }
 
 .project-meta {
@@ -1448,6 +1496,15 @@ article p > em {
     flex-direction: column;
   }
   
+  .project-item.left-image .project-details,
+  .project-item.right-image .project-details {
+    text-align: left;
+  }
+  
+  .project-item.right-image .project-buttons {
+    justify-content: flex-start;
+  }
+  
   .project-image-large {
     flex: 1;
     max-width: 100%;
@@ -1455,6 +1512,15 @@ article p > em {
   
   .project-item {
     padding: 1rem;
+  }
+  
+  .project-buttons {
+    flex-direction: column;
+    gap: 0.75rem;
+  }
+  
+  .project-btn {
+    text-align: center;
   }
   
   .incomplete-projects ul {
