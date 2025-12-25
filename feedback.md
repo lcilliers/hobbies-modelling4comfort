@@ -4,7 +4,13 @@ title: Feedback & Contact
 permalink: /feedback/
 ---
 
-# Get in Touch
+<div class="page-banner">
+  <img src="{{ '/assets/images/projects/german-sail-boat/IMG-20220403-WA0009.jpg' | relative_url }}" alt="Feedback Banner">
+  <div class="banner-content">
+    <h1>Get in Touch</h1>
+    <p>Questions, Ideas & Connections</p>
+  </div>
+</div>
 
 Your feedback, questions, and insights are always welcome! Whether you're curious about a specific build technique, want to suggest ideas for future projects, or simply wish to share your own modelling journey, I'd genuinely love to hear from you.
 

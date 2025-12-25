@@ -4,112 +4,157 @@ title: Projects Gallery
 permalink: /projects/
 ---
 
+<div class="page-banner">
+  <img src="{{ '/assets/images/projects/english-country-garden/Gallery/ecg-gal-039.jpg' | relative_url }}" alt="Projects Banner">
+  <div class="banner-content">
+    <h1>Projects Gallery</h1>
+    <p>Explore My Miniature Worlds</p>
+  </div>
+</div>
+
 Welcome to my collection of modeling projects, including dioramas, scratch builds, kits and more. Each piece represents hours of careful craftsmanship, attention to detail, and creative problem-solving. I love to recycle and discover the use of new materials. From maritime vessels to gardens, english houses and tranquil nature scenes, these miniature worlds tell their own stories.
 
-## Projects (in build sequence)
+## How to Explore Projects
 
-{: .projects-grid}
-
-### [Gorch Fock training ship - 2020]({{ '/projects/german-sail-boat/' | relative_url }})
-
-I have never imagined me getting involved in model building. The closest I got was buying a kit for my grandson to inspire him. Unfortunately it remained in the cupboard, until several years later I offered to build it for him. After several months of intense learning through trial and error I completed the Gorch Fock training ship in May 2020.
-
-This detailed replica of a traditional German sailing vessel is complete with authentic rigging and weathered details.  Unfortunately I do not have any record of the building process.
-
-**Status:** Completed  
-**Scale:** 1:150  
-**Category:** Maritime/Nautical  
-**Build Type:** Balsawood kit  
-
-[View Project →]({{ '/projects/german-sail-boat/' | relative_url }})
+Each project page provides a comprehensive **overview** of the concept, goals, and final results - perfect for getting a quick understanding of what was achieved. For those who want to dive deeper into the creative process, navigate to the [Build Logs]({{ '/builds/' | relative_url }}) section where you'll find **detailed step-by-step documentation** of construction techniques, problem-solving, and methods used throughout each build. The [Techniques]({{ '/techniques/' | relative_url }}) section is currently in early stages of development, but will eventually feature standalone tutorials and tips extracted from various projects.
 
 ---
 
-### [SS Great Britain - 2022]({{ '/projects/ss-great-britain/' | relative_url }})
+<div class="project-showcase">
 
-The revolutionary passenger steamship designed by Isambard Kingdom Brunel. Launched in 1843, she was the first iron-hulled, propeller-driven ship to cross the Atlantic. 
-This project came about when we visited the SS Great Britain museum in Bristol in December 2021. "This is my next project",  I said.  My search for a kit to build this ship turned to nothing. Finally, I bought a book about the ship, collated all the materials I could find and embarked on my first scratch build undertaking.
+<div class="project-item left-image">
+  <div class="project-image-large">
+    <img src="{{ '/assets/images/projects/german-sail-boat/IMG-20220403-WA0009.jpg' | relative_url }}" alt="Gorch Fock Training Ship">
+  </div>
+  <div class="project-details">
+    <h3><a href="{{ '/projects/german-sail-boat/' | relative_url }}">Gorch Fock Training Ship</a></h3>
+    <p>I never imagined getting involved in model building until I bought a kit for my grandson to inspire him. Years later, after it remained in the cupboard, I offered to build it for him. After several months of intense learning through trial and error, I completed the Gorch Fock training ship in May 2020.</p>
+    <p>This detailed replica of a traditional German sailing vessel is complete with authentic rigging and weathered details. Unfortunately I do not have any record of the building process.</p>
+    <div class="project-meta">
+      <span><strong>Status:</strong> Completed 2020</span>
+      <span><strong>Scale:</strong> 1:150</span>
+      <span><strong>Type:</strong> Balsawood Kit</span>
+    </div>
+    <p><a href="{{ '/projects/german-sail-boat/' | relative_url }}">View Project →</a></p>
+  </div>
+</div>
 
-This ambitious project captured one of the most significant vessels in maritime history and cemented my fascination with building models from scratch.
+<div class="project-item right-image">
+  <div class="project-image-large">
+    <img src="{{ '/assets/images/projects/ss-great-britain/ss-great-britain-gallery-008.jpg' | relative_url }}" alt="SS Great Britain">
+  </div>
+  <div class="project-details">
+    <h3><a href="{{ '/projects/ss-great-britain/' | relative_url }}">SS Great Britain</a></h3>
+    <p>The revolutionary passenger steamship designed by Isambard Kingdom Brunel. Launched in 1843, she was the first iron-hulled, propeller-driven ship to cross the Atlantic.</p>
+    <p>This project came about when we visited the SS Great Britain museum in Bristol in December 2021. "This is my next project", I said. My search for a kit to build this ship turned to nothing. Finally, I bought a book about the ship, collated all the materials I could find and embarked on my first scratch build undertaking. This ambitious project captured one of the most significant vessels in maritime history and cemented my fascination with building models from scratch.</p>
+    <div class="project-meta">
+      <span><strong>Status:</strong> Completed 2022</span>
+      <span><strong>Scale:</strong> 1:96</span>
+      <span><strong>Type:</strong> Advanced Scratch-Build</span>
+    </div>
+    <p><a href="{{ '/projects/ss-great-britain/' | relative_url }}">View Project →</a></p>
+  </div>
+</div>
 
-**Status:** Completed  
-**Scale:** 1:96  
-**Category:** Maritime/Historical  
-**Build Type:** Advanced scratch-build  
+<div class="project-item left-image">
+  <div class="project-image-large">
+    <img src="{{ '/assets/images/projects/cathy-flower-house/cathy-flower-house-009.jpg' | relative_url }}" alt="Cathy's Flower House">
+  </div>
+  <div class="project-details">
+    <h3><a href="{{ '/projects/cathy-flower-house/' | relative_url }}">Cathy's Flower House</a></h3>
+    <p>A charming miniature flower shop with LED lighting. This delightful Rolife kit brings together intricate details, warm lighting, and the cozy atmosphere of a traditional flower shop.</p>
+    <div class="project-meta">
+      <span><strong>Status:</strong> Completed January 2024</span>
+      <span><strong>Scale:</strong> 1:24</span>
+      <span><strong>Type:</strong> Rolife Kit</span>
+    </div>
+    <p><a href="{{ '/projects/cathy-flower-house/' | relative_url }}">View Project →</a></p>
+  </div>
+</div>
 
-[View Project →]({{ '/projects/ss-great-britain/' | relative_url }})
+<div class="project-item right-image">
+  <div class="project-image-large">
+    <img src="{{ '/assets/images/projects/log-cabin/log-cabin-gallery-004.jpg' | relative_url }}" alt="Log Cabin in the Woods">
+  </div>
+  <div class="project-details">
+    <h3><a href="{{ '/projects/log-cabin/' | relative_url }}">Log Cabin in the Woods</a></h3>
+    <p>A detailed scratch-built log cabin diorama set deep in the woods, featuring handcrafted cabin structure with individual logs, stone chimney, and timber roof. The woodland environment uses real plant materials, natural moss and lichen, and carefully prepared vegetation to create an authentic forest setting. The cabin features detailed corner notching, weathered shingles, and a front porch integrated naturally into the landscape.</p>
+    <div class="project-meta">
+      <span><strong>Status:</strong> Completed April 2024</span>
+      <span><strong>Scale:</strong> 1:35</span>
+      <span><strong>Type:</strong> Scratch-Build</span>
+    </div>
+    <p><a href="{{ '/projects/log-cabin/' | relative_url }}">View Project →</a></p>
+  </div>
+</div>
+
+<div class="project-item left-image">
+  <div class="project-image-large">
+    <img src="{{ '/assets/images/projects/english-country-garden/Gallery/ecg-gal-039.jpg' | relative_url }}" alt="English Country Garden">
+  </div>
+  <div class="project-details">
+    <h3><a href="{{ '/projects/english-country-garden/' | relative_url }}">English Country Garden</a></h3>
+    <p>A charming English cottage with authentic thatched roof surrounded by a traditional cottage garden featuring over 50 miniature plant species. The 12m × 12m garden (at scale) includes climbing roses, herbaceous borders, vegetable patches, and carefully arranged flowerbeds capturing the essence of classic English garden design.</p>
+    <div class="project-meta">
+      <span><strong>Status:</strong> Completed November 2024</span>
+      <span><strong>Scale:</strong> 1:50 (1m = 2cm)</span>
+      <span><strong>Type:</strong> Scratch-Build</span>
+    </div>
+    <p><a href="{{ '/projects/english-country-garden/' | relative_url }}">View Project →</a></p>
+  </div>
+</div>
+
+<div class="project-item right-image">
+  <div class="project-image-large">
+    <img src="{{ '/assets/images/coming_soon_square.jpg' | relative_url }}" alt="Coming Soon - Sea Rescue">
+  </div>
+  <div class="project-details">
+    <h3><a href="{{ '/projects/sea-rescue/' | relative_url }}">Sea Rescue</a></h3>
+    <p>A dramatic maritime rescue scene capturing the bravery and dedication of sea rescue services. This project will feature a detailed rescue vessel in action with authentic equipment, dynamic seascape, and realistic water effects to honor those who risk their lives saving others at sea.</p>
+    <div class="project-meta">
+      <span><strong>Status:</strong> In Progress - Planning Phase</span>
+      <span><strong>Scale:</strong> 1:50</span>
+      <span><strong>Type:</strong> Scratch-Build</span>
+    </div>
+    <p><a href="{{ '/projects/sea-rescue/' | relative_url }}">View Project →</a></p>
+  </div>
+</div>
+
+</div>
 
 ---
 
-### [Log Cabin in the Woods - 2024]({{ '/projects/log-cabin/' | relative_url }})
+<div class="incomplete-projects">
 
-A detailed scratch-built log cabin diorama set deep in the woods, featuring handcrafted cabin structure with individual logs, stone chimney, and timber roof. The woodland environment uses real plant materials, natural moss and lichen, and carefully prepared vegetation to create an authentic forest setting. The cabin features detailed corner notching, weathered shingles, and a front porch integrated naturally into the landscape.
+## Completed Projects Not Yet Documented
 
-**Status:** Completed (April 2024)
-**Scale:** 1:35
-**Category:** Architectural/Nature
-**Build Type:** Scratch-build
+The following projects are all completed but not yet fully documented on this site:
 
-[View Project →]({{ '/projects/log-cabin/' | relative_url }})
+<ul>
+  <li>Caravaning</li>
+  <li>Riverside Cabin</li>
+  <li>Bookshop Memories</li>
+  <li>Bamboo River Lookout</li>
+  <li>Plane Restore</li>
+  <li>1906 Renault</li>
+  <li>Dollhouse Bunker Bed</li>
+  <li>Traditional Country Cottage</li>
+  <li>Simon's Coffee Shop</li>
+  <li>Plant Display</li>
+  <li>Henrhyd Falls</li>
+</ul>
 
----
+</div>
 
-### [English Country Garden - 2024]({{ '/projects/english-country-garden/' | relative_url }})
+<div class="concept-projects">
 
-A charming English cottage with authentic thatched roof surrounded by a traditional cottage garden featuring over 50 miniature plant species. The 12m × 12m garden (at scale) includes climbing roses, herbaceous borders, vegetable patches, and carefully arranged flowerbeds capturing the essence of classic English garden design.
+### Future Projects in Concept Stage
 
-**Status:** Completed (November 2024)
-**Scale:** 1:50 (1m = 2cm)
-**Category:** Architectural/Garden
-**Build Type:** Scratch-build
+<ul>
+  <li>Ancient Forest</li>
+</ul>
 
-[View Project →]({{ '/projects/english-country-garden/' | relative_url }})
-
----
-
-### [Sea Rescue - 2025]({{ '/projects/sea-rescue/' | relative_url }})
-
-A dramatic maritime rescue scene capturing the bravery and dedication of sea rescue services. This project will feature a detailed rescue vessel in action with authentic equipment, dynamic seascape, and realistic water effects to honor those who risk their lives saving others at sea.
-
-**Status:** In Progress - Planning Phase  
-**Scale:** 1:50  
-**Category:** Maritime/Nautical  
-**Build Type:** Scratch-build  
-
-[View Project →]({{ '/projects/sea-rescue/' | relative_url }})
-
----
-
-The Following projects are all completed, but not yet included in this site
-
-### Cathy's flower house
-
-### Caravaning
-
-### Riverside Cabin
-
-### Bookshop memories
-
-### Bamboo river lookout
-
-### Plane restore
-
-### 1906 Renaught
-
-### Dollhouse bunker bed
-
-### Traditional country cottage
-
-### Simon's coffee shop
-
-### Plant display
-
-### Hendryd falls
-
-
-Next projects in concept stage
-
-### Ancient Forest
+</div>
 
 ---
 

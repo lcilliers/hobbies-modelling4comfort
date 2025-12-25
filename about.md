@@ -6,7 +6,13 @@ published: true
 date: 2025-12-01
 ---
 
-# About Modelling4Comfort
+<div class="page-banner">
+  <img src="{{ '/assets/images/projects/ss-great-britain/ss-great-britain-gallery-008.jpg' | relative_url }}" alt="About Banner">
+  <div class="banner-content">
+    <h1>About</h1>
+    <p>The Journey of Modelling4Comfort</p>
+  </div>
+</div>
 
 Welcome to my modeling journey! This site documents my passion for creating miniature worlds - from historical ships to rural scenes, from english country side to cozy cabins.
 

@@ -6,7 +6,13 @@ published: false  # This page won't be published
 date: 2025-12-01
 ---
 
-
+<div class="page-banner">
+  <img src="{{ '/assets/images/projects/cathy-flower-house/cathy-flower-house-009.jpg' | relative_url }}" alt="Techniques Banner">
+  <div class="banner-content">
+    <h1>Techniques</h1>
+    <p>Methods, Tips & Tutorials</p>
+  </div>
+</div>
 
 ## Tools & Workspace
 

@@ -6,7 +6,13 @@ published: true
 date: 2025-12-01
 ---
 
-# Build Logs
+<div class="page-banner">
+  <img src="{{ '/assets/images/projects/log-cabin/log-cabin-gallery-004.jpg' | relative_url }}" alt="Build Logs Banner">
+  <div class="banner-content">
+    <h1>Build Logs</h1>
+    <p>From Concept to Completion</p>
+  </div>
+</div>
 
 Follow along with my diorama projects as they develop from concept to completion. Each build log documents the process, challenges, solutions, and lessons learned along the way.
 
