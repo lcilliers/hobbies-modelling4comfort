@@ -100,46 +100,40 @@ a:hover {
 
 /* === Header === */
 .site-header {
-  background-color: var(--primary-dark);
+  background: linear-gradient(135deg, #1a365d 0%, #2c5282 50%, #1e4976 100%);
   color: white;
   padding: var(--spacing-md) 0;
-  box-shadow: var(--shadow);
-}
-
-.site-header .wrapper {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-}
-
-.site-title {
-  font-size: 1.8rem;
-  font-weight: 700;
-  color: white;
-  text-decoration: none;
-  font-family: var(--font-heading);
-}
-
-.site-title:hover {
-  color: var(--primary-light);
-  text-decoration: none;
-}
-
-/* === Header === */
-.site-header {
-  background-color: var(--primary-dark);
-  color: white;
-  padding: var(--spacing-md) 0;
-  box-shadow: var(--shadow);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
   position: sticky;
   top: 0;
   z-index: 100;
+  border-bottom: 3px solid rgba(255, 255, 255, 0.1);
+  position: relative;
+}
+
+.site-header::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-image: repeating-linear-gradient(
+    45deg,
+    transparent,
+    transparent 10px,
+    rgba(255, 255, 255, 0.03) 10px,
+    rgba(255, 255, 255, 0.03) 20px
+  );
+  pointer-events: none;
 }
 
 .site-header .wrapper {
   display: flex;
   justify-content: space-between;
   align-items: center;
+  position: relative;
+  z-index: 1;
 }
 
 .site-title {
@@ -930,17 +924,7 @@ article p > em {
 
 /* Banner with text overlay */
 .page-banner {
-  position: relative;
-  width: 100%;
-  height: 300px;
-  margin: 0 0 40px 0;
-  overflow: hidden;
-  border-radius: 12px;
-  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.15);
-  border: 3px solid #e0e0e0;
-  display: flex;
-  align-items: center;
-  justify-content: center;
+  display: none;
 }
 
 .page-banner img {
@@ -1404,13 +1388,21 @@ article p > em {
   flex-direction: row;
 }
 
+.project-item.left-image .project-details {
+  text-align: left;
+}
+
 .project-item.right-image {
   flex-direction: row-reverse;
 }
 
+.project-item.right-image .project-details {
+  text-align: right;
+}
+
 .project-image-large {
-  flex: 0 0 400px;
-  max-width: 400px;
+  flex: 0 0 250px;
+  max-width: 250px;
 }
 
 .project-image-large img {
