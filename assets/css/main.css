@@ -1326,13 +1326,13 @@ article p > em {
 
 /* === Projects Gallery Page Styles === */
 .project-showcase {
-  margin: 3rem 0;
+  margin: 2rem 0;
 }
 
 .project-item {
   display: flex;
   gap: 2rem;
-  margin: 3rem 0;
+  margin: 2rem 0;
   padding: 2rem;
   background-color: #f9f9f9;
   border-radius: 8px;
@@ -1449,7 +1449,7 @@ article p > em {
 }
 
 .incomplete-projects {
-  margin: 3rem 0;
+  margin: 2rem 0;
   padding: 2rem;
   background-color: #f0f0f0;
   border-radius: 8px;
