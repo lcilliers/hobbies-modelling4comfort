@@ -82,6 +82,13 @@ Browse through my models and diorama builds and see the creative process unfold.
       <strong><a href="{{ '/projects/cathy-flower-house/' | relative_url }}">Cathy's Flower House 1:24 scale Rolife kit</a></strong> - Charming miniature flower shop with LED lighting. <em>Completed January 2024</em>
     </div>
   </div>
+
+  <div class="project-link-item">
+    <img src="{{ '/assets/images/projects/bookshop-memories/bsm-004.jpg' | relative_url }}" alt="Bookshop Memories" class="project-thumbnail">
+    <div class="project-link-text">
+      <strong><a href="{{ '/projects/bookshop-memories/' | relative_url }}">Bookshop Memories 1:10 scale BookNook kit</a></strong> - Charming miniature bookshop scene with LED lighting, perfect for bookshelf display. <em>Completed February 2025</em>
+    </div>
+  </div>
 </div>
 
 

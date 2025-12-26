@@ -82,6 +82,25 @@ Each project page provides a comprehensive **overview** of the concept, goals, a
 
 <div class="project-item right-image">
   <div class="project-image-large">
+    <img src="{{ '/assets/images/projects/bookshop-memories/bsm-004.jpg' | relative_url }}" alt="Bookshop Memories">
+  </div>
+  <div class="project-details">
+    <h3><a href="{{ '/projects/bookshop-memories/' | relative_url }}">Bookshop Memories</a></h3>
+    <p>A charming DIY Book Nook Kit from BookNookKit.com, creating an enchanting miniature bookshop scene perfect for display. This delightful kit features laser-cut wooden components, intricate details, and atmospheric LED lighting in a compact format designed to fit beautifully on a bookshelf.</p>
+    <div class="project-meta">
+      <span><strong>Status:</strong> Completed February 2025</span>
+      <span><strong>Scale:</strong> 1:10</span>
+      <span><strong>Type:</strong> BookNook Kit</span>
+    </div>
+    <div class="project-buttons">
+      <a href="{{ '/projects/bookshop-memories/' | relative_url }}" class="project-btn project-btn-primary">Project Overview</a>
+      <a href="{{ '/builds/bookshop-memories/001-build-log/' | relative_url }}" class="project-btn project-btn-secondary">Build Logs</a>
+    </div>
+  </div>
+</div>
+
+<div class="project-item right-image">
+  <div class="project-image-large">
     <img src="{{ '/assets/images/projects/log-cabin/log-cabin-gallery-004.jpg' | relative_url }}" alt="Log Cabin in the Woods">
   </div>
   <div class="project-details">
