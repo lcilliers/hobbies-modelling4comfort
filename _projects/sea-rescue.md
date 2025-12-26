@@ -8,6 +8,7 @@ status: in-progress
 scale: "1:72"
 difficulty: intermediate
 comments: true
+build_logs: /builds/sea-rescue/001-planning/
 featured_image: assets/images/projects/sea-rescue/planning/sr-pln-001.jpg
 gallery:
   - assets/images/projects/sea-rescue/planning/sr-pln-001.jpg

@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: build
 title: "Cathy's Flower House - Build Log"
 date: 2023-12-26
-project: cathy-flower-house
-build_number: 1
+project: /projects/cathy-flower-house/
 categories: [miniature, kit-build]
 tags: [rolife, assembly, flowers, lighting]
 excerpt: "Building the charming Cathy's Flower House miniature kit from Rolife - a delightful flower shop scene with intricate details."
+build_log_menu:
+  - url: /builds/cathy-flower-house/001-build-log/
+    title: "Build Log"
 ---
 
 ## Project Start

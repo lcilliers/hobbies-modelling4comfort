@@ -7,6 +7,7 @@ tags: [rolife, miniature-house, flowers, kit-build]
 status: completed
 scale: "1:24"
 difficulty: beginner
+build_logs: /builds/cathy-flower-house/001-build-log/
 featured_image: assets/images/projects/cathy-flower-house/cathy-flower-house-009.jpg
 gallery:
   - assets/images/projects/cathy-flower-house/cathy-flower-house-009.jpg

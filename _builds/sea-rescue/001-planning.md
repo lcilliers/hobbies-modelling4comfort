@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: build
 title: "Sea Rescue - Planning & Research"
 date: 2025-12-23
-project: sea-rescue
-build_number: "#001"
+project: /projects/sea-rescue/
 categories: [maritime, planning]
 tags: [research, planning, scratch-build, reference-materials, rescue-vessel]
 excerpt: "Beginning the Sea Rescue project with research, concept development, and planning the build approach for this maritime rescue scene."
+build_log_menu:
+  - url: /builds/sea-rescue/001-planning/
+    title: "Planning & Research"
 ---
 
 ## Project Inception
