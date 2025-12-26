@@ -1,12 +1,34 @@
 ---
-layout: post
-title: "SS Great Britain - Build Log: Hull Construction"
+layout: build
+title: "SS Great Britain - Hull Construction"
 date: 2022-02-10
-project: ss-great-britain
-build_number: #002
+project: /projects/ss-great-britain/
+project_name: "SS Great Britain"
+build_number: "#002"
+step: 2
+previous_step: /builds/ss-great-britain/001-planning-research/
+previous_step_title: "Planning & Research"
+next_step: /builds/ss-great-britain/003-decking/
+next_step_title: "Decking"
 categories: [ships, construction]
 tags: [hull, iron-plating, assembly]
 excerpt: "Hull construction phase - assembling the iron hull and adding structural details."
+build_log_menu:
+  - number: "#001"
+    title: "Planning & Research"
+    url: /builds/ss-great-britain/001-planning-research/
+  - number: "#002"
+    title: "Hull Construction"
+    url: /builds/ss-great-britain/002-hull-construction/
+  - number: "#003"
+    title: "Decking"
+    url: /builds/ss-great-britain/003-decking/
+  - number: "#004"
+    title: "Sails & Rigging"
+    url: /builds/ss-great-britain/004-sails-and-rigging/
+  - number: "#005"
+    title: "Decoration"
+    url: /builds/ss-great-britain/005-decoration/
 ---
 
 Getting started with the actual build commenced with calculating the base measurements. I got most of the key measurements from the [Wikipedia article on SS Great Britain](https://en.wikipedia.org/wiki/SS_Great_Britain).  Most of the detail measurements were gathered from other pictures and calculated based on the length of the ship in the picture.  

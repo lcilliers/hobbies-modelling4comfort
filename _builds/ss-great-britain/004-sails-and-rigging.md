@@ -1,12 +1,34 @@
 ---
-layout: post
-title: "Ss Great Britain - Build Log: Sails And Rigging"
+layout: build
+title: "SS Great Britain - Sails & Rigging"
 date: 2022-04-15
-project: ss-great-britain
-build_number: #004
+project: /projects/ss-great-britain/
+project_name: "SS Great Britain"
+build_number: "#004"
+step: 4
+previous_step: /builds/ss-great-britain/003-decking/
+previous_step_title: "Decking"
+next_step: /builds/ss-great-britain/005-decoration/
+next_step_title: "Decoration"
 categories: [ships, rigging]
 tags: [sails, rigging, masts, detail-work]
 excerpt: "Complex rigging work including six masts, sails, and associated lines and details."
+build_log_menu:
+  - number: "#001"
+    title: "Planning & Research"
+    url: /builds/ss-great-britain/001-planning-research/
+  - number: "#002"
+    title: "Hull Construction"
+    url: /builds/ss-great-britain/002-hull-construction/
+  - number: "#003"
+    title: "Decking"
+    url: /builds/ss-great-britain/003-decking/
+  - number: "#004"
+    title: "Sails & Rigging"
+    url: /builds/ss-great-britain/004-sails-and-rigging/
+  - number: "#005"
+    title: "Decoration"
+    url: /builds/ss-great-britain/005-decoration/
 ---
 
 With the masts up, and the and all the rope eyelits on the deck and the masts, the sails and rigging had to be figured out.  Without the example of the Gorch Fock around I would have not figured it out.  Sail cloth is sourced and the layout and measurements of all the sails cut out of paper, 15 in total. Without a sowing machine, the seams of the sails were all glued in with cloth material glue.

@@ -1,12 +1,32 @@
 ---
-layout: post
+layout: build
 title: "SS Great Britain - Planning & Research"
 date: 2021-12-25
-project: ss-great-britain
+project: /projects/ss-great-britain/
+project_name: "SS Great Britain"
 build_number: "#001"
+step: 1
+next_step: /builds/ss-great-britain/002-hull-construction/
+next_step_title: "Hull Construction"
 categories: [ships, planning]
 tags: [research, planning, kit-review, scratch build, reference-materials]
 excerpt: "Starting the ambitious SS Great Britain project with extensive research, reference gathering, and planning the build approach."
+build_log_menu:
+  - number: "#001"
+    title: "Planning & Research"
+    url: /builds/ss-great-britain/001-planning-research/
+  - number: "#002"
+    title: "Hull Construction"
+    url: /builds/ss-great-britain/002-hull-construction/
+  - number: "#003"
+    title: "Decking"
+    url: /builds/ss-great-britain/003-decking/
+  - number: "#004"
+    title: "Sails & Rigging"
+    url: /builds/ss-great-britain/004-sails-and-rigging/
+  - number: "#005"
+    title: "Decoration"
+    url: /builds/ss-great-britain/005-decoration/
 ---
 
 

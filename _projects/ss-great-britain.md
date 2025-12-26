@@ -8,6 +8,7 @@ status: completed
 scale: "1:300"
 difficulty: advanced
 comments: true
+build_logs: /builds/ss-great-britain/001-planning-research/
 featured_image: assets/images/projects/ss-great-britain/ss-great-britain-gallery-008.jpg
 gallery:
   - assets/images/projects/ss-great-britain/ss-great-britain-gallery-005.jpg
