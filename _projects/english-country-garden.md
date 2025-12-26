@@ -5,6 +5,7 @@ date: 2024-04-13
 status: "completed"
 completion_date: 2024-11-30
 comments: true
+build_logs: /builds/english-country-garden/001-planning-research/
 featured_image: assets/images/projects/english-country-garden/Gallery/ecg-gal-039.jpg
 gallery:
   - assets/images/projects/english-country-garden/Gallery/ecg-gal-001.jpg

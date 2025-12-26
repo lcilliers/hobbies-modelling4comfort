@@ -3,6 +3,17 @@ layout: default
 ---
 <article class="project">
 
+  <!-- Project Navigation Bar -->
+  <nav class="project-nav-bar">
+    <div class="nav-buttons">
+      <a href="{{ '/projects/' | relative_url }}" class="nav-btn nav-btn-back">← All Projects</a>
+      <span class="nav-title">{{ page.title }}</span>
+      {% if page.build_logs %}
+      <a href="{{ page.build_logs | relative_url }}" class="nav-btn nav-btn-builds">Build Logs →</a>
+      {% endif %}
+    </div>
+  </nav>
+
   <header class="project-header">
     <h1 class="project-title">{{ page.title | escape }}</h1>
     
@@ -44,5 +55,13 @@ layout: default
   <aside class="project-feedback">
     <p>Enjoyed this project? Have questions or suggestions? <a href="{{ '/feedback' | relative_url }}">I'd love to hear from you</a>.</p>
   </aside>
+
+  <!-- Bottom Navigation -->
+  <nav class="project-bottom-nav">
+    <a href="{{ '/projects/' | relative_url }}" class="nav-btn nav-btn-secondary">← Back to Projects</a>
+    {% if page.build_logs %}
+    <a href="{{ page.build_logs | relative_url }}" class="nav-btn nav-btn-primary">Explore Build Process →</a>
+    {% endif %}
+  </nav>
 
 </article>

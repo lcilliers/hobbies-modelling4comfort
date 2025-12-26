@@ -3,6 +3,45 @@ layout: default
 ---
 <article class="build-log">
 
+  <!-- Build Navigation Bar -->
+  <nav class="build-nav-bar">
+    <div class="nav-buttons">
+      {% if page.project %}
+      <a href="{{ page.project | relative_url }}" class="nav-btn nav-btn-back">← Project Overview</a>
+      {% else %}
+      <a href="{{ '/builds/' | relative_url }}" class="nav-btn nav-btn-back">← All Builds</a>
+      {% endif %}
+      
+      {% if page.build_log_menu %}
+      <div class="build-selector">
+        <button class="nav-btn nav-btn-dropdown" id="buildMenuToggle">
+          <span>Build Steps</span>
+          <svg class="dropdown-icon" width="12" height="8" viewBox="0 0 12 8" fill="currentColor">
+            <path d="M1.41 0L6 4.58L10.59 0L12 1.41L6 7.41L0 1.41L1.41 0Z"/>
+          </svg>
+        </button>
+        <div class="build-dropdown-menu" id="buildMenu">
+          {% for item in page.build_log_menu %}
+          <a href="{{ item.url | relative_url }}" class="build-menu-item {% if page.url == item.url %}active{% endif %}">
+            <span class="build-number">{{ item.number }}</span>
+            <span class="build-title">{{ item.title }}</span>
+          </a>
+          {% endfor %}
+        </div>
+      </div>
+      {% endif %}
+      
+      <div class="nav-spacer"></div>
+      
+      {% if page.previous_step %}
+      <a href="{{ page.previous_step | relative_url }}" class="nav-btn nav-btn-prev" title="Previous build step">← Prev</a>
+      {% endif %}
+      {% if page.next_step %}
+      <a href="{{ page.next_step | relative_url }}" class="nav-btn nav-btn-next" title="Next build step">Next →</a>
+      {% endif %}
+    </div>
+  </nav>
+
   <header class="build-header">
     <h1 class="build-title">{{ page.title | escape }}</h1>
     
@@ -55,15 +94,58 @@ layout: default
     <p>Questions about this build step? <a href="{{ '/feedback' | relative_url }}">Send me a message</a> — I'm happy to help!</p>
   </aside>
 
+  <!-- Bottom Navigation -->
   <footer class="build-footer">
-    <nav class="build-navigation">
+    <nav class="build-bottom-nav">
       {% if page.previous_step %}
-        <a href="{{ page.previous_step | relative_url }}" class="prev-step">← Previous Step</a>
+        <a href="{{ page.previous_step | relative_url }}" class="nav-btn nav-btn-secondary nav-btn-wide">
+          <span class="nav-direction">← Previous</span>
+          <span class="nav-label">{{ page.previous_step_title }}</span>
+        </a>
+      {% else %}
+        <div class="nav-spacer"></div>
       {% endif %}
+      
+      {% if page.project %}
+      <a href="{{ page.project | relative_url }}" class="nav-btn nav-btn-tertiary">Project Overview</a>
+      {% endif %}
+      
       {% if page.next_step %}
-        <a href="{{ page.next_step | relative_url }}" class="next-step">Next Step →</a>
+        <a href="{{ page.next_step | relative_url }}" class="nav-btn nav-btn-primary nav-btn-wide">
+          <span class="nav-direction">Next →</span>
+          <span class="nav-label">{{ page.next_step_title }}</span>
+        </a>
+      {% else %}
+        <div class="nav-spacer"></div>
       {% endif %}
     </nav>
   </footer>
 
 </article>
+
+<script>
+// Dropdown menu functionality
+document.addEventListener('DOMContentLoaded', function() {
+  const toggle = document.getElementById('buildMenuToggle');
+  const menu = document.getElementById('buildMenu');
+  
+  if (toggle && menu) {
+    toggle.addEventListener('click', function(e) {
+      e.stopPropagation();
+      menu.classList.toggle('show');
+      toggle.classList.toggle('active');
+    });
+    
+    // Close dropdown when clicking outside
+    document.addEventListener('click', function() {
+      menu.classList.remove('show');
+      toggle.classList.remove('active');
+    });
+    
+    // Prevent dropdown from closing when clicking inside menu
+    menu.addEventListener('click', function(e) {
+      e.stopPropagation();
+    });
+  }
+});
+</script>

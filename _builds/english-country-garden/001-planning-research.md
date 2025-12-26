@@ -1,12 +1,32 @@
 ---
-layout: post
+layout: build
 title: "English Country Garden - Planning & Research"
 date: 2024-04-13
-project: english-country-garden
+project: /projects/english-country-garden/
+project_name: "English Country Garden"
 build_number: "#001"
+step: 1
+next_step: /builds/english-country-garden/002-flowers-plants/
+next_step_title: "Flowers & Plants"
 categories: [gardens, planning]
 tags: [research, planning, scratch-build, flowers, plants, cottage, thatching]
 excerpt: "Beginning the English Country Garden project with scale selection, extensive research into cottage gardens, plant varieties, and flower-making techniques."
+build_log_menu:
+  - number: "#001"
+    title: "Planning & Research"
+    url: /builds/english-country-garden/001-planning-research/
+  - number: "#002"
+    title: "Flowers & Plants"
+    url: /builds/english-country-garden/002-flowers-plants/
+  - number: "#003"
+    title: "Base & Structures"
+    url: /builds/english-country-garden/003-base-structures/
+  - number: "#004"
+    title: "Cottage Construction"
+    url: /builds/english-country-garden/004-cottage-construction/
+  - number: "#005"
+    title: "Garden Finishing"
+    url: /builds/english-country-garden/005-garden-finishing/
 ---
 
 ## Project Genesis
