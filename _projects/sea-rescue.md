@@ -8,9 +8,9 @@ status: in-progress
 scale: "1:72"
 difficulty: intermediate
 comments: true
-featured_image: assets/images/projects/sea-rescue/sea-rescue-featured.jpg
+featured_image: assets/images/projects/sea-rescue/planning/sr-pln-001.jpg
 gallery:
-  - assets/images/projects/sea-rescue/sea-rescue-gallery-001.jpg
+  - assets/images/projects/sea-rescue/planning/sr-pln-001.jpg
 
 ---
 
