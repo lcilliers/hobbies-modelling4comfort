@@ -29,6 +29,19 @@ layout: default
       {% if page.start_date %}<span class="meta-item">Started: {{ page.start_date | date: "%B %Y" }}</span>{% endif %}
       {% if page.completion_date %}<span class="meta-item">Completed: {{ page.completion_date | date: "%B %Y" }}</span>{% endif %}
     </div>
+    
+    {% if page.build_logs %}
+    <div class="project-cta">
+      <a href="{{ page.build_logs | relative_url }}" class="cta-button">
+        <span class="cta-icon">📖</span>
+        <div class="cta-content">
+          <span class="cta-title">Explore the Build Process</span>
+          <span class="cta-subtitle">Step-by-step documentation with photos and techniques</span>
+        </div>
+        <span class="cta-arrow">→</span>
+      </a>
+    </div>
+    {% endif %}
   </header>
 
   <div class="project-content">

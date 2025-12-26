@@ -1762,6 +1762,68 @@ article p > em {
   border-top: 2px solid #e2e8f0;
 }
 
+/* Project Call-to-Action Button */
+.project-cta {
+  margin: 2rem 0 0 0;
+}
+
+.cta-button {
+  display: flex;
+  align-items: center;
+  gap: 1.5rem;
+  padding: 1.5rem 2rem;
+  background: linear-gradient(135deg, #2c5282 0%, #2b6cb0 100%);
+  border: 2px solid #2c5282;
+  border-radius: 12px;
+  text-decoration: none;
+  color: white;
+  transition: all 0.3s ease;
+  box-shadow: 0 4px 12px rgba(44, 82, 130, 0.3);
+}
+
+.cta-button:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 8px 20px rgba(44, 82, 130, 0.4);
+  background: linear-gradient(135deg, #1a365d 0%, #2c5282 100%);
+  text-decoration: none;
+}
+
+.cta-icon {
+  font-size: 2rem;
+  flex-shrink: 0;
+}
+
+.cta-content {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  gap: 0.25rem;
+  text-align: left;
+}
+
+.cta-title {
+  font-size: 1.1rem;
+  font-weight: 600;
+  color: white;
+}
+
+.cta-subtitle {
+  font-size: 0.9rem;
+  color: rgba(255, 255, 255, 0.85);
+  font-weight: 400;
+}
+
+.cta-arrow {
+  font-size: 1.5rem;
+  font-weight: bold;
+  color: white;
+  transition: transform 0.3s ease;
+}
+
+.cta-button:hover .cta-arrow {
+  transform: translateX(5px);
+}
+
 /* Responsive Navigation */
 @media (max-width: 768px) {
   .nav-buttons {
@@ -1797,6 +1859,25 @@ article p > em {
   
   .nav-btn-wide {
     min-width: auto;
+  }
+  
+  .cta-button {
+    flex-direction: column;
+    text-align: center;
+    gap: 1rem;
+  }
+  
+  .cta-content {
+    align-items: center;
+    text-align: center;
+  }
+  
+  .cta-arrow {
+    transform: rotate(90deg);
+  }
+  
+  .cta-button:hover .cta-arrow {
+    transform: rotate(90deg) translateX(5px);
   }
 }
 
