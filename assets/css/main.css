@@ -1746,7 +1746,7 @@ article p > em {
   background-color: #1a365d;
 }
 
-.build-title {
+.build-step-title {
   flex: 1;
   font-size: 0.9rem;
 }

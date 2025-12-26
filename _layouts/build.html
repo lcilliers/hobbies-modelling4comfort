@@ -24,7 +24,7 @@ layout: default
           {% for item in page.build_log_menu %}
           <a href="{{ item.url | relative_url }}" class="build-menu-item {% if page.url == item.url %}active{% endif %}">
             <span class="build-number">{{ item.number }}</span>
-            <span class="build-title">{{ item.title }}</span>
+            <span class="build-step-title">{{ item.title }}</span>
           </a>
           {% endfor %}
         </div>
@@ -89,10 +89,6 @@ layout: default
   {% if page.comments %}
     {% include comments.html %}
   {% endif %}
-
-  <aside class="build-feedback">
-    <p>Questions about this build step? <a href="{{ '/feedback' | relative_url }}">Send me a message</a> — I'm happy to help!</p>
-  </aside>
 
   <!-- Bottom Navigation -->
   <footer class="build-footer">
