@@ -1,12 +1,34 @@
 ---
-layout: post
+layout: build
 title: "English Country Garden - Flowers & Plant Creation"
 date: 2024-05-01
-project: english-country-garden
+project: /projects/english-country-garden/
+project_name: "English Country Garden"
 build_number: "#002"
+step: 2
+previous_step: /builds/english-country-garden/001-planning-research/
+previous_step_title: "Planning & Research"
+next_step: /builds/english-country-garden/003-base-structures/
+next_step_title: "Base & Structures"
 categories: [gardens, techniques]
 tags: [flowers, plants, miniatures, scratch-build, techniques, materials]
 excerpt: "The heart of the project: preparing materials and crafting over 100 individual flowers, plants, and trees using wire, paper, clay, and natural materials."
+build_log_menu:
+  - number: "#001"
+    title: "Planning & Research"
+    url: /builds/english-country-garden/001-planning-research/
+  - number: "#002"
+    title: "Flowers & Plants"
+    url: /builds/english-country-garden/002-flowers-plants/
+  - number: "#003"
+    title: "Base & Structures"
+    url: /builds/english-country-garden/003-base-structures/
+  - number: "#004"
+    title: "Cottage Construction"
+    url: /builds/english-country-garden/004-cottage-construction/
+  - number: "#005"
+    title: "Garden Finishing"
+    url: /builds/english-country-garden/005-garden-finishing/
 ---
 
 ## The Core Challenge

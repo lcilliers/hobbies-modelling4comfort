@@ -1,12 +1,34 @@
 ---
-layout: post
+layout: build
 title: "English Country Garden - Cottage Construction"
 date: 2024-08-01
-project: english-country-garden
+project: /projects/english-country-garden/
+project_name: "English Country Garden"
 build_number: "#004"
+step: 4
+previous_step: /builds/english-country-garden/003-base-structures/
+previous_step_title: "Base & Structures"
+next_step: /builds/english-country-garden/005-garden-finishing/
+next_step_title: "Garden Finishing"
 categories: [gardens, construction]
 tags: [cottage, thatched-roof, balsa-wood, scratch-build, architecture]
 excerpt: "Building the Victorian cottage centerpiece with balsa wood walls, brick chimney, period windows, and authentic thatched roof using real grass."
+build_log_menu:
+  - number: "#001"
+    title: "Planning & Research"
+    url: /builds/english-country-garden/001-planning-research/
+  - number: "#002"
+    title: "Flowers & Plants"
+    url: /builds/english-country-garden/002-flowers-plants/
+  - number: "#003"
+    title: "Base & Structures"
+    url: /builds/english-country-garden/003-base-structures/
+  - number: "#004"
+    title: "Cottage Construction"
+    url: /builds/english-country-garden/004-cottage-construction/
+  - number: "#005"
+    title: "Garden Finishing"
+    url: /builds/english-country-garden/005-garden-finishing/
 ---
 
 ## Cottage Construction Begins

@@ -1,12 +1,34 @@
 ---
-layout: post
+layout: build
 title: "English Country Garden - Base & Garden Structures"
 date: 2024-06-01
-project: english-country-garden
+project: /projects/english-country-garden/
+project_name: "English Country Garden"
 build_number: "#003"
+step: 3
+previous_step: /builds/english-country-garden/002-flowers-plants/
+previous_step_title: "Flowers & Plants"
+next_step: /builds/english-country-garden/004-cottage-construction/
+next_step_title: "Cottage Construction"
 categories: [gardens, construction]
 tags: [base, terrain, structures, arch, gate, wall, pathways]
 excerpt: "Creating the foundation and garden structures including terrain with elevation changes, clematis arch, stone wall, wooden gate, and slate pathways."
+build_log_menu:
+  - number: "#001"
+    title: "Planning & Research"
+    url: /builds/english-country-garden/001-planning-research/
+  - number: "#002"
+    title: "Flowers & Plants"
+    url: /builds/english-country-garden/002-flowers-plants/
+  - number: "#003"
+    title: "Base & Structures"
+    url: /builds/english-country-garden/003-base-structures/
+  - number: "#004"
+    title: "Cottage Construction"
+    url: /builds/english-country-garden/004-cottage-construction/
+  - number: "#005"
+    title: "Garden Finishing"
+    url: /builds/english-country-garden/005-garden-finishing/
 ---
 
 ## Foundation Planning

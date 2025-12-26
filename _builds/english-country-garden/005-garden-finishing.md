@@ -1,12 +1,32 @@
 ---
-layout: post
+layout: build
 title: "English Country Garden - Garden Planting & Finishing"
 date: 2024-11-30
-project: english-country-garden
+project: /projects/english-country-garden/
+project_name: "English Country Garden"
 build_number: "#005"
+step: 5
+previous_step: /builds/english-country-garden/004-cottage-construction/
+previous_step_title: "Cottage Construction"
 categories: [gardens, completion]
 tags: [planting, composition, finishing, completion, reflection]
 excerpt: "The final phase: installing over 100 handcrafted plants, creating the cottage garden composition, and completing the 7.5-month journey into miniature horticulture."
+build_log_menu:
+  - number: "#001"
+    title: "Planning & Research"
+    url: /builds/english-country-garden/001-planning-research/
+  - number: "#002"
+    title: "Flowers & Plants"
+    url: /builds/english-country-garden/002-flowers-plants/
+  - number: "#003"
+    title: "Base & Structures"
+    url: /builds/english-country-garden/003-base-structures/
+  - number: "#004"
+    title: "Cottage Construction"
+    url: /builds/english-country-garden/004-cottage-construction/
+  - number: "#005"
+    title: "Garden Finishing"
+    url: /builds/english-country-garden/005-garden-finishing/
 ---
 
 ## Bringing the Garden to Life
