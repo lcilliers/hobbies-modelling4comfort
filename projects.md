@@ -138,6 +138,25 @@ Each project page provides a comprehensive **overview** of the concept, goals, a
 
 <div class="project-item right-image">
   <div class="project-image-large">
+    <img src="{{ '/assets/images/projects/caravaning/gallery/caravaning-gallery-011.jpg' | relative_url }}" alt="Caravaning in Wales">
+  </div>
+  <div class="project-details">
+    <h3><a href="{{ '/projects/caravaning/' | relative_url }}">Caravaning in Wales</a></h3>
+    <p>A commissioned scratch-build capturing a family's camping adventures with their Eriba Triton caravan and VW Golf estate on a scenic Welsh riverside campsite. This ambitious project features detailed 1:42 scale replicas of the caravan and vehicle, custom-sculpted figures including the family dog Tilly, and authentic Welsh countryside scenery complete with river, vegetation, and realistic grass effects.</p>
+    <div class="project-meta">
+      <span><strong>Status:</strong> Completed July 2025</span>
+      <span><strong>Scale:</strong> 1:42</span>
+      <span><strong>Type:</strong> Commissioned Scratch-Build</span>
+    </div>
+    <div class="project-buttons">
+      <a href="{{ '/projects/caravaning/' | relative_url }}" class="project-btn project-btn-primary">Project Overview</a>
+      <a href="{{ '/builds/caravaning/001-planning-commission/' | relative_url }}" class="project-btn project-btn-secondary">Build Logs</a>
+    </div>
+  </div>
+</div>
+
+<div class="project-item left-image">
+  <div class="project-image-large">
     <img src="{{ '/assets/images/coming_soon_square.jpg' | relative_url }}" alt="Coming Soon - Sea Rescue">
   </div>
   <div class="project-details">

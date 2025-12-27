@@ -59,6 +59,13 @@ Browse through my models and diorama builds and see the creative process unfold.
   </div>
   
   <div class="project-link-item">
+    <img src="{{ '/assets/images/projects/caravaning/gallery/caravaning-gallery-011.jpg' | relative_url }}" alt="Caravaning in Wales" class="project-thumbnail">
+    <div class="project-link-text">
+      <strong><a href="{{ '/projects/caravaning/' | relative_url }}">Caravaning in Wales 1:42 scale commissioned scratch build</a></strong> - Eriba Triton caravan and VW Golf estate on Welsh riverside campsite with figures and landscaping. <em>Completed July 2025</em>
+    </div>
+  </div>
+  
+  <div class="project-link-item">
     <img src="{{ '/assets/images/coming_soon_square.jpg' | relative_url }}" alt="Coming Soon" class="project-thumbnail">
     <div class="project-link-text">
       <strong><a href="{{ '/projects/sea-rescue/' | relative_url }}">Sea Rescue 1:50 scale scratch build</a></strong> - Maritime rescue scene featuring rescue vessel in action with dynamic seascape and authentic details. <em>In Progress - Started December 2025</em>

@@ -36,152 +36,67 @@ Validation Status: IN PROGRESS - User documenting build story
 # BOOKSHOP MEMORIES - PROJECT NARRATIVE
 
 **Project Type:** Kit Build  
-**Scale:** [To be documented]  
-**Kit Manufacturer:** [To be documented]  
-**Status:** [Planning / In Progress / Completed]  
-**Start Date:** [To be documented]  
-**Completion Date:** [To be documented]  
-**Total Build Time:** [To be documented]
+**Scale:** approx 10:1 
+**Kit Manufacturer:** BookNookKit.com  
+**Status:** Completed 
+**Start Date:**  12-02-2025
+**Completion Date:** 12-02-2025  
+**Total Build Time:** 5 hours
 
 ---
 
 ## PROJECT OVERVIEW AND INSPIRATION
 
-[Document your inspiration for choosing this kit, what drew you to it, and what you hoped to achieve or learn from building it]
+The Bookshop Memories was a birthday present.  This is a DIY Book Nook Kit currated by BookNookKit.com. The company was launched in 2018 and by now have in excess of 100 models with different the themes target at the adult model building market.  The range have a distinct style, lazer cut wooden pieces and lots of detail. The models have excellent instruction booklets. Fitting and installation quality is excellent.
+
+It was great fun building this model and a good break from having to manufacture my own parts and design my own layout.
+
+The size of the completed model is about the height of a mid size book, and the width of a couple of books.  It will display very well on a shelf, although mine landed on a display table.
+
+Total build time was about 4-5 hours.  It did not present any issues or undue difficulty, but could be tricky for a novice or some someone that struggles with detail.
+
+Looking through the booknookkit.com website, it does not appear that the model I build is still available, but they have lots of other similar models in their product portfolio.
 
 ---
 
-## CHAPTER 1: PLANNING AND UNBOXING
-**Timeline:** [Date]
+## CHAPTER 1: THE BUILD
+**Timeline:** 12-02-2025
 
 ### Initial Impressions
 
-[Document your first impressions of the kit, packaging quality, completeness of components]
+On opening the box (the size of a mid size book), all the parts were neatly packed and pre-numbered into plastic pockets. It most consisted of several lazer cut laminated wooden parts, printed parts on paper for cutting out, other small parts and the electric kit for the lighting.
+
+assets\images\projects\bookshop-memories\bsm-001.jpg
 
 ### Kit Contents
 
-[List the main components included:
+The main components included:
 - Structural pieces
 - Decorative elements
 - Lighting components
 - Furniture and accessories
 - Instructions quality
-- Materials and tools needed]
+- Materials and tools needed
 
 ### Planning the Build
 
-[Document your approach to the build - will you follow instructions exactly, or customize? Any modifications planned?]
+I first worked through the instructions to identify all the parts and neatly placed them in a box, still within the plastic pockets, to be easily accessed when called for. From previous experience, I do not take anything apart and out of their pockets until the instructions specifically call for the part.
 
----
+The instructions are then meticulously followed, in order by first finding the related parts, do a dry run to assemble or fit the part, prepare the parts with light sanding or smoothing to get them ready for fit.  The steps included different methods of fixing, including glueing and pressure fit.  Most of the parts had to be pushed out of the lazer cut sheets or cut out with scissors.  It was particularly important to take time with cutting out to ensure that the correct cutting lines are used, and the precision was applied throughout.
 
-## CHAPTER 2: CONSTRUCTION BEGINS
-**Timeline:** [Date]
+assets\images\projects\bookshop-memories\bsm-002.jpg
+[NOTE] this picture must be turned as it is laying on its side.
 
-### Phase 1: [Structure/Foundation/First Major Step]
+To soon the model was completed, batteries could be added to the battery pack, and displayed on the model table
 
-[Document the first major phase of construction]
+assets\images\projects\bookshop-memories\bsm-003.jpg
+[NOTE] this picture must be turned as it is laying on its side.
 
-**Key Techniques:**
-- [Technique 1]
-- [Technique 2]
+gallery picture 
+assets\images\projects\bookshop-memories\bsm-004.jpg
 
-**Challenges:**
-- [Challenge 1 and how you solved it]
+[NOTE use this galary picture for the signature picture in the projects pages also]
 
-**Image References:**
-- [List image file references here]
-
----
-
-## CHAPTER 3: [NEXT MAJOR PHASE]
-**Timeline:** [Date]
-
-[Continue documenting each major phase of the build]
-
----
-
-## CHAPTER 4: DETAILS AND FINISHING
-**Timeline:** [Date]
-
-### Custom Touches
-
-[Document any personalizations or custom elements you added beyond the kit]
-
-### Lighting
-
-[If applicable - document lighting installation, power setup, effects achieved]
-
----
-
-## CHAPTER 5: COMPLETION AND REFLECTION
-**Timeline:** [Date]
-
-### Final Assembly
-
-[Document the final steps, any last-minute adjustments]
-
-### Lessons Learned
-
-[Reflect on what you learned from this build:
-- Techniques mastered or improved
-- What you'd do differently next time
-- Advice for others building this kit
-- Skills developed]
-
-### Display and Photography
-
-[Document how you chose to display the finished piece, photography setup]
-
----
-
-## TECHNICAL SPECIFICATIONS
-
-**Final Dimensions:**
-- Height: [To be measured]
-- Width: [To be measured]
-- Depth: [To be measured]
-
-**Materials Used:**
-- [List any additional materials beyond kit contents]
-
-**Tools Required:**
-- [List essential tools used]
-
-**Special Techniques:**
-- [List any special techniques or skills required]
-
----
-
-## IMAGE INVENTORY
-
-### Planning & Reference
-- [List reference images]
-
-### Construction Progress
-- [List progress images by phase]
-
-### Detail Shots
-- [List close-up detail images]
-
-### Final Gallery
-- [List final completed images]
-
----
-
-## NOTES FOR AI CONVERSION
-
-[Any specific notes about how you want this content structured for the final website page]
-
-**Key Highlights to Emphasize:**
-- [Point 1]
-- [Point 2]
-
-**Tone:** [Descriptive/Technical/Personal/Mixed]
-
----
-
-## ADDITIONAL MEMORIES AND STORIES
-
-[Use this section for any personal anecdotes, memories, or stories connected to building this project that you'd like to preserve, even if they don't make it to the final website version]
+it was particularly pleasant to build this model.  It was well designed, instructions was great, challenging enough to not be boring, and is a nice display piece.
 
 ---
