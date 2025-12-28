@@ -192,6 +192,24 @@ Each project page provides a comprehensive **overview** of the concept, goals, a
   </div>
 </div>
 
+<div class="project-item right-image">
+  <div class="project-image-large">
+    <img src="{{ '/assets/images/projects/small-projects/small-projects-renault-01.jpg' | relative_url }}" alt="Small Projects & Restorations">
+  </div>
+  <div class="project-details">
+    <h3><a href="{{ '/projects/small-projects/' | relative_url }}">Small Projects & Restorations</a></h3>
+    <p>Not every project needs months of work to carry deep meaning. This collection brings together three meaningful small builds: a treasured WWII wooden Spitfire carved by my wife's father and carefully restored, a vintage 1906 Renault model completed in memory of our departed neighbor Jeff, and handcrafted dollhouse bunker beds built for my granddaughter's miniature friends. Each project tells its own story of memory, tribute, and connection.</p>
+    <div class="project-meta">
+      <span><strong>Status:</strong> Completed 2024-2025</span>
+      <span><strong>Scale:</strong> Various</span>
+      <span><strong>Type:</strong> Restorations & Small Crafts</span>
+    </div>
+    <div class="project-buttons">
+      <a href="{{ '/projects/small-projects/' | relative_url }}" class="project-btn project-btn-primary">Project Overview</a>
+    </div>
+  </div>
+</div>
+
 </div>
 
 ---
@@ -205,9 +223,6 @@ The following projects are all completed but not yet fully documented on this si
 <ul>
   <li>Riverside Cabin</li>
   <li>Bamboo River Lookout</li>
-  <li>Plane Restore</li>
-  <li>1906 Renault</li>
-  <li>Dollhouse Bunker Bed</li>
   <li>Traditional Country Cottage</li>
   <li>Plant Display</li>
   <li>Henrhyd Falls</li>

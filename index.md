@@ -105,6 +105,16 @@ Browse through my models and diorama builds and see the creative process unfold.
   </div>
 </div>
 
+### Small Projects & Restorations
+
+<div class="project-links">
+  <div class="project-link-item">
+    <img src="{{ '/assets/images/projects/small-projects/small-projects-renault-01.jpg' | relative_url }}" alt="Small Projects" class="project-thumbnail">
+    <div class="project-link-text">
+      <strong><a href="{{ '/projects/small-projects/' | relative_url }}">Small Projects & Restorations</a></strong> - WWII Spitfire restoration, 1906 Renault completion in memory of a neighbor, and handcrafted dollhouse bunker beds. <em>Completed 2024-2025</em>
+    </div>
+  </div>
+</div>
 
 [View All Projects →]({{ '/projects/' | relative_url }})
 
