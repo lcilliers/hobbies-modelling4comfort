@@ -29,7 +29,7 @@ materials:
   - "Display boards (various sizes)"
   - "Etched identification plates"
 gallery:
-  - path: "assets\images\projects\plant-displays\ranunculus\gallery\plant-displays-ranunculus-gallery-005.jpg"
+  - path: "assets/images/projects/plant-displays/ranunculus/gallery/plant-displays-ranunculus-gallery-005.jpg"
     caption: "Plant Displays Series - Collection Growing"
 ---
 

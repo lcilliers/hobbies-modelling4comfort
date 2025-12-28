@@ -27,6 +27,7 @@ Choose one and get started! See `SITE-EDITING-GUIDE.md` for complete editing doc
 
 **Specialized Guidance:**
 - **`_builds/README.md`** - Build log creation
+- **`PLANT-DISPLAYS-README.md`** - Plant Displays Series management
 - **`scripts/README.md`** - Script usage  
 - **`assets/images/README.md`** - Image organization
 - **`.github/workflows/README.md`** - Deployment instructions

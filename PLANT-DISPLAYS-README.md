@@ -57,16 +57,18 @@ plant displays/
 
 ### Current Plants in Collection
 
-As of December 2025:
-- Bluebells
-- Daffodil
-- Poinsettia
-- Protea
-- Ranunculus
-- Snowdrops
-- Strelitzia
+As of December 28, 2025:
+
+1. **Daffodil** - 27 images (20 planning, 6 build, 1 gallery) - Intermediate difficulty
+2. **Snowdrops** - 24 images (17 planning, 2 build, 5 gallery) - Intermediate difficulty  
+3. **Bluebells** - 33 images (28 planning, 5 build) - Intermediate difficulty
+4. **Ranunculus** - 58 images (44 planning, 3 build, 11 gallery) - Advanced difficulty - **Most documented**
+5. **Protea** - 4 planning images - Advanced difficulty
+6. **Strelitzia (Bird of Paradise)** - 7 planning images - Advanced difficulty
+7. **Poinsettia** - 6 planning images - Intermediate difficulty
 
 **Status:** All at different stages of completion; more plants will be added over time.
+**Total Images Processed:** 159 images across 7 plants
 
 ## Website Structure
 
@@ -80,17 +82,48 @@ Contains:
 - Individual plant summaries with status and links to build logs
 
 ### Build Logs (Per Plant)
-**Directory:** `_builds/plant-displays/[plant-name]/`
+**Directory:** `_builds/plant-displays/`
 
-Each plant has its own build log series:
-- `001-planning-design.md` - Research, design, material selection
+**Current Implementation (December 2025):**
+Each plant currently has a single comprehensive build log documenting all phases:
+- `[plant-name]-001-planning-build.md` - Complete documentation including:
+  - Planning & research phase (ALL planning images)
+  - Construction progress (ALL build images)  
+  - Gallery section (ALL gallery images when available)
+  - Techniques and challenges
+
+**Build Log Frontmatter Requirements:**
+```yaml
+---
+layout: build
+project: /projects/plant-displays/  # MUST include leading / and trailing /
+plant: [plant-name]                  # lowercase
+build_number: 1
+title: "[Plant Name] - Planning & Construction"
+date: YYYY-MM-DD
+estimated_time: "Ongoing"
+difficulty: "Intermediate" or "Advanced"
+focus_areas:
+  - "Key technique 1"
+  - "Key technique 2"
+progress_images:                     # Only reference images that actually exist
+  - path: "assets/images/projects/plant-displays/[plant]/planning/[filename].jpg"
+    caption: "Description"
+---
+```
+
+**Important Notes:**
+- Build logs are at **individual plant level**, not project level
+- The `project:` field MUST be `/projects/plant-displays/` (with slashes) for navigation to work
+- Only include progress_images that exist (don't reference build/gallery if folders are empty)
+- Include ALL planning, build, and gallery images in the log body (not just 2-3 samples)
+
+**Future Expansion:**
+As plants progress, additional detailed logs may be created:
 - `002-leaf-construction.md` - Leaf models (scratch, pressed, resin)
 - `003-flower-creation.md` - Flower models and techniques
 - `004-root-systems.md` - Root/bulb/corm construction
-- `005-assembly-display.md` - Board layout and final assembly (includes plant-specific gallery)
-- Additional logs as needed for complex plants
-
-**Important:** Build logs are maintained at the **individual plant level**, not at the overall "plant displays" project level.
+- `005-assembly-display.md` - Board layout and final assembly
 
 ### Image Organization
 
@@ -136,15 +169,32 @@ Each plant has its own build log series:
 ## Workflow for Adding/Updating Plants
 
 ### Initial Setup (New Plant)
-1. Verify source folder structure: planning/, build/, gallery/
-2. Create web-optimized folders within plant folder
-3. Process images from all three source folders
+1. Verify source folder structure: `planning/`, `build/`, `gallery/` (may be empty)
+2. Create web-optimized folders within plant folder at source
+3. Process images from all three source folders using ImageMagick
 4. Create plant directory in site: `assets/images/projects/plant-displays/[plant-name]/`
-5. Copy optimized images to site
-6. Create plant entry in `_projects/plant-displays.md` with status and description
-7. Create initial build log(s) based on progress stage
-8. Update featured gallery on main page if appropriate
-9. Commit and push changes
+5. Copy optimized images to site (planning/, build/, gallery/ as needed)
+6. Create build log: `_builds/plant-displays/[plant-name]-001-planning-build.md`
+   - Use `project: /projects/plant-displays/` in frontmatter
+   - Include ALL images in respective sections (not just samples)
+   - Only reference images in progress_images that actually exist
+7. Add plant entry in `_projects/plant-displays.md`:
+   - Update "Current Collection Status" section with plant details
+   - Add to "Build Logs" section with link: `/builds/plant-displays/[plant-name]-001-planning-build/`
+8. Update featured_image if needed (use path without leading /)
+9. Update gallery section with forward slashes `/` not backslashes `\`
+10. Commit and push changes
+11. Verify on live site:
+    - Signature image displays correctly
+    - Navigation buttons work (back to project overview)
+    - All images load properly
+
+### Completed December 2025 Workflow
+All 7 current plants have been:
+- ✅ Images processed (159 total across all plants)
+- ✅ Build logs created with comprehensive image galleries
+- ✅ Main project page updated with plant summaries and links
+- ✅ Navigation and signature images verified working
 
 ### Updating Existing Plant
 1. Process any new images from source folders
