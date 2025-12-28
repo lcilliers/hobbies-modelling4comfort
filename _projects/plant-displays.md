@@ -29,8 +29,13 @@ materials:
   - "Display boards (various sizes)"
   - "Etched identification plates"
 gallery:
-  - path: "assets/images/projects/plant-displays/ranunculus/gallery/plant-displays-ranunculus-gallery-005.jpg"
-    caption: "Plant Displays Series - Collection Growing"
+  - "assets/images/projects/plant-displays/ranunculus/gallery/plant-displays-ranunculus-gallery-005.jpg"
+  - "assets/images/projects/plant-displays/ranunculus/gallery/plant-displays-ranunculus-gallery-008.jpg"
+  - "assets/images/projects/plant-displays/ranunculus/gallery/plant-displays-ranunculus-gallery-011.jpg"
+  - "assets/images/projects/plant-displays/snowdrops/gallery/plant-displays-snowdrops-gallery-001.jpg"
+  - "assets/images/projects/plant-displays/snowdrops/gallery/plant-displays-snowdrops-gallery-003.jpg"
+  - "assets/images/projects/plant-displays/snowdrops/gallery/plant-displays-snowdrops-gallery-005.jpg"
+  - "assets/images/projects/plant-displays/daffodil/gallery/plant-displays-daffodil-gallery-001.jpg"
 ---
 
 ## Project Concept
