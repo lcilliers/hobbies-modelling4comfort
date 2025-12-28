@@ -7,6 +7,7 @@ title: "Bluebells - Planning & Construction"
 date: 2024-03-01
 estimated_time: "Ongoing"
 difficulty: "Intermediate"
+signature_image: "assets/images/projects/plant-displays/bluebells/build/plant-displays-bluebells-build-001.jpg"
 focus_areas:
   - "Drooping bell-shaped flowers"
   - "Woodland setting representation"

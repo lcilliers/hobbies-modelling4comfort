@@ -7,6 +7,7 @@ title: "Protea - Planning & Initial Construction"
 date: 2024-02-01
 estimated_time: "Ongoing"
 difficulty: "Advanced"
+signature_image: "assets/images/projects/plant-displays/protea/planning/plant-displays-protea-planning-001.jpg"
 focus_areas:
   - "Dramatic flower structure"
   - "Textured petal/bract work"

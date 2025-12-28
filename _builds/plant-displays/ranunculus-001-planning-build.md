@@ -7,6 +7,7 @@ title: "Ranunculus - Planning & Construction"
 date: 2024-03-15
 estimated_time: "Ongoing"
 difficulty: "Advanced"
+signature_image: "assets/images/projects/plant-displays/ranunculus/gallery/plant-displays-ranunculus-gallery-005.jpg"
 focus_areas:
   - "Densely layered petals"
   - "Delicate petal structure"

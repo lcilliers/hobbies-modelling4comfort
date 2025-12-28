@@ -7,6 +7,7 @@ title: "Snowdrops - Planning & Construction"
 date: 2024-01-10
 estimated_time: "Ongoing"
 difficulty: "Intermediate"
+signature_image: "assets/images/projects/plant-displays/snowdrops/gallery/plant-displays-snowdrops-gallery-001.jpg"
 focus_areas:
   - "Delicate white flower construction"
   - "Bulb carving and root system"

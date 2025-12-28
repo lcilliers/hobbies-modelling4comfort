@@ -7,6 +7,7 @@ title: "Daffodil - Planning & Initial Build"
 date: 2024-01-15
 estimated_time: "Ongoing - Multi-season project"
 difficulty: "Intermediate"
+signature_image: "assets/images/projects/plant-displays/daffodil/gallery/plant-displays-daffodil-gallery-001.jpg"
 focus_areas:
   - "Bulb structure and wood carving"
   - "Trumpet flower construction"
