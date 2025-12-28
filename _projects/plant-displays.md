@@ -7,7 +7,7 @@ start_date: 2024-01-01
 scale: "Various (component-dependent)"
 type: "Scratch Build Series"
 status: "In Progress - Ongoing Collection"
-featured_image: "assets/images/coming_soon_square.jpg"
+featured_image: "assets/images/projects/plant-displays/ranunculus/gallery/plant-displays-ranunculus-gallery-005.jpg"
 build_time: "Multi-year project"
 techniques:
   - "Resin casting"
@@ -28,7 +28,6 @@ materials:
   - "DC fix and Perspex (for seed displays)"
   - "Display boards (various sizes)"
   - "Etched identification plates"
-featured_image: assets\images\projects\plant-displays\ranunculus\gallery\plant-displays-ranunculus-gallery-005.jpg
 gallery:
   - path: "assets\images\projects\plant-displays\ranunculus\gallery\plant-displays-ranunculus-gallery-005.jpg"
     caption: "Plant Displays Series - Collection Growing"

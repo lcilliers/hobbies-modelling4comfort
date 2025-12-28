@@ -32,6 +32,26 @@ This striking plant requires careful planning for:
 - Large, paddle-shaped tropical leaves
 - Complex color combinations (orange, blue, green)
 
+## Planning Phase
+
+### Planning Images (7 photos)
+
+Careful planning for this exotic tropical flower:
+
+![Planning 001]({{ 'assets/images/projects/plant-displays/strelitzia/planning/plant-displays-strelitzia-planning-001.jpg' | relative_url }})
+
+![Planning 002]({{ 'assets/images/projects/plant-displays/strelitzia/planning/plant-displays-strelitzia-planning-002.jpg' | relative_url }})
+
+![Planning 003]({{ 'assets/images/projects/plant-displays/strelitzia/planning/plant-displays-strelitzia-planning-003.jpg' | relative_url }})
+
+![Planning 004]({{ 'assets/images/projects/plant-displays/strelitzia/planning/plant-displays-strelitzia-planning-004.jpg' | relative_url }})
+
+![Planning 005]({{ 'assets/images/projects/plant-displays/strelitzia/planning/plant-displays-strelitzia-planning-005.jpg' | relative_url }})
+
+![Planning 006]({{ 'assets/images/projects/plant-displays/strelitzia/planning/plant-displays-strelitzia-planning-006.jpg' | relative_url }})
+
+![Planning 007]({{ 'assets/images/projects/plant-displays/strelitzia/planning/plant-displays-strelitzia-planning-007.jpg' | relative_url }})
+
 ## Design Challenges
 
 The bird of paradise presents interesting construction challenges:

@@ -63,11 +63,39 @@ The extensive planning documentation covers:
 
 ![Planning 002]({{ 'assets/images/projects/plant-displays/daffodil/planning/plant-displays-daffodil-planning-002.jpg' | relative_url }})
 
+![Planning 003]({{ 'assets/images/projects/plant-displays/daffodil/planning/plant-displays-daffodil-planning-003.jpg' | relative_url }})
+
+![Planning 004]({{ 'assets/images/projects/plant-displays/daffodil/planning/plant-displays-daffodil-planning-004.jpg' | relative_url }})
+
 ![Planning 005]({{ 'assets/images/projects/plant-displays/daffodil/planning/plant-displays-daffodil-planning-005.jpg' | relative_url }})
+
+![Planning 006]({{ 'assets/images/projects/plant-displays/daffodil/planning/plant-displays-daffodil-planning-006.jpg' | relative_url }})
+
+![Planning 007]({{ 'assets/images/projects/plant-displays/daffodil/planning/plant-displays-daffodil-planning-007.jpg' | relative_url }})
+
+![Planning 008]({{ 'assets/images/projects/plant-displays/daffodil/planning/plant-displays-daffodil-planning-008.jpg' | relative_url }})
+
+![Planning 009]({{ 'assets/images/projects/plant-displays/daffodil/planning/plant-displays-daffodil-planning-009.jpg' | relative_url }})
 
 ![Planning 010]({{ 'assets/images/projects/plant-displays/daffodil/planning/plant-displays-daffodil-planning-010.jpg' | relative_url }})
 
+![Planning 011]({{ 'assets/images/projects/plant-displays/daffodil/planning/plant-displays-daffodil-planning-011.jpg' | relative_url }})
+
+![Planning 012]({{ 'assets/images/projects/plant-displays/daffodil/planning/plant-displays-daffodil-planning-012.jpg' | relative_url }})
+
+![Planning 013]({{ 'assets/images/projects/plant-displays/daffodil/planning/plant-displays-daffodil-planning-013.jpg' | relative_url }})
+
+![Planning 014]({{ 'assets/images/projects/plant-displays/daffodil/planning/plant-displays-daffodil-planning-014.jpg' | relative_url }})
+
 ![Planning 015]({{ 'assets/images/projects/plant-displays/daffodil/planning/plant-displays-daffodil-planning-015.jpg' | relative_url }})
+
+![Planning 016]({{ 'assets/images/projects/plant-displays/daffodil/planning/plant-displays-daffodil-planning-016.jpg' | relative_url }})
+
+![Planning 017]({{ 'assets/images/projects/plant-displays/daffodil/planning/plant-displays-daffodil-planning-017.jpg' | relative_url }})
+
+![Planning 018]({{ 'assets/images/projects/plant-displays/daffodil/planning/plant-displays-daffodil-planning-018.jpg' | relative_url }})
+
+![Planning 019]({{ 'assets/images/projects/plant-displays/daffodil/planning/plant-displays-daffodil-planning-019.jpg' | relative_url }})
 
 ![Planning 020]({{ 'assets/images/projects/plant-displays/daffodil/planning/plant-displays-daffodil-planning-020.jpg' | relative_url }})
 

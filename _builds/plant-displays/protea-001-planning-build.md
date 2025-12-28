@@ -34,7 +34,17 @@ The protea display requires special consideration:
 
 ## Planning Phase
 
-Extensive research and design work addressing the challenges of representing this large, complex flower at display scale. Material selection is critical for achieving the characteristic texture.
+### Planning Images (4 photos)
+
+Research and design work addressing the challenges of representing this large, complex flower at display scale. Material selection is critical for achieving the characteristic texture.
+
+![Planning 001]({{ 'assets/images/projects/plant-displays/protea/planning/plant-displays-protea-planning-001.jpg' | relative_url }})
+
+![Planning 002]({{ 'assets/images/projects/plant-displays/protea/planning/plant-displays-protea-planning-002.jpg' | relative_url }})
+
+![Planning 003]({{ 'assets/images/projects/plant-displays/protea/planning/plant-displays-protea-planning-003.jpg' | relative_url }})
+
+![Planning 004]({{ 'assets/images/projects/plant-displays/protea/planning/plant-displays-protea-planning-004.jpg' | relative_url }})
 
 ## Construction Challenges
 

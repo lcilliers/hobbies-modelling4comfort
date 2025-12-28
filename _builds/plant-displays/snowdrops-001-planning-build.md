@@ -32,18 +32,71 @@ Components planned:
 - Root system detail
 - Multiple growth stages from emerging shoot to full bloom
 
-## Planning Work
+## Planning & Research Phase
 
-Extensive planning has been documented showing design concepts, material selection, and construction approaches for capturing the delicate nature of snowdrop flowers.
+### Planning Images (17 photos)
 
-## Build Progress
+The planning documentation captures:
+- Snowdrop reference photos showing characteristic drooping form
+- White petal structure and green inner markings
+- Bulb anatomy research
+- Material testing for translucent white petals
+- Growth stage studies from emergence through bloom
 
-Construction work is underway on various components, with focus on achieving the characteristic drooping flower form and translucent petal appearance.
+![Planning 001]({{ 'assets/images/projects/plant-displays/snowdrops/planning/plant-displays-snowdrops-planning-001.jpg' | relative_url }})
 
-## Gallery
+![Planning 002]({{ 'assets/images/projects/plant-displays/snowdrops/planning/plant-displays-snowdrops-planning-002.jpg' | relative_url }})
 
-Current progress images show the development of individual components and early assembly experiments.
+![Planning 003]({{ 'assets/images/projects/plant-displays/snowdrops/planning/plant-displays-snowdrops-planning-003.jpg' | relative_url }})
+
+![Planning 004]({{ 'assets/images/projects/plant-displays/snowdrops/planning/plant-displays-snowdrops-planning-004.jpg' | relative_url }})
+
+![Planning 005]({{ 'assets/images/projects/plant-displays/snowdrops/planning/plant-displays-snowdrops-planning-005.jpg' | relative_url }})
+
+![Planning 006]({{ 'assets/images/projects/plant-displays/snowdrops/planning/plant-displays-snowdrops-planning-006.jpg' | relative_url }})
+
+![Planning 007]({{ 'assets/images/projects/plant-displays/snowdrops/planning/plant-displays-snowdrops-planning-007.jpg' | relative_url }})
+
+![Planning 008]({{ 'assets/images/projects/plant-displays/snowdrops/planning/plant-displays-snowdrops-planning-008.jpg' | relative_url }})
+
+![Planning 009]({{ 'assets/images/projects/plant-displays/snowdrops/planning/plant-displays-snowdrops-planning-009.jpg' | relative_url }})
+
+![Planning 010]({{ 'assets/images/projects/plant-displays/snowdrops/planning/plant-displays-snowdrops-planning-010.jpg' | relative_url }})
+
+![Planning 011]({{ 'assets/images/projects/plant-displays/snowdrops/planning/plant-displays-snowdrops-planning-011.jpg' | relative_url }})
+
+![Planning 012]({{ 'assets/images/projects/plant-displays/snowdrops/planning/plant-displays-snowdrops-planning-012.jpg' | relative_url }})
+
+![Planning 013]({{ 'assets/images/projects/plant-displays/snowdrops/planning/plant-displays-snowdrops-planning-013.jpg' | relative_url }})
+
+![Planning 014]({{ 'assets/images/projects/plant-displays/snowdrops/planning/plant-displays-snowdrops-planning-014.jpg' | relative_url }})
+
+![Planning 015]({{ 'assets/images/projects/plant-displays/snowdrops/planning/plant-displays-snowdrops-planning-015.jpg' | relative_url }})
+
+![Planning 016]({{ 'assets/images/projects/plant-displays/snowdrops/planning/plant-displays-snowdrops-planning-016.jpg' | relative_url }})
+
+![Planning 017]({{ 'assets/images/projects/plant-displays/snowdrops/planning/plant-displays-snowdrops-planning-017.jpg' | relative_url }})
+
+## Construction Progress
+
+### Build Photos (2 images)
+
+![Build 001]({{ 'assets/images/projects/plant-displays/snowdrops/build/plant-displays-snowdrops-build-001.jpg' | relative_url }})
+
+![Build 002]({{ 'assets/images/projects/plant-displays/snowdrops/build/plant-displays-snowdrops-build-002.jpg' | relative_url }})
+
+## Gallery - Current State
+
+![Gallery 001]({{ 'assets/images/projects/plant-displays/snowdrops/gallery/plant-displays-snowdrops-gallery-001.jpg' | relative_url }})
+
+![Gallery 002]({{ 'assets/images/projects/plant-displays/snowdrops/gallery/plant-displays-snowdrops-gallery-002.jpg' | relative_url }})
+
+![Gallery 003]({{ 'assets/images/projects/plant-displays/snowdrops/gallery/plant-displays-snowdrops-gallery-003.jpg' | relative_url }})
+
+![Gallery 004]({{ 'assets/images/projects/plant-displays/snowdrops/gallery/plant-displays-snowdrops-gallery-004.jpg' | relative_url }})
+
+![Gallery 005]({{ 'assets/images/projects/plant-displays/snowdrops/gallery/plant-displays-snowdrops-gallery-005.jpg' | relative_url }})
 
 ---
 
-*Build log to be expanded as construction progresses. Snowdrops present unique challenges in capturing delicate white flower structure at miniature scale.*
+*Construction in progress - capturing the delicate nature of these early spring heralds*
