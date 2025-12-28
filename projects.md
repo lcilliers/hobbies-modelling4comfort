@@ -210,6 +210,25 @@ Each project page provides a comprehensive **overview** of the concept, goals, a
   </div>
 </div>
 
+<div class="project-item left-image">
+  <div class="project-image-large">
+    <img src="{{ '/assets/images/projects/bamboo-river-lookout/gallery/bamboo-river-lookout-gallery-007.jpg' | relative_url }}" alt="Bamboo River Lookout">
+  </div>
+  <div class="project-details">
+    <h3><a href="{{ '/projects/bamboo-river-lookout/' | relative_url }}">Bamboo River Lookout</a></h3>
+    <p>A charming scratch-built bamboo lookout cabin overlooking a tranquil river scene, created as an "in-between" project to experiment with natural materials and practice figure-making techniques. Features authentic bamboo construction with dried bamboo leaf roofing, hand-sculpted figures using wire armatures and air-dry clay, and detailed river scene with fishing accessories. Built as a special gift for my granddaughter's miniature world.</p>
+    <div class="project-meta">
+      <span><strong>Status:</strong> Completed December 2024</span>
+      <span><strong>Scale:</strong> 1:56</span>
+      <span><strong>Type:</strong> Scratch-Build</span>
+    </div>
+    <div class="project-buttons">
+      <a href="{{ '/projects/bamboo-river-lookout/' | relative_url }}" class="project-btn project-btn-primary">Project Overview</a>
+      <a href="{{ '/builds/bamboo-river-lookout/001-the-lookout/' | relative_url }}" class="project-btn project-btn-secondary">Build Logs</a>
+    </div>
+  </div>
+</div>
+
 </div>
 
 ---
@@ -222,7 +241,6 @@ The following projects are all completed but not yet fully documented on this si
 
 <ul>
   <li>Riverside Cabin</li>
-  <li>Bamboo River Lookout</li>
   <li>Traditional Country Cottage</li>
   <li>Plant Display</li>
   <li>Henrhyd Falls</li>

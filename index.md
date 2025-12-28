@@ -66,6 +66,13 @@ Browse through my models and diorama builds and see the creative process unfold.
   </div>
   
   <div class="project-link-item">
+    <img src="{{ '/assets/images/projects/bamboo-river-lookout/gallery/bamboo-river-lookout-gallery-007.jpg' | relative_url }}" alt="Bamboo River Lookout" class="project-thumbnail">
+    <div class="project-link-text">
+      <strong><a href="{{ '/projects/bamboo-river-lookout/' | relative_url }}">Bamboo River Lookout 1:56 scale scratch build</a></strong> - Rustic bamboo lookout cabin overlooking a tranquil river scene with hand-sculpted figures. <em>Completed December 2024</em>
+    </div>
+  </div>
+  
+  <div class="project-link-item">
     <img src="{{ '/assets/images/coming_soon_square.jpg' | relative_url }}" alt="Coming Soon" class="project-thumbnail">
     <div class="project-link-text">
       <strong><a href="{{ '/projects/sea-rescue/' | relative_url }}">Sea Rescue 1:50 scale scratch build</a></strong> - Maritime rescue scene featuring rescue vessel in action with dynamic seascape and authentic details. <em>In Progress - Started December 2025</em>
