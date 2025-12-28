@@ -73,7 +73,7 @@ Browse through my models and diorama builds and see the creative process unfold.
   </div>
   
   <div class="project-link-item">
-    <img src="{{ '/assets/images/coming_soon_square.jpg' | relative_url }}" alt="Plant Displays Series" class="project-thumbnail">
+    <img src="{{ '/assets/images/projects/plant-displays/ranunculus/gallery/plant-displays-ranunculus-gallery-005.jpg' | relative_url }}" alt="Plant Displays Series" class="project-thumbnail">
     <div class="project-link-text">
       <strong><a href="{{ '/projects/plant-displays/' | relative_url }}">Plant Displays Series - Ongoing botanical collection</a></strong> - Detailed artistic botanical models featuring leaves, flowers, roots, and seasonal displays for selected plant species. <em>In Progress - Multi-year Project</em>
     </div>

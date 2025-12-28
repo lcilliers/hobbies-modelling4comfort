@@ -14,10 +14,6 @@ focus_areas:
 progress_images:
   - path: "assets/images/projects/plant-displays/strelitzia/planning/plant-displays-strelitzia-planning-001.jpg"
     caption: "Design planning"
-  - path: "assets/images/projects/plant-displays/strelitzia/build/plant-displays-strelitzia-build-001.jpg"
-    caption: "Construction work"
-  - path: "assets/images/projects/plant-displays/strelitzia/gallery/plant-displays-strelitzia-gallery-001.jpg"
-    caption: "Progress"
 ---
 
 ## Project Overview

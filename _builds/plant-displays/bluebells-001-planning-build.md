@@ -16,8 +16,6 @@ progress_images:
     caption: "Planning work"
   - path: "assets/images/projects/plant-displays/bluebells/build/plant-displays-bluebells-build-001.jpg"
     caption: "Construction"
-  - path: "assets/images/projects/plant-displays/bluebells/gallery/plant-displays-bluebells-gallery-001.jpg"
-    caption: "Current progress"
 ---
 
 ## Project Overview

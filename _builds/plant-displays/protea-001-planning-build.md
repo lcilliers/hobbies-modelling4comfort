@@ -14,10 +14,6 @@ focus_areas:
 progress_images:
   - path: "assets/images/projects/plant-displays/protea/planning/plant-displays-protea-planning-001.jpg"
     caption: "Design concepts for dramatic flower"
-  - path: "assets/images/projects/plant-displays/protea/build/plant-displays-protea-build-001.jpg"
-    caption: "Construction experiments"
-  - path: "assets/images/projects/plant-displays/protea/gallery/plant-displays-protea-gallery-001.jpg"
-    caption: "Work in progress"
 ---
 
 ## Project Overview

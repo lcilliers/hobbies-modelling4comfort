@@ -7,7 +7,7 @@ start_date: 2024-01-01
 scale: "Various (component-dependent)"
 type: "Scratch Build Series"
 status: "In Progress - Ongoing Collection"
-featured_image: "assets/images/projects/plant-displays/ranunculus/gallery/plant-displays-ranunculus-gallery-005.jpg"
+featured_image: "/assets/images/projects/plant-displays/ranunculus/gallery/plant-displays-ranunculus-gallery-005.jpg"
 build_time: "Multi-year project"
 techniques:
   - "Resin casting"

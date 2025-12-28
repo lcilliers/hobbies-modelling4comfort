@@ -14,10 +14,6 @@ focus_areas:
 progress_images:
   - path: "assets/images/projects/plant-displays/poinsettia/planning/plant-displays-poinsettia-planning-001.jpg"
     caption: "Design planning"
-  - path: "assets/images/projects/plant-displays/poinsettia/build/plant-displays-poinsettia-build-001.jpg"
-    caption: "Construction"
-  - path: "assets/images/projects/plant-displays/poinsettia/gallery/plant-displays-poinsettia-gallery-001.jpg"
-    caption: "Progress"
 ---
 
 ## Project Overview

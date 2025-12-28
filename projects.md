@@ -258,7 +258,6 @@ Each project page provides a comprehensive **overview** of the concept, goals, a
 The following projects are all completed but not yet fully documented on this site:
 
 <ul>
-  <li>Riverside Cabin</li>
   <li>Traditional Country Cottage</li>
   <li>Henrhyd Falls</li>
 </ul>
