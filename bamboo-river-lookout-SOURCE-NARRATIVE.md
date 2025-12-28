@@ -35,135 +35,82 @@ Validation Status: READY FOR DOCUMENTATION - Images prepared, awaiting your narr
 
 # BAMBOO RIVER LOOKOUT - PROJECT NARRATIVE
 
-**Project Type:** [Please specify]  
-**Scale:** [Please specify]  
+**Project Type:** scratch build  
+**Scale:**  1:56 
 **Status:** [Planning / In Progress / Completed]  
-**Start Date:** [Please specify]  
-**Completion Date:** [Please specify]  
-**Total Build Time:** [Please specify]
+**Start Date:** 18-11-2024  
+**Completion Date:** 5-12-2024  
+**Total Build Time:** 3 weeks
 
 ---
 
 ## PROJECT OVERVIEW AND INSPIRATION
 
-[Document your inspiration for this project:
-- What inspired the bamboo river lookout concept?
-- What were you trying to achieve or capture?
-- Any specific reference material or real-world inspiration?
-- What excited you about this build?
-- How does it fit into your modeling journey?]
+This project was selected as an in-between project, mainly to make something with the bamboo and to practice and experiment with making figures.  I also wanted to experiment with a different type of base and had a small soap container that was staring me in the face and begging to be used.  I also knew we are heading towards our grand daughter for Christmas and it would lovely to add something to her miniature world of dol houses and micro dolls.
 
----
+## lookout
 
-## AVAILABLE IMAGES FOR REFERENCE
+having said that I searched for photos of a nice lookout cabin and found this one.
+assets\images\projects\bamboo-river-lookout\lookout-build\bamboo-river-lookout-build-001.jpg
 
-Your images have been organized into three categories and are ready for use in your narrative:
+I first sorted the bamboo sections in to diameters, and cut sheets from heavy paper to serve as the basis of the walls, floor and roof.  The sticks were then all glued to the paper bases, and shaped to form the floor, walls, door and window and patio around the unit.
+assets\images\projects\bamboo-river-lookout\lookout-build\bamboo-river-lookout-build-002.jpg
+assets\images\projects\bamboo-river-lookout\lookout-build\bamboo-river-lookout-build-003.jpg
+ The walls were then all framed inside thicker bamboo that served as the uprights to hold the walls together.  The roof was covered by actual dried bamboo leaves glued onto the roof and painted with clear matt varnish to preserve it and keep it in place. small pieces of hessien rope was glued on top add the detail of roof tie downs.  
 
-### Figures Images (in assets/images/projects/bamboo-river-lookout/figures/)
-```
-bamboo-river-lookout-figures-001.jpg
-bamboo-river-lookout-figures-002.jpg
-[etc. - reference these in your narrative as needed]
-```
+ assets\images\projects\bamboo-river-lookout\lookout-build\bamboo-river-lookout-build-005.jpg
+ assets\images\projects\bamboo-river-lookout\lookout-build\bamboo-river-lookout-build-006.jpg
+ assets\images\projects\bamboo-river-lookout\lookout-build\bamboo-river-lookout-build-007.jpg
 
-### Gallery Images (in assets/images/projects/bamboo-river-lookout/gallery/)
-```
-bamboo-river-lookout-gallery-001.jpg
-bamboo-river-lookout-gallery-002.jpg
-[etc. - reference these for final/showcase images]
-```
+The final touch was to create the railings. a top and bottom railing was drilled with exact gaps and then thin bamboo was glued into the holes and fitted top and bottom.  The railings were then fixed to the patio.
 
-### Lookout Build Images (in assets/images/projects/bamboo-river-lookout/lookout-build/)
-```
-bamboo-river-lookout-build-001.jpg
-bamboo-river-lookout-build-002.jpg
-[etc. - reference these for construction progress]
-```
+with the lookout completed, I could turn my attention to the river, and figures to provide more interest.
 
----
+## figures
 
-## CHAPTER 1: [YOUR CHAPTER TITLE]
+I previously had real trouble making the heads and decided to first make the head, and then use it on a body. although it was an improvement on my previous attempts, I then turned my attention to making a wireframe and layered the air dry clay onto the frame.
 
-[Begin documenting your project story here. You can organize this however makes sense for your project - chronologically, by component, by technique, etc.]
+assets\images\projects\bamboo-river-lookout\gallery\bamboo-river-lookout-gallery-001.jpg
 
-**Example structure (adapt as needed):**
+I created a small holder to put the wireframe in to avoid putting pressure on the clay while holding it.
 
-### Planning and Concept Development
+assets\images\projects\bamboo-river-lookout\gallery\bamboo-river-lookout-gallery-002.jpg
+assets\images\projects\bamboo-river-lookout\figures\bamboo-river-lookout-figures-001.jpg
+assets\images\projects\bamboo-river-lookout\figures\bamboo-river-lookout-figures-007.jpg
 
-[Your narrative about initial planning, sketches, reference gathering]
+following is a series of different figures I made. To the left was a plastic figure bought in, and painted, to get a better appreciation of the proportions. Second from the left was the air dry clay, that I painted (and it then flaked) - this was heading in the right direction. On the right was figures from epoxy putty, and previous generations of attempts. The proportions and face was just off.
 
-Example image reference:
-assets/images/projects/bamboo-river-lookout/lookout-build/bamboo-river-lookout-build-001.jpg
+assets\images\projects\bamboo-river-lookout\figures\bamboo-river-lookout-figures-005.jpg
 
-### Construction Phase
+The girl for my model was coming together, although the face need more work.
+assets\images\projects\bamboo-river-lookout\figures\bamboo-river-lookout-figures-003.jpg
 
-[Your narrative about building the lookout structure]
+After giving up the get the detail of the figures right, I put them in the over to try, and then gave them a undercoats.
+assets\images\projects\bamboo-river-lookout\figures\bamboo-river-lookout-figures-003.jpg
 
-### Figure Work
+after painting the figures, they did not come out completely rubbish, but I realised I still have a long way to go
+assets\images\projects\bamboo-river-lookout\gallery\bamboo-river-lookout-gallery-004.jpg
 
-[Your narrative about creating or incorporating figures]
+## final touches
 
-assets/images/projects/bamboo-river-lookout/figures/bamboo-river-lookout-figures-001.jpg
+after completing the figures, stairs were added into the river, the base was filled and painted to resemble the water and plants where added.  A fishing rod with line from a bead of hotglue, a bucket and even a fish was added.
 
-### Scenery and Landscape
+assets\images\projects\bamboo-river-lookout\gallery\bamboo-river-lookout-gallery-005.jpg
 
-[Your narrative about creating the river setting]
+## gallery
 
----
+use the following as the signature image
+assets\images\projects\bamboo-river-lookout\gallery\bamboo-river-lookout-gallery-007.jpg
 
-## CHAPTER 2: [CONTINUE YOUR STORY]
+use the following for the gallery
+assets\images\projects\bamboo-river-lookout\gallery\bamboo-river-lookout-gallery-006.jpg
+assets\images\projects\bamboo-river-lookout\gallery\bamboo-river-lookout-gallery-007.jpg
+assets\images\projects\bamboo-river-lookout\gallery\bamboo-river-lookout-gallery-008.jpg
+assets\images\projects\bamboo-river-lookout\gallery\bamboo-river-lookout-gallery-009.jpg
+assets\images\projects\bamboo-river-lookout\gallery\bamboo-river-lookout-gallery-010.jpg
 
-[Add as many chapters/sections as needed to tell your complete story]
+this build provided the opportunity to do more practice, especially with a focus on getting detail right.  It also illustrate that I still have a long way to go.  I need more patience, more technique, the right material, and not give up too early.
 
----
+On the other hand, I also learnt that I can improvise, and have great ideas to guide me on the road.
 
-## TECHNICAL SPECIFICATIONS
-
-**Final Dimensions:**
-- Height: [To be measured]
-- Width: [To be measured]
-- Depth: [To be measured]
-
-**Materials Used:**
-- [List materials]
-
-**Tools Required:**
-- [List key tools]
-
-**Special Techniques:**
-- [List any special techniques or skills]
-
----
-
-## CHALLENGES AND SOLUTIONS
-
-[Document any significant challenges you encountered and how you solved them]
-
----
-
-## LESSONS LEARNED
-
-[What did you learn from this build? What would you do differently? What worked particularly well?]
-
----
-
-## FINAL THOUGHTS
-
-[Your reflections on the completed project]
-
-Gallery image reference for final piece:
-assets/images/projects/bamboo-river-lookout/gallery/bamboo-river-lookout-gallery-001.jpg
-
----
-
-## NOTES FOR AI CONVERSION
-
-[Any specific notes about how you want this content structured for the final website page]
-
-**Key Highlights:**
-- [Point 1]
-- [Point 2]
-
-**Tone:** [Descriptive / Technical / Personal / Mixed]
-
----
+The small tools for holding the figures were great, except that the hotglue fixing did not work for putting the models into the oven.

@@ -229,6 +229,24 @@ Each project page provides a comprehensive **overview** of the concept, goals, a
   </div>
 </div>
 
+<div class="project-item right-image">
+  <div class="project-image-large">
+    <img src="{{ '/assets/images/coming_soon_square.jpg' | relative_url }}" alt="Plant Displays Series">
+  </div>
+  <div class="project-details">
+    <h3><a href="{{ '/projects/plant-displays/' | relative_url }}">Plant Displays Series</a></h3>
+    <p>A unique, ongoing botanical modeling collection featuring detailed artistic representations of selected plant species. Each display includes scratch-built components: leaf models, flower constructions, carved root systems, seed encapsulations, and seasonal representations. Plants currently in progress include Daffodil, Snowdrops, Protea, Strelitzia, Bluebells, Ranunculus, and Poinsettia. This multi-year project uses only natural materials and handcrafted techniques—no manufactured plastics or 3D printing.</p>
+    <div class="project-meta">
+      <span><strong>Status:</strong> In Progress - Ongoing Collection</span>
+      <span><strong>Scale:</strong> Various (component-dependent)</span>
+      <span><strong>Type:</strong> Botanical Scratch-Build Series</span>
+    </div>
+    <div class="project-buttons">
+      <a href="{{ '/projects/plant-displays/' | relative_url }}" class="project-btn project-btn-primary">Project Overview</a>
+    </div>
+  </div>
+</div>
+
 </div>
 
 ---
@@ -242,7 +260,6 @@ The following projects are all completed but not yet fully documented on this si
 <ul>
   <li>Riverside Cabin</li>
   <li>Traditional Country Cottage</li>
-  <li>Plant Display</li>
   <li>Henrhyd Falls</li>
 </ul>
 

@@ -73,6 +73,13 @@ Browse through my models and diorama builds and see the creative process unfold.
   </div>
   
   <div class="project-link-item">
+    <img src="{{ '/assets/images/coming_soon_square.jpg' | relative_url }}" alt="Plant Displays Series" class="project-thumbnail">
+    <div class="project-link-text">
+      <strong><a href="{{ '/projects/plant-displays/' | relative_url }}">Plant Displays Series - Ongoing botanical collection</a></strong> - Detailed artistic botanical models featuring leaves, flowers, roots, and seasonal displays for selected plant species. <em>In Progress - Multi-year Project</em>
+    </div>
+  </div>
+  
+  <div class="project-link-item">
     <img src="{{ '/assets/images/coming_soon_square.jpg' | relative_url }}" alt="Coming Soon" class="project-thumbnail">
     <div class="project-link-text">
       <strong><a href="{{ '/projects/sea-rescue/' | relative_url }}">Sea Rescue 1:50 scale scratch build</a></strong> - Maritime rescue scene featuring rescue vessel in action with dynamic seascape and authentic details. <em>In Progress - Started December 2025</em>
