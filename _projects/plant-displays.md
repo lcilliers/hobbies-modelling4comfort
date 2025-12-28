@@ -86,6 +86,8 @@ Jump to individual plants:
 ## Current Collection Status
 
 ### Bluebells
+<img src="{{ 'assets/images/projects/plant-displays/bluebells/build/plant-displays-bluebells-build-001.jpg' | relative_url }}" alt="Bluebells construction" style="float: right; width: 300px; margin: 0 0 1em 1em;">
+
 **Status:** In Progress - Planning & Initial Construction  
 **Difficulty:** Intermediate  
 **Images:** 28 planning, 5 build photos
@@ -94,9 +96,13 @@ British woodland native with distinctive drooping blue flowers. Extensive planni
 
 **[View Build Log →]({{ '/builds/plant-displays/bluebells-001-planning-build/' | relative_url }})**
 
+<div style="clear: both;"></div>
+
 ---
 
 ### Daffodil
+<img src="{{ 'assets/images/projects/plant-displays/daffodil/gallery/plant-displays-daffodil-gallery-001.jpg' | relative_url }}" alt="Daffodil display" style="float: right; width: 300px; margin: 0 0 1em 1em;">
+
 **Status:** In Progress - Research & Material Collection  
 **Difficulty:** Intermediate  
 **Images:** 20 planning, 6 build, 1 gallery
@@ -105,9 +111,13 @@ Classic spring bulb with bright yellow blooms. Planning includes bulb carving co
 
 **[View Build Log →]({{ '/builds/plant-displays/daffodil-001-planning-build/' | relative_url }})**
 
+<div style="clear: both;"></div>
+
 ---
 
 ### Poinsettia
+<img src="{{ 'assets/images/projects/plant-displays/poinsettia/planning/plant-displays-poinsettia-planning-001.jpg' | relative_url }}" alt="Poinsettia planning" style="float: right; width: 300px; margin: 0 0 1em 1em;">
+
 **Status:** In Progress - Planning Phase  
 **Difficulty:** Intermediate  
 **Images:** 6 planning photos
@@ -116,9 +126,13 @@ Distinctive Christmas plant with vibrant red bracts. Planning focuses on bract c
 
 **[View Build Log →]({{ '/builds/plant-displays/poinsettia-001-planning-build/' | relative_url }})**
 
+<div style="clear: both;"></div>
+
 ---
 
 ### Protea
+<img src="{{ 'assets/images/projects/plant-displays/protea/planning/plant-displays-protea-planning-001.jpg' | relative_url }}" alt="Protea planning" style="float: right; width: 300px; margin: 0 0 1em 1em;">
+
 **Status:** In Progress - Early Design Stage  
 **Difficulty:** Advanced  
 **Images:** 4 planning photos
@@ -127,9 +141,13 @@ Dramatic South African flower with unique structure and texture. Advanced diffic
 
 **[View Build Log →]({{ '/builds/plant-displays/protea-001-planning-build/' | relative_url }})**
 
+<div style="clear: both;"></div>
+
 ---
 
 ### Ranunculus
+<img src="{{ 'assets/images/projects/plant-displays/ranunculus/gallery/plant-displays-ranunculus-gallery-005.jpg' | relative_url }}" alt="Ranunculus display" style="float: right; width: 300px; margin: 0 0 1em 1em;">
+
 **Status:** In Progress - Extensive Planning & Active Construction  
 **Difficulty:** Advanced  
 **Images:** 44 planning, 3 build, 11 gallery (most documented plant)
@@ -138,9 +156,13 @@ Layered petaled flower with stunning color and delicate structure. Most technica
 
 **[View Build Log →]({{ '/builds/plant-displays/ranunculus-001-planning-build/' | relative_url }})**
 
+<div style="clear: both;"></div>
+
 ---
 
 ### Snowdrops
+<img src="{{ 'assets/images/projects/plant-displays/snowdrops/gallery/plant-displays-snowdrops-gallery-001.jpg' | relative_url }}" alt="Snowdrops display" style="float: right; width: 300px; margin: 0 0 1em 1em;">
+
 **Status:** In Progress - Planning & Early Construction  
 **Difficulty:** Intermediate  
 **Images:** 17 planning, 2 build, 5 gallery
@@ -149,9 +171,13 @@ Early spring bulb with delicate white flowers. One of the first plants in the se
 
 **[View Build Log →]({{ '/builds/plant-displays/snowdrops-001-planning-build/' | relative_url }})**
 
+<div style="clear: both;"></div>
+
 ---
 
 ### Strelitzia (Bird of Paradise)
+<img src="{{ 'assets/images/projects/plant-displays/strelitzia/planning/plant-displays-strelitzia-planning-001.jpg' | relative_url }}" alt="Strelitzia planning" style="float: right; width: 300px; margin: 0 0 1em 1em;">
+
 **Status:** In Progress - Planning Phase  
 **Difficulty:** Advanced  
 **Images:** 7 planning photos
@@ -159,6 +185,8 @@ Early spring bulb with delicate white flowers. One of the first plants in the se
 Exotic tropical flower with distinctive bird-like appearance. Advanced difficulty due to unique structural requirements and vibrant color combinations. Planning explores construction methodology.
 
 **[View Build Log →]({{ '/builds/plant-displays/strelitzia-001-planning-build/' | relative_url }})**
+
+<div style="clear: both;"></div>
 
 ## Construction Challenges
 
