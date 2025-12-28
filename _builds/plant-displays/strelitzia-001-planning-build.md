@@ -1,6 +1,6 @@
 ---
 layout: build
-project: plant-displays
+project: /projects/plant-displays/
 plant: strelitzia
 build_number: 1
 title: "Strelitzia (Bird of Paradise) - Planning & Build"

@@ -1,6 +1,6 @@
 ---
 layout: build
-project: plant-displays
+project: /projects/plant-displays/
 plant: bluebells
 build_number: 1
 title: "Bluebells - Planning & Construction"

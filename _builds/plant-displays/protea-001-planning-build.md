@@ -1,6 +1,6 @@
 ---
 layout: build
-project: plant-displays
+project: /projects/plant-displays/
 plant: protea
 build_number: 1
 title: "Protea - Planning & Initial Construction"

@@ -1,6 +1,6 @@
 ---
 layout: build
-project: plant-displays
+project: /projects/plant-displays/
 plant: daffodil
 build_number: 1
 title: "Daffodil - Planning & Initial Build"

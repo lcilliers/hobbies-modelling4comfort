@@ -1,6 +1,6 @@
 ---
 layout: build
-project: plant-displays
+project: /projects/plant-displays/
 plant: poinsettia
 build_number: 1
 title: "Poinsettia - Planning & Construction"

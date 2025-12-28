@@ -231,7 +231,7 @@ Each project page provides a comprehensive **overview** of the concept, goals, a
 
 <div class="project-item right-image">
   <div class="project-image-large">
-    <img src="{{ '/assets/images/coming_soon_square.jpg' | relative_url }}" alt="Plant Displays Series">
+    <img src="{{ '/assets/images/projects/plant-displays/ranunculus/gallery/plant-displays-ranunculus-gallery-005.jpg' | relative_url }}" alt="Plant Displays Series">
   </div>
   <div class="project-details">
     <h3><a href="{{ '/projects/plant-displays/' | relative_url }}">Plant Displays Series</a></h3>

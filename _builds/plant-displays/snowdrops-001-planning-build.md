@@ -1,6 +1,6 @@
 ---
 layout: build
-project: plant-displays
+project: /projects/plant-displays/
 plant: snowdrops
 build_number: 1
 title: "Snowdrops - Planning & Construction"
