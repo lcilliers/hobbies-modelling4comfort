@@ -96,6 +96,13 @@ Browse through my models and diorama builds and see the creative process unfold.
       <strong><a href="{{ '/projects/bookshop-memories/' | relative_url }}">Bookshop Memories 1:10 scale BookNook kit</a></strong> - Charming miniature bookshop scene with LED lighting, perfect for bookshelf display. <em>Completed February 2025</em>
     </div>
   </div>
+
+  <div class="project-link-item">
+    <img src="{{ '/assets/images/projects/simon-coffee-shop/simon-coffee-shop-014.jpg' | relative_url }}" alt="Simon's Coffee Shop" class="project-thumbnail">
+    <div class="project-link-text">
+      <strong><a href="{{ '/projects/simon-coffee-shop/' | relative_url }}">Simon's Coffee Shop 1:24 scale Fat Brain Toys kit</a></strong> - Delightful miniature coffee shop with intricate details and realistic accessories. <em>Completed December 2024</em>
+    </div>
+  </div>
 </div>
 
 

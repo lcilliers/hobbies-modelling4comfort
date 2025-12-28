@@ -80,7 +80,7 @@ Each project page provides a comprehensive **overview** of the concept, goals, a
   </div>
 </div>
 
-<div class="project-item right-image">
+<div class="project-item left-image">
   <div class="project-image-large">
     <img src="{{ '/assets/images/projects/bookshop-memories/bsm-004.jpg' | relative_url }}" alt="Bookshop Memories">
   </div>
@@ -100,6 +100,24 @@ Each project page provides a comprehensive **overview** of the concept, goals, a
 </div>
 
 <div class="project-item right-image">
+  <div class="project-image-large">
+    <img src="{{ '/assets/images/projects/simon-coffee-shop/simon-coffee-shop-014.jpg' | relative_url }}" alt="Simon's Coffee Shop">
+  </div>
+  <div class="project-details">
+    <h3><a href="{{ '/projects/simon-coffee-shop/' | relative_url }}">Simon's Coffee Shop</a></h3>
+    <p>A delightful miniature coffee shop from Fat Brain Toys, built over five holiday days. Originally purchased for my granddaughters (ages 6 and 10), the intricate details proved more suitable for adult builders. The kit features laser-cut plywood panels, realistic miniature accessories, and comprehensive instructions that made for an engaging and relaxing build.</p>
+    <div class="project-meta">
+      <span><strong>Status:</strong> Completed December 2024</span>
+      <span><strong>Scale:</strong> 1:24 (approx)</span>
+      <span><strong>Type:</strong> Fat Brain Toys Kit</span>
+    </div>
+    <div class="project-buttons">
+      <a href="{{ '/projects/simon-coffee-shop/' | relative_url }}" class="project-btn project-btn-primary">Project Overview</a>
+    </div>
+  </div>
+</div>
+
+<div class="project-item left-image">
   <div class="project-image-large">
     <img src="{{ '/assets/images/projects/log-cabin/log-cabin-gallery-004.jpg' | relative_url }}" alt="Log Cabin in the Woods">
   </div>
@@ -185,15 +203,12 @@ Each project page provides a comprehensive **overview** of the concept, goals, a
 The following projects are all completed but not yet fully documented on this site:
 
 <ul>
-  <li>Caravaning</li>
   <li>Riverside Cabin</li>
-  <li>Bookshop Memories</li>
   <li>Bamboo River Lookout</li>
   <li>Plane Restore</li>
   <li>1906 Renault</li>
   <li>Dollhouse Bunker Bed</li>
   <li>Traditional Country Cottage</li>
-  <li>Simon's Coffee Shop</li>
   <li>Plant Display</li>
   <li>Henrhyd Falls</li>
 </ul>
