@@ -7,15 +7,15 @@ title: "Bluebells - Planning & Construction"
 date: 2024-03-01
 estimated_time: "Ongoing"
 difficulty: "Intermediate"
-signature_image: "assets/images/projects/plant-displays/bluebells/build/blu-build-001.jpg"
+signature_image: "/assets/images/projects/plant-displays/bluebells/build/blu-build-001.jpg"
 focus_areas:
   - "Drooping bell-shaped flowers"
   - "Woodland setting representation"
   - "Multiple bloom cluster"
 progress_images:
-  - path: "assets/images/projects/plant-displays/bluebells/planning/blu-planning-001.jpg"
+  - path: "/assets/images/projects/plant-displays/bluebells/planning/blu-planning-001.jpg"
     caption: "Planning work"
-  - path: "assets/images/projects/plant-displays/bluebells/build/blu-build-001.jpg"
+  - path: "/assets/images/projects/plant-displays/bluebells/build/blu-build-001.jpg"
     caption: "Construction"
 ---
 
@@ -40,23 +40,23 @@ The English Bluebell are narrow, tubular, and strongly curve at the tips. They m
 
 **English Bluebell Reference Photos:**
 
-![English Bluebell Planning 1]({{ 'assets/images/projects/plant-displays/bluebells/planning/bluebells-planning-english-bluebell-01.jpg' | relative_url }})
+![English Bluebell Planning 1]({{ 'assets/images/projects/plant-displays/bluebells/planning/blu-planning-009.jpg' | relative_url }})
 *English bluebell characteristics: narrow tubular flowers, strong curve at tips, hanging on one side of stem*
 
-![English Bluebell Planning 2]({{ 'assets/images/projects/plant-displays/bluebells/planning/bluebells-planning-english-bluebell-02.jpg' | relative_url }})
+![English Bluebell Planning 2]({{ 'assets/images/projects/plant-displays/bluebells/planning/blu-planning-010.jpg' | relative_url }})
 *Additional English bluebell reference showing graceful drooping posture*
 
 **Spanish Bluebell Reference Photos:**
 
-![Spanish Bluebell Planning 1]({{ 'assets/images/projects/plant-displays/bluebells/planning/bluebells-planning-spanish-bluebell-01.jpg' | relative_url }})
+![Spanish Bluebell Planning 1]({{ 'assets/images/projects/plant-displays/bluebells/planning/blu-planning-001.jpg' | relative_url }})
 *Spanish bluebell characteristics: wider, more open flowers, upright growth around stem*
 
-![Spanish Bluebell Planning 2]({{ 'assets/images/projects/plant-displays/bluebells/planning/bluebells-planning-spanish-bluebell-02.jpg' | relative_url }})
+![Spanish Bluebell Planning 2]({{ 'assets/images/projects/plant-displays/bluebells/planning/blu-planning-002.jpg' | relative_url }})
 *Additional Spanish bluebell references showing less drooping, more structured form*
 
 **Muscari (Grape Hyacinth) Reference Photos:**
 
-![Muscari Planning]({{ 'assets/images/projects/plant-displays/bluebells/planning/bluebells-planning-muscari-01.jpg' | relative_url }})
+![Muscari Planning]({{ 'assets/images/projects/plant-displays/bluebells/planning/blu-planning-014.jpg' | relative_url }})
 *Muscari characteristics: small urn-shaped bead-like flowers, tightly clustered like grapes*
 
 
@@ -71,10 +71,10 @@ The bulb for all three are distinctly different.  Muscari bulbs are small and ov
 
 **Woodland Setting and Composition:**
 
-![Scenery Planning 1]({{ 'assets/images/projects/plant-displays/bluebells/planning/bluebells-planning-scenery-01.jpg' | relative_url }})
+![Scenery Planning 1]({{ 'assets/images/projects/plant-displays/bluebells/planning/blu-planning-017.jpg' | relative_url }})
 *Woodland habitat references: natural bluebell carpets, shade conditions, companion plants*
 
-![Scenery Planning 2]({{ 'assets/images/projects/plant-displays/bluebells/planning/bluebells-planning-scenery-02.jpg' | relative_url }})
+![Scenery Planning 2]({{ 'assets/images/projects/plant-displays/bluebells/planning/blu-planning-018.jpg' | relative_url }})
 *Additional woodland composition ideas and situational diorama concepts*
 
 ## Construction Progress
