@@ -7,13 +7,13 @@ title: "Strelitzia (Bird of Paradise) - Planning & Build"
 date: 2024-02-15
 estimated_time: "Ongoing"
 difficulty: "Advanced"
-signature_image: "assets/images/projects/plant-displays/strelitzia/planning/plant-displays-strelitzia-planning-001.jpg"
+signature_image: "assets/images/projects/plant-displays/strelitzia/planning/str-planning-001.jpg"
 focus_areas:
   - "Exotic flower structure"
   - "Distinctive bird-like form"
   - "Large tropical leaves"
 progress_images:
-  - path: "assets/images/projects/plant-displays/strelitzia/planning/plant-displays-strelitzia-planning-001.jpg"
+  - path: "assets/images/projects/plant-displays/strelitzia/planning/str-planning-001.jpg"
     caption: "Design planning"
 ---
 
@@ -35,19 +35,19 @@ This striking plant requires careful planning for:
 
 Careful planning for this exotic tropical flower:
 
-![Planning 001]({{ 'assets/images/projects/plant-displays/strelitzia/planning/plant-displays-strelitzia-planning-001.jpg' | relative_url }})
+![Planning 001]({{ 'assets/images/projects/plant-displays/strelitzia/planning/str-planning-001.jpg' | relative_url }})
 
-![Planning 002]({{ 'assets/images/projects/plant-displays/strelitzia/planning/plant-displays-strelitzia-planning-002.jpg' | relative_url }})
+![Planning 002]({{ 'assets/images/projects/plant-displays/strelitzia/planning/str-planning-002.jpg' | relative_url }})
 
-![Planning 003]({{ 'assets/images/projects/plant-displays/strelitzia/planning/plant-displays-strelitzia-planning-003.jpg' | relative_url }})
+![Planning 003]({{ 'assets/images/projects/plant-displays/strelitzia/planning/str-planning-003.jpg' | relative_url }})
 
-![Planning 004]({{ 'assets/images/projects/plant-displays/strelitzia/planning/plant-displays-strelitzia-planning-004.jpg' | relative_url }})
+![Planning 004]({{ 'assets/images/projects/plant-displays/strelitzia/planning/str-planning-004.jpg' | relative_url }})
 
-![Planning 005]({{ 'assets/images/projects/plant-displays/strelitzia/planning/plant-displays-strelitzia-planning-005.jpg' | relative_url }})
+![Planning 005]({{ 'assets/images/projects/plant-displays/strelitzia/planning/str-planning-005.jpg' | relative_url }})
 
-![Planning 006]({{ 'assets/images/projects/plant-displays/strelitzia/planning/plant-displays-strelitzia-planning-006.jpg' | relative_url }})
+![Planning 006]({{ 'assets/images/projects/plant-displays/strelitzia/planning/str-planning-006.jpg' | relative_url }})
 
-![Planning 007]({{ 'assets/images/projects/plant-displays/strelitzia/planning/plant-displays-strelitzia-planning-007.jpg' | relative_url }})
+![Planning 007]({{ 'assets/images/projects/plant-displays/strelitzia/planning/str-planning-007.jpg' | relative_url }})
 
 ## Design Challenges
 

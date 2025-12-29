@@ -7,15 +7,15 @@ title: "Bluebells - Planning & Construction"
 date: 2024-03-01
 estimated_time: "Ongoing"
 difficulty: "Intermediate"
-signature_image: "assets/images/projects/plant-displays/bluebells/build/plant-displays-bluebells-build-001.jpg"
+signature_image: "assets/images/projects/plant-displays/bluebells/build/blu-build-001.jpg"
 focus_areas:
   - "Drooping bell-shaped flowers"
   - "Woodland setting representation"
   - "Multiple bloom cluster"
 progress_images:
-  - path: "assets/images/projects/plant-displays/bluebells/planning/plant-displays-bluebells-planning-001.jpg"
+  - path: "assets/images/projects/plant-displays/bluebells/planning/blu-planning-001.jpg"
     caption: "Planning work"
-  - path: "assets/images/projects/plant-displays/bluebells/build/plant-displays-bluebells-build-001.jpg"
+  - path: "assets/images/projects/plant-displays/bluebells/build/blu-build-001.jpg"
     caption: "Construction"
 ---
 
@@ -64,7 +64,7 @@ The English Bluebell are narrow, tubular, and strongly curve at the tips. They m
 
 The bulb for all three are distinctly different.  Muscari bulbs are small and oval to teardrop in shape. it is compact with fleshy scales and a basal plate.  English Bluebell bulbs are elongated, slightly tapered at one end. It also has fleshy scales, storing energy for the next season.  The Spannish Bluebell bulb is similar to the english bluebell but the bulbs are slightly rounder and bulkier.
 
-![Bluebell Bulbs Reference]({{ 'assets/images/projects/plant-displays/bluebells/planning/bulbs/plant-displays-bluebells-planning-029.jpg' | relative_url }})
+![Bluebell Bulbs Reference]({{ 'assets/images/projects/plant-displays/bluebells/planning/bulbs/blu-planning-029.jpg' | relative_url }})
 *Bulb structure comparison: Muscari (oval/teardrop), English Bluebell (elongated/tapered), Spanish Bluebell (rounder/bulkier)*
 
 ### woodland setting
@@ -81,15 +81,15 @@ The bulb for all three are distinctly different.  Muscari bulbs are small and ov
 
 ### Build Photos (5 images)
 
-![Build 001]({{ 'assets/images/projects/plant-displays/bluebells/build/plant-displays-bluebells-build-001.jpg' | relative_url }})
+![Build 001]({{ 'assets/images/projects/plant-displays/bluebells/build/blu-build-001.jpg' | relative_url }})
 
-![Build 002]({{ 'assets/images/projects/plant-displays/bluebells/build/plant-displays-bluebells-build-002.jpg' | relative_url }})
+![Build 002]({{ 'assets/images/projects/plant-displays/bluebells/build/blu-build-002.jpg' | relative_url }})
 
-![Build 003]({{ 'assets/images/projects/plant-displays/bluebells/build/plant-displays-bluebells-build-003.jpg' | relative_url }})
+![Build 003]({{ 'assets/images/projects/plant-displays/bluebells/build/blu-build-003.jpg' | relative_url }})
 
-![Build 004]({{ 'assets/images/projects/plant-displays/bluebells/build/plant-displays-bluebells-build-004.jpg' | relative_url }})
+![Build 004]({{ 'assets/images/projects/plant-displays/bluebells/build/blu-build-004.jpg' | relative_url }})
 
-![Build 005]({{ 'assets/images/projects/plant-displays/bluebells/build/plant-displays-bluebells-build-005.jpg' | relative_url }})
+![Build 005]({{ 'assets/images/projects/plant-displays/bluebells/build/blu-build-005.jpg' | relative_url }})
 
 ## Construction Focus
 

@@ -7,7 +7,7 @@ title: "Poinsettia - Planning & Construction"
 date: 2024-12-01
 estimated_time: "Ongoing"
 difficulty: "Intermediate"
-signature_image: "assets/images/projects/plant-displays/poinsettia/planning/plant-displays-poinsettia-planning-001.jpg"
+signature_image: "assets/images/projects/plant-displays/poinsettia/planning/hib-planning-001.jpg"
 focus_areas:
   - "Vibrant red bracts"
   - "Star-shaped arrangement"
@@ -35,17 +35,17 @@ The poinsettia display will include:
 
 Design planning for this seasonal favorite:
 
-![Planning 001]({{ 'assets/images/projects/plant-displays/poinsettia/planning/plant-displays-poinsettia-planning-001.jpg' | relative_url }})
+![Planning 001]({{ 'assets/images/projects/plant-displays/poinsettia/planning/hib-planning-001.jpg' | relative_url }})
 
-![Planning 002]({{ 'assets/images/projects/plant-displays/poinsettia/planning/plant-displays-poinsettia-planning-002.jpg' | relative_url }})
+![Planning 002]({{ 'assets/images/projects/plant-displays/poinsettia/planning/hib-planning-002.jpg' | relative_url }})
 
-![Planning 003]({{ 'assets/images/projects/plant-displays/poinsettia/planning/plant-displays-poinsettia-planning-003.jpg' | relative_url }})
+![Planning 003]({{ 'assets/images/projects/plant-displays/poinsettia/planning/hib-planning-003.jpg' | relative_url }})
 
-![Planning 004]({{ 'assets/images/projects/plant-displays/poinsettia/planning/plant-displays-poinsettia-planning-004.jpg' | relative_url }})
+![Planning 004]({{ 'assets/images/projects/plant-displays/poinsettia/planning/hib-planning-004.jpg' | relative_url }})
 
-![Planning 005]({{ 'assets/images/projects/plant-displays/poinsettia/planning/plant-displays-poinsettia-planning-005.jpg' | relative_url }})
+![Planning 005]({{ 'assets/images/projects/plant-displays/poinsettia/planning/hib-planning-005.jpg' | relative_url }})
 
-![Planning 006]({{ 'assets/images/projects/plant-displays/poinsettia/planning/plant-displays-poinsettia-planning-006.jpg' | relative_url }})
+![Planning 006]({{ 'assets/images/projects/plant-displays/poinsettia/planning/hib-planning-006.jpg' | relative_url }})
 
 ## Design Considerations
 
