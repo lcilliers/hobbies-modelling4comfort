@@ -35,7 +35,7 @@ Components planned:
 
 ## Planning & Research Phase
 
-### Planning Images (17 photos)
+### Planning Images 
 
 The planning documentation captures:
 - Snowdrop reference photos showing characteristic drooping form
@@ -44,19 +44,15 @@ The planning documentation captures:
 - Material testing for translucent white petals
 - Growth stage studies from emergence through bloom
 
-![Planning 001]({{ 'assets/images/projects/plant-displays/snowdrops/planning/sno-planning-001.jpg' | relative_url }})
+## Reference photos
 
-![Planning 002]({{ 'assets/images/projects/plant-displays/snowdrops/planning/sno-planning-002.jpg' | relative_url }})
+### Flowers
+
+![Planning 001]({{ 'assets/images/projects/plant-displays/snowdrops/planning/sno-planning-001.jpg' | relative_url }})
 
 ![Planning 003]({{ 'assets/images/projects/plant-displays/snowdrops/planning/sno-planning-003.jpg' | relative_url }})
 
 ![Planning 004]({{ 'assets/images/projects/plant-displays/snowdrops/planning/sno-planning-004.jpg' | relative_url }})
-
-![Planning 005]({{ 'assets/images/projects/plant-displays/snowdrops/planning/sno-planning-005.jpg' | relative_url }})
-
-![Planning 006]({{ 'assets/images/projects/plant-displays/snowdrops/planning/sno-planning-006.jpg' | relative_url }})
-
-![Planning 007]({{ 'assets/images/projects/plant-displays/snowdrops/planning/sno-planning-007.jpg' | relative_url }})
 
 ![Planning 008]({{ 'assets/images/projects/plant-displays/snowdrops/planning/sno-planning-008.jpg' | relative_url }})
 
@@ -70,17 +66,25 @@ The planning documentation captures:
 
 ![Planning 013]({{ 'assets/images/projects/plant-displays/snowdrops/planning/sno-planning-013.jpg' | relative_url }})
 
-![Planning 014]({{ 'assets/images/projects/plant-displays/snowdrops/planning/sno-planning-014.jpg' | relative_url }})
+### Scenery
 
-![Planning 015]({{ 'assets/images/projects/plant-displays/snowdrops/planning/sno-planning-015.jpg' | relative_url }})
+![Planning 002]({{ 'assets/images/projects/plant-displays/snowdrops/planning/sno-planning-002.jpg' | relative_url }})
 
-![Planning 016]({{ 'assets/images/projects/plant-displays/snowdrops/planning/sno-planning-016.jpg' | relative_url }})
+![Planning 005]({{ 'assets/images/projects/plant-displays/snowdrops/planning/sno-planning-005.jpg' | relative_url }})
 
 ![Planning 017]({{ 'assets/images/projects/plant-displays/snowdrops/planning/sno-planning-017.jpg' | relative_url }})
 
+### Templates and guides
+
+![Planning 006]({{ 'assets/images/projects/plant-displays/snowdrops/planning/sno-planning-006.jpg' | relative_url }})
+
+![Planning 007]({{ 'assets/images/projects/plant-displays/snowdrops/planning/sno-planning-007.jpg' | relative_url }})
+
+![Planning 015]({{ 'assets/images/projects/plant-displays/snowdrops/planning/sno-planning-015.jpg' | relative_url }})
+
 ## Construction Progress
 
-### Build Photos (2 images)
+### Build Photos 
 
 ![Build 001]({{ 'assets/images/projects/plant-displays/snowdrops/build/sno-build-001.jpg' | relative_url }})
 
