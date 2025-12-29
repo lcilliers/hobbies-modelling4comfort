@@ -60,7 +60,7 @@ layout: default
   <div class="progress-images">
     {% for image in page.progress_images %}
     <figure class="progress-image">
-      <img src="{{ image.path }}" alt="{{ image.caption }}" loading="lazy">
+      <img src="{{ image.path | relative_url }}" alt="{{ image.caption }}" loading="lazy">
       <figcaption>{{ image.caption }}</figcaption>
     </figure>
     {% endfor %}
