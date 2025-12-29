@@ -15,9 +15,9 @@ focus_areas:
   - "Root system representation"
   - "Seasonal growth stages"
 progress_images:
-  - path: "/assets/images/projects/plant-displays/daffodil/build/daf-build-003.jpg"
+  - path: "assets/images/projects/plant-displays/daffodil/build/daf-build-003.jpg"
     caption: "in harmony with others"
-  - path: "/assets/images/projects/plant-displays/daffodil/build/daf-build-004.jpg"
+  - path: "assets/images/projects/plant-displays/daffodil/build/daf-build-004.jpg"
     caption: "range of flower types"
 ---
 
