@@ -19,9 +19,11 @@
   
   // Image lazy loading fallback (for older browsers)
   if ('loading' in HTMLImageElement.prototype) {
-    const images = document.querySelectorAll('img[loading="lazy"]');
+    const images = document.querySelectorAll('img[loading="lazy"][data-src]');
     images.forEach(img => {
-      img.src = img.dataset.src;
+      if (img.dataset.src) {
+        img.src = img.dataset.src;
+      }
     });
   }
   
