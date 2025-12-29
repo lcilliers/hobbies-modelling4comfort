@@ -13,11 +13,11 @@ focus_areas:
   - "Bulb carving and root system"
   - "Early spring growth stages"
 progress_images:
-  - path: "/assets/images/projects/plant-displays/snowdrops/planning/sno-planning-001.jpg"
+  - path: "assets/images/projects/plant-displays/snowdrops/planning/sno-planning-001.jpg"
     caption: "Planning and design work"
-  - path: "/assets/images/projects/plant-displays/snowdrops/build/sno-build-001.jpg"
+  - path: "assets/images/projects/plant-displays/snowdrops/build/sno-build-001.jpg"
     caption: "Construction in progress"
-  - path: "/assets/images/projects/plant-displays/snowdrops/gallery/sno-gallery-001.jpg"
+  - path: "assets/images/projects/plant-displays/snowdrops/gallery/sno-gallery-001.jpg"
     caption: "Current state"
 ---
 

@@ -13,9 +13,9 @@ focus_areas:
   - "Woodland setting representation"
   - "Multiple bloom cluster"
 progress_images:
-  - path: "/assets/images/projects/plant-displays/bluebells/planning/blu-planning-001.jpg"
+  - path: "assets/images/projects/plant-displays/bluebells/planning/blu-planning-001.jpg"
     caption: "Planning work"
-  - path: "/assets/images/projects/plant-displays/bluebells/gallery/blu-gallery-001.jpg"
+  - path: "assets/images/projects/plant-displays/bluebells/gallery/blu-gallery-001.jpg"
     caption: "Construction"
 ---
 

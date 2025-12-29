@@ -199,9 +199,38 @@ All plant display images follow a standardized naming convention for easier mana
 3. **Build Progress Images:**
    - Displayed immediately after the heading in build logs via `progress_images:` front matter
    - Provides a visual summary of key stages (planning, construction, completion)
-   - Rendered as thumbnail grid with captions
+   - Rendered as thumbnail grid with captions using Jekyll template
    - Additional images embedded throughout build log markdown body
    - Shows techniques, challenges, and progression
+
+#### Progress Images Front Matter Format
+
+**CRITICAL:** Path format must be relative WITHOUT leading slash (template prepends `/`)
+
+```yaml
+progress_images:
+  - path: "assets/images/projects/plant-displays/[plantname]/[category]/[code]-[category]-###.jpg"
+    caption: "Brief description"
+  - path: "assets/images/projects/plant-displays/[plantname]/[category]/[code]-[category]-###.jpg"
+    caption: "Another description"
+```
+
+**Example:**
+```yaml
+progress_images:
+  - path: "assets/images/projects/plant-displays/daffodil/build/daf-build-003.jpg"
+    caption: "in harmony with others"
+  - path: "assets/images/projects/plant-displays/daffodil/build/daf-build-004.jpg"
+    caption: "range of flower types"
+```
+
+**Important Notes:**
+- **Do NOT include leading `/`** - the Jekyll template (`_layouts/build.html`) automatically prepends it
+- Path must be relative: `assets/images/...` NOT `/assets/images/...`
+- Verify image files actually exist at the specified path before committing
+- Jekyll renders these as: `<img src="/{{ image.path }}">`
+- CSS grid layout defined in `assets/css/main.css` (`.progress-images` class)
+- JavaScript lazy loading must NOT interfere (fixed December 29, 2025)
 
 ## Workflow for Adding/Updating Plants
 

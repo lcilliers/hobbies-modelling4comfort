@@ -13,7 +13,7 @@ focus_areas:
   - "Star-shaped arrangement"
   - "Seasonal Christmas plant"
 progress_images:
-  - path: "/assets/images/projects/plant-displays/hibiscus/planning/hib-planning-001.jpg"
+  - path: "assets/images/projects/plant-displays/hibiscus/planning/hib-planning-001.jpg"
     caption: "Design planning"
 ---
 

@@ -13,7 +13,7 @@ focus_areas:
   - "Distinctive bird-like form"
   - "Large tropical leaves"
 progress_images:
-  - path: "/assets/images/projects/plant-displays/strelitzia/planning/str-planning-001.jpg"
+  - path: "assets/images/projects/plant-displays/strelitzia/planning/str-planning-001.jpg"
     caption: "Design planning"
 ---
 
