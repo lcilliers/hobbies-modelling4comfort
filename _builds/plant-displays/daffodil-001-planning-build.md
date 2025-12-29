@@ -51,54 +51,33 @@ The daffodil holds special significance as:
 
 ## Planning & Research Phase
 
-### Planning Images (20 photos)
+The extensive planning documentation covers reference photos of daffodils at various growth stages, bulb cross-section research and design, trumpet flower petal structure analysis, leaf growth pattern studies, and material sample testing.
 
-The extensive planning documentation covers:
-- Reference photos of daffodils at various growth stages
-- Bulb cross-section research and design
-- Trumpet flower petal structure analysis
-- Leaf growth pattern studies
-- Material sample testing
+**Flower Reference Photos:**
 
-![Planning 001]({{ 'assets/images/projects/plant-displays/daffodil/planning/plant-displays-daffodil-planning-001.jpg' | relative_url }})
+![Daffodil Flower Planning 1]({{ 'assets/images/projects/plant-displays/daffodil/planning/daffodil-planning-flowers-01.jpg' | relative_url }})
+*Daffodil flower characteristics: trumpet corona, six-petaled perianth, bright yellow coloring*
 
-![Planning 002]({{ 'assets/images/projects/plant-displays/daffodil/planning/plant-displays-daffodil-planning-002.jpg' | relative_url }})
+![Daffodil Flower Planning 2]({{ 'assets/images/projects/plant-displays/daffodil/planning/daffodil-planning-flowers-02.jpg' | relative_url }})
+*Additional flower references showing trumpet structure and petal arrangement*
 
-![Planning 003]({{ 'assets/images/projects/plant-displays/daffodil/planning/plant-displays-daffodil-planning-003.jpg' | relative_url }})
+![Daffodil Flower Planning 3]({{ 'assets/images/projects/plant-displays/daffodil/planning/daffodil-planning-flowers-03.jpg' | relative_url }})
+*Detailed flower studies: corona flare, perianth symmetry, and color variations*
 
-![Planning 004]({{ 'assets/images/projects/plant-displays/daffodil/planning/plant-displays-daffodil-planning-004.jpg' | relative_url }})
+**Bulb Structure Reference:**
 
-![Planning 005]({{ 'assets/images/projects/plant-displays/daffodil/planning/plant-displays-daffodil-planning-005.jpg' | relative_url }})
+![Daffodil Bulb Planning]({{ 'assets/images/projects/plant-displays/daffodil/planning/daffodil-planning-bulbs-01.jpg' | relative_url }})
+*Bulb cross-section showing layered internal structure and papery brown exterior*
 
-![Planning 006]({{ 'assets/images/projects/plant-displays/daffodil/planning/plant-displays-daffodil-planning-006.jpg' | relative_url }})
+**Growth Stages and Scenery:**
 
-![Planning 007]({{ 'assets/images/projects/plant-displays/daffodil/planning/plant-displays-daffodil-planning-007.jpg' | relative_url }})
+![Daffodil Scenes Planning]({{ 'assets/images/projects/plant-displays/daffodil/planning/daffodil-planning-scenes-01.jpg' | relative_url }})
+*Natural growth patterns, habitat settings, and seasonal display concepts*
 
-![Planning 008]({{ 'assets/images/projects/plant-displays/daffodil/planning/plant-displays-daffodil-planning-008.jpg' | relative_url }})
+**Leaf and Structural Templates:**
 
-![Planning 009]({{ 'assets/images/projects/plant-displays/daffodil/planning/plant-displays-daffodil-planning-009.jpg' | relative_url }})
-
-![Planning 010]({{ 'assets/images/projects/plant-displays/daffodil/planning/plant-displays-daffodil-planning-010.jpg' | relative_url }})
-
-![Planning 011]({{ 'assets/images/projects/plant-displays/daffodil/planning/plant-displays-daffodil-planning-011.jpg' | relative_url }})
-
-![Planning 012]({{ 'assets/images/projects/plant-displays/daffodil/planning/plant-displays-daffodil-planning-012.jpg' | relative_url }})
-
-![Planning 013]({{ 'assets/images/projects/plant-displays/daffodil/planning/plant-displays-daffodil-planning-013.jpg' | relative_url }})
-
-![Planning 014]({{ 'assets/images/projects/plant-displays/daffodil/planning/plant-displays-daffodil-planning-014.jpg' | relative_url }})
-
-![Planning 015]({{ 'assets/images/projects/plant-displays/daffodil/planning/plant-displays-daffodil-planning-015.jpg' | relative_url }})
-
-![Planning 016]({{ 'assets/images/projects/plant-displays/daffodil/planning/plant-displays-daffodil-planning-016.jpg' | relative_url }})
-
-![Planning 017]({{ 'assets/images/projects/plant-displays/daffodil/planning/plant-displays-daffodil-planning-017.jpg' | relative_url }})
-
-![Planning 018]({{ 'assets/images/projects/plant-displays/daffodil/planning/plant-displays-daffodil-planning-018.jpg' | relative_url }})
-
-![Planning 019]({{ 'assets/images/projects/plant-displays/daffodil/planning/plant-displays-daffodil-planning-019.jpg' | relative_url }})
-
-![Planning 020]({{ 'assets/images/projects/plant-displays/daffodil/planning/plant-displays-daffodil-planning-020.jpg' | relative_url }})
+![Daffodil Templates Planning]({{ 'assets/images/projects/plant-displays/daffodil/planning/daffodil-planning-templates-01.jpg' | relative_url }})
+*Linear leaf structure, growth patterns, and construction template references*
 
 ### Design Challenges
 
