@@ -21,82 +21,58 @@ progress_images:
 
 ## Project Overview
 
-Bluebells are quintessential British woodland flowers, featuring graceful drooping bell-shaped blooms in distinctive blue-violet color. This display captures the essence of spring woodland carpet created by massed bluebells.
+Bluebells are quintessential British woodland flowers, featuring graceful drooping bell-shaped blooms in distinctive blue-violet color. This display captures the essence of spring woodland carpet created by massed bluebells.  The displays focus on tow different types: The english bluebell and spanish bluebell, and then also included muscari as they often are seen together.
 
 ## Current Status: In Progress
 
 The bluebell display includes:
-- Multiple bell-shaped flowers on arching stems
-- Characteristic drooping posture
-- Woodland bulb and root system
-- Potential for situational diorama showing woodland setting
+- Multiple bell-shaped flowers on arching stems with characteristic drooping posture (Englsih Bluebell)
+- Multiple bell-shaped flowers with shorter tubes and shaped around the stem (spanish bluebell)
+- Small flowers, bead-like shaped like a bunch of grapes (muscari)
+- Woodland bulbs of all three types 
+- Displayed as a situational diorama showing woodland setting
 
 ## Planning & Research Phase
 
-### Planning Images (28 photos)
+### Flowers
 
-Extensive planning documentation covering:
-- Bluebell woodland habitat reference photos
-- Bell-shaped flower structure analysis
-- Color studies for distinctive blue-violet hue
-- Bulb and root system research
-- Woodland setting design concepts
+The English Bluebell are narrow, tubular, and strongly curve at the tips. They mostly hang off on one side of the stem with a graceful loop.  The Spanish Bluebell flowers are wider and more open, less tubular.  They also grow all around the stem, looking upright and less drooping. Muscari flowers are small, urn-shaped or bead-like, clustered tightly around the stem like a bunch of grapes.
 
-![Planning 001]({{ 'assets/images/projects/plant-displays/bluebells/planning/plant-displays-bluebells-planning-001.jpg' | relative_url }})
+**English Bluebell Reference Photos:**
 
-![Planning 002]({{ 'assets/images/projects/plant-displays/bluebells/planning/plant-displays-bluebells-planning-002.jpg' | relative_url }})
+![English Bluebell Planning 1]({{ 'assets/images/projects/plant-displays/bluebells/planning/bluebells-planning-english-bluebell-01.jpg' | relative_url }})
+*English bluebell characteristics: narrow tubular flowers, strong curve at tips, hanging on one side of stem*
 
-![Planning 003]({{ 'assets/images/projects/plant-displays/bluebells/planning/plant-displays-bluebells-planning-003.jpg' | relative_url }})
+![English Bluebell Planning 2]({{ 'assets/images/projects/plant-displays/bluebells/planning/bluebells-planning-english-bluebell-02.jpg' | relative_url }})
+*Additional English bluebell reference showing graceful drooping posture*
 
-![Planning 004]({{ 'assets/images/projects/plant-displays/bluebells/planning/plant-displays-bluebells-planning-004.jpg' | relative_url }})
+**Spanish Bluebell Reference Photos:**
 
-![Planning 005]({{ 'assets/images/projects/plant-displays/bluebells/planning/plant-displays-bluebells-planning-005.jpg' | relative_url }})
+![Spanish Bluebell Planning 1]({{ 'assets/images/projects/plant-displays/bluebells/planning/bluebells-planning-spanish-bluebell-01.jpg' | relative_url }})
+*Spanish bluebell characteristics: wider, more open flowers, upright growth around stem*
 
-![Planning 006]({{ 'assets/images/projects/plant-displays/bluebells/planning/plant-displays-bluebells-planning-006.jpg' | relative_url }})
+![Spanish Bluebell Planning 2]({{ 'assets/images/projects/plant-displays/bluebells/planning/bluebells-planning-spanish-bluebell-02.jpg' | relative_url }})
+*Additional Spanish bluebell references showing less drooping, more structured form*
 
-![Planning 007]({{ 'assets/images/projects/plant-displays/bluebells/planning/plant-displays-bluebells-planning-007.jpg' | relative_url }})
+**Muscari (Grape Hyacinth) Reference Photos:**
 
-![Planning 008]({{ 'assets/images/projects/plant-displays/bluebells/planning/plant-displays-bluebells-planning-008.jpg' | relative_url }})
+![Muscari Planning]({{ 'assets/images/projects/plant-displays/bluebells/planning/bluebells-planning-muscari-01.jpg' | relative_url }})
+*Muscari characteristics: small urn-shaped bead-like flowers, tightly clustered like grapes*
 
-![Planning 009]({{ 'assets/images/projects/plant-displays/bluebells/planning/plant-displays-bluebells-planning-009.jpg' | relative_url }})
 
-![Planning 010]({{ 'assets/images/projects/plant-displays/bluebells/planning/plant-displays-bluebells-planning-010.jpg' | relative_url }})
+### Blubs
 
-![Planning 011]({{ 'assets/images/projects/plant-displays/bluebells/planning/plant-displays-bluebells-planning-011.jpg' | relative_url }})
+The bulb for all three are distinctly different.  Muscari bulbs are small and oval to teardrop in shape. it is compact with fleshy scales and a basal plate.  English Bluebell bulbs are elongated, slightly tapered at one end. It also has fleshy scales, storing energy for the next season.  The Spannish Bluebell bulb is similar to the english bluebell but the bulbs are slightly rounder and bulkier.
 
-![Planning 012]({{ 'assets/images/projects/plant-displays/bluebells/planning/plant-displays-bluebells-planning-012.jpg' | relative_url }})
+### woodland setting
 
-![Planning 013]({{ 'assets/images/projects/plant-displays/bluebells/planning/plant-displays-bluebells-planning-013.jpg' | relative_url }})
+**Woodland Setting and Composition:**
 
-![Planning 014]({{ 'assets/images/projects/plant-displays/bluebells/planning/plant-displays-bluebells-planning-014.jpg' | relative_url }})
+![Scenery Planning 1]({{ 'assets/images/projects/plant-displays/bluebells/planning/bluebells-planning-scenery-01.jpg' | relative_url }})
+*Woodland habitat references: natural bluebell carpets, shade conditions, companion plants*
 
-![Planning 015]({{ 'assets/images/projects/plant-displays/bluebells/planning/plant-displays-bluebells-planning-015.jpg' | relative_url }})
-
-![Planning 016]({{ 'assets/images/projects/plant-displays/bluebells/planning/plant-displays-bluebells-planning-016.jpg' | relative_url }})
-
-![Planning 017]({{ 'assets/images/projects/plant-displays/bluebells/planning/plant-displays-bluebells-planning-017.jpg' | relative_url }})
-
-![Planning 018]({{ 'assets/images/projects/plant-displays/bluebells/planning/plant-displays-bluebells-planning-018.jpg' | relative_url }})
-
-![Planning 019]({{ 'assets/images/projects/plant-displays/bluebells/planning/plant-displays-bluebells-planning-019.jpg' | relative_url }})
-
-![Planning 020]({{ 'assets/images/projects/plant-displays/bluebells/planning/plant-displays-bluebells-planning-020.jpg' | relative_url }})
-
-![Planning 021]({{ 'assets/images/projects/plant-displays/bluebells/planning/plant-displays-bluebells-planning-021.jpg' | relative_url }})
-
-![Planning 022]({{ 'assets/images/projects/plant-displays/bluebells/planning/plant-displays-bluebells-planning-022.jpg' | relative_url }})
-
-![Planning 023]({{ 'assets/images/projects/plant-displays/bluebells/planning/plant-displays-bluebells-planning-023.jpg' | relative_url }})
-
-![Planning 024]({{ 'assets/images/projects/plant-displays/bluebells/planning/plant-displays-bluebells-planning-024.jpg' | relative_url }})
-
-![Planning 025]({{ 'assets/images/projects/plant-displays/bluebells/planning/plant-displays-bluebells-planning-025.jpg' | relative_url }})
-
-![Planning 026]({{ 'assets/images/projects/plant-displays/bluebells/planning/plant-displays-bluebells-planning-026.jpg' | relative_url }})
-
-![Planning 027]({{ 'assets/images/projects/plant-displays/bluebells/planning/plant-displays-bluebells-planning-027.jpg' | relative_url }})
-
-![Planning 028]({{ 'assets/images/projects/plant-displays/bluebells/planning/plant-displays-bluebells-planning-028.jpg' | relative_url }})
+![Scenery Planning 2]({{ 'assets/images/projects/plant-displays/bluebells/planning/bluebells-planning-scenery-02.jpg' | relative_url }})
+*Additional woodland composition ideas and situational diorama concepts*
 
 ## Construction Progress
 
