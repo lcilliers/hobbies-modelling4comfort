@@ -7,7 +7,7 @@ title: "Daffodil - Planning & Initial Build"
 date: 2024-01-15
 estimated_time: "Ongoing - Multi-season project"
 difficulty: "Intermediate"
-signature_image: "assets/images/projects/plant-displays/daffodil/gallery/plant-displays-daffodil-gallery-001.jpg"
+signature_image: "assets/images/projects/plant-displays/daffodil/gallery/daf-build-004.jpg"
 focus_areas:
   - "Bulb structure and wood carving"
   - "Trumpet flower construction"
@@ -15,14 +15,10 @@ focus_areas:
   - "Root system representation"
   - "Seasonal growth stages"
 progress_images:
-  - path: "assets/images/projects/plant-displays/daffodil/planning/plant-displays-daffodil-planning-001.jpg"
-    caption: "Research and design planning"
-  - path: "assets/images/projects/plant-displays/daffodil/planning/plant-displays-daffodil-planning-010.jpg"
-    caption: "Material samples and reference collection"
-  - path: "assets/images/projects/plant-displays/daffodil/build/plant-displays-daffodil-build-001.jpg"
-    caption: "Early construction work"
-  - path: "assets/images/projects/plant-displays/daffodil/gallery/plant-displays-daffodil-gallery-001.jpg"
-    caption: "Current construction state"
+  - path: "assets/images/projects/plant-displays/daffodil/planning/daf-build-003.jpg"
+    caption: "in harmony with others"
+  - path: "assets/images/projects/plant-displays/daffodil/planning/daf-build-004.jpg"
+    caption: "range of flower types"
 ---
 
 ## Project Overview
@@ -55,28 +51,28 @@ The extensive planning documentation covers reference photos of daffodils at var
 
 **Flower Reference Photos:**
 
-![Daffodil Flower Planning 1]({{ 'assets/images/projects/plant-displays/daffodil/planning/daffodil-planning-flowers-01.jpg' | relative_url }})
-*Daffodil flower characteristics: trumpet corona, six-petaled perianth, bright yellow coloring*
+![Daffodil Flowers 1]({{ 'assets/images/projects/plant-displays/daffodil/planning/daf-planning-003.jpg' | relative_url }})
+*Daffodil flower characteristics: various trumpet coronas, six-petaled perianth, various yellow coloring*
 
-![Daffodil Flower Planning 2]({{ 'assets/images/projects/plant-displays/daffodil/planning/daffodil-planning-flowers-02.jpg' | relative_url }})
-*Additional flower references showing trumpet structure and petal arrangement*
+![Daffodil Flowers 2]({{ 'assets/images/projects/plant-displays/daffodil/planning/daf-planning-004.jpg' | relative_url }})
+*multi color flowers more trumpet structures and buds*
 
-![Daffodil Flower Planning 3]({{ 'assets/images/projects/plant-displays/daffodil/planning/daffodil-planning-flowers-03.jpg' | relative_url }})
-*Detailed flower studies: corona flare, perianth symmetry, and color variations*
+![Daffodil Flowers 3]({{ 'assets/images/projects/plant-displays/daffodil/planning/daf-planning-005.jpg' | relative_url }})
+*buds just before flowering; single type standing; multi color with long trumpets*
 
 **Bulb Structure Reference:**
 
-![Daffodil Bulb Planning]({{ 'assets/images/projects/plant-displays/daffodil/planning/daffodil-planning-bulbs-01.jpg' | relative_url }})
-*Bulb cross-section showing layered internal structure and papery brown exterior*
+![Daffodil Bulb Planning]({{ 'assets/images/projects/plant-displays/daffodil/planning/daf-planning-002.jpg' | relative_url }})
+*Bulb of large daffodil*
 
-**Growth Stages and Scenery:**
+**Scenery:**
 
-![Daffodil Scenes Planning]({{ 'assets/images/projects/plant-displays/daffodil/planning/daffodil-planning-scenes-01.jpg' | relative_url }})
+![Daffodil Scenes Planning]({{ 'assets/images/projects/plant-displays/daffodil/planning/daf-planning-006.jpg' | relative_url }})
 *Natural growth patterns, habitat settings, and seasonal display concepts*
 
 **Leaf and Structural Templates:**
 
-![Daffodil Templates Planning]({{ 'assets/images/projects/plant-displays/daffodil/planning/daffodil-planning-templates-01.jpg' | relative_url }})
+![Daffodil Templates Planning]({{ 'assets/images/projects/plant-displays/daffodil/planning/daf-planning-007.jpg' | relative_url }})
 *Linear leaf structure, growth patterns, and construction template references*
 
 ### Design Challenges
@@ -99,23 +95,23 @@ The extensive planning documentation covers reference photos of daffodils at var
 
 ## Construction Progress
 
-### Build Photos (6 images documented)
+### Build Photos 
 
-![Build 001]({{ 'assets/images/projects/plant-displays/daffodil/build/plant-displays-daffodil-build-001.jpg' | relative_url }})
+![Build 001]({{ 'assets/images/projects/plant-displays/daffodil/build/daf-build-001.jpg' | relative_url }})
 
-![Build 002]({{ 'assets/images/projects/plant-displays/daffodil/build/plant-displays-daffodil-build-002.jpg' | relative_url }})
+![Build 002]({{ 'assets/images/projects/plant-displays/daffodil/build/daf-build-002.jpg' | relative_url }})
 
-![Build 003]({{ 'assets/images/projects/plant-displays/daffodil/build/plant-displays-daffodil-build-003.jpg' | relative_url }})
+![Build 003]({{ 'assets/images/projects/plant-displays/daffodil/build/daf-build-004.jpg' | relative_url }})
 
-![Build 004]({{ 'assets/images/projects/plant-displays/daffodil/build/plant-displays-daffodil-build-004.jpg' | relative_url }})
+![Build 004]({{ 'assets/images/projects/plant-displays/daffodil/build/daf-build-005.jpg' | relative_url }})
 
-![Build 005]({{ 'assets/images/projects/plant-displays/daffodil/build/plant-displays-daffodil-build-005.jpg' | relative_url }})
+![Build 005]({{ 'assets/images/projects/plant-displays/daffodil/build/daf-build-006.jpg' | relative_url }})
 
-![Build 006]({{ 'assets/images/projects/plant-displays/daffodil/build/plant-displays-daffodil-build-006.jpg' | relative_url }})
+![Build 006]({{ 'assets/images/projects/plant-displays/daffodil/build/daf-build-005.jpg' | relative_url }})
 
 ## Gallery - Current State
 
-![Gallery 001]({{ 'assets/images/projects/plant-displays/daffodil/gallery/plant-displays-daffodil-gallery-001.jpg' | relative_url }})
+![Gallery 001]({{ 'assets/images/projects/plant-displays/daffodil/gallery/daf-gallery-001.jpg' | relative_url }})
 *Current construction state showing progress on daffodil display components*
 
 ## Techniques Being Explored

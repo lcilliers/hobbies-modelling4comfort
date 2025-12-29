@@ -57,18 +57,18 @@ plant displays/
 
 ### Current Plants in Collection
 
-As of December 28, 2025:
+As of December 29, 2025:
 
-1. **Daffodil** - 27 images (20 planning, 6 build, 1 gallery) - Intermediate difficulty
-2. **Snowdrops** - 24 images (17 planning, 2 build, 5 gallery) - Intermediate difficulty  
-3. **Bluebells** - 33 images (28 planning, 5 build) - Intermediate difficulty
-4. **Ranunculus** - 58 images (44 planning, 3 build, 11 gallery) - Advanced difficulty - **Most documented**
-5. **Protea** - 4 planning images - Advanced difficulty
-6. **Strelitzia (Bird of Paradise)** - 7 planning images - Advanced difficulty
-7. **Poinsettia** - 6 planning images - Intermediate difficulty
+1. **Daffodil** (code: `daf`) - 32 images (20 planning, 6 build, 6 gallery) - Intermediate difficulty
+2. **Snowdrops** (code: `sno`) - 24 images (17 planning, 2 build, 5 gallery) - Intermediate difficulty  
+3. **Bluebells** (code: `blu`) - 31 images (26 planning, 3 build, 2 gallery) - Intermediate difficulty
+4. **Ranunculus** (code: `ran`) - 57 images (43 planning, 3 build, 11 gallery) - Advanced difficulty - **Most documented**
+5. **Protea** (code: `pro`) - 4 planning images - Advanced difficulty
+6. **Strelitzia** (code: `str`) - 7 planning images - Advanced difficulty
+7. **Hibiscus** (code: `hib`) - 6 planning images - Intermediate difficulty (formerly Poinsettia)
 
 **Status:** All at different stages of completion; more plants will be added over time.
-**Total Images Processed:** 159 images across 7 plants
+**Total Images:** 167 unique images across 7 plants (2 duplicate bluebells files removed)
 
 ## Website Structure
 
@@ -150,6 +150,40 @@ As plants progress, additional detailed logs may be created:
     └── gallery/
 ```
 
+### Image File Naming Convention
+
+**Updated: December 29, 2025**
+
+All plant display images follow a standardized naming convention for easier management:
+
+**Format:** `[code]-[category]-[###].jpg`
+
+**Plant Codes:**
+- Bluebells → `blu`
+- Daffodil → `daf`
+- Hibiscus → `hib`
+- Protea → `pro`
+- Ranunculus → `ran`
+- Snowdrops → `sno`
+- Strelitzia → `str`
+
+**Categories:**
+- `planning` - Design sketches, research, reference photos
+- `build` - Construction progress photos
+- `gallery` - Final showcase images
+
+**Sequential Numbering:**
+- Each plant+category combination has unique sequential numbering starting at 001
+- Numbers are independent between categories (e.g., `daf-planning-001.jpg` and `daf-build-001.jpg` are different files)
+- Numbering is based on source file order, not thematic grouping
+
+**Examples:**
+- `blu-planning-001.jpg` - First bluebells planning image
+- `daf-build-005.jpg` - Fifth daffodil build image
+- `ran-gallery-014.jpg` - Fourteenth ranunculus gallery image
+
+**Migration Note:** All 167 plant display images were renamed to this convention on December 29, 2025 using hash-based file matching to ensure accuracy. Source and site files are synchronized using this naming system.
+
 ### Gallery Handling Strategy
 
 1. **Main Project Page Gallery:**
@@ -163,7 +197,10 @@ As plants progress, additional detailed logs may be created:
    - Documents the finished board with all components
 
 3. **Build Progress Images:**
-   - Embedded in respective build logs throughout construction process
+   - Displayed immediately after the heading in build logs via `progress_images:` front matter
+   - Provides a visual summary of key stages (planning, construction, completion)
+   - Rendered as thumbnail grid with captions
+   - Additional images embedded throughout build log markdown body
    - Shows techniques, challenges, and progression
 
 ## Workflow for Adding/Updating Plants
@@ -206,9 +243,14 @@ All 7 current plants have been:
 
 ## Image Processing Commands
 
-### For Individual Plant
+### Important: Use New Naming Convention
+
+**As of December 29, 2025**, all plant display images use the standardized naming convention `[code]-[category]-[###].jpg`. The old `plant-displays-[plantname]-[category]-###.jpg` format is deprecated.
+
+### For Individual Plant (Updated Convention)
 ```powershell
-$plantName = "daffodil"  # lowercase for file naming
+$plantName = "daffodil"  # lowercase for folder naming
+$plantCode = "daf"       # 3-letter code for file naming
 $sourcePath = "\\LSUK-SYNRACK\HomeMedia\hobbies\model building\plant displays\Daffoldil"
 $webOptPath = "$sourcePath\web-optimized"
 $sitePath = "\\ukwsdev07\e$\Models4Comfort\assets\images\projects\plant-displays\$plantName"
@@ -223,8 +265,8 @@ New-Item -ItemType Directory -Path "$sitePath\gallery" -Force
 
 # Process planning images
 $counter = 1
-Get-ChildItem "$sourcePath\planning" -File -Include *.jpg,*.jpeg,*.png | ForEach-Object {
-    $newName = "plant-displays-$plantName-planning-{0:D3}.jpg" -f $counter
+Get-ChildItem "$sourcePath\planning" -Recurse -File -Include *.jpg,*.jpeg,*.png | Sort-Object FullName | ForEach-Object {
+    $newName = "$plantCode-planning-{0:D3}.jpg" -f $counter
     $webOptFile = "$webOptPath\planning\$newName"
     $siteFile = "$sitePath\planning\$newName"
     & magick convert $_.FullName -auto-orient -resize "1920x1920>" -quality 85% -strip $webOptFile
@@ -234,8 +276,8 @@ Get-ChildItem "$sourcePath\planning" -File -Include *.jpg,*.jpeg,*.png | ForEach
 
 # Process build images
 $counter = 1
-Get-ChildItem "$sourcePath\build" -File -Include *.jpg,*.jpeg,*.png | ForEach-Object {
-    $newName = "plant-displays-$plantName-build-{0:D3}.jpg" -f $counter
+Get-ChildItem "$sourcePath\build" -Recurse -File -Include *.jpg,*.jpeg,*.png | Sort-Object FullName | ForEach-Object {
+    $newName = "$plantCode-build-{0:D3}.jpg" -f $counter
     $webOptFile = "$webOptPath\build\$newName"
     $siteFile = "$sitePath\build\$newName"
     & magick convert $_.FullName -auto-orient -resize "1920x1920>" -quality 85% -strip $webOptFile
@@ -245,8 +287,8 @@ Get-ChildItem "$sourcePath\build" -File -Include *.jpg,*.jpeg,*.png | ForEach-Ob
 
 # Process gallery images
 $counter = 1
-Get-ChildItem "$sourcePath\gallery" -File -Include *.jpg,*.jpeg,*.png | ForEach-Object {
-    $newName = "plant-displays-$plantName-gallery-{0:D3}.jpg" -f $counter
+Get-ChildItem "$sourcePath\gallery" -Recurse -File -Include *.jpg,*.jpeg,*.png | Sort-Object FullName | ForEach-Object {
+    $newName = "$plantCode-gallery-{0:D3}.jpg" -f $counter
     $webOptFile = "$webOptPath\gallery\$newName"
     $siteFile = "$sitePath\gallery\$newName"
     & magick convert $_.FullName -auto-orient -resize "1920x1920>" -quality 85% -strip $webOptFile
@@ -254,6 +296,8 @@ Get-ChildItem "$sourcePath\gallery" -File -Include *.jpg,*.jpeg,*.png | ForEach-
     $counter++
 }
 ```
+
+**Note:** Use `-Recurse` when processing source folders as some categories may have subfolders (e.g., ranunculus gallery has subfolders). Sequential numbering runs across all subfolders within each category.
 
 ## Build Log Naming Convention
 

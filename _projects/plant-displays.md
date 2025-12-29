@@ -29,13 +29,11 @@ materials:
   - "Display boards (various sizes)"
   - "Etched identification plates"
 gallery:
-  - "assets/images/projects/plant-displays/ranunculus/gallery/plant-displays-ranunculus-gallery-005.jpg"
-  - "assets/images/projects/plant-displays/ranunculus/gallery/plant-displays-ranunculus-gallery-008.jpg"
-  - "assets/images/projects/plant-displays/ranunculus/gallery/plant-displays-ranunculus-gallery-011.jpg"
-  - "assets/images/projects/plant-displays/snowdrops/gallery/plant-displays-snowdrops-gallery-001.jpg"
-  - "assets/images/projects/plant-displays/snowdrops/gallery/plant-displays-snowdrops-gallery-003.jpg"
-  - "assets/images/projects/plant-displays/snowdrops/gallery/plant-displays-snowdrops-gallery-005.jpg"
-  - "assets/images/projects/plant-displays/daffodil/gallery/plant-displays-daffodil-gallery-001.jpg"
+  - "assets/images/projects/plant-displays/ranunculus/gallery/ran-gallery-002.jpg"
+  - "assets/images/projects/plant-displays/ranunculus/gallery/ran-gallery-011.jpg"
+  - "assets/images/projects/plant-displays/bluebells/gallery/blu-gallery-001.jpg"
+  - "assets/images/projects/plant-displays/snowdrops/gallery/sno-gallery-004.jpg"
+  - "assets/images/projects/plant-displays/daffodil/gallery/daf-build-004.jpg"
 ---
 
 ## Project Concept
@@ -86,11 +84,10 @@ Jump to individual plants:
 ## Current Collection Status
 
 ### Bluebells
-<img src="{{ 'assets/images/projects/plant-displays/bluebells/build/plant-displays-bluebells-build-001.jpg' | relative_url }}" alt="Bluebells construction" style="float: right; width: 300px; margin: 0 0 1em 1em;">
+<img src="{{ 'assets/images/projects/plant-displays/bluebells/build/blu-gallery-001.jpg' | relative_url }}" alt="Bluebells construction" style="float: right; width: 300px; margin: 0 0 1em 1em;">
 
 **Status:** In Progress - Planning & Initial Construction  
 **Difficulty:** Intermediate  
-**Images:** 28 planning, 5 build photos
 
 British woodland native with distinctive drooping blue flowers. Extensive planning documentation covers bell-shaped flower construction techniques and woodland situational display concepts.
 
@@ -101,11 +98,10 @@ British woodland native with distinctive drooping blue flowers. Extensive planni
 ---
 
 ### Daffodil
-<img src="{{ 'assets/images/projects/plant-displays/daffodil/gallery/plant-displays-daffodil-gallery-001.jpg' | relative_url }}" alt="Daffodil display" style="float: right; width: 300px; margin: 0 0 1em 1em;">
+<img src="{{ 'assets/images/projects/plant-displays/daffodil/gallery/daf-build-004.jpg' | relative_url }}" alt="Daffodil display" style="float: right; width: 300px; margin: 0 0 1em 1em;">
 
 **Status:** In Progress - Research & Material Collection  
 **Difficulty:** Intermediate  
-**Images:** 20 planning, 6 build, 1 gallery
 
 Classic spring bulb with bright yellow blooms. Planning includes bulb carving concepts, trumpet flower construction, and leaf modeling approaches.
 
@@ -115,42 +111,11 @@ Classic spring bulb with bright yellow blooms. Planning includes bulb carving co
 
 ---
 
-### Poinsettia
-<img src="{{ 'assets/images/projects/plant-displays/poinsettia/planning/plant-displays-poinsettia-planning-001.jpg' | relative_url }}" alt="Poinsettia planning" style="float: right; width: 300px; margin: 0 0 1em 1em;">
-
-**Status:** In Progress - Planning Phase  
-**Difficulty:** Intermediate  
-**Images:** 6 planning photos
-
-Distinctive Christmas plant with vibrant red bracts. Planning focuses on bract construction techniques and seasonal display presentation.
-
-**[View Build Log →]({{ '/builds/plant-displays/poinsettia-001-planning-build/' | relative_url }})**
-
-<div style="clear: both;"></div>
-
----
-
-### Protea
-<img src="{{ 'assets/images/projects/plant-displays/protea/planning/plant-displays-protea-planning-001.jpg' | relative_url }}" alt="Protea planning" style="float: right; width: 300px; margin: 0 0 1em 1em;">
-
-**Status:** In Progress - Early Design Stage  
-**Difficulty:** Advanced  
-**Images:** 4 planning photos
-
-Dramatic South African flower with unique structure and texture. Advanced difficulty due to large size and complex bract arrangement. Planning explores scale challenges and construction approaches.
-
-**[View Build Log →]({{ '/builds/plant-displays/protea-001-planning-build/' | relative_url }})**
-
-<div style="clear: both;"></div>
-
----
-
 ### Ranunculus
-<img src="{{ 'assets/images/projects/plant-displays/ranunculus/gallery/plant-displays-ranunculus-gallery-005.jpg' | relative_url }}" alt="Ranunculus display" style="float: right; width: 300px; margin: 0 0 1em 1em;">
+<img src="{{ 'assets/images/projects/plant-displays/ranunculus/gallery/ran-gallery-002.jpg' | relative_url }}" alt="Ranunculus display" style="float: right; width: 300px; margin: 0 0 1em 1em;">
 
 **Status:** In Progress - Extensive Planning & Active Construction  
 **Difficulty:** Advanced  
-**Images:** 44 planning, 3 build, 11 gallery (most documented plant)
 
 Layered petaled flower with stunning color and delicate structure. Most technically challenging plant with extensive experimentation documented in planning phase. Multiple petal construction techniques explored.
 
@@ -161,7 +126,7 @@ Layered petaled flower with stunning color and delicate structure. Most technica
 ---
 
 ### Snowdrops
-<img src="{{ 'assets/images/projects/plant-displays/snowdrops/gallery/plant-displays-snowdrops-gallery-001.jpg' | relative_url }}" alt="Snowdrops display" style="float: right; width: 300px; margin: 0 0 1em 1em;">
+<img src="{{ 'assets/images/projects/plant-displays/snowdrops/gallery/sno-gallery-004.jpg' | relative_url }}" alt="Snowdrops display" style="float: right; width: 300px; margin: 0 0 1em 1em;">
 
 **Status:** In Progress - Planning & Early Construction  
 **Difficulty:** Intermediate  
@@ -174,19 +139,6 @@ Early spring bulb with delicate white flowers. One of the first plants in the se
 <div style="clear: both;"></div>
 
 ---
-
-### Strelitzia (Bird of Paradise)
-<img src="{{ 'assets/images/projects/plant-displays/strelitzia/planning/plant-displays-strelitzia-planning-001.jpg' | relative_url }}" alt="Strelitzia planning" style="float: right; width: 300px; margin: 0 0 1em 1em;">
-
-**Status:** In Progress - Planning Phase  
-**Difficulty:** Advanced  
-**Images:** 7 planning photos
-
-Exotic tropical flower with distinctive bird-like appearance. Advanced difficulty due to unique structural requirements and vibrant color combinations. Planning explores construction methodology.
-
-**[View Build Log →]({{ '/builds/plant-displays/strelitzia-001-planning-build/' | relative_url }})**
-
-<div style="clear: both;"></div>
 
 ## Construction Challenges
 
@@ -218,6 +170,11 @@ Candidate species for future addition to the collection:
 - **Rose** - Classic garden flower with complex petal structure
 - **Foxgloves** - Tall spires of tubular flowers
 - **Dahlia** - Intricate layered petals in various forms
+- **Hibiscus** - Unique and prominent stamen with large flower
+- **Poinsettia** - large red flower
+- **Primula** - wide range of flower shapes
+- **Protea** - wide range of forms and large intricate flowers
+- **strelizia** - uniquely formed flower
 
 The collection will continue growing as new plants are selected based on the criteria above.
 
@@ -302,11 +259,8 @@ Detailed documentation for each plant in the collection:
 
 - **[Bluebells]({{ '/builds/plant-displays/bluebells-001-planning-build/' | relative_url }})** - Planning & Initial Construction (28 planning images, 5 build photos)
 - **[Daffodil]({{ '/builds/plant-displays/daffodil-001-planning-build/' | relative_url }})** - Research & Material Collection (20 planning, 6 build, 1 gallery)
-- **[Poinsettia]({{ '/builds/plant-displays/poinsettia-001-planning-build/' | relative_url }})** - Planning Phase (6 planning photos)
-- **[Protea]({{ '/builds/plant-displays/protea-001-planning-build/' | relative_url }})** - Early Design Stage - Advanced (4 planning photos)
 - **[Ranunculus]({{ '/builds/plant-displays/ranunculus-001-planning-build/' | relative_url }})** - Extensive Planning & Active Construction - Advanced (58 total images - most documented)
 - **[Snowdrops]({{ '/builds/plant-displays/snowdrops-001-planning-build/' | relative_url }})** - Planning & Early Construction (17 planning, 2 build, 5 gallery)
-- **[Strelitzia]({{ '/builds/plant-displays/strelitzia-001-planning-build/' | relative_url }})** - Planning Phase - Advanced (7 planning photos)
 
 Each build log includes planning documentation, construction progress images, and current status updates.
 
