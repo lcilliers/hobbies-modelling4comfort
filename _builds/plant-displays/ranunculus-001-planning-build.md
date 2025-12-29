@@ -7,17 +7,17 @@ title: "Ranunculus - Planning & Construction"
 date: 2024-03-15
 estimated_time: "Ongoing"
 difficulty: "Advanced"
-signature_image: "/assets/images/projects/plant-displays/ranunculus/gallery/ran-gallery-005.jpg"
+signature_image: "assets/images/projects/plant-displays/ranunculus/gallery/ran-gallery-005.jpg"
 focus_areas:
   - "Densely layered petals"
   - "Delicate petal structure"
   - "Color variations"
 progress_images:
-  - path: "/assets/images/projects/plant-displays/ranunculus/planning/ran-planning-001.jpg"
+  - path: "assets/images/projects/plant-displays/ranunculus/planning/ran-planning-001.jpg"
     caption: "Extensive planning work"
-  - path: "/assets/images/projects/plant-displays/ranunculus/build/ran-build-001.jpg"
+  - path: "assets/images/projects/plant-displays/ranunculus/build/ran-build-001.jpg"
     caption: "Petal construction"
-  - path: "/assets/images/projects/plant-displays/ranunculus/gallery/ran-gallery-001.jpg"
+  - path: "assets/images/projects/plant-displays/ranunculus/gallery/ran-gallery-001.jpg"
     caption: "Work in progress"
 ---
 

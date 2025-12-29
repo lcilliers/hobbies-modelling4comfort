@@ -7,7 +7,7 @@ title: "Strelitzia (Bird of Paradise) - Planning & Build"
 date: 2024-02-15
 estimated_time: "Ongoing"
 difficulty: "Advanced"
-signature_image: "/assets/images/projects/plant-displays/strelitzia/planning/str-planning-001.jpg"
+signature_image: "assets/images/projects/plant-displays/strelitzia/planning/str-planning-001.jpg"
 focus_areas:
   - "Exotic flower structure"
   - "Distinctive bird-like form"
