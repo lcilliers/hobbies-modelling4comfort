@@ -7,7 +7,7 @@ start_date: 2024-01-01
 scale: "Various (component-dependent)"
 type: "Scratch Build Series"
 status: "In Progress - Ongoing Collection"
-featured_image: "/assets/images/projects/plant-displays/snowdrops/gallery/sno-gallery-004.jpg"
+featured_image: "/assets/images/projects/plant-displays/snowdrops/gallery/sno-gallery-002.jpg"
 build_time: "Multi-year project"
 techniques:
   - "Resin casting"
@@ -84,7 +84,7 @@ Jump to individual plants:
 ## Current Collection Status
 
 ### Bluebells
-<img src="{{ 'assets/images/projects/plant-displays/bluebells/build/blu-gallery-001.jpg' | relative_url }}" alt="Bluebells construction" style="float: right; width: 300px; margin: 0 0 1em 1em;">
+<img src="{{ 'assets/images/projects/plant-displays/bluebells/gallery/blu-gallery-001.jpg' | relative_url }}" alt="Bluebells construction" style="float: right; width: 300px; margin: 0 0 1em 1em;">
 
 **Status:** In Progress - Planning & Initial Construction  
 **Difficulty:** Intermediate  
@@ -98,7 +98,7 @@ British woodland native with distinctive drooping blue flowers. Extensive planni
 ---
 
 ### Daffodil
-<img src="{{ 'assets/images/projects/plant-displays/daffodil/gallery/daf-build-004.jpg' | relative_url }}" alt="Daffodil display" style="float: right; width: 300px; margin: 0 0 1em 1em;">
+<img src="{{ 'assets/images/projects/plant-displays/daffodil/build/daf-build-004.jpg' | relative_url }}" alt="Daffodil display" style="float: right; width: 300px; margin: 0 0 1em 1em;">
 
 **Status:** In Progress - Research & Material Collection  
 **Difficulty:** Intermediate  
