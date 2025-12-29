@@ -14,9 +14,6 @@ focus_areas:
   - "Leaf modeling and pressing"
   - "Root system representation"
   - "Seasonal growth stages"
-test_images:
-  - /assets/images/projects/plant-displays/daffodil/build/daf-build-003.jpg
-  - /assets/images/projects/plant-displays/daffodil/build/daf-build-004.jpg
 progress_images:
   - path: "/assets/images/projects/plant-displays/daffodil/build/daf-build-003.jpg"
     caption: "in harmony with others"
