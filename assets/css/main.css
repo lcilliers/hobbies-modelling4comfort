@@ -452,6 +452,37 @@ a:hover {
   text-align: center;
 }
 
+/* === Progress Images Gallery === */
+.progress-images {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: var(--spacing-md);
+  margin: var(--spacing-lg) 0;
+  padding: var(--spacing-md);
+  background: var(--bg-secondary);
+  border-radius: 8px;
+}
+
+.progress-image {
+  margin: 0;
+}
+
+.progress-image img {
+  width: 100%;
+  height: auto;
+  display: block;
+  border-radius: 8px;
+  box-shadow: var(--shadow);
+}
+
+.progress-image figcaption {
+  margin-top: var(--spacing-xs);
+  font-size: 0.9rem;
+  color: var(--text-light);
+  text-align: center;
+  font-style: italic;
+}
+
 /* === Build Log Content Images === */
 .post-content img,
 .build-content img,
