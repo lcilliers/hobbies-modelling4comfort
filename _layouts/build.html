@@ -56,8 +56,18 @@ layout: default
     </div>
   </header>
 
+  {% if page.test_images %}
+  <div class="test-images">
+    <h3>Test Images (simple array):</h3>
+    {% for img in page.test_images %}
+      <img src="{{ img }}" alt="Test" style="max-width: 200px;">
+    {% endfor %}
+  </div>
+  {% endif %}
+
   {% if page.progress_images %}
   <div class="progress-images">
+    <h3>Progress Images (with captions):</h3>
     {% for image in page.progress_images %}
     <figure class="progress-image">
       <img src="{{ image.path }}" alt="{{ image.caption }}" loading="lazy">
