@@ -15,7 +15,7 @@ focus_areas:
 progress_images:
   - path: "/assets/images/projects/plant-displays/bluebells/planning/blu-planning-001.jpg"
     caption: "Planning work"
-  - path: "/assets/images/projects/plant-displays/bluebells/build/blu-build-001.jpg"
+  - path: "/assets/images/projects/plant-displays/bluebells/gallery/blu-gallery-001.jpg"
     caption: "Construction"
 ---
 
