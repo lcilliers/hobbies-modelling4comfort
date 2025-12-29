@@ -7,7 +7,7 @@ title: "Daffodil - Planning & Initial Build"
 date: 2024-01-15
 estimated_time: "Ongoing - Multi-season project"
 difficulty: "Intermediate"
-signature_image: "assets/images/projects/plant-displays/daffodil/gallery/daf-build-004.jpg"
+signature_image: "/assets/images/projects/plant-displays/daffodil/gallery/daf-build-004.jpg"
 focus_areas:
   - "Bulb structure and wood carving"
   - "Trumpet flower construction"
@@ -15,9 +15,9 @@ focus_areas:
   - "Root system representation"
   - "Seasonal growth stages"
 progress_images:
-  - path: "assets/images/projects/plant-displays/daffodil/planning/daf-build-003.jpg"
+  - path: "/assets/images/projects/plant-displays/daffodil/planning/daf-build-003.jpg"
     caption: "in harmony with others"
-  - path: "assets/images/projects/plant-displays/daffodil/planning/daf-build-004.jpg"
+  - path: "/assets/images/projects/plant-displays/daffodil/planning/daf-build-004.jpg"
     caption: "range of flower types"
 ---
 

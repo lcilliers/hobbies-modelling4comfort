@@ -7,17 +7,17 @@ title: "Snowdrops - Planning & Construction"
 date: 2024-01-10
 estimated_time: "Ongoing"
 difficulty: "Intermediate"
-signature_image: "assets/images/projects/plant-displays/snowdrops/gallery/sno-gallery-001.jpg"
+signature_image: "/assets/images/projects/plant-displays/snowdrops/gallery/sno-gallery-001.jpg"
 focus_areas:
   - "Delicate white flower construction"
   - "Bulb carving and root system"
   - "Early spring growth stages"
 progress_images:
-  - path: "assets/images/projects/plant-displays/snowdrops/planning/sno-planning-001.jpg"
+  - path: "/assets/images/projects/plant-displays/snowdrops/planning/sno-planning-001.jpg"
     caption: "Planning and design work"
-  - path: "assets/images/projects/plant-displays/snowdrops/build/sno-build-001.jpg"
+  - path: "/assets/images/projects/plant-displays/snowdrops/build/sno-build-001.jpg"
     caption: "Construction in progress"
-  - path: "assets/images/projects/plant-displays/snowdrops/gallery/sno-gallery-001.jpg"
+  - path: "/assets/images/projects/plant-displays/snowdrops/gallery/sno-gallery-001.jpg"
     caption: "Current state"
 ---
 

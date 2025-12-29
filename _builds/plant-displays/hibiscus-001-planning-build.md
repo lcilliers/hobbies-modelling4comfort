@@ -7,13 +7,13 @@ title: "Poinsettia - Planning & Construction"
 date: 2024-12-01
 estimated_time: "Ongoing"
 difficulty: "Intermediate"
-signature_image: "assets/images/projects/plant-displays/poinsettia/planning/hib-planning-001.jpg"
+signature_image: "/assets/images/projects/plant-displays/hibiscus/planning/hib-planning-001.jpg"
 focus_areas:
   - "Vibrant red bracts"
   - "Star-shaped arrangement"
   - "Seasonal Christmas plant"
 progress_images:
-  - path: "assets/images/projects/plant-displays/poinsettia/planning/plant-displays-poinsettia-planning-001.jpg"
+  - path: "/assets/images/projects/plant-displays/hibiscus/planning/hib-planning-001.jpg"
     caption: "Design planning"
 ---
 
