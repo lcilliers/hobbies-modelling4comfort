@@ -9,13 +9,17 @@ excerpt: "Beginning the Sea Rescue project with research, concept development, a
 build_log_menu:
   - url: /builds/sea-rescue/001-planning/
     title: "Planning & Research"
+  - url: /builds/sea-rescue/002-construct-fishing-trawler/
+    title: "Fishing Trawler"
+  - url: /builds/sea-rescue/003-construct-rnli-boat/
+    title: "RNLI Boat"
 ---
 
 ## Project Inception
 
 The Sea Rescue project represents an exciting new direction - combining maritime modeling skills with the challenge of creating a dynamic action scene. This build will explore vessel construction, realistic water effects, and the drama of rescue operations at sea.
 
-This is also the first model I am actively using GoPilot to give input in the design and build.
+This is also the first model I am actively using GoPilot to give input in the design and build and also using these build logs to document the process while it is unfolding.
 
 ## Initial Concept
 

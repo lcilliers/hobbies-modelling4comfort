@@ -64,7 +64,9 @@ Sea rescue services represent courage, skill, and dedication to saving lives at 
 
 Follow the build progress through detailed build logs documenting each phase of construction.
 
-[View Build Log #001 - Planning →]({{ '/builds/sea-rescue/001-planning/' | relative_url }})
+- [Build Log #001 - Planning & Research →]({{ '/builds/sea-rescue/001-planning/' | relative_url }})
+- [Build Log #002 - Constructing the Fishing Trawler →]({{ '/builds/sea-rescue/002-construct-fishing-trawler/' | relative_url }})
+- [Build Log #003 - Constructing the RNLI Rescue Boat →]({{ '/builds/sea-rescue/003-construct-rnli-boat/' | relative_url }})
 
 ---
 
