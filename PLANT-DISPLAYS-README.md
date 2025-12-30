@@ -1,10 +1,15 @@
 # Plant Displays Series - Project Management Guide
 
+**Last Updated:** December 29, 2025  
+**Status:** Infrastructure Complete - Ready for Build Documentation  
+**Session Log:** See `SESSION-LOG-2025-12-29-FINAL.md` for complete implementation details
+
 ## Project Overview
 
 The Plant Displays Series is a unique, ongoing scratch-build project focused on creating detailed botanical models for selected plant species. Unlike other projects on this site, this is a **living collection** that will grow over time, with individual plants at various stages of completion.
 
-**Location:** `\\LSUK-SYNRACK\HomeMedia\hobbies\model building\plant displays\`
+**Location:** `\\LSUK-SYNRACK\HomeMedia\hobbies\model building\plant displays\`  
+**Site Location:** `assets/images/projects/plant-displays/`
 
 ## Project Concept
 
