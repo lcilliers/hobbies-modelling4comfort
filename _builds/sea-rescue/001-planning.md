@@ -207,6 +207,21 @@ Planning considerations:
 
 ### RNLI boat search result
 
+The research into RNLI boat highlighted that a RNLI Severn Class Lifeboat Model in scale 1:173 is available at a reasonable price from their website.  The length of the model is suitable for my base, but the scale of this model is however not in keeping with my initial thoughts on scaling and will impact on the selection of the scenery and fishing vessel.  It is unlikely that the Severn will operate near the coast. Using this model will impact on the macro rescue scene planning.
+
+![Severn Class Lifeboat]({{ 'assets/images/projects/sea-rescue/planning/sr-pln-005.jpg' | relative_url }})
+*RNLI Severn Class Lifeboat Model in scale 1:173*
+
+Another model kit option is RNLI Shannon Class Lifeboat as a plastic model kit from airfix.com.  The scaled version of this kit is 19 cm, which is too long for my model and will have to be scaled down and scratch built. 
+
+![RNLI Shannon Class Lifeboat]({{ 'assets/images/projects/sea-rescue/planning/sr-pln-006.jpg' | relative_url }})
+*RNLI Shannon Class Lifeboat kit from Airfix in scale 1:72*
+
+The Corgi RNLI Atlantic B Class Lifeboat scale 1:84 is 10cm long.  It is a cast model and available through the NRLI site.  The scale and length of the model is in keeping with my overall design, and it is likely that this vessel will be used for coastal rescues.
+
+![RNLI Atlantic B Class Lifeboat]({{ 'assets/images/projects/sea-rescue/planning/sr-pln-007.jpg' | relative_url }})
+*Corgi RNLI Atlantic B Class Lifeboat in scale 1:84*
+
 ### Fishing boat search result
 
 ![Smaller fishing boats]({{ 'assets/images/projects/sea-rescue/planning/sr-pln-002.jpg' | relative_url }})
