@@ -175,7 +175,7 @@ Each project page provides a comprehensive **overview** of the concept, goals, a
 
 <div class="project-item left-image">
   <div class="project-image-large">
-    <img src="{{ '/assets/images/coming_soon_square.jpg' | relative_url }}" alt="Coming Soon - Sea Rescue">
+    <img src="{{ '/assets/images/projects/sea-rescue/planning/sr-pln-001.jpg' | relative_url }}" alt="Coming Soon - Sea Rescue">
   </div>
   <div class="project-details">
     <h3><a href="{{ '/projects/sea-rescue/' | relative_url }}">Sea Rescue</a></h3>
@@ -231,7 +231,7 @@ Each project page provides a comprehensive **overview** of the concept, goals, a
 
 <div class="project-item right-image">
   <div class="project-image-large">
-    <img src="{{ '/assets/images/projects/plant-displays/snowdrops/gallery/sno-gallery-002.jpg.jpg' | relative_url }}" alt="Plant Displays Series">
+    <img src="{{ '/assets/images/projects/plant-displays/snowdrops/gallery/sno-gallery-002.jpg' | relative_url }}" alt="Plant Displays Series">
   </div>
   <div class="project-details">
     <h3><a href="{{ '/projects/plant-displays/' | relative_url }}">Plant Displays Series</a></h3>
