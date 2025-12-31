@@ -233,6 +233,29 @@ The Corgi RNLI Atlantic B Class Lifeboat scale 1:84 is 10cm long.  It is a cast 
 ![Deep sea trawlers]({{ 'assets/images/projects/sea-rescue/planning/sr-pln-004.jpg' | relative_url }})
 *Deep sea trawlers - larger vessels designed for extended offshore fishing operations*
 
+### Fishing boat plans
+
+The search discovered several plans and sources of plans, of which Fishing Vessel Design Database (FVDD) provided the most useful plans.  These are plans for actual vessels, not modelling plans but the MLM-4 images of a 11.4 m
+trawler designed in Rome in 1970 caught my eye and provide reasonably readable plans that can be adapted to design the fishing trawler from it.
+
+![MLM-4 trawler plans - part 1]({{ 'assets/images/projects/sea-rescue/planning/sr-pln-008.jpg' | relative_url }})
+*MLM-4 11.4m trawler plans (1970) - hull lines, deck layout and side elevations*
+
+![MLM-4 trawler plans - part 2]({{ 'assets/images/projects/sea-rescue/planning/sr-pln-009.jpg' | relative_url }})
+*MLM-4 trawler plans continued - construction details, cross-sections and specifications*
+
+### Vessel selection
+
+There are several options to select the approach to follow for constructing the vessels, taking into account that one of my main deficiencies to overcome is the ability to make engineering drawings:
+
+- buy and build a kit, then use this build to scale down the trawler to the diorama scale and rebuild it from scratch
+- get balsawood building plans or other suitable plans for a trawler, scale the drawings and build from the plan
+- design and build the trawler using images and youtube videos, prototyping as I go.
+
+The deciding factor would be the availability of suitable plans or the cost of a suitable kit against this weird inner voice calling for constructing from pictures.
+
+Following the research finding, the RNLI Atlantic B Class Lifeboat will be purchased from RNLI, partly to contribute to the good work they are all doing, and this model fit the scale for the model.  The MLM-4 trawler plans will be used the scale down and hand draft plans for building this 11.4 meter trawler to scale.
+
 ## Technical Challenges to Solve
 
 1. **Realistic water movement:** Capturing wave dynamics at small scale
@@ -240,10 +263,12 @@ The Corgi RNLI Atlantic B Class Lifeboat scale 1:84 is 10cm long.  It is a cast 
 3. **Fine details:** Railings, equipment, rigging at 1:50
 4. **Action pose:** Vessel attitude in rough sea - angle and position
 5. **Structural integrity:** Ensuring durability despite dynamic pose
+6. **Converting the plans:** The 1970 hand drawn plans are quite unreadable, and need to be converted to modelling plans at the right scale.
 
 ## Material Requirements - Preliminary List
 
 ### Vessel Construction
+
 - Basswood or balsa sheet (various thicknesses)
 - Styrene sheet and rod
 - Brass rod and wire (railings, equipment)
