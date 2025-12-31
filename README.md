@@ -2,6 +2,26 @@
 
 A comprehensive website for showcasing diorama modeling projects, build logs, and techniques.
 
+## ⚠️ CRITICAL: Image Naming Convention
+
+**Before adding images, READ THIS:**
+
+The site has **inconsistent image naming** (only 57.6% compliance). Do NOT copy existing patterns without verification.
+
+**Required Reading:**
+- **`assets/images/README.md`** - Mandatory 3-part naming standard
+- **`IMAGE-NAMING-INCONSISTENCIES.md`** - Full analysis of existing issues
+
+**Standard (ALWAYS use for new images):**
+```
+Format: [prefix]-[category]-[###].jpg
+✅ sr-pln-001.jpg (sea-rescue planning)
+✅ log-cabin-gallery-001.jpg
+❌ bamboo-river-lookout-figures-001.jpg (wrong: too long)
+```
+
+---
+
 ## 🚀 Quick Start
 
 This repository includes **4 different static site generators** to choose from:
@@ -24,6 +44,7 @@ Choose one and get started! See `SITE-EDITING-GUIDE.md` for complete editing doc
 - **`FRONT-MATTER-GUIDE.md`** - YAML front matter explained
 - **`IMAGEMAGICK-GUIDE.md`** - Image processing & optimization
 - **`IMAGE-LAYOUT-GUIDE.md`** - Image layout options
+- **`IMAGE-NAMING-INCONSISTENCIES.md`** - Analysis of naming issues to fix
 
 **Specialized Guidance:**
 - **`_builds/README.md`** - Build log creation

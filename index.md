@@ -80,7 +80,7 @@ Browse through my models and diorama builds and see the creative process unfold.
   </div>
   
   <div class="project-link-item">
-    <img src="{{ '/assets/images/coming_soon_square.jpg' | relative_url }}" alt="Coming Soon" class="project-thumbnail">
+    <img src="{{ '/assets/images/projects/sea-rescue/planning/sr-pln-001.jpg' | relative_url }}" alt="Sea Rescue" class="project-thumbnail">
     <div class="project-link-text">
       <strong><a href="{{ '/projects/sea-rescue/' | relative_url }}">Sea Rescue 1:50 scale scratch build</a></strong> - Maritime rescue scene featuring rescue vessel in action with dynamic seascape and authentic details. <em>In Progress - Started December 2025</em>
     </div>

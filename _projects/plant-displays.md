@@ -7,7 +7,7 @@ start_date: 2024-01-01
 scale: "Various (component-dependent)"
 type: "Scratch Build Series"
 status: "In Progress - Ongoing Collection"
-featured_image: "/assets/images/projects/plant-displays/snowdrops/gallery/sno-gallery-002.jpg"
+featured_image: "assets/images/projects/plant-displays/snowdrops/gallery/sno-gallery-002.jpg"
 build_time: "Multi-year project"
 techniques:
   - "Resin casting"
@@ -29,11 +29,11 @@ materials:
   - "Display boards (various sizes)"
   - "Etched identification plates"
 gallery:
-  - "/assets/images/projects/plant-displays/ranunculus/gallery/ran-gallery-002.jpg"
-  - "/assets/images/projects/plant-displays/ranunculus/gallery/ran-gallery-011.jpg"
-  - "/assets/images/projects/plant-displays/bluebells/gallery/blu-gallery-001.jpg"
-  - "/assets/images/projects/plant-displays/snowdrops/gallery/sno-gallery-004.jpg"
-  - "/assets/images/projects/plant-displays/daffodil/gallery/daf-build-004.jpg"
+  - "assets/images/projects/plant-displays/ranunculus/gallery/ran-gallery-002.jpg"
+  - "assets/images/projects/plant-displays/ranunculus/gallery/ran-gallery-011.jpg"
+  - "assets/images/projects/plant-displays/bluebells/gallery/blu-gallery-001.jpg"
+  - "assets/images/projects/plant-displays/snowdrops/gallery/sno-gallery-004.jpg"
+  - "assets/images/projects/plant-displays/daffodil/gallery/daf-build-004.jpg"
 ---
 
 ## Project Concept

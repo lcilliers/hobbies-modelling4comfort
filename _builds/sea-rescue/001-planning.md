@@ -24,12 +24,23 @@ This is also the first model I am actively using GoPilot to give input in the de
 ## Initial Concept
 
 The vision is to create a compelling maritime rescue scene that captures:
+
 - **Action and Movement:** A vessel in operation, not static at dock
 - **Realistic Environment:** Dynamic seascape with waves and spray
 - **Authentic Details:** Proper scale rescue equipment and features
 - **Story and Drama:** A moment frozen in time that tells a story
 
-Following a request to Gopilot, can you prepare an example of a UK nation sea rescue diorama scene that can be built from scratch - it came back with :  plans to scratch-build a complete 1:72 RNLI sea rescue diorama, featuring:
+## Inspiration & Goals
+
+The goal is to create a piece that:
+
+- Honors the bravery of rescue service personnel
+- Demonstrates maritime modeling skills
+- Explores new techniques in water and weathering effects
+- Tells a compelling visual story
+- Provides satisfaction in the building process
+
+Following a request to Gopilot, *"can you prepare an example of a UK sea rescue diorama scene that can be built from scratch"* - it came back with :  plans to scratch-build a complete 1:72 RNLI sea rescue diorama, featuring:
 
 A B-class RNLI Atlantic 85 open sea rescue boat
 A small coastal fishing boat in distress
@@ -39,7 +50,7 @@ A compact base ideal for 25 × 25 cm
 
 Illustrated by AI: assets\images\projects\sea-rescue\planning\sr-pln-001.jpg.  This illustration is directionally suitable. The planning phase will build on this.
 
-## Research Phase
+## Planning Phase
 
 ### RNLI History
 
@@ -47,29 +58,63 @@ The Royal National Lifeboat Institution (RNLI) has saved over 146,000 lives at s
 
 For a comprehensive overview of RNLI's remarkable history and modern operations, watch [RNLI: 200 Years of Saving Lives at Sea](https://www.youtube.com/watch?v=oc9xrDAgo38).
 
-### Vessel Type Options
+### Vessels Type Options
 
-Deciding on the type of rescue vessel to model:
+**Considerations for both vessels:**
 
-**Historic Options:**
-- Traditional lifeboat (RNLI heritage vessels)
-- Early motor lifeboats (1920s-1950s)
-- Sailing rescue boats
-
-**Modern Options:**
-- Current RNLI lifeboats (Severn, Tamar, Shannon class)
-- Rigid inflatable boats (RIB)
-- Search and Rescue vessels
-
-**Considerations:**
 - Available reference materials
 - Build complexity vs. skill level
 - Visual interest and character
 - Scale feasibility at 1:72
 
+### Rescue vessel
+
+Deciding on the type of rescue vessel to model:
+
+**Historic Options:**
+
+- Traditional lifeboat (RNLI heritage vessels)
+- Early motor lifeboats (1920s-1950s)
+- Sailing rescue boats
+
+**Modern Options:**
+
+- Current RNLI lifeboats (Severn, Tamar, Shannon class)
+- Rigid inflatable boats (RIB)
+- Search and Rescue vessels
+
+**RNLI Vessel Options:**
+
+- **B-class Atlantic 85 (8.5m real):** 11.8cm model length
+- **D-class IB1 (7.3m real):** 10.1cm model length
+- **Tamar class all-weather (16m real):** 22.2cm model length
+- **Shannon class all-weather (13m real):** 18.1cm model length
+
+### Rescue subject
+
+Deciding on the type of vessel for rescue to model:
+
+- Coastal fishing trawler
+- Leisure craft such as sailing dingy or local fisherman boat
+- small leisure craft such as padding board, kayak
+  
+** Related considerations:**
+
+- Rescue mission near coast and not deep sea
+- Rescue type in keeping with RNLI boat type selected
+- Type of rescue - tugging, man overboard, ship wreck, injury etc
+- Sea conditions: - storm, wind, currents, night time
+
+**Fishing Boat Options:**
+
+- **Small coastal fishing boat (7m real):** 9.7cm model length
+- **Medium fishing vessel (10m real):** 13.9cm model length
+- **Larger trawler (15m real):** 20.8cm model length
+
 ### Reference Materials Needed
 
 Planning to gather:
+
 - Technical drawings and plans (if available)
 - Photographs from multiple angles
 - Construction details and specifications
@@ -77,40 +122,46 @@ Planning to gather:
 - Color schemes and livery
 - Operational context images
 
+
+**Diorama Base:**
+
 ### Scale Calculations
 
 Working at 1:72 scale (1m real life = 1.39cm at scale):
 
-**RNLI Vessel Options:**
-- **B-class Atlantic 85 (8.5m real):** 11.8cm model length
-- **D-class IB1 (7.3m real):** 10.1cm model length
-- **Tamar class all-weather (16m real):** 22.2cm model length
-- **Shannon class all-weather (13m real):** 18.1cm model length
-
-**Fishing Boat Options:**
-- **Small coastal fishing boat (7m real):** 9.7cm model length
-- **Medium fishing vessel (10m real):** 13.9cm model length
-- **Larger trawler (15m real):** 20.8cm model length
-
-**Diorama Base:**
 - **Planned base size:** 25cm × 25cm
 - **Represents real area (at 1:72):** 18m × 18m
+- **Split between coast and sea:** 1:3
 
-Considering both build size and display practicality, the B-class Atlantic 85 at 11.8cm and a small fishing boat at 9-10cm will fit comfortably on a 25cm × 25cm base with room for waves, cliff backdrop, and composition.
+Considering both build size and display practicality, the B-class Atlantic 85 at 11.8cm and a small fishing boat at 9-10cm will fit comfortably on a 25cm × 25cm base with room for waves, cliff backdrop, and composition.  The coastal trawler fishing boat rescue offers more challenge, visual impact, stormy sea conditions to master.
 
-## Build Methodology Questions
+### Baseline for vessels
 
-### Hull Construction Approach
+Construction options:
+
+The selection of one of the following options for each of the two vessels will be determined by availability and cost.
+
+- Source a kit, either to the correct scale, or build the kit and then scale it down as a scratch build
+- Source either kit or real life plans for specific vessels and scratch build the vessel with adapted plans to scale
+- Research images, vessel construction, plans, and general vessel building help to build representative vessels that is near but not necessarily exact replicas of actual vessels.
+
+### Vessel construction considerations
+
+The selecting of the appropriate method may vary between the two vessels and be determined by chosen option.
 
 Exploring options:
-1. **Planked hull:** Traditional boat-building in miniature
-2. **Carved foam:** Shaped and sealed, then detailed
-3. **Styrene construction:** Engineered approach with sheet plastic
-4. **Hybrid:** Combining methods for best results
+
+- **Planked hull:** Traditional boat-building in miniature
+- **Balsawood:** Above deck cabins, boxes
+- **Wire** masts, cranes, railings
+- **Cotton** ropes, nets
+- **Styrene construction:** Engineered approach with sheet plastic
+- **Hybrid:** Combining methods for best results
 
 ### Water Effects Technique
 
 Researching methods:
+
 - Clear resin pours with painted base
 - Acrylic gel medium sculpted into waves
 - Layered effects for depth and foam
@@ -118,11 +169,54 @@ Researching methods:
 
 ### Base and Presentation
 
+- **three ply wood:** base
+- **Carved foam:** Shaped and sealed, then detailed
+- **paper mache:** Rocky coast
+- **landscaping materials** coastline, vegetation
+
+### Figures
+
+- Rescuers in the RNLI vessel
+- Fishing boat workers
+- Rescuers on the mountain at the light
+
+All the figures will have to be scratch built using wire frames and clay
+
 Planning considerations:
+
 - Base size to complement vessel scale
 - Frame or natural edge presentation
 - Integration of sea and vessel
 - Mounting and stability
+
+## Research results
+
+### Research Resources to Explore
+
+- RNLI website and historical archive
+- National Maritime Museum | Visit Royal Museums Greenwich
+- Fishing Vessel Design Database (FVDD)
+- FreeShipPlans.com
+- Otter Trawler Lines Plan - Halvorsen 1949
+- FAO Fishing Boat Designs
+- Technical Paper No. 188 – Small Trawlers
+- Other maritime museum collections online
+- Model boat building forums and communities
+- YouTube channels on maritime modeling
+- Books on rescue vessel history and operation
+
+### RNLI boat search result
+
+### Fishing boat search result
+
+![Smaller fishing boats]({{ 'assets/images/projects/sea-rescue/planning/sr-pln-002.jpg' | relative_url }})
+*Smaller fishing boats - compact coastal vessels suitable for inshore fishing operations*
+
+![Coastal trawlers]({{ 'assets/images/projects/sea-rescue/planning/sr-pln-003.jpg' | relative_url }})
+*Coastal trawlers - medium-sized vessels for near-shore fishing with more substantial construction*
+
+![Deep sea trawlers]({{ 'assets/images/projects/sea-rescue/planning/sr-pln-004.jpg' | relative_url }})
+*Deep sea trawlers - larger vessels designed for extended offshore fishing operations*
 
 ## Technical Challenges to Solve
 
@@ -169,26 +263,9 @@ This project runs alongside completing documentation for finished projects on th
 - Quality construction without rushing
 - Comprehensive photography and documentation
 
-## Inspiration & Goals
-
-The goal is to create a piece that:
-- Honors the bravery of rescue service personnel
-- Demonstrates maritime modeling skills
-- Explores new techniques in water and weathering effects
-- Tells a compelling visual story
-- Provides satisfaction in the building process
-
-## Research Resources to Explore
-
-- RNLI website and historical archive
-- Maritime museum collections online
-- Model boat building forums and communities
-- YouTube channels on maritime modeling
-- Books on rescue vessel history and operation
-
 ---
 
 **Current Status:** Planning and research phase  
-**Next Build Log:** Will document vessel selection and initial construction approach
+**Next Build Log:** Document vessel selection and initial construction approach
 
 *This project is at the beginning of its journey. Follow along as planning develops into construction and the rescue scene comes to life.*

@@ -1,5 +1,59 @@
 # Image Organization Guide
 
+## ⚠️ CRITICAL WARNING - Naming Convention Inconsistency
+
+**DO NOT assume existing image names are correct!** The site currently has inconsistent naming conventions across projects (only 57.6% compliance). When adding new images:
+
+1. **ALWAYS use the standard defined below** - do not copy existing incorrect patterns
+2. **REQUIRED READING: `IMAGE-NAMING-INCONSISTENCIES.md`** - Full analysis of what needs fixing and which folders are redundant
+3. **The correct format is mandatory** for all new images (existing images will be migrated later)
+4. **Before creating new project folders**, check the inconsistencies document to avoid duplication
+
+## Image Naming Convention (MANDATORY STANDARD)
+
+**Format:** `[prefix]-[category]-[###].jpg`
+
+**Three required sections separated by hyphens:**
+1. **Prefix** - Shortened project name (2-4 characters, lowercase)
+2. **Category** - Image type (planning, build1, gallery, research-boat, etc.)
+3. **Number** - Three digits (001, 002, 003)
+
+**Examples of CORRECT naming:**
+```
+log-cabin-build1-001.jpg          ✅ Perfect
+log-cabin-research-cabin-001.jpg  ✅ Perfect
+sr-pln-001.jpg                    ✅ Perfect (sea-rescue planning)
+ecg-gal-001.jpg                   ✅ Perfect (english-country-garden gallery)
+```
+
+**Examples of INCORRECT naming (DO NOT COPY):**
+```
+bamboo-river-lookout-figures-001.jpg  ❌ Too many parts (5-part)
+cathy-flower-house-001.jpg            ❌ Missing category (4-part)
+bsm-001.jpg                           ❌ Missing category (2-part)
+20251130_201537.jpg                   ❌ Timestamp filename
+```
+
+**Standard Prefix Abbreviations:**
+- `log-cabin` (already short)
+- `caravaning` (already short)
+- `sea-rescue` → `sr`
+- `ss-great-britain` → `ss-gb`
+- `english-country-garden` → `ecg`
+- `bamboo-river-lookout` → `brl`
+- `bookshop-memories` → `bsm`
+- `simon-coffee-shop` → `scs`
+- `cathy-flower-house` → `cfh`
+- `german-sail-boat` → `gs`
+
+**Common Categories:**
+- `planning` (or abbreviated: `pln`) - Planning and research images
+- `build1`, `build2`, etc. - Build progress by stage
+- `gallery` (or abbreviated: `gal`) - Final showcase images
+- `research-[topic]` - Reference materials (research-boat, research-figure, etc.)
+- `figures` (or `fig`) - Figure-related content
+- `scenary` (or `scn`) - Scenery elements
+
 ## Project Image Folders Created
 
 The following folders have been created to match your existing project structure:
@@ -37,21 +91,46 @@ Example:
 
 Run the script `copy-project-images.ps1` (see below) to copy all images automatically.
 
-## Image Naming Recommendations
+## Image Naming Convention
 
-For each project folder, organize images like:
+**Format:** `[prefix]-[category]-[###].jpg`
 
+**Three required sections:**
+1. **Prefix** - Shortened project name (2-4 letters)
+2. **Category** - Image type (planning, build1, gallery, research-boat, etc.)
+3. **Number** - Three digits (001, 002, 003)
+
+**Examples:**
 ```
-ancient-forest/
-├── hero.jpg              # Main showcase image
-├── overview-01.jpg       # Overall views
-├── overview-02.jpg
-├── detail-01.jpg         # Close-up details
-├── detail-02.jpg
-├── detail-03.jpg
-├── process-01.jpg        # Build process shots
-├── process-02.jpg
-└── final.jpg             # Final completed shot
+log-cabin-build1-001.jpg
+log-cabin-research-cabin-001.jpg
+log-cabin-gallery-001.jpg
+caravaning-planning-001.jpg
+sr-planning-001.jpg (sea-rescue)
+```
+
+**Shortened Prefixes:**
+- `log-cabin` (not log-cabin-in-woods)
+- `caravaning` (not caravaning-diorama)  
+- `sr` (sea-rescue)
+- `ss-gb` (ss-great-britain)
+
+**Common Categories:**
+- `planning` - Planning and research images
+- `build1`, `build2`, etc. - Build progress by stage
+- `gallery` - Final showcase images
+- `research-[topic]` - Reference materials by topic (research-boat, research-figure, etc.)
+
+**Folder Organization:**
+```
+project-name/
+├── prefix-build1-001.jpg
+├── prefix-build1-002.jpg
+├── prefix-gallery-001.jpg
+├── prefix-planning-001.jpg
+└── planning/                    # Optional subfolder for complex projects
+    ├── prefix-planning-001.jpg
+    └── prefix-planning-002.jpg
 ```
 
 ## Image Optimization

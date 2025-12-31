@@ -135,6 +135,31 @@ assets/images/builds/ss-great-britain/log-001-reference-photos.jpg
 assets/images/builds/ss-great-britain/log-002-hull-assembly.jpg
 ```
 
+### Image Naming Convention for Project Images
+
+⚠️ **CRITICAL:** Do not copy existing patterns without verification!
+
+When adding images to project folders (not build logs), use:
+
+**Format:** `[prefix]-[category]-[###].jpg`
+
+**Three required sections:**
+1. **Prefix** - Shortened project name (2-4 letters)
+2. **Category** - Image type (planning, build1, gallery, research-boat, etc.)
+3. **Number** - Three digits (001, 002, 003)
+
+**Examples:**
+```
+log-cabin-build1-001.jpg
+log-cabin-research-cabin-001.jpg
+sr-pln-001.jpg (sea-rescue planning)
+ss-gb-gallery-001.jpg (ss-great-britain)
+```
+
+**REQUIRED READING:**
+- `assets/images/README.md` - Complete naming standard
+- `IMAGE-NAMING-INCONSISTENCIES.md` - Analysis of existing issues to avoid
+
 ### In Markdown
 
 ```markdown

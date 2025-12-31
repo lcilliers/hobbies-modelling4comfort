@@ -34,6 +34,55 @@ There are several options to get started, taking into account that one of my mai
 
 The deciding factor would be the availability of suitable plans or the cost of a suitable kit against this weird inner voice calling for constructing from pictures.
 
+### Parts list
+
+Fishing Trawler Parts (Scale 1:75, ~10 cm length)
+
+#### Hull & Superstructure
+   
+- Hull: Main body of the vessel. Approx. Size: 10 cm long, 3 cm beam, 2.5 cm depth. Material: Wood, card, or styrene.
+- Bulwarks & Gunwale: Raised sides for safety. Approx. Height: 3–4 mm above deck.
+- Deck: Working surface. Fits hull interior.
+- Wheelhouse / Bridge: Navigation and control. Approx. Size: 2 cm × 1.5 cm × 1.8 cm. Includes windows, roof hatch, door.
+- Cabin Roof Details: Vent pipes, lifebuoy, radar dome, exhaust stack.
+
+#### Masts & Rigging
+   
+- Foremast & Aft Mast: Support for trawl gear and lights. Approx. Height: 6–7 cm. Material: Brass rod or toothpicks.
+- Booms & Spreaders: Hold trawl doors and net rigging. Approx. Length: 3–4 cm.
+- Rigging Lines: Fine thread or fishing line.
+
+#### Deck Gear
+
+- Winches (Main Trawl Winch): Haul nets and warps. Approx. Size: 1 cm × 0.8 cm cylinder.
+- Capstan / Windlass: Anchor handling.
+- Towing Pins & Rollers: Guide cables.
+- Net Drums: Store trawl nets. Approx. Size: 0.8 cm diameter.
+
+#### Fishing Gear
+
+- Trawl Doors (Otter Boards): Keep net open. Approx. Size: 1 cm × 0.5 cm each.
+- Trawl Net (Codend): Catch fish. Material: Fine mesh or gauze.
+- Floats & Weights: Net buoyancy and sinking. Material: Beads or wire.
+
+#### Propulsion & Steering
+
+- Propeller: Approx. Diameter: 0.8 cm.
+- Rudder: Approx. Height: 1 cm.
+- Shaft Housing: Brass tube or styrene.
+
+#### Safety & Navigation
+
+- Navigation Lights: Painted beads or styrene.
+- Radar Mast & Antenna.
+- Lifebuoys: Tiny rings from wire or card.
+- Anchor: Approx. Size: 0.5 cm.
+
+#### Crew Details
+
+- Figures: Scaled to 1:75, ~2.4 cm tall.
+
+
 ## Work Completed
 
 ### Hull Construction
