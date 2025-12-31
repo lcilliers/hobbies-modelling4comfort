@@ -212,7 +212,7 @@ The research into RNLI boat highlighted that a RNLI Severn Class Lifeboat Model 
 ![Severn Class Lifeboat]({{ 'assets/images/projects/sea-rescue/planning/sr-pln-005.jpg' | relative_url }})
 *RNLI Severn Class Lifeboat Model in scale 1:173*
 
-Another model kit option is RNLI Shannon Class Lifeboat as a plastic model kit from airfix.com.  The scaled version of this kit is 19 cm, which is too long for my model and will have to be scaled down and scratch built. 
+Another model kit option is RNLI Shannon Class Lifeboat as a plastic model kit from airfix.com.  The scaled version of this kit is 19 cm, which is too long for my model and will have to be scaled down and scratch built.
 
 ![RNLI Shannon Class Lifeboat]({{ 'assets/images/projects/sea-rescue/planning/sr-pln-006.jpg' | relative_url }})
 *RNLI Shannon Class Lifeboat kit from Airfix in scale 1:72*
