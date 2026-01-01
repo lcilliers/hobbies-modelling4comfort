@@ -22,17 +22,14 @@ build_log_menu:
 
 ## Build Approach
 
-Following the planning phase decisions, I'm constructing a small coastal fishing trawler approximately 9-10cm in length at 1:72 scale (representing a 7m vessel). This boat will appear weathered and in distress, listing slightly to add drama to the rescue scene.
+Based on the research findings, the second option will be used by adapting plans and convert them to scale cutting sheets for the boat. From these plans 
+I'm constructing a small coastal fishing trawler approximately 13cm in length at 1:84 scale (representing a 11.4m vessel). This boat will appear weathered and in distress, listing slightly to add drama to the rescue scene.
 
 The main construction will be balsawood.
 
-There are several options to get started, taking into account that one of my main deficiencies to overcome is the ability to make engineering drawings:
+### Plan conversion
 
-- buy and build a kit, then use this build to scale down the trawler to the diorama scale and rebuild it from scratch
-- get balsawood building plans for a trawler, scale the drawings and build from the plan
-- design and build the trawler using images and youtube videos, prototyping as I go.
-
-The deciding factor would be the availability of suitable plans or the cost of a suitable kit against this weird inner voice calling for constructing from pictures.
+The trawler plans are printed and then hand drawn to scale on graphical paper focussing on drawing all the parts to be cut out of balsa wood. This will take some time.
 
 ### Parts list
 

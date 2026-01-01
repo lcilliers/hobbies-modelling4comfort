@@ -2,9 +2,91 @@
 
 This folder contains PowerShell scripts to help manage your website content.
 
+## ⚠️ CRITICAL: Use ImageMagick Script for All Image Optimization
+
+**ALWAYS use `imagemagick-optimize.ps1` for image optimization.**
+
+This script:
+- ✅ Handles ALL image formats including HEIC/HEIF perfectly
+- ✅ Has been tested and proven reliable across all projects
+- ✅ Supports green screen replacement for diorama photography
+- ✅ Properly processes images with correct orientation and metadata
+
+**DO NOT use** `optimize-images.ps1` (deprecated - moved to `_deprecated/` folder)
+
+---
+
 ## 📜 Available Scripts
 
-### 1. new-build-log.ps1 ⭐ **NEW - Create Build Logs**
+### 1. imagemagick-optimize.ps1 ⭐ **PRIMARY IMAGE OPTIMIZATION SCRIPT**
+
+**Purpose**: Advanced image optimization with perfect HEIC support and green screen removal
+
+**What it does**:
+- ✅ **Perfect HEIC/HEIF conversion** - Handles iPhone/Google Photos HEIC files natively
+- ✅ **Green screen replacement** - Remove solid green backgrounds and replace with custom images
+- ✅ Resizes images to web-friendly dimensions (default: 1920px max)
+- ✅ Compresses JPEG files with high quality
+- ✅ Converts all image formats to optimized JPEG
+- ✅ Auto-rotates based on EXIF data
+- ✅ Strips metadata for privacy
+- ✅ Processes all formats: JPG, PNG, BMP, GIF, TIFF, WEBP, **HEIC**, **HEIF**
+- ✅ **Proven reliable** - Successfully used on all projects including log-cabin, traditional-english-cottage, etc.
+
+**Prerequisites**: 
+Requires ImageMagick - See [../docs/guides/IMAGEMAGICK-GUIDE.md](../docs/guides/IMAGEMAGICK-GUIDE.md) for installation
+
+**Usage**:
+```powershell
+# Basic image optimization (MOST COMMON USE)
+.\scripts\imagemagick-optimize.ps1 -SourceFolder "C:\Path\To\Images"
+
+# Optimize with custom target folder (Web-Optimized structure)
+.\scripts\imagemagick-optimize.ps1 `
+    -SourceFolder "\\lsuk-synrack\HomeMedia\hobbies\model building\Traditional-country-cottage\Cottage" `
+    -OutputSubFolder "../../Web-Optimized/Cottage" `
+    -MaxWidth 800 `
+    -MaxHeight 800 `
+    -JpegQuality 85
+
+# High-quality gallery images
+.\scripts\imagemagick-optimize.ps1 `
+    -SourceFolder "\\lsuk-synrack\HomeMedia\hobbies\model building\project-name\Gallery" `
+    -OutputSubFolder "../../Web-Optimized/Gallery" `
+    -MaxWidth 1600 `
+    -MaxHeight 1600 `
+    -JpegQuality 90
+
+# GREEN SCREEN REPLACEMENT - Perfect for diorama photography!
+.\scripts\imagemagick-optimize.ps1 `
+    -SourceFolder "C:\DioramaPhotos\GreenScreen" `
+    -ReplaceGreenScreen `
+    -BackgroundImage "C:\Backgrounds\ocean-sunset.jpg" `
+    -GreenTolerance 15
+```
+
+**Parameters**:
+- `SourceFolder` (required) - Folder containing images
+- `OutputSubFolder` (optional, default: "web-optimized") - Output folder name (can use relative paths like "../../Web-Optimized/subfolder")
+- `MaxWidth` (optional, default: 1920) - Maximum width in pixels
+- `MaxHeight` (optional, default: 1920) - Maximum height in pixels
+- `JpegQuality` (optional, default: 85) - Quality (1-100)
+- `ReplaceGreenScreen` (optional) - Enable green screen removal
+- `BackgroundImage` (optional) - Background image path (required if ReplaceGreenScreen enabled)
+- `GreenTolerance` (optional, default: 10) - Green color matching tolerance (0-100)
+- `Recursive` (optional) - Process subfolders
+
+**Recommended Settings**:
+- **Build log photos**: MaxWidth 800, Quality 85
+- **Gallery photos**: MaxWidth 1600, Quality 90
+- **Planning/reference**: MaxWidth 800, Quality 85
+
+**Output**:
+Creates optimized images in the specified output folder, ready for web use.
+
+---
+
+### 2. new-build-log.ps1
 
 **Purpose**: Quickly create new build log entries from the template
 
@@ -46,104 +128,7 @@ This folder contains PowerShell scripts to help manage your website content.
 
 ---
 
-### 2. imagemagick-optimize.ps1 ⭐ **RECOMMENDED**
-
-**Purpose**: Advanced image optimization with HEIC support and green screen removal
-
-**What it does**:
-- ✅ **Perfect HEIC conversion** - Handles iPhone/Google Photos HEIC files natively
-- ✅ **Green screen replacement** - Remove solid green backgrounds and replace with custom images
-- ✅ Resizes images to web-friendly dimensions (default: 1920px max)
-- ✅ Compresses JPEG files with high quality
-- ✅ Converts all image formats to optimized JPEG
-- ✅ Auto-rotates based on EXIF data
-- ✅ Strips metadata for privacy
-- ✅ Processes all formats: JPG, PNG, BMP, GIF, TIFF, WEBP, **HEIC**, **HEIF**
-
-**Prerequisites**: 
-Requires ImageMagick - See [IMAGEMAGICK-GUIDE.md](../IMAGEMAGICK-GUIDE.md) for installation
-
-**Usage**:
-```powershell
-# Basic image optimization
-.\scripts\imagemagick-optimize.ps1 -SourceFolder "C:\Path\To\Images"
-
-# Custom quality and size
-.\scripts\imagemagick-optimize.ps1 `
-    -SourceFolder "\\lsuk-synrack\HomeMedia\hobbies\model building\ss-great-britain" `
-    -MaxWidth 1920 `
-    -MaxHeight 1920 `
-    -JpegQuality 90
-
-# GREEN SCREEN REPLACEMENT - Perfect for diorama photography!
-.\scripts\imagemagick-optimize.ps1 `
-    -SourceFolder "C:\DioramaPhotos\GreenScreen" `
-    -ReplaceGreenScreen `
-    -BackgroundImage "C:\Backgrounds\ocean-sunset.jpg" `
-    -GreenTolerance 15
-```
-
-**Parameters**:
-- `SourceFolder` (required) - Folder containing images
-- `MaxWidth` (optional, default: 1920) - Maximum width in pixels
-- `MaxHeight` (optional, default: 1920) - Maximum height in pixels
-- `JpegQuality` (optional, default: 85) - Quality (1-100)
-- `OutputSubFolder` (optional, default: "web-optimized") - Output folder name
-- `ReplaceGreenScreen` (optional) - Enable green screen removal
-- `BackgroundImage` (optional) - Background image path (required if ReplaceGreenScreen enabled)
-- `GreenTolerance` (optional, default: 10) - Green color matching tolerance (0-100)
-- `Recursive` (optional) - Process subfolders
-
-**Output**:
-Creates a subfolder with optimized images ready for web use.
-
----
-
-### 3. optimize-images.ps1 (Fallback)
-
-**Purpose**: Resize and compress images using Windows .NET (no external dependencies)
-
-**What it does**:
-- ✅ Resizes images to web-friendly dimensions (default: 1920px max)
-- ✅ Compresses JPEG files (default: 85% quality)
-- ✅ Converts all image formats to optimized JPEG
-- ⚠️ **HEIC support limited** - Requires Windows HEIF codec (may not work reliably)
-- ✅ Maintains aspect ratios
-- ✅ Creates optimized versions in subfolder
-- ✅ Shows before/after file sizes and savings
-- ✅ Processes most common formats (JPG, PNG, BMP, GIF, TIFF, WEBP)
-
-**Usage**:
-```powershell
-# Basic usage - optimize all images in a folder
-.\scripts\optimize-images.ps1 -SourceFolder "C:\Path\To\Images"
-
-# Custom settings
-.\scripts\optimize-images.ps1 `
-    -SourceFolder "\\lsuk-synrack\HomeMedia\hobbies\model building\ancient forest" `
-    -MaxWidth 1920 `
-    -MaxHeight 1920 `
-    -JpegQuality 85 `
-    -OutputSubFolder "web-optimized"
-
-# Process only current folder (not subfolders)
-.\scripts\optimize-images.ps1 -SourceFolder "C:\Path" -Recursive:$false
-```
-
-**Parameters**:
-- `SourceFolder` (required) - Folder containing images to optimize
-- `MaxWidth` (optional, default: 1920) - Maximum width in pixels
-- `MaxHeight` (optional, default: 1920) - Maximum height in pixels
-- `JpegQuality` (optional, default: 85) - JPEG compression quality (1-100)
-- `OutputSubFolder` (optional, default: "web-optimized") - Name of output subfolder
-- `Recursive` (optional, default: true) - Process subfolders
-
-**Output**:
-Creates a subfolder with optimized images ready for web use.
-
----
-
-### 4. copy-project-images.ps1
+### 3. copy-project-images.ps1
 
 **Purpose**: Copy images from source folders to website structure
 
@@ -177,38 +162,76 @@ Creates a subfolder with optimized images ready for web use.
 
 ---
 
-## 🔄 Recommended Workflow
+## �️ Specialized Scripts
 
-### Step 1: Select Your Images
-Manually select the best images from each project folder in:
-```
-\\lsuk-synrack\HomeMedia\hobbies\model building\[project-name]\
-```
+This folder also contains specialized script collections for specific purposes:
 
-### Step 2: Optimize for Web
-For each project, run the optimization script:
+### Plant Displays Script Suite (`plant-displays/`)
+
+A comprehensive set of 18 PowerShell scripts for managing plant display documentation and image organization. These scripts support the plant displays sub-project with specialized workflows.
+
+**Key Scripts**:
+- **Source Analysis**: `analyze-source-structure.ps1` - Analyzes source photo folders
+- **Naming & Organization**: `rename-files-by-plant.ps1`, `rename-images.ps1` - Systematic file renaming
+- **Markdown Management**: `generate-markdown-updates.ps1`, `update-markdown-by-plant.ps1` - Update documentation
+- **Hash-Based Operations**: `hash-site-files.ps1`, `hash-source-files.ps1`, `rename-site-by-hash.ps1` - Hash-based file tracking and renaming
+- **Validation**: `validate-csv-completeness.ps1`, `validate-site-files.ps1` - Quality assurance
+- **Cross-Reference**: `rename-site-cross-ref.ps1` - Cross-reference validation
+- **Conflict Resolution**: `analyze-conflicts.ps1` - Identify and resolve naming conflicts
+- **Utilities**: `extract-markdown-image-refs.ps1`, `build-site-source-hash-map.ps1` - Various utilities
+
+**Documentation**: See [plant-displays/README.md](plant-displays/README.md) for detailed documentation
+
+**Working Files**: See `../projects-working/plant-displays/` for CSVs and data files
+
+**Purpose**: These scripts manage complex workflows for cataloging and documenting plant photography with precise naming conventions, markdown generation, and cross-validation between source files and web content.
+
+---
+
+## �🔄 Recommended Workflow
+
+### Step 1: Optimize Images with ImageMagick
+
+**For each source folder**, run the ImageMagick optimization script:
 
 ```powershell
-# Example: Optimize images for Ancient Forest project
-.\scripts\optimize-images.ps1 `
-    -SourceFolder "\\lsuk-synrack\HomeMedia\hobbies\model building\ancient forest"
+# Example: Optimize Cottage construction photos (build log images)
+.\scripts\imagemagick-optimize.ps1 `
+    -SourceFolder "\\lsuk-synrack\HomeMedia\hobbies\model building\Traditional-country-cottage\Cottage" `
+    -OutputSubFolder "../../Web-Optimized/Cottage" `
+    -MaxWidth 800 `
+    -MaxHeight 800 `
+    -JpegQuality 85
 
-# This creates: ancient forest\web-optimized\
+# Example: Optimize Gallery photos (showcase images)
+.\scripts\imagemagick-optimize.ps1 `
+    -SourceFolder "\\lsuk-synrack\HomeMedia\hobbies\model building\Traditional-country-cottage\Gallery" `
+    -OutputSubFolder "../../Web-Optimized/Gallery" `
+    -MaxWidth 1600 `
+    -MaxHeight 1600 `
+    -JpegQuality 90
 ```
 
-### Step 3: Copy Optimized Images to Website
-Manually copy from the `web-optimized` subfolder to your website:
+### Step 2: Review Optimized Images
+Check the output in the Web-Optimized folder:
+```
+\\lsuk-synrack\HomeMedia\hobbies\model building\[project-name]\Web-Optimized\
+```
+
+### Step 3: Select Images for Site
+Decide which optimized images to use on the website (you may not need all of them).
+
+### Step 4: Copy Selected Images to Website
+Manually copy selected optimized images to your website assets folder:
 
 ```powershell
 # Copy optimized images to website assets
-Copy-Item "\\lsuk-synrack\HomeMedia\hobbies\model building\ancient forest\web-optimized\*" `
-    -Destination "\\ukwsdev07\UKWSDEV07-E\Models4Comfort\assets\images\projects\ancient-forest\"
+Copy-Item "\\lsuk-synrack\HomeMedia\hobbies\model building\project-name\Web-Optimized\subfolder\*" `
+    -Destination "\\ukwsdev07\e$\Models4Comfort\assets\images\projects\project-name\"
 ```
 
-Or use the copy script after organizing your optimized images.
-
-### Step 4: Create Project Markdown Files
-Create markdown files in `_projects/` for each diorama project.
+### Step 5: Create Project Markdown Files
+Create markdown files in `_projects/` for each diorama project following the [Source-Narrative Methodology](../docs/methodology/SOURCE-NARRATIVE-METHODOLOGY.md).
 
 ---
 
@@ -216,44 +239,52 @@ Create markdown files in `_projects/` for each diorama project.
 
 ### Image Optimization Settings
 
-**For Hero/Featured Images** (main showcase):
+**For Build Log Images** (process shots):
 ```powershell
-.\scripts\optimize-images.ps1 `
+.\scripts\imagemagick-optimize.ps1 `
     -SourceFolder "path" `
-    -MaxWidth 1920 `
-    -JpegQuality 90
-```
-
-**For Gallery Images** (detail shots):
-```powershell
-.\scripts\optimize-images.ps1 `
-    -SourceFolder "path" `
-    -MaxWidth 1200 `
+    -MaxWidth 800 `
+    -MaxHeight 800 `
     -JpegQuality 85
 ```
 
-**For Thumbnails** (if creating separately):
+**For Gallery Images** (final showcase):
 ```powershell
-.\scripts\optimize-images.ps1 `
+.\scripts\imagemagick-optimize.ps1 `
     -SourceFolder "path" `
-    -MaxWidth 400 `
-    -JpegQuality 80
+    -MaxWidth 1600 `
+    -MaxHeight 1600 `
+    -JpegQuality 90
+```
+
+**For Planning/Reference Images**:
+```powershell
+.\scripts\imagemagick-optimize.ps1 `
+    -SourceFolder "path" `
+    -MaxWidth 800 `
+    -MaxHeight 800 `
+    -JpegQuality 85
 ```
 
 ### File Size Guidelines
-- **Hero images**: 200-500 KB (1920px wide)
-- **Gallery images**: 150-300 KB (1200px wide)
-- **Detail shots**: 100-200 KB (800px wide)
+- **Build log images**: 80-150 KB (800px wide)
+- **Gallery images**: 300-500 KB (1600px wide)
+- **Planning images**: 80-150 KB (800px wide)
 
 ### Quality Settings
-- **90-95%**: Highest quality (larger files)
-- **85%**: Excellent quality, good balance (recommended)
-- **75-80%**: Good quality, smaller files
-- **70% or lower**: Noticeable quality loss
+- **90-95%**: Highest quality, use for final gallery images
+- **85%**: Excellent quality, good balance (recommended for build logs)
+- **80%**: Good quality, smaller files
+- **75% or lower**: Not recommended - noticeable quality loss
 
 ---
 
 ## 🐛 Troubleshooting
+
+### "ImageMagick not found" Error
+1. Download and install ImageMagick from https://imagemagick.org/script/download.php#windows
+2. See [../docs/guides/IMAGEMAGICK-GUIDE.md](../docs/guides/IMAGEMAGICK-GUIDE.md) for detailed installation instructions
+3. Restart PowerShell after installation
 
 ### "Access Denied" Error
 - Ensure you have read access to source folders
@@ -264,21 +295,12 @@ Create markdown files in `_projects/` for each diorama project.
 - File may be corrupted
 - Unsupported image format
 - File is locked/in use by another program
-- **For HEIC files**: Install "HEIF Image Extensions" from Microsoft Store
 
 ### HEIC/HEIF Files Not Converting
-If you see "HEIC conversion failed":
-
-1. **Install HEIF Image Extensions**:
-   - Open Microsoft Store
-   - Search for "HEIF Image Extensions"
-   - Install the free codec from Microsoft
-   - Restart PowerShell and try again
-
-2. **Alternative**: Convert HEIC to JPG first using:
-   - Windows Photos app (open and "Save As")
-   - Online converters (heictojpg.com)
-   - Third-party tools (IrfanView, XnView)
+The ImageMagick script handles HEIC files natively. If you still have issues:
+1. Ensure ImageMagick is properly installed
+2. Try re-installing ImageMagick with all format support enabled
+3. Check that the HEIC file isn't corrupted (try opening in Windows Photos)
 
 ### Large File Warnings
 If GitHub warns about large files:
@@ -296,40 +318,42 @@ Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser
 
 ## 🔧 Advanced Usage
 
-### Batch Process Multiple Projects
-Create a batch script:
+### Batch Process Multiple Folders
+Process all folders for a project at once:
 
 ```powershell
-$projects = @(
-    "ancient forest",
-    "cabin in woods",
-    "country house"
-)
+# Process all folders for Traditional English Cottage project
+$sourcePath = "\\lsuk-synrack\HomeMedia\hobbies\model building\Traditional-country-cottage"
+$folders = @('planning', 'Cottage', 'Base', 'Plants', 'Finalisation')
 
-foreach ($project in $projects) {
-    $sourcePath = "\\lsuk-synrack\HomeMedia\hobbies\model building\$project"
-    Write-Host "Processing: $project" -ForegroundColor Cyan
-    .\scripts\optimize-images.ps1 -SourceFolder $sourcePath
+foreach ($folder in $folders) {
+    Write-Host "Processing: $folder" -ForegroundColor Cyan
+    & .\scripts\imagemagick-optimize.ps1 `
+        -SourceFolder "$sourcePath\$folder" `
+        -OutputSubFolder "../../Web-Optimized/$folder" `
+        -MaxWidth 800 `
+        -MaxHeight 800 `
+        -JpegQuality 85
 }
-```
 
-### Custom Output Location
-Save optimized images elsewhere:
-
-```powershell
-# Optimize and save to a different location
-.\scripts\optimize-images.ps1 `
-    -SourceFolder "source\path" `
-    -OutputSubFolder "..\..\website\assets\images\projects\project-name"
+# Process Gallery separately with higher quality
+& .\scripts\imagemagick-optimize.ps1 `
+    -SourceFolder "$sourcePath\Gallery" `
+    -OutputSubFolder "../../Web-Optimized/Gallery" `
+    -MaxWidth 1600 `
+    -MaxHeight 1600 `
+    -JpegQuality 90
 ```
 
 ---
 
 ## 📚 Additional Resources
 
-- **PowerShell Help**: `Get-Help .\scripts\optimize-images.ps1 -Detailed`
-- **Image Guidelines**: See `assets/images/README.md`
-- **Project Setup**: See `PROJECT-README.md`
+- **PowerShell Help**: `Get-Help .\scripts\imagemagick-optimize.ps1 -Detailed`
+- **Image Guidelines**: See [../assets/images/README.md](../assets/images/README.md)
+- **ImageMagick Guide**: See [../docs/guides/IMAGEMAGICK-GUIDE.md](../docs/guides/IMAGEMAGICK-GUIDE.md)
+- **Source-Narrative Methodology**: See [../docs/methodology/SOURCE-NARRATIVE-METHODOLOGY.md](../docs/methodology/SOURCE-NARRATIVE-METHODOLOGY.md)
+- **Plant Displays Scripts**: See [plant-displays/README.md](plant-displays/README.md) for specialized script documentation
 
 ---
 
@@ -339,8 +363,16 @@ If you encounter issues:
 1. Check the troubleshooting section above
 2. Review the script output for error messages
 3. Ensure all paths are correct and accessible
-4. Test with a single image first
+4. Ensure ImageMagick is properly installed
+5. Test with a single image first
 
 ---
 
-*Scripts use Windows .NET Framework (built-in, no additional software required)*
+## 📁 Deprecated Scripts
+
+The following scripts have been moved to `_deprecated/` and should NOT be used:
+- **optimize-images.ps1** - Unreliable HEIC support, use `imagemagick-optimize.ps1` instead
+
+---
+
+*Primary script uses ImageMagick (requires installation) - See [../docs/guides/IMAGEMAGICK-GUIDE.md](../docs/guides/IMAGEMAGICK-GUIDE.md)*

@@ -10,7 +10,7 @@ The site has **inconsistent image naming** (only 57.6% compliance). Do NOT copy 
 
 **Required Reading:**
 - **`assets/images/README.md`** - Mandatory 3-part naming standard
-- **`IMAGE-NAMING-INCONSISTENCIES.md`** - Full analysis of existing issues
+- **`docs/reference/IMAGE-NAMING-INCONSISTENCIES.md`** - Full analysis of existing issues
 
 **Standard (ALWAYS use for new images):**
 ```
@@ -24,37 +24,72 @@ Format: [prefix]-[category]-[###].jpg
 
 ## 🚀 Quick Start
 
-This repository includes **4 different static site generators** to choose from:
+This repository uses **Jekyll** for static site generation - works out-of-the-box with GitHub Pages.
 
-1. **Jekyll** (Recommended) - Works out-of-the-box with GitHub Pages
-2. **Hugo** - Fastest build times, advanced features  
-3. **Simple HTML/CSS/JS** - No build tools required
-4. **Eleventy (11ty)** - Modern JavaScript-based
+See `docs/guides/SITE-EDITING-GUIDE.md` for complete editing documentation.
 
-Choose one and get started! See `SITE-EDITING-GUIDE.md` for complete editing documentation.
+## 📂 Workspace Organization
 
-## 📚 Documentation
+```
+Models4Comfort/
+├── 📄 Site Pages (Jekyll)     # index.md, about.md, projects.md, etc.
+├── 📚 docs/                   # All documentation
+│   ├── guides/               # How-to guides (8 guides)
+│   ├── methodology/          # Development methodologies
+│   └── reference/            # Reference materials & analysis
+├── 📝 projects-working/      # Active project working files
+│   ├── source-narratives/    # Project source narratives
+│   ├── traditional-english-cottage/
+│   ├── plant-displays/
+│   └── working/              # Temporary files
+├── 🔧 scripts/                # Automation scripts
+│   └── plant-displays/       # Project-specific scripts
+├── 📦 _archives/              # Historical records
+│   ├── sessions/             # Past session logs
+│   ├── audits/               # Historical audits
+│   ├── backups/              # File backups
+│   └── projects/             # Archived projects
+├── 🗑️ _deprecated/            # Deprecated scripts/files
+└── 🎨 Site Resources          # assets/, backgrounds/, _builds/, _projects/, etc.
+```
 
-**Getting Started:**
+## 📚 Documentation Guide
+
+**📖 Primary Guides** (in `docs/guides/`):
 - **`SITE-EDITING-GUIDE.md`** - Complete content editing guide
 - **`PUBLISHING-GUIDE.md`** - Git workflow and publishing
-- **`COMMENTS-SETUP.md`** - Setting up GitHub-based comments
-
-**Technical References:**
-- **`FRONT-MATTER-GUIDE.md`** - YAML front matter explained
-- **`IMAGEMAGICK-GUIDE.md`** - Image processing & optimization
+- **`IMAGEMAGICK-GUIDE.md`** - ⭐ Image processing & optimization (REQUIRED for image work)
 - **`IMAGE-LAYOUT-GUIDE.md`** - Image layout options
-- **`IMAGE-NAMING-INCONSISTENCIES.md`** - Analysis of naming issues to fix
+- **`FRONT-MATTER-GUIDE.md`** - YAML front matter explained
+- **`FEEDBACK-FORM-GUIDE.md`** - Feedback form setup
+- **`COMMENTS-SETUP.md`** - Setting up GitHub-based comments
+- **`GITHUB-PAGES-FIX.md`** - Troubleshooting GitHub Pages
 
-**Specialized Guidance:**
+**📐 Methodology** (in `docs/methodology/`):
+- **`SOURCE-NARRATIVE-METHODOLOGY.md`** - Creating comprehensive project documentation
+
+**📊 Reference Materials** (in `docs/reference/`):
+- **`IMAGE-NAMING-INCONSISTENCIES.md`** - Analysis of naming issues to fix
+- **`NAMING-CONVENTION-ANALYSIS.md`** - Naming convention analysis
+- **`IMAGE-USAGE-ANALYSIS.md`** - Image usage patterns
+- **`CONFLICT-AUDIT-DAFFODIL.md`** - Historical troubleshooting
+
+**🔧 Scripts & Tools**:
+- **`scripts/README.md`** - ⭐ Script usage (CRITICAL: Use imagemagick-optimize.ps1 for all image optimization)
+- **`scripts/plant-displays/`** - Plant displays project scripts (18 specialized scripts)
+
+**📝 Project Documentation**:
+- **`projects-working/source-narratives/README.md`** - Source narrative creation guide
+- **`projects-working/plant-displays/README.md`** - Plant Displays Series management
+- **`projects-working/traditional-english-cottage/`** - TEC project working files
+
+**🏗️ Site Structure**:
 - **`_builds/README.md`** - Build log creation
-- **`PLANT-DISPLAYS-README.md`** - Plant Displays Series management
-- **`scripts/README.md`** - Script usage  
 - **`assets/images/README.md`** - Image organization
 - **`.github/workflows/README.md`** - Deployment instructions
 
-**Historical Records:**
-- **`_archives/`** - Past session logs and setup records
+**📦 Archives**:
+- **`_archives/`** - Historical session logs, audits, and backups
 
 ## 🌐 Live Site
 
