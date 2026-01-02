@@ -50,13 +50,18 @@ The house design is based on a traditional English cottage, characterized by dis
 
 The use of flint and brick is particularly common in areas where flint is naturally abundant, creating that authentic southern English appearance.
 
+**Reference sources:**
+- https://www.homedit.com/house-styles/english-cottage-architecture/
+- https://edwardgeorgelondon.com/beautiful-english-country-house-exteriors/
+- https://www.dreamstime.com/photos-images/brick-flint-house.html
+
 [NEEDS MORE]
 Add details about:
 - When and why did you start researching this style?
 - What specific aspects of English cottages appealed to you?
 - Did you visit any real cottages or use specific reference materials?
 - How did the 2017 reference photo influence your 2025 project?
-- What scale did you decide on and why?
+- What scale did you decided on and why?
 
 ### [COMPLETE] Construction Technique Development
 
@@ -310,6 +315,22 @@ Create comprehensive lists of:
 - Painting tools
 - Assembly tools
 - Photography equipment
+
+---
+
+## Challenges and Learning
+
+[NEEDS MORE]
+What were the major challenges you encountered?
+- Construction challenges?
+- Material challenges?
+- Technique challenges?
+- Design challenges?
+
+What did you learn from this project?
+- New techniques mastered?
+- Things you'd do differently?
+- Lessons for future projects?
 
 ---
 

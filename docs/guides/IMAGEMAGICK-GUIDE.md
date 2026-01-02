@@ -75,7 +75,7 @@ Perfect for diorama photography! Replace solid green backgrounds with custom ima
 .\scripts\imagemagick-optimize.ps1 `
     -SourceFolder "C:\Photos\MyDiorama" `
     -ReplaceGreenScreen `
-    -BackgroundImage "C:\Backgrounds\forest-scene.jpg" `
+    -BackgroundImage "backgrounds\blue-polygonal-shapes.jpg" `
     -GreenTolerance 15
 ```
 
@@ -111,7 +111,7 @@ Perfect for diorama photography! Replace solid green backgrounds with custom ima
 .\scripts\imagemagick-optimize.ps1 `
     -SourceFolder "C:\Photos\GreenScreenShots" `
     -ReplaceGreenScreen `
-    -BackgroundImage "C:\Backgrounds\sky.jpg" `
+    -BackgroundImage "backgrounds\blue-polygonal-shapes.jpg" `
     -GreenTolerance 10
 ```
 
@@ -120,7 +120,7 @@ Perfect for diorama photography! Replace solid green backgrounds with custom ima
 .\scripts\imagemagick-optimize.ps1 `
     -SourceFolder "C:\Photos\GreenScreenShots" `
     -ReplaceGreenScreen `
-    -BackgroundImage "C:\Backgrounds\forest.jpg" `
+    -BackgroundImage "backgrounds\blue-polygonal-shapes.jpg" `
     -GreenTolerance 20
 ```
 

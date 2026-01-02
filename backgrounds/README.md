@@ -2,6 +2,11 @@
 
 This folder stores background images used for green screen replacement in diorama photography.
 
+## 📁 Current Backgrounds
+
+### Available Images:
+- **blue-polygonal-shapes.jpg** (207 KB) - Abstract blue polygonal geometric pattern, ideal for modern/technical displays
+
 ## Quick Start
 
 ### 1. Find Free Background Images
@@ -68,11 +73,11 @@ URL: https://playgroundai.com
 Once you have a background image, use it like this:
 
 ```powershell
-# Replace green screen with ocean background
+# Replace green screen with blue polygonal background
 .\scripts\imagemagick-optimize.ps1 `
-    -SourceFolder "\\LSUK-SYNRACK\HomeMedia\hobbies\model building\German-sail-boat" `
+    -SourceFolder "\\LSUK-SYNRACK\HomeMedia\hobbies\model building\project-name" `
     -ReplaceGreenScreen `
-    -BackgroundImage "backgrounds\ocean-sky-seagull.jpg" `
+    -BackgroundImage "backgrounds\blue-polygonal-shapes.jpg" `
     -GreenTolerance 15
 ```
 

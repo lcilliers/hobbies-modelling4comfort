@@ -15,8 +15,14 @@
 
 **Three required sections separated by hyphens:**
 1. **Prefix** - Shortened project name (2-4 characters, lowercase)
-2. **Category** - Image type (planning, build1, gallery, research-boat, etc.)
+2. **Category** - The subfolder name where the image is stored (lowercase)
 3. **Number** - Three digits (001, 002, 003)
+
+**CRITICAL: Category = Subfolder Name**
+- The category MUST match the subfolder where the image is stored
+- Example: File in `planning/` folder → category is `planning` → filename `tec-planning-001.jpg`
+- Example: File in `build1/` folder → category is `build1` → filename `tec-build1-001.jpg`
+- If there are sub-subfolders within a category folder, ignore them for naming - all files in that category should be sequential
 
 **Examples of CORRECT naming:**
 ```
@@ -115,11 +121,13 @@ sr-planning-001.jpg (sea-rescue)
 - `sr` (sea-rescue)
 - `ss-gb` (ss-great-britain)
 
-**Common Categories:**
-- `planning` - Planning and research images
-- `build1`, `build2`, etc. - Build progress by stage
-- `gallery` - Final showcase images
-- `research-[topic]` - Reference materials by topic (research-boat, research-figure, etc.)
+**Common Categories (based on folder structure):**
+- `planning` - Planning and research images (stored in planning/ folder)
+- `build1`, `build2`, `build3`, `build4` - Build progress by stage (stored in build1/, build2/, etc. folders)
+- `gallery` - Final showcase images (stored in gallery/ folder)
+- `research-[topic]` - Reference materials by topic (stored in research-boat/, research-figure/, etc. folders)
+
+**Note:** You cannot interpret image content - you must rely on the folder structure to determine the category. The human organizes images into folders, and those folder names become the category in the filename.
 
 **Folder Organization:**
 ```
