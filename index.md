@@ -73,6 +73,13 @@ Browse through my models and diorama builds and see the creative process unfold.
   </div>
   
   <div class="project-link-item">
+    <img src="{{ '/assets/images/projects/traditional-english-cottage/tec-gallery-006.jpg' | relative_url }}" alt="Traditional English Cottage" class="project-thumbnail">
+    <div class="project-link-text">
+      <strong><a href="{{ '/projects/traditional-english-cottage/' | relative_url }}">Traditional English Cottage 1:100 scale scratch build</a></strong> - Traditional Hampshire cottage with authentic flint and brick walls, multi-faceted roof, and detailed cottage garden. <em>Completed October 2025</em>
+    </div>
+  </div>
+  
+  <div class="project-link-item">
     <img src="{{ '/assets/images/projects/plant-displays/snowdrops/gallery/sno-gallery-004.jpg' | relative_url }}" alt="Plant Displays Series" class="project-thumbnail">
     <div class="project-link-text">
       <strong><a href="{{ '/projects/plant-displays/' | relative_url }}">Plant Displays Series - Ongoing botanical collection</a></strong> - Detailed artistic botanical models featuring leaves, flowers, roots, and seasonal displays for selected plant species. <em>In Progress - Multi-year Project</em>
