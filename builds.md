@@ -7,7 +7,7 @@ date: 2025-12-01
 ---
 
 <div class="page-banner">
-  <img src="{{ '/assets/images/projects/english-country-garden/Gallery/ecg-gal-039.jpg' | relative_url }}" alt="Build Logs Banner">
+  <img src="{{ '/assets/images/builds/builds-001.jpg' | relative_url }}" alt="Build Logs Banner">
   <div class="banner-content">
     <h1>Build Logs</h1>
     <p>Behind the Scenes of Every Build</p>
