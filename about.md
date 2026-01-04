@@ -18,9 +18,9 @@ Welcome to my modeling journey! This site documents my passion for creating mini
 
 ## The Story Behind Modelling4Comfort
 
-I discovered the enjoyment of building models quite recently, in 2020. It goes hand in hand with searching for things to keep me focussed in retirement, after a very busy and full working career. I only started to take photos of my building steps in 2022 during the building of the SS Great Britain. In December 2025 I started to organize the individual projects in a website to create a digital show cabinet of my endeavors.  I simply ran out of physical shelf space to display my work and some of the models have new custodians.
+I discovered the enjoyment of building models quite recently, in 2020. It goes hand in hand with searching for things to keep me focused in retirement, after a very busy and full working career. I only started taking photos of my build steps in 2022 during the SS Great Britain build. In December 2025 I started putting the individual projects into a website - basically a digital show cabinet since I ran out of physical shelf space and some models have found new homes.
 
-20 years ago, the name 4Comfort was crafted into the family company, and since then I had several other focusses using the 4Comfort name, most notably Gardens4Comfort.uk. Modelling4Comfort followed naturally.  In essence, modelling gives me great joy and comfort.  I do it for myself, it is not my desire to compete, shout out at shows, run it as a business or become a modeling guru. Modelling4Comfort is for my benefit and enjoyment, but you are welcome to share my experience and be inspired.
+20 years ago, the name 4Comfort became part of the family company, and since then I've had several other focuses using the 4Comfort name, most notably Gardens4Comfort.uk. Modelling4Comfort followed naturally. In essence, modelling gives me great joy and comfort. I do it for myself - it's not about competing, going to shows, running it as a business, or becoming a modelling guru. Modelling4Comfort is for my benefit and enjoyment, but you're welcome to share the journey and maybe get some ideas.
 
 Each model that I build have a story associated with it and is carefully selected. It preserves a memory, or brings to life an event, technical challenge or scene that is close to my heart.
 
@@ -69,15 +69,15 @@ The [Techniques]({{ '/techniques/' | relative_url }}) section documents some of 
 
 ### Documentation & Memory
 
-Projects take months or even years to complete. By documenting them online, I create a permanent record of the process - photos of stages that would otherwise be lost, notes about techniques that worked (or didn't), and a timeline of how skills evolve.  A digital showcase is more convenient and easier to access that a dusty old shelf at the back of the room.  The showcase and record is mainly for my own benefit, but you are welcome to share it.
+Projects take months or even years to complete. By putting them online, I can look back at the process - photos of stages that would otherwise be lost, notes about techniques that worked (or didn't), and seeing how things have improved over time. A digital showcase is more convenient than a dusty old shelf at the back of the room. The record is mainly for my own benefit, but you're welcome to look through it.
 
 ### Community & Learning
 
-The modeling community is incredibly generous with knowledge. I research and discover things all the time by tapping into the community.  This site is my way of giving back - sharing what I've learned so others can benefit, avoid my mistakes, and perhaps feel inspired to try something new.  It also keeps my friends and family informed.
+The modelling community is incredibly generous with knowledge. I learn things all the time by tapping into what others share. This site is my way of giving back - sharing what I've learned so others can benefit, avoid my mistakes, and perhaps feel inspired to try something new. It also keeps my friends and family in the loop.
 
 ### Accountability & Motivation
 
-Public documentation creates gentle accountability. I need to think through what I am doing, remember to record it, and keep going. When progress is visible, it motivates me and I put more thought into it. 
+Having things documented online makes me think through what I'm doing, remember to record it, and keep going. When progress is visible, it motivates me to put more thought into the next step. 
 
 ---
 

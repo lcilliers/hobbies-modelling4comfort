@@ -132,11 +132,16 @@ Perfect for diorama photography! Replace solid green backgrounds with custom ima
 | `-MaxWidth` | Int | 1920 | Maximum width in pixels |
 | `-MaxHeight` | Int | 1920 | Maximum height in pixels |
 | `-JpegQuality` | Int | 85 | JPEG quality (1-100) |
-| `-OutputSubFolder` | String | "web-optimized" | Output folder name |
+| `-OutputSubFolder` | String | "web-optimized" | Output folder path. Use **absolute paths** (UNC or drive) for precise control, or relative paths/names |
 | `-ReplaceGreenScreen` | Switch | Off | Enable green screen removal |
 | `-BackgroundImage` | String | "" | Background image path (required with -ReplaceGreenScreen) |
 | `-GreenTolerance` | Int | 10 | Green color matching tolerance (0-100) |
 | `-Recursive` | Switch | Off | Process subfolders |
+
+**⚠️ Important:** For `-OutputSubFolder`, **always use absolute paths** to avoid confusion:
+- ✅ Absolute: `"\\server\share\Web-Optimized\Folder"` or `"C:\full\path"`
+- ⚠️ Relative: `"../../Web-Optimized/Folder"` (may create unexpected locations)
+- ⚠️ Subfolder: `"web-optimized"` (creates within source folder)
 
 ## Green Screen Photography Tips
 

@@ -34,7 +34,7 @@ excerpt: "A three-month journey into scratch building: from garden waste to auth
 
 ### From Kit Builder to Scratch Builder
 
-My journey into scratch building began with Cathy's Flower House, a beautifully designed kit that introduced me to the art of making miniature plants. The kit came with everything flat-packed and indexed - all the plants, flowers, and garden equipment meticulously supplied with proper assembly guidance. I love plants, and this kit awakened something in me: the desire to create these miniature worlds myself, using materials from around my own house, tool room, and garden.
+My journey into scratch building began with Cathy's Flower House, a beautifully designed kit that introduced me to the art of making miniature plants. The kit came with everything flat-packed and indexed - all the plants, flowers, and garden equipment supplied with proper assembly guidance. I love plants, and this kit awakened something in me: the desire to create these miniature worlds myself, using materials from around my own house, tool room, and garden.
 
 At this stage, I didn't even know the terms "diorama" or "scratch build." I simply wanted to experiment with this newfound skill. Only later, through internet research, did I discover there was an entire industry of skilled and experienced enthusiasts worldwide doing exactly what I wanted to do.
 

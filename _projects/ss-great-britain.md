@@ -33,7 +33,7 @@ The SS Great Britain represents a pivotal moment in naval engineering - the firs
 
 I would love to say that my fascination with building this is related to the SS Great Britain historic significance or the engineering genius of Brunel.  It was however driven much more by the pure joy of visiting the Dockyard with the family, observing the fascination with old vessels on their faces and seeing the magnificently built model in the entrance.
 
-This simply lead to a promise that this ship is my next project for them. In no doubt this would be the most ambitious project undertaken so far, requiring new skills, extensive research, and dedication to historical accuracy.  I just assumed that I will be able to source a kit to make it easier.
+This simply led to a promise that this ship is my next project for them. No doubt this would be the most ambitious project I'd tackled so far, requiring new skills, extensive research, and figuring things out as I went. I just assumed I'd be able to source a kit to make it easier.
 
 ## Project Overview
 
@@ -42,16 +42,15 @@ This simply lead to a promise that this ship is my next project for them. In no 
 **Status:** Completed  
 **Start Date:** February 2022  
 **Completion:** May 2022  
-**Skill Level:** Advanced  
-**Difficulty:** Expert - No plans or kit, Complex rigging, iron hull detailing, steam machinery
+**Challenge Level:** Really challenging for me - No plans or kit, Complex rigging, iron hull detailing, steam machinery
 
 ## Project Goals
 
 - Source kit or build from scratch
-- Accurately represent the iron hull construction with proper plating detail
-- Reproduce the complex rigging system (combination of steam and sail)
-- Imitate the on deck features of the period
-- Weather and detail to show the ship in her prime operational period
+- Try to represent the iron hull construction with proper plating detail
+- Figure out the complex rigging system (combination of steam and sail)
+- Build the on-deck features of the period
+- Weather and detail to show the ship in her operational period
 
 I steered away from including the interiors of the ship that was equilly facinating but beyond my ambition.
 
@@ -72,7 +71,7 @@ The build process is described in more detail and include my journey into discov
 
 ## Related Projects
 
-- **[Gorch Fock training ship]({{ '/projects/german-sail-boat/' | relative_url }})** - This kit build of a sailing ship provided an excelent frame of reference, especially for the sails and rigging and different parts of the deck.
+- **Gorch Fock training ship** - This kit build of a sailing ship provided an excellent frame of reference, especially for the sails and rigging and different parts of the deck.
 
 ---
 

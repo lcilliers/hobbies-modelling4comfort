@@ -42,13 +42,13 @@ And that was it. The commission was set.
 
 This meant I needed to figure out how to make a model of an Eriba Triton caravan and a VW Golf estate - in red. It must feature my son, daughter-in-law, and Tilly, their beloved dog. Obviously on a campsite next to a river in Wales.
 
-The challenges were immediate and daunting:
-- My previous attempts at modeling figures were not very successful, especially making them resemble specific people
-- I had never modeled miniature animals
+The challenges were immediate:
+- My previous attempts at modelling figures were not very successful, especially making them resemble specific people
+- I had never modelled miniature animals
 - I had never attempted to model any type of vehicle
-- The first river I made in the log cabin was not nearly realistic enough
+- The first river I made in the log cabin wasn't nearly realistic enough
 
-There was lots to learn, lots to discover, and perhaps it was too ambitious. But the planning phase started anyway.
+There was lots to learn and lots to discover. Maybe it was too ambitious, but the planning phase started anyway.
 
 ## Project Overview
 

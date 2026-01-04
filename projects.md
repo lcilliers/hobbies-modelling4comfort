@@ -12,11 +12,11 @@ permalink: /projects/
   </div>
 </div>
 
-Welcome to my collection of modeling projects, including dioramas, scratch builds, kits and more. Each piece represents hours of careful craftsmanship, attention to detail, and creative problem-solving. I love to recycle and discover the use of new materials. From maritime vessels to gardens, english houses and tranquil nature scenes, these miniature worlds tell their own stories.
+Welcome to my collection of modelling projects - dioramas, scratch builds, kits and more. Each piece represents hours of learning, problem-solving, and figuring things out as I go. I love to recycle and discover new uses for materials. From maritime vessels to gardens, English houses and nature scenes, these miniature worlds tell their own stories.
 
 ## How to Explore Projects
 
-Each project page provides a comprehensive **overview** of the concept, goals, and final results - perfect for getting a quick understanding of what was achieved. For those who want to dive deeper into the creative process, navigate to the [Build Logs]({{ '/builds/' | relative_url }}) section where you'll find **detailed step-by-step documentation** of construction techniques, problem-solving, and methods used throughout each build. The [Techniques]({{ '/techniques/' | relative_url }}) section is currently in early stages of development, but will eventually feature standalone tutorials and tips extracted from various projects.
+Each project page gives an **overview** of the concept, what I was trying to do, and how it turned out. For those who want to dive deeper into the build process, check out the [Build Logs]({{ '/builds/' | relative_url }}) section where you'll find **step-by-step documentation** of construction methods, what worked (and what didn't), and techniques I tried. The [Techniques]({{ '/techniques/' | relative_url }}) section is in early stages of development, but will eventually feature standalone guides and tips pulled from various projects.
 
 ---
 

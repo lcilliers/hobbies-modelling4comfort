@@ -30,9 +30,9 @@ excerpt: "A Victorian cottage with authentic thatched roof set in a traditional 
 
 Coming out of my experience with the Log Cabin and Cathy's Flower House, I really wanted to practice more to make realistic miniature flowers. The first attempts in the Log Cabin were a bit of an eye opener that it would take much more practice, improved techniques and better materials. As a keen gardener, with my own beautiful garden and a huge admiration for English Country gardens, I could not select a better topic to experiment with flower making than to scratch build my own miniature garden.
 
-This project captures the romantic beauty and horticultural richness of a traditional English cottage garden. The centerpiece is a historic Victorian cottage with an authentic thatched roof, surrounded by a meticulously detailed 15m × 15m garden at 1:50 scale. The thatched roof was specifically included to practice and experiment with something different than the slate/tiled roof of the Log Cabin.
+This project captures the beauty and horticultural richness of a traditional English cottage garden. The centerpiece is a historic Victorian cottage with a thatched roof, surrounded by a 15m × 15m garden at 1:50 scale. The thatched roof was specifically included to practice and experiment with something different than the slate/tiled roof of the Log Cabin.
 
-The main focus of this build was researching and mastering techniques for creating realistic miniature flowers and plants of all kinds. The garden features over 100 different flowering plants and shrubs and a good selection of trees, each crafted to capture the unique characteristics of English cottage garden favorites.
+The main focus of this build was learning techniques for creating realistic miniature flowers and plants. The garden features over 100 different flowering plants and shrubs and a good selection of trees, each crafted to capture the characteristics of English cottage garden favorites.
 
 ## Project Overview
 
@@ -45,16 +45,15 @@ The main focus of this build was researching and mastering techniques for creati
 **Start Date:** April 13, 2024  
 **Completion:** November 30, 2024  
 **Build Duration:** 7.5 months (working in spare time alongside full-time work)  
-**Skill Level:** Advanced  
 **Primary Focus:** Realistic miniature flower and plant creation
 
 ## Why This Project?
 
-Given that this model brought together my love for plants and gardens, and my newly discovered focus on scratch building and miniaturization, it came out as a success that I can be proud of. It definitely laid the foundation for building more and different models. The enjoyment and satisfaction of doing it was really remarkable. I will select more models, to explore more and different materials and skills, build out specialist tools and discover new methods.
+Given that this model brought together my love for plants and gardens with my newly discovered focus on scratch building and miniaturization, it turned out well - something I'm genuinely pleased with. It definitely laid the foundation for building more and different models. The enjoyment and satisfaction of doing it was remarkable. I'll be selecting more models to explore different materials and skills, build out specialist tools and discover new methods.
 
 ## Project Goals
 
-- Master techniques for creating realistic miniature flowers of many varieties
+- Learn techniques for creating realistic miniature flowers of many varieties
 - Practice thatched roof construction (different from previous slate/tile work)
 - Capture the informal, densely-planted aesthetic of English cottage gardens
 - Create a fully scratch-built Victorian cottage with period details

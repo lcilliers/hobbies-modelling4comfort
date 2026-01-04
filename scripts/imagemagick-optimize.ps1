@@ -25,7 +25,11 @@
     JPEG quality percentage (1-100, default: 85)
 
 .PARAMETER OutputSubFolder
-    Name of subfolder to create for output (default: "web-optimized")
+    Output folder path. Can be either:
+    - Absolute path: "\\\\server\\share\\folder" or "C:\\full\\path"
+    - Relative subfolder name: "web-optimized" (creates within source folder)
+    - Relative path: "..\\..\\target" (relative to source folder)
+    Default: "web-optimized"
 
 .PARAMETER ReplaceGreenScreen
     Enable green screen background replacement
@@ -270,7 +274,18 @@ if ($ReplaceGreenScreen) {
 Write-Host ""
 
 # Create output folder
-$outputPath = Join-Path $SourceFolder $OutputSubFolder
+# Check if OutputSubFolder is an absolute path
+if ([System.IO.Path]::IsPathRooted($OutputSubFolder)) {
+    # Use absolute path directly
+    $outputPath = $OutputSubFolder
+} else {
+    # Treat as relative subfolder within source
+    $outputPath = Join-Path $SourceFolder $OutputSubFolder
+}
+
+# Resolve the path to handle relative paths like ..\..
+$outputPath = $ExecutionContext.SessionState.Path.GetUnresolvedProviderPathFromPSPath($outputPath)
+
 if (-not (Test-Path $outputPath)) {
     New-Item -ItemType Directory -Path $outputPath -Force | Out-Null
     Write-Success "Created output folder: $outputPath"

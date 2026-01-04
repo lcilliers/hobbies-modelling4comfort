@@ -10,7 +10,7 @@ title: Modelling4Comfort
 
 ## Welcome
 
-This is about my journey into the world of diorama modeling, scale models, and miniature craftsmanship.  The projects and this site is actively worked and may show work in progress, ideas and prompts for my own benefit.
+This is about my journey into building dioramas, scale models, and miniature scenes. I'm actively working on projects, and this site shows both finished work and things in progress - mostly notes and ideas for my own benefit.
 
 <div class="feature-image">
   <img src="{{ '/assets/images/models4comfort_deco.jpeg' | relative_url }}" alt="Model Building">
@@ -18,7 +18,7 @@ This is about my journey into the world of diorama modeling, scale models, and m
 
 ## This Site
 
-With the help of Co-Pilot using Claude Sonnet 4.5 I present you with my passion for creating detailed dioramas and other models, sharing the build process, techniques, and the creative journey of bringing miniature worlds to life. It all started off quite recently with accidentally building a model kit for my grandson, and from there it spiralled into a whole new focus, bringing much joy and comfort.
+With the help of Co-Pilot using Claude Sonnet 4.5, I'm sharing what I've been learning about building dioramas and other models. You'll find build processes, techniques I've tried, and the creative journey of bringing these miniature worlds to life. It all started quite recently when I accidentally ended up building a model kit for my grandson, and from there it spiralled into a whole new focus that brings me much joy and comfort.
 
 Here you'll find:
 

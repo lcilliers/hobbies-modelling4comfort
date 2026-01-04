@@ -47,13 +47,13 @@ The project centered around a small soap container that had been "staring me in 
 
 ## The Lookout
 
-After searching for inspiration photos of lookout cabins, I found the perfect reference image and began planning the construction. The first step was sorting bamboo sections by diameter—an essential process for maintaining consistent proportions throughout the build.
+After searching for inspiration photos of lookout cabins, I found the perfect reference image and began planning the construction. The first step was sorting bamboo sections by diameter—important for keeping consistent proportions throughout the build.
 
-The construction technique was methodical: I cut sheets from heavy paper to serve as the structural basis for walls, floor, and roof. Bamboo sticks were glued to these paper bases and shaped to form the floor, walls, door, window, and the surrounding patio. This paper-backing technique provided the stability needed while working with natural materials.
+The construction approach was straightforward: I cut sheets from heavy paper to serve as the structural basis for walls, floor, and roof. Bamboo sticks were glued to these paper bases and shaped to form the floor, walls, door, window, and the surrounding patio. This paper-backing technique provided the stability needed while working with natural materials.
 
 The walls were framed internally with thicker bamboo pieces that served as uprights, holding everything together structurally. For the roof, I used actual dried bamboo leaves glued onto the paper base, then sealed with clear matt varnish to preserve them and keep them in place. Small pieces of hessian rope were glued on top to add the authentic detail of roof tie-downs.
 
-The final structural touch was creating the railings—a delicate but crucial detail. I drilled a top and bottom railing with precisely spaced holes, then glued thin bamboo pieces into these holes to create the vertical posts. Once the railings were complete, they were fixed to the patio, completing the lookout structure.
+The final structural touch was creating the railings—delicate work but important for the look. I drilled a top and bottom railing with precisely spaced holes, then glued thin bamboo pieces into these holes to create the vertical posts. Once the railings were complete, they were fixed to the patio, completing the lookout structure.
 
 With the lookout finished, attention turned to the river scene and figures to bring the diorama to life.
 

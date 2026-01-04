@@ -41,9 +41,17 @@ Requires ImageMagick - See [../docs/guides/IMAGEMAGICK-GUIDE.md](../docs/guides/
 # Basic image optimization (MOST COMMON USE)
 .\scripts\imagemagick-optimize.ps1 -SourceFolder "C:\Path\To\Images"
 
-# Optimize with custom target folder (Web-Optimized structure)
+# Optimize with ABSOLUTE target folder (RECOMMENDED)
 .\scripts\imagemagick-optimize.ps1 `
-    -SourceFolder "\\lsuk-synrack\HomeMedia\hobbies\model building\Traditional-country-cottage\Cottage" `
+    -SourceFolder "\\lsuk-synrack\HomeMedia\hobbies\model building\Traditional-english-cottage\Cottage" `
+    -OutputSubFolder "\\lsuk-synrack\HomeMedia\hobbies\model building\Traditional-english-cottage\Web-Optimized\Cottage" `
+    -MaxWidth 800 `
+    -MaxHeight 800 `
+    -JpegQuality 85
+
+# Optimize with relative target folder (alternative)
+.\scripts\imagemagick-optimize.ps1 `
+    -SourceFolder "\\lsuk-synrack\HomeMedia\hobbies\model building\Traditional-english-cottage\Cottage" `
     -OutputSubFolder "../../Web-Optimized/Cottage" `
     -MaxWidth 800 `
     -MaxHeight 800 `
@@ -52,7 +60,7 @@ Requires ImageMagick - See [../docs/guides/IMAGEMAGICK-GUIDE.md](../docs/guides/
 # High-quality gallery images
 .\scripts\imagemagick-optimize.ps1 `
     -SourceFolder "\\lsuk-synrack\HomeMedia\hobbies\model building\project-name\Gallery" `
-    -OutputSubFolder "../../Web-Optimized/Gallery" `
+    -OutputSubFolder "\\lsuk-synrack\HomeMedia\hobbies\model building\project-name\Web-Optimized\Gallery" `
     -MaxWidth 1600 `
     -MaxHeight 1600 `
     -JpegQuality 90
@@ -67,7 +75,10 @@ Requires ImageMagick - See [../docs/guides/IMAGEMAGICK-GUIDE.md](../docs/guides/
 
 **Parameters**:
 - `SourceFolder` (required) - Folder containing images
-- `OutputSubFolder` (optional, default: "web-optimized") - Output folder name (can use relative paths like "../../Web-Optimized/subfolder")
+- `OutputSubFolder` (optional, default: "web-optimized") - Output folder. Can be:
+  - **Absolute path** (RECOMMENDED): Full UNC or drive path to exact target location
+  - Relative subfolder name: "web-optimized" (creates within source folder)
+  - Relative path: "../../Web-Optimized/subfolder" (relative to source folder)
 - `MaxWidth` (optional, default: 1920) - Maximum width in pixels
 - `MaxHeight` (optional, default: 1920) - Maximum height in pixels
 - `JpegQuality` (optional, default: 85) - Quality (1-100)
