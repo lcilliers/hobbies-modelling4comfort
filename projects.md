@@ -156,6 +156,25 @@ Each project page provides a comprehensive **overview** of the concept, goals, a
 
 <div class="project-item right-image">
   <div class="project-image-large">
+    <img src="{{ '/assets/images/projects/traditional-english-cottage/tec-gallery-006.jpg' | relative_url }}" alt="Traditional English Cottage">
+  </div>
+  <div class="project-details">
+    <h3><a href="{{ '/projects/traditional-english-cottage/' | relative_url }}">Traditional English Cottage</a></h3>
+    <p>A detailed scratch-built English cottage inspired by a 2017 photograph, brought to life using 3D visualization and architectural research. This ambitious build features authentic flint and brick walls, a complex multi-faceted roof with paper tiles, hand-crafted windows and doors, and extensive landscaping with over 40 handmade plants and trees. Built as a personal challenge to transform a 2D image into a three-dimensional model, exploring new materials and techniques throughout the build.</p>
+    <div class="project-meta">
+      <span><strong>Status:</strong> Completed October 2025</span>
+      <span><strong>Scale:</strong> 1:100</span>
+      <span><strong>Type:</strong> Scratch-Build</span>
+    </div>
+    <div class="project-buttons">
+      <a href="{{ '/projects/traditional-english-cottage/' | relative_url }}" class="project-btn project-btn-primary">Project Overview</a>
+      <a href="{{ '/builds/traditional-english-cottage/001-planning/' | relative_url }}" class="project-btn project-btn-secondary">Build Logs</a>
+    </div>
+  </div>
+</div>
+
+<div class="project-item left-image">
+  <div class="project-image-large">
     <img src="{{ '/assets/images/projects/caravaning/gallery/caravaning-gallery-011.jpg' | relative_url }}" alt="Caravaning in Wales">
   </div>
   <div class="project-details">
