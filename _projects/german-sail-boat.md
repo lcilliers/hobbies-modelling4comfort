@@ -21,7 +21,7 @@ During my research for this build, I learned about the fascinating history of th
 
 ## About the Kit
 
-I also discovered that this ship has been a popular modeling subject since the early plastic kit era in the 1950s. This detailed replica of a traditional German sailing vessel captured the elegance and craftsmanship of historical maritime engineering, giving rise to many iterations of models. It was adopted by Heller and Revell in the 1980s to create a detailed kit with some 700 parts - ideal for advanced users.  Revell re-issued several re-boxed sets in the 2000s with 1:150 to 1:350 scales.
+I also discovered that this ship has been a popular modelling subject since the early plastic kit era in the 1950s. This detailed replica of a traditional German sailing vessel captured the elegance and fine engineering of historical maritime construction, giving rise to many iterations of models. It was adopted by Heller and Revell in the 1980s to create a detailed kit with some 700 parts - quite challenging. Revell re-issued several re-boxed sets in the 2000s with 1:150 to 1:350 scales.
 
 ## My Journey with This Build
 
@@ -36,8 +36,7 @@ When I took on the build process in 2019, in desperation because it was still ly
 **Status:** Completed  
 **Start Date:** November 2019  
 **Completion:** May 2020
-**Skill Level:** Intermediate  
-**Difficulty:** Advanced - requires rigging and fine detail work
+**Challenge:** Requires rigging and fine detail work
 
 ## Project Goals
 

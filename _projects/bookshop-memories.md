@@ -24,8 +24,7 @@ Bookshop Memories is a charming DIY Book Nook Kit from BookNookKit.com, designed
 **Scale:** Approximately 1:10  
 **Status:** Completed  
 **Build Date:** February 12, 2025  
-**Build Time:** 4-5 hours  
-**Skill Level:** Beginner to Intermediate
+**Build Time:** 4-5 hours
 
 ## Kit Details
 
@@ -38,7 +37,7 @@ Bookshop Memories is a charming DIY Book Nook Kit from BookNookKit.com, designed
 - Pre-numbered parts in organized plastic pockets
 - Printed paper elements for cutting and assembly
 - LED lighting components with battery pack
-- Comprehensive instruction booklet
+- Detailed instruction booklet
 - High-quality fitting and installation
 
 ## Build Experience
@@ -71,7 +70,7 @@ The completed bookshop measures approximately the height of a mid-sized book and
 
 This kit build was particularly pleasant, offering:
 - Well-designed components with excellent fit
-- Clear, comprehensive instructions
+- Clear, detailed instructions
 - Engaging level of challenge - not boring but manageable
 - Beautiful finished display piece
 - Quality construction throughout

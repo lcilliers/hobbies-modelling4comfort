@@ -22,8 +22,7 @@ Cathy's Flower House is a charming miniature kit from Rolife featuring a detaile
 **Scale:** 1:24  
 **Status:** Completed  
 **Start Date:** December 26, 2023  
-**Completion:** January 2024  
-**Skill Level:** Beginner to Intermediate
+**Completion:** January 2024
 
 ## Kit Details
 

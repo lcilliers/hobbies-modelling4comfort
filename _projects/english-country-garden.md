@@ -261,7 +261,7 @@ The project included many first-time activities with extensive preparation, expe
 
 **Material Sourcing:** Most materials from garden, tool room, or around house. Apart from glue and paint, material cost was minimal, but material selection, collection, and preparation was much more involved.
 
-**Technique Mastery:** Built through research, trial and error, lots of patience and determination.
+**Learning Through Trial and Error:** Built through research, trying things out, lots of patience and determination.
 
 **Ferns at Miniature Scale:** Particularly challenging - required multiple experiments with different approaches.
 

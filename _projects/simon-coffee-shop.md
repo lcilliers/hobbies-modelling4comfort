@@ -81,7 +81,7 @@ Opening the box revealed impressive organization and attention to detail:
 - **Complete toolkit** - No need to hunt for special tools
 - **Quality materials** - Laser-cut parts fit precisely
 - **Thoughtful packaging** - Components organized by build stage
-- **Professional instructions** - Methodical, comprehensive, well-illustrated
+- **Really good instructions** - Clear, methodical, well-illustrated
 - **Realistic details** - Even tiny elements looked authentic
 
 The kit truly contained everything needed - a rarity in model kits.
@@ -240,7 +240,6 @@ This kit represents a different kind of modeling experience than my scratch-buil
 **Model:** Simon's Coffee Shop  
 **Recommended Age:** 14+ (accurate assessment)  
 **Build Time:** 5-8 hours for experienced builder  
-**Skill Level:** Intermediate (despite being a kit)  
 **Materials:** Laser-cut plywood, plastic components, fabric, paper  
 **Lighting:** Included (battery-powered)  
 

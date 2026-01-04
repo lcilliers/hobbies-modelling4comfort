@@ -29,8 +29,7 @@ Sea rescue services represent courage, skill, and dedication to saving lives at 
 **Scale:** 1:72  
 **Status:** In Progress - Planning Phase  
 **Start Date:** December 2025  
-**Skill Level:** Intermediate  
-**Difficulty:** Moderate - Vessel construction, water effects, weathering
+**Challenge:** Vessel construction, water effects, weathering
 
 ## Project Goals
 

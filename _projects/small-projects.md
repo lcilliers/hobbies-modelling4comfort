@@ -102,7 +102,7 @@ Sometimes that's all a project needs to be.
 
 ### The Story
 
-Our neighbor Jeff was a graphic designer and a man who'd lived through remarkable times. As a young boy during World War II, he'd developed a lifelong appreciation for careful craftsmanship and attention to detail - qualities that served him well in his career and hobbies.
+Our neighbor Jeff was a graphic designer and a man who'd lived through remarkable times. As a young boy during World War II, he'd developed a lifelong love of making things carefully and getting the details right - qualities that served him well in his career and hobbies.
 
 In 2024, Jeff passed away. While sorting through his belongings, his spouse discovered a small box in the attic: a half-built plastic model of a 1906 Renault. No instructions. No packaging indicating which kit it had been. Just pieces - some assembled, some still on sprues, some already painted.
 

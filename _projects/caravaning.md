@@ -247,7 +247,7 @@ The front nose windows were particularly hard to form given their very odd curve
 
 After several attempts to paint and smooth the body, I made the difficult decision to rip off all the windows and start the finishing process again. The paint finish wasn't smooth enough, and I could see imperfections that would be visible in the final piece.
 
-This setback was frustrating but necessary. I sanded the body down completely and started the painting process fresh, taking more time between coats and being more meticulous with sanding between layers.
+This setback was frustrating but necessary. I sanded the body down completely and started the painting process fresh, taking more time between coats and being more careful with sanding between layers.
 
 <figure class="build-image">
   <img src="{{ site.baseurl }}/assets/images/projects/caravaning/caravan/caravaning-caravan-023.jpg" alt="Completed caravan">
@@ -653,7 +653,7 @@ The resin technique was far more successful than my previous attempts. The key l
   </figure>
 </div>
 
-With all components completed, the final assembly brought everything together. Each element - the meticulously crafted caravan, the challenging car build, the figures with Tilly, the Welsh countryside vegetation, and the improved river - combined to tell the story of this family's camping adventures.
+With all components completed, the final assembly brought everything together. Each element - the carefully built caravan, the challenging car build, the figures with Tilly, the Welsh countryside vegetation, and the improved river - combined to tell the story of this family's camping adventures.
 
 ### Pride of Place Among Peers
 

@@ -247,7 +247,7 @@ It combines:
 - **Craft skill development** across multiple techniques
 - **Long-term creative commitment** to an evolving collection
 
-Each completed display becomes both a decorative art piece and an informative botanical study, capturing the beauty and character of plants through miniature craftsmanship.
+Each completed display becomes both a decorative art piece and an informative botanical study, capturing the beauty and character of plants in miniature.
 
 ---
 
