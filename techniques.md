@@ -1,258 +1,251 @@
 ---
 layout: default
-title: Techniques
+title: Techniques & Methods
 permalink: /techniques/
-published: false  # This page won't be published
-date: 2025-12-01
+published: true
+date: 2026-01-04
 ---
 
 <div class="page-banner">
-  <img src="{{ '/assets/images/projects/cathy-flower-house/cathy-flower-house-009.jpg' | relative_url }}" alt="Techniques Banner">
+  <img src="{{ '/assets/images/projects/english-country-garden/Gallery/ecg-gal-039.jpg' | relative_url }}" alt="Techniques Banner">
   <div class="banner-content">
-    <h1>Techniques</h1>
-    <p>Methods, Tips & Tutorials</p>
+    <h1>Techniques & Methods</h1>
+    <p>A Retirement Journey of Learning by Doing</p>
   </div>
 </div>
 
-## Tools & Workspace
+## The Reality Behind These Techniques
 
-### Essential Tools
+I started this modeling journey from absolute zero just a few years ago as part of my retirement. After a 50-year career that was very far removed from hands-on craft work, everything you see documented here has been built up through experimentation, research, trial and error, and countless "let's try this and see what happens" moments.
 
-My workspace includes:
+**This isn't a collection of perfect professional techniques.** Far from it. These are the methods I've stumbled upon, adapted, sometimes failed at, and occasionally gotten right. There are undoubtedly better ways to do most of these things. Many people in this hobby work at far more professional standards and should be incredibly proud of what they achieve.
 
-- **Hand tools** - Various knives, files, saws, clamps
-- **Airbrush setup** - Compressor and multiple airbrushes for fine work
-- **Brushes** - Collection ranging from 10/0 detail to 1" flat
-- **Power tools** - Dremel, mini drill press, small band saw
-- **Measurement & cutting** - Metal rulers, cutting mat, precision knives
-- **Photography equipment** - Camera, lights, green screen backdrop
+**So why document these techniques?** Because this site isn't primarily about impressing others—it's about capturing real life and creating a memory bank to look back on this journey. It's about remembering what I tried, what worked, what didn't, and how each project taught me something new. If sharing this messy, imperfect, very human learning process helps someone else on their own journey, that's a wonderful bonus.
 
-The [Techniques section]({{ '/techniques/' | relative_url }}) includes detailed tool recommendations for specific tasks.
+**What you'll find here:**
+- Honest documentation of what I actually did (not what I "should" have done)
+- Both successes and failures (the failures often teach more)
+- Workarounds when I couldn't find the "proper" materials or tools
+- Techniques that evolved across multiple projects
+- The reality that sometimes "good enough" beats "perfect but never finished"
 
-### Materials Library
-
-A growing collection of:
-
-- Paints (acrylics, enamels, oils)
-- Weathering pigments and pastels
-- Various adhesives and mediums
-- Textural materials (sand, gravel, static grass, etc.)
-- Detail parts and scratch-building supplies
-- Reference books and materials
+If you're looking for professional-grade tutorials, there are many excellent resources out there. But if you want to see what a complete beginner can learn through determination, experimentation, and accepting that mistakes are part of the process—welcome. Let's learn together.
 
 ---
 
-# Modeling Techniques & Tutorials
+## Techniques by Area
 
-A collection of detailed guides covering the techniques, methods, and skills used in diorama modeling. Learn from real-world applications across my projects.
+### 🌿 Plants & Flowers
 
-## What You'll Find Here
+Building miniature plants from scratch—one of the most challenging but rewarding aspects of dioramas. Each flower and tree represents trial, error, and gradual improvement.
 
-These aren't just theoretical tutorials - every technique documented here has been used in actual projects. Each guide includes:
+**What I've Learned:**
+- Copper wire tree construction (still improving with each build)
+- Paper flower creation (multiple methods, some work better than others)
+- Static grass application (DIY applicator that actually works)
+- Leaf creation techniques (stencils, punches, hand-cut)
+- Sawdust cluster flowers (surprisingly effective)
 
-- **Step-by-step instructions** with photos
-- **Materials and tools needed**
-- **Tips and troubleshooting** based on experience
-- **Project examples** showing real applications
-- **Skill level indicators** to help you choose appropriate techniques
+**Projects Using These:** English Country Garden (100+ plants), Traditional English Cottage (40+ plants), Log Cabin
 
-{: .techniques-intro}
+**Documentation Status:** Many techniques documented in build logs; detailed technique pages coming as I use them in future projects.
 
----
-
-## Featured Techniques
-
-### Winter Weathering Effects
-
-Learn how to create realistic snow, ice, and winter weather effects on buildings, vehicles, and landscapes.
-
-[View Full Tutorial →]({{ '/techniques/winter-weathering/' | relative_url }})
-
-**Skill Level:** Intermediate  
-**Status:** General knowledge tutorial - not yet applied to Models4Comfort projects  
-**Key Materials:** Baking soda, white glue, texture paste, white pigments
-{: .technique-card}
+[Explore Plant Build Logs →]({{ '/builds/' | relative_url }})
 
 ---
 
-### Rigging & Line Work
+### 🏠 Building & Structures
 
-Master the art of rigging sailing vessels with proper scale rope, authentic knots, and realistic tension.
+Creating miniature buildings from scratch without formal plans—learning as I go, measuring and adjusting constantly.
 
-[Tutorial Coming Soon]({{ '/techniques/rigging/' | relative_url }})
+**What I've Figured Out:**
+- Wood frame construction with paper cladding
+- Wall texturing (flint stones with modelling paste, brick patterns)
+- Multi-layer window fabrication (up to 7 layers, learned the hard way)
+- Door construction and detailing
+- Roof techniques (shingles, thatch, paper tiles)
+- Chimney building (epoxy putty first, air-dry clay later)
 
-**Skill Level:** Advanced  
-**Used in:** German Sail Boat, SS Great Britain  
-**Key Materials:** Scale rope, thread, wire, rigging jigs
-{: .technique-card}
+**Projects Using These:** Traditional English Cottage, English Country Garden cottage, Log Cabin, SS Great Britain
 
----
+**My Learning Curve:** First attempts were rough. Windows in the cottage project are much better than early tries. Still learning but getting there.
 
-### Realistic Water Effects
-
-Create convincing water surfaces from calm lakes to ocean waves using various mediums and techniques.
-
-[Tutorial Coming Soon]({{ '/techniques/water-effects/' | relative_url }})
-
-**Skill Level:** Intermediate  
-**Used in:** German Sail Boat, Riverside Cabin, Sea Rescue  
-**Key Materials:** Resin, gel medium, acrylic paste, varnish
-{: .technique-card}
+[See Building Projects →]({{ '/projects/' | relative_url }})
 
 ---
 
-### Weathering & Aging
+### 🚗 Vehicles & Transportation
 
-Transform pristine models into realistic, lived-in pieces with authentic weathering, rust, and aging effects.
+Vehicle building was completely new territory—never imagined I'd be sculpting car bodies from clay.
 
-[Tutorial Coming Soon]({{ '/techniques/weathering-aging/' | relative_url }})
+**What I Discovered:**
+- Air-dry clay for vehicle bodies (game-changer after struggling with epoxy putty)
+- Creating curved surfaces (caravan taught me a lot)
+- Windows and transparent details
+- Wheel construction techniques
+- Paint finishes and weathering for vehicles
 
-**Skill Level:** Beginner to Advanced  
-**Used in:** Most projects  
-**Key Materials:** Washes, pigments, pastels, sponges, brushes
-{: .technique-card}
+**Projects Using These:** Caravaning (Eriba caravan and VW Golf Estate—both first-time attempts)
 
----
+**Honest Assessment:** Not perfect, but I learned you can build vehicles from scratch even with zero experience. The car took three major reworks.
 
-### Tree & Vegetation Building
-
-Create realistic trees, bushes, and ground cover from scratch using natural and synthetic materials.
-
-[Tutorial Coming Soon]({{ '/techniques/trees-vegetation/' | relative_url }})
-
-**Skill Level:** Intermediate  
-**Used in:** Ancient Forest, English Country Garden, SA Farm Home  
-**Key Materials:** Wire, foam, static grass, flocking, leaves
-{: .technique-card}
+[See Caravaning Build Logs →]({{ '/builds/caravaning/001-planning-commission/' | relative_url }})
 
 ---
 
-### Base & Groundwork Construction
+### 👤 Figures & Sculpting
 
-Build solid, professional-looking bases and groundwork that enhance your diorama while providing structural support.
+Figure making has been one of the most challenging areas—proportions at miniature scale are brutally unforgiving.
 
-[Tutorial Coming Soon]({{ '/techniques/base-groundwork/' | relative_url }})
+**What I've Attempted:**
+- Wire armatures (the breakthrough that made figures possible)
+- Air-dry clay sculpting (better than my epoxy putty disasters)
+- Custom tools (figure holder to avoid squashing wet clay)
+- Proportions at different scales (still struggling with faces)
+- Painting miniature figures (paint flaking was a problem)
 
-**Skill Level:** Beginner  
-**Used in:** All projects  
-**Key Materials:** MDF, foam board, plaster, sand, gravel, texture paste
-{: .technique-card}
+**Projects Using These:** Bamboo River Lookout (girl figure), Caravaning (family and dog Tilly)
 
----
+**Reality Check:** Faces are still a challenge. Dog Tilly was my best figure work so far—sometimes animals are easier than people.
 
-## Techniques by Category
-
-### Painting & Finishing
-{: .category-header}
-
-- **[Detail Painting]({{ '/techniques/detail-painting/' | relative_url }})** - Coming Soon
-- **[Airbrushing Basics]({{ '/techniques/airbrushing/' | relative_url }})** - Coming Soon
-- **[Brush Techniques]({{ '/techniques/brush-techniques/' | relative_url }})** - Coming Soon
-- **[Washes & Filters]({{ '/techniques/washes-filters/' | relative_url }})** - Coming Soon
-- **[Weathering & Aging]({{ '/techniques/weathering-aging/' | relative_url }})** - Coming Soon
-
-### Structural Work
-{: .category-header}
-
-- **[Base & Groundwork]({{ '/techniques/base-groundwork/' | relative_url }})** - Coming Soon
-- **[Scratch Building]({{ '/techniques/scratch-building/' | relative_url }})** - Coming Soon
-- **[Kit Bashing]({{ '/techniques/kit-bashing/' | relative_url }})** - Coming Soon
-- **[Working with Plasticard]({{ '/techniques/plasticard/' | relative_url }})** - Coming Soon
-
-### Scenery & Environment
-{: .category-header}
-
-- **[Trees & Vegetation]({{ '/techniques/trees-vegetation/' | relative_url }})** - Coming Soon
-- **[Water Effects]({{ '/techniques/water-effects/' | relative_url }})** - Coming Soon
-- **[Rock & Stone Work]({{ '/techniques/rock-stone/' | relative_url }})** - Coming Soon
-- **[Winter Effects]({{ '/techniques/winter-weathering/' | relative_url }})** - Published!
-- **[Ground Textures]({{ '/techniques/ground-textures/' | relative_url }})** - Coming Soon
-
-### Ships & Nautical
-{: .category-header}
-
-- **[Rigging & Line Work]({{ '/techniques/rigging/' | relative_url }})** - Coming Soon
-- **[Sail Making]({{ '/techniques/sail-making/' | relative_url }})** - Coming Soon
-- **[Hull Preparation]({{ '/techniques/hull-prep/' | relative_url }})** - Coming Soon
-- **[Deck Planking]({{ '/techniques/deck-planking/' | relative_url }})** - Coming Soon
-
-### Tools & Materials
-{: .category-header}
-
-- **[Essential Tools]({{ '/techniques/essential-tools/' | relative_url }})** - Coming Soon
-- **[Material Selection]({{ '/techniques/materials/' | relative_url }})** - Coming Soon
-- **[Photo Backgrounds]({{ '/techniques/photo-backgrounds/' | relative_url }})** - Coming Soon
-- **[Green Screen Setup]({{ '/techniques/green-screen/' | relative_url }})** - Coming Soon
+[See Figure Build Logs →]({{ '/builds/bamboo-river-lookout/002-figures/' | relative_url }})
 
 ---
 
-## Skill Level Guide
+### 🏞️ Landscapes & Terrain
 
-**Beginner** - New to modeling or this specific technique  
-**Intermediate** - Comfortable with basic modeling skills  
-**Advanced** - Experienced modeler looking to refine specialized skills
+Base and landscape building—where every project starts and where I've learned the most about texturing and materials.
 
-Don't let skill levels intimidate you - they're just guidelines. With patience and practice, anyone can learn any technique!
+**What Works for Me:**
+- Base construction (using whatever's available—even tree planks from the garden)
+- Terrain texturing with homemade clay (flour, water, glue, vinegar)
+- Roads and paths (crushed Welsh slate, sifted sand)
+- Water effects (still experimenting—resin, varnish, paint techniques)
+- Multi-level layouts (learning to think in layers)
+- Static grass lawns (DIY applicator saved hundreds)
 
----
+**Projects Using These:** All projects—landscapes are fundamental
 
-## How to Use These Tutorials
+**Evolution:** Compare early projects to recent ones—the techniques keep improving. Zoning approach for landscaping (Traditional English Cottage) worked much better than trying to do everything at once.
 
-### For Learning
-1. **Read through completely** before starting
-2. **Gather all materials** listed
-3. **Practice on scrap** before applying to your project
-4. **Take your time** - rushing leads to mistakes
-5. **Ask questions** in the comments if you get stuck
-
-### For Reference
-- Use the **category sections** to find related techniques
-- Check **project pages** to see techniques in context
-- Browse **build logs** for real-world applications
-- Bookmark favorite tutorials for quick access
+[Browse All Projects →]({{ '/projects/' | relative_url }})
 
 ---
 
-## Tutorial Structure
+### 🎨 Finishing & Weathering
 
-Each detailed tutorial follows this format:
+Making things look real rather than toy-like—the difference between "built" and "finished."
 
-- **Overview** - What the technique achieves
-- **Difficulty & Time** - What to expect
-- **Materials & Tools** - Complete list needed
-- **Step-by-Step Process** - Detailed instructions with photos
-- **Tips & Tricks** - Lessons learned from experience
-- **Common Mistakes** - What to avoid
-- **Variations** - Alternative approaches
-- **Project Examples** - See it in real applications
-- **Further Resources** - Additional learning materials
+**Techniques I Use:**
+- Dry brushing (most-used technique across all projects)
+- Wood staining and aging
+- Brick weathering (multiple paint layers)
+- Metal aging effects
+- Integrated weathering (building it in as you go)
+- Varnishing and protective coats
 
----
+**Where I've Applied These:** Every project, but especially visible in Log Cabin chimney, Traditional English Cottage bricks, English Country Garden structures
 
-## Contribute Your Knowledge
-
-Have a technique you'd like to share? While this is primarily my personal documentation, I'm always interested in hearing about methods other modelers use. Feel free to share your approaches in the comments sections once that feature is enabled.
+**What I've Learned:** Weathering can hide imperfections. Sometimes "distressed" means "I'm covering up mistakes" but it works.
 
 ---
 
-## Coming Soon
+### 🛠️ Tools & Problem-Solving
 
-New tutorials are added regularly as I document techniques from ongoing projects. Check back often or watch the GitHub repository for updates.
+Making and modifying tools when you can't find or afford the "proper" ones—necessity breeds innovation.
 
-Priority tutorials in development:
-- Rigging & Line Work (German Sail Boat project)
-- Water Effects (Multiple projects)
-- Tree Building (Ancient Forest project)
-- Photo Backgrounds & Green Screen (Technical guide)
+**Custom Tools I've Made:**
+- DIY static grass applicator (electric fly swatter method—works brilliantly)
+- Wire twisting jigs for tree branches
+- Grass caddy for sorting thatching materials
+- Figure holder for clay work
+- Various clamps and holders from household items
+
+**Problem-Solving Approaches:**
+- Working without formal drawings (measure, fit, adjust)
+- Material substitution (when you can't find the "right" thing)
+- Test-and-refine methodology (try, fail, adjust, repeat)
+- Knowing when to pivot (car sculpting attempt #3)
+
+**Philosophy:** "Good enough" that gets finished beats "perfect" that never gets done.
+
+---
+
+### 📐 Planning & Scale Work
+
+The unglamorous but essential part—figuring out sizes, proportions, and how to translate ideas into buildable projects.
+
+**What I Do:**
+- Scale calculations (lots of math, lots of mistakes)
+- Paper prototypes (saves disaster later)
+- 3D visualization (Meshy AI for cottage was helpful)
+- Reference gathering (photos, measurements, research)
+- Material planning (learned to gather first, build later)
+
+**Projects Where This Mattered Most:** Caravaning (commission required accuracy), Traditional English Cottage (2D photo to 3D model)
+
+---
+
+## The Learning Journey Perspective
+
+**"Here's what I tried"** - not "here's the right way"  
+**"This worked for me"** - not "this is how professionals do it"  
+**"I failed three times before this"** - not hiding the struggle  
+**"I couldn't find X so I used Y"** - real-world substitutions  
+**"Still learning this"** - honest about ongoing challenges
+
+### Why This Matters
+
+If you're starting from zero like I did, seeing someone else's learning process (complete with failures and reworks) is often more helpful than watching an expert make it look effortless. Every technique here has a story of trial, error, adjustment, and eventual "good enough to move forward."
+
+### What This Isn't
+
+This isn't expert instruction—I'm not professionally trained, just learning as I go. There are probably better ways to do most of these things. Many hobbyists work at far higher standards. But if you want to see what's possible when someone starts from complete zero and just keeps experimenting... that's what this documents.
+
+---
+
+## How to Use This Section
+
+**If you're planning a project:** Check what techniques were used in similar builds—the build logs show them in context with all the messy reality.
+
+**If you're stuck on something:** Look for the problem-solving approaches and material alternatives—sometimes the workaround is better than the "proper" method.
+
+**If you're new to this:** Start with simpler kit projects first. My first scratch-build (SS Great Britain) was probably too ambitious. Learn from my overconfidence.
+
+**If you want technique details:** Build logs show techniques in action. Dedicated technique pages (coming soon) will focus on specific methods once I've used them enough times to have learned what works.
+
+---
+
+## What's Coming
+
+As I continue building new projects, I'll document techniques with better photo coverage and clearer explanations. Each new build is an opportunity to improve both the technique and the documentation.
+
+**Priority techniques to document properly:**
+- Copper wire tree construction (used in 4+ projects now)
+- Static grass application with DIY applicator
+- Multi-layer window fabrication
+- Air-dry clay vehicle building
+- Paper flower creation methods
+
+**Future projects will help document:**
+- Water effects (Sea Rescue project)
+- Advanced weathering
+- Maritime techniques (if I return to ships)
+
+---
+
+## Contributing to This Journey
+
+This is primarily my personal memory bank, but if you're following along on your own journey, I'd love to hear what worked for you, what you tried differently, or what you discovered. When comments are enabled, share your experiences—we're all learning together.
 
 ---
 
 ## Related Pages
 
-- **[Projects Gallery]({{ '/projects/' | relative_url }})** - See techniques in finished projects
-- **[Build Logs]({{ '/builds/' | relative_url }})** - Watch techniques being applied in real-time
-- **[About]({{ '/about/' | relative_url }})** - Learn about my modeling journey
+- **[Projects Gallery]({{ '/projects/' | relative_url }})** - See where techniques are applied
+- **[Build Logs]({{ '/builds/' | relative_url }})** - Watch techniques being used in real-time with all the mistakes included
+- **[About]({{ '/about/' | relative_url }})** - More about this retirement journey from zero
 
 ---
 
-*Tutorials are being added progressively. The Winter Weathering guide is now available, with more coming soon!*
+*This section grows as the journey continues. Every project teaches something new. Every technique evolves. That's the point.*
