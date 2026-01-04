@@ -24,6 +24,8 @@ This cottage was an excellent representation of the building style in the region
 
 A key challenge was to visualise and structure a 3D model from a 2D image. I attempted to scan the 2D house into a Meshy AI to convert it. It came up with some interesting representations of the other side of the house that is not in the photo. Using the views from the different angles that Meshy came up with was very handy. However, I did not manage to go one step further to create full scaled drawings electronically, my skills just did not allow for it.
 
+![Meshy AI 3D conversion from 2D photo](/assets/images/projects/traditional-english-cottage/tec-planning-2d-3d.jpg)
+
 Failing to prepare drawings, I decided to make each wall and facade separately, with reference to the Meshy images, constantly fitting them together to confirm the measurements and design.
 
 ## Architectural Research
