@@ -31,6 +31,12 @@ I started this modeling journey from absolute zero just a few years ago as part 
 
 If you're looking for professional-grade tutorials, there are many excellent resources out there. But if you want to see what a complete beginner can learn through determination, experimentation, and accepting that mistakes are part of the process—welcome. Let's learn together.
 
+<div class="feature-image">
+  <img src="{{ '/assets/images/techniques/techniques-001.jpg' | relative_url }}" alt="Inspiring the next generation">
+</div>
+
+It gives me great joy to inspire the next generation and let them use my tools. Watching young hands discover the satisfaction of creating something, learning to be patient with the process, and seeing their confidence grow—this might be one of the most rewarding parts of the whole journey.
+
 ---
 
 ## Techniques by Area
