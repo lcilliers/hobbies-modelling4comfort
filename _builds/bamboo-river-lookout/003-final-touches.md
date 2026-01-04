@@ -126,8 +126,8 @@ The project achieved its goals:
 
 Looking at the finished project, several insights stand out:
 
-**What worked exceptionally well:**
-- Natural materials (bamboo, dried leaves) provided authentic texture and appearance
+**What worked really well:**
+- Natural materials (bamboo, dried leaves) gave good texture and appearance
 - Paper-backing technique solved bamboo construction challenges
 - Wire armature approach showed promise for future figures
 - Custom tools (figure holder) solved specific challenges
@@ -141,7 +141,7 @@ Looking at the finished project, several insights stand out:
 - Tool selection and material knowledge
 
 **The bigger picture:**
-This project proved that effective miniature modeling isn't just about technical perfection—it's about:
+This project proved that miniature modelling isn't just about getting everything perfect—it's about:
 - Creative problem-solving
 - Working with materials at hand
 - Telling a story through small details

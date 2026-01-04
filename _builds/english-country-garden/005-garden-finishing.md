@@ -184,7 +184,7 @@ The enjoyment and satisfaction of doing it was really remarkable. I will select 
 
 The combination of:
 - Personal passion (gardening) meeting new hobby (miniature building)
-- Challenge of mastering entirely new techniques (flower making, thatching)
+- Challenge of learning entirely new techniques (flower making, thatching)
 - Satisfaction of creating something from repurposed and found materials
 - Journey of discovery - learning what's possible at miniature scale
 - Building confidence through iterative problem-solving
@@ -200,11 +200,11 @@ Most importantly, it established a foundation of skills and confidence for futur
 
 ## The Completed Garden
 
-After 7.5 months of research, experimentation, crafting, and composition, the English Country Garden project was complete. A Victorian cottage with authentic thatched roof sits surrounded by a lush garden of over 100 handcrafted plants, each telling the story of technique mastered and creativity applied.
+After 7.5 months of research, experimentation, crafting, and composition, the English Country Garden project was complete. A Victorian cottage with thatched roof sits surrounded by a lush garden of over 100 handcrafted plants, each telling the story of techniques learned and creativity applied.
 
-From the bright blue clematis on the arch drawing the eye, through the varied heights and textures of herbaceous borders, past the stone wall and wooden gate, up the slate pathway and cement steps - every element contributes to capturing the romantic beauty and horticultural richness of a traditional English cottage garden.
+From the bright blue clematis on the arch drawing the eye, through the varied heights and textures of herbaceous borders, past the stone wall and wooden gate, up the slate pathway and cement steps - every element contributes to capturing the beauty and horticultural richness of a traditional English cottage garden.
 
-The project stands as both an achievement in miniature building and a personal milestone in the journey from model kit builder to confident scratch-build artist.
+The project turned out well - something I'm genuinely pleased with - and marks a personal milestone in the journey from model kit builder to someone who can scratch-build.
 
 ---
 
@@ -212,4 +212,4 @@ The project stands as both an achievement in miniature building and a personal m
 
 **View:** [English Country Garden Project Page](/projects/english-country-garden/) for full overview and gallery
 
-*"Given that this model brought together my love for plants and gardens, and my newly discovered focus on scratch building and miniaturization, it came out as a success that I can be proud of."*
+*"Given that this model brought together my love for plants and gardens with my newly discovered focus on scratch building and miniaturization, it turned out well - something I'm genuinely pleased with."*

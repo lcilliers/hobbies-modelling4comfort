@@ -54,9 +54,9 @@ Illustrated by AI: assets\images\projects\sea-rescue\planning\sr-pln-001.jpg.  T
 
 ### RNLI History
 
-The Royal National Lifeboat Institution (RNLI) has saved over 146,000 lives at sea since its founding in 1824, celebrating its 200th anniversary in 2024. This volunteer-run charity operates across the UK and Ireland with a fleet of lifeboats ranging from small inshore craft to large all-weather vessels. The unique designs of RNLI rescue boats have evolved through multiple iterations, with each generation incorporating lessons learned from countless rescues. The Shannon class represents the latest advancement in lifeboat design, featuring self-righting capabilities, advanced navigation systems, and exceptional sea-keeping abilities.
+The Royal National Lifeboat Institution (RNLI) has saved over 146,000 lives at sea since its founding in 1824, celebrating its 200th anniversary in 2024. This volunteer-run charity operates across the UK and Ireland with a fleet of lifeboats ranging from small inshore craft to large all-weather vessels. The unique designs of RNLI rescue boats have evolved through multiple iterations, with each generation incorporating lessons learned from countless rescues. The Shannon class represents the latest advancement in lifeboat design, featuring self-righting capabilities, advanced navigation systems, and impressive sea-keeping abilities.
 
-For a comprehensive overview of RNLI's remarkable history and modern operations, watch [RNLI: 200 Years of Saving Lives at Sea](https://www.youtube.com/watch?v=oc9xrDAgo38).
+For an overview of RNLI's history and modern operations, watch [RNLI: 200 Years of Saving Lives at Sea](https://www.youtube.com/watch?v=oc9xrDAgo38).
 
 ### Vessels Type Options
 

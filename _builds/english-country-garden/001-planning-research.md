@@ -33,9 +33,9 @@ build_log_menu:
 
 Coming out of my experience with the Log Cabin and Cathy's Flower House, I really wanted to practice more to make realistic miniature flowers. The first attempts in the Log Cabin were a bit of an eye opener that it would take much more practice, improved techniques and better materials. As a keen gardener, with my own beautiful garden and a huge admiration for English Country gardens, I could not select a better topic to experiment with flower making than to scratch build my own miniature garden.
 
-This project must capture the romantic beauty and horticultural richness of a traditional English cottage garden. The centerpiece would be a historic Victorian cottage with an authentic thatched roof (approximately 11cm high), surrounded by a meticulously detailed 15m × 15m garden at 1:50 scale. The thatched roof was specifically included to practice and experiment with something different than the slate/tiled roof of the Log Cabin.
+This project would capture the beauty and horticultural richness of a traditional English cottage garden. The centerpiece would be a historic Victorian cottage with a thatched roof (approximately 11cm high), surrounded by a 15m × 15m garden at 1:50 scale. The thatched roof was specifically included to practice and experiment with something different than the slate/tiled roof of the Log Cabin.
 
-The main focus of this build was researching and mastering techniques for creating realistic miniature flowers and plants of all kinds. The garden would feature over 100 different flowering plants and shrubs and a good selection of trees, each crafted to capture the unique characteristics of English cottage garden favorites.
+The main focus of this build was learning techniques for creating realistic miniature flowers and plants. The garden would feature over 100 different flowering plants and shrubs and a good selection of trees, each crafted to capture the characteristics of English cottage garden favorites.
 
 ## Scale Selection and Layout Planning
 
@@ -171,7 +171,7 @@ Research revealed that flowers could be categorized by shape, which would inform
 
 <div style="text-align: center; margin: 20px 0;">
   <img src="{{ '/assets/images/projects/english-country-garden/planning/training-and-references/ecg-plan-ref-014.jpg' | relative_url }}" alt="Flower shape categories" style="max-width: 100%;">
-  <div class="caption">Comprehensive guide to flower shapes informing construction methods</div>
+  <div class="caption">Guide to flower shapes informing construction methods</div>
 </div>
 
 This categorization became essential for planning which technique to use for each plant variety.

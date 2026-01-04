@@ -44,7 +44,7 @@ The fundamental issue was working without proper structural support, which made 
 
 ## Discovery: Wire Armatures
 
-The breakthrough came when I decided to create a wire armature first and then layer air-dry clay onto this frame. This technique, common in professional figure sculpting, provided:
+The breakthrough came when I decided to create a wire armature first and then layer air-dry clay onto this frame. This technique provided:
 
 - **Internal structure** that maintained proportions
 - **Support during handling** without distorting the clay

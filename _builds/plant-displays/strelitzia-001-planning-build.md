@@ -59,4 +59,4 @@ The bird of paradise presents interesting construction challenges:
 
 ---
 
-*One of the more visually striking plants in the collection. Construction methods are being developed to capture the exotic, architectural quality of this remarkable flower.*
+*One of the more visually striking plants in the collection. Construction methods are being developed to capture the exotic, architectural quality of this distinctive flower.*

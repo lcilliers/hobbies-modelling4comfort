@@ -23,7 +23,7 @@ progress_images:
 
 ## Project Overview
 
-The daffodil display is part of the ongoing Plant Displays Series, featuring this classic spring bulb (*Narcissus*) with its distinctive bright yellow trumpet flowers. This build log documents the planning, material collection, and construction progress for creating a comprehensive botanical display.
+The daffodil display is part of the ongoing Plant Displays Series, featuring this classic spring bulb (*Narcissus*) with its distinctive bright yellow trumpet flowers. This build log documents the planning, material collection, and construction progress for creating a detailed botanical display.
 
 ## Current Status
 

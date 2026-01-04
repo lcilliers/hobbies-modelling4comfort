@@ -87,7 +87,7 @@ Natural materials were strengthened and preserved by dipping them in watery clea
 
 ### Understanding Flower Construction
 
-Selecting the methods for making flowers were largely centered around shapes, illustrated by the comprehensive guide developed during research:
+Selecting the methods for making flowers were largely centered around shapes, illustrated by the guide developed during research:
 
 <div style="text-align: center; margin: 20px 0;">
   <img src="{{ '/assets/images/projects/english-country-garden/planning/training-and-references/ecg-plan-ref-014.jpg' | relative_url }}" alt="Flower shape guide" style="max-width: 100%;">
@@ -392,7 +392,7 @@ With the majority of the plants and structures created, it was time to get more 
 
 **Time Investment:** Each plant took significant time, from material prep to assembly. Over 100 individual plants represented many, many hours of detailed work.
 
-**Technique Mastery:** Built through research, trial and error, patience, and determination.
+**Learning Through Trial and Error:** Built through research, trying things out, patience, and determination.
 
 **Material Innovation:** Finding the right paper weight, wire gauge, or natural material for each plant type required ongoing experimentation.
 

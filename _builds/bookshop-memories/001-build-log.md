@@ -17,11 +17,11 @@ On February 12, 2025, I began assembling this delightful Bookshop Memories kit f
 
 ## Unboxing and First Impressions
 
-Opening the book-sized box revealed a meticulously organized kit. All parts were pre-numbered and neatly packed in individual plastic pockets, demonstrating the professional quality BookNookKit.com is known for.
+Opening the book-sized box revealed a really well-organized kit. All parts were pre-numbered and neatly packed in individual plastic pockets, showing the quality BookNookKit.com is known for.
 
 <div class="image-single">
   <img src="{{ 'assets/images/projects/bookshop-memories/bsm-001.jpg' | relative_url }}" alt="Kit contents laid out">
-  <div class="caption">Kit contents: laser-cut wooden parts, printed elements, lighting components, and comprehensive instructions</div>
+  <div class="caption">Kit contents: laser-cut wooden parts, printed elements, lighting components, and detailed instructions</div>
 </div>
 
 ### Kit Components
@@ -46,7 +46,7 @@ My approach to kit building, developed over previous projects, proved valuable h
 
 ## Assembly Process
 
-The build followed the instruction booklet meticulously, with each step involving:
+The build followed the instruction booklet carefully, with each step involving:
 
 ### Part Preparation
 
@@ -127,7 +127,7 @@ BookNookKit.com launched in 2018 and has grown to offer over 100 different model
 - Distinctive design style
 - Laser-cut wooden components
 - Attention to detail
-- Comprehensive instructions
+- Detailed instructions
 - Excellent quality control
 
 **Note:** While the specific Bookshop Memories model I built may no longer be available, BookNookKit.com's extensive portfolio includes many similar designs maintaining the same high standards of quality and detail.

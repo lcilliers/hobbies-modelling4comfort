@@ -23,7 +23,7 @@ progress_images:
 
 ## Project Overview
 
-Ranunculus flowers feature stunning, densely layered petals creating a rose-like appearance with exceptional depth and texture. The multiple thin petal layers present significant construction challenges at miniature scale.
+Ranunculus flowers feature stunning, densely layered petals creating a rose-like appearance with depth and texture. The multiple thin petal layers present significant construction challenges at miniature scale.
 
 ## Current Status: Active Construction
 

@@ -227,7 +227,7 @@ I made the call: **rip off all the windows and start the finishing process again
 
 **Emotional cost:** Significant. Questioning abilities. Wondering if I should have just accepted the first attempt.
 
-**Was it worth it?** Absolutely. The final finish was smooth, even, and professional-looking.
+**Was it worth it?** Absolutely. The final finish was smooth and even - looked much better.
 
 **Lesson:** In commissioned work, your standards matter more than your timeline. The client is trusting you with their memories.
 

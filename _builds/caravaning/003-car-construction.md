@@ -100,7 +100,7 @@ These calculations were critical - get the proportions wrong and it won't read a
 
 Following my usual process, I created a paper prototype to establish the footprint and visualize the estate body extending beyond the sedan.
 
-**The moment of doubt:** Comparing my rough paper cutout to the beautifully finished red model, my heart sank into my shoes. The reference model looked professional, smooth, perfect. My paper template looked... like paper.
+**The moment of doubt:** Comparing my rough paper cutout to the beautifully finished red model, my heart sank into my shoes. The reference model looked so polished and smooth. My paper template looked... like paper.
 
 How was I going to achieve that level of finish working from scratch?
 

@@ -452,7 +452,7 @@ During scenery construction, I made several custom tools:
 - Reference gathering for natural landscapes
 - Understanding landscape composition
 
-**Important Lesson:** Scenery is about suggestion and layers. You're creating the *impression* of a landscape, not recreating every blade of grass. Strategic detail work beats comprehensive coverage.
+**Important Lesson:** Scenery is about suggestion and layers. You're creating the *impression* of a landscape, not recreating every blade of grass. Strategic detail work beats trying to cover everything.
 
 ---
 

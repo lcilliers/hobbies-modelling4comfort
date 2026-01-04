@@ -8,7 +8,7 @@ excerpt: "Complete build documentation has been incorporated into the main proje
 
 ## Build Documentation Moved
 
-The complete build process for the Log Cabin in the Woods project has been incorporated into the main project page as a comprehensive narrative with 9 detailed chapters.
+The complete build process for the Log Cabin in the Woods project has been incorporated into the main project page as a detailed narrative with 9 chapters.
 
 **[View the complete Log Cabin project story →]({{ '/projects/log-cabin/' | relative_url }})**
 
