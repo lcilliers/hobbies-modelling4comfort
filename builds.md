@@ -16,6 +16,10 @@ date: 2025-12-01
 
 Welcome to the workshop! Build logs take you behind the scenes of each project, documenting the entire creative journey from initial concept through to final touches. Here you'll find detailed progress updates, step-by-step construction techniques, problem-solving insights, and honest reflections on what worked (and what didn't). If you want to understand *how* these miniature worlds come to life, this is where the real story unfolds.
 
+<div class="feature-image">
+  <img src="{{ '/assets/images/builds/builds-001.jpg' | relative_url }}" alt="Workshop detail">
+</div>
+
 ---
 
 ## Active Projects
