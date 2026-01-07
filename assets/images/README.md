@@ -15,14 +15,21 @@
 
 **Three required sections separated by hyphens:**
 1. **Prefix** - Shortened project name (2-4 characters, lowercase)
+   - Find the prefix in `assets/images/projects/` folder structure
+   - Examples: `sr` (sea-rescue), `ss-gb` (ss-great-britain), `ecg` (english-country-garden)
+   
 2. **Category** - The subfolder name where the image is stored (lowercase)
+   - **CRITICAL:** This is the OUTPUT folder you choose during optimization
+   - The folder name you specify IS the category - don't create additional subfolders
+   - Examples: `fishing_trawler`, `rnli_boat`, `planning`, `gallery`, `build1`
+   
 3. **Number** - Three digits (001, 002, 003)
 
 **CRITICAL: Category = Subfolder Name**
 - The category MUST match the subfolder where the image is stored
-- Example: File in `planning/` folder → category is `planning` → filename `tec-planning-001.jpg`
-- Example: File in `build1/` folder → category is `build1` → filename `tec-build1-001.jpg`
-- If there are sub-subfolders within a category folder, ignore them for naming - all files in that category should be sequential
+- Example: File in `planning/` folder → category is `planning` → filename `sr-planning-001.jpg`
+- Example: File in `fishing_trawler/` folder → category is `fishing_trawler` → filename `sr-fishing_trawler-001.jpg`
+- **DO NOT create extra subfolders:** If you optimize to `optimized\fishing_trawler\`, files go DIRECTLY there (not in `optimized\fishing_trawler\build\`)
 
 **Examples of CORRECT naming:**
 ```

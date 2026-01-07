@@ -22,14 +22,29 @@ build_log_menu:
 
 ## Build Approach
 
-Based on the research findings, the second option will be used by adapting plans and convert them to scale cutting sheets for the boat. From these plans 
+Based on the research findings, the second option will be used by adapting plans and convert them to scale cutting sheets for the boat.
+
 I'm constructing a small coastal fishing trawler approximately 13cm in length at 1:84 scale (representing a 11.4m vessel). This boat will appear weathered and in distress, listing slightly to add drama to the rescue scene.
 
-The main construction will be balsawood.
+![fishing trawler]({{ 'assets/images/projects/sea-rescue/fishing-trawler/sr-fishing_trawler-017.jpg' | relative_url }})
+*illustrative trawler from the plans*
+
+The main construction will be a mixture of wood strips cut from bayleaf and apple trees, balsawood and bamboo.
 
 ### Plan conversion
 
-The trawler plans are printed and then hand drawn to scale on graphical paper focussing on drawing all the parts to be cut out of balsa wood. This will take some time.
+The trawler plans are printed and then partly hand drawn to scale on graphical paper focussing on drawing all the parts to be manufactured.
+
+![cutting sheets]({{ 'assets/images/projects/sea-rescue/fishing-trawler/sr-fishing_trawler-020.jpg' | relative_url }})
+*converting the plans to a cutting sheet*
+
+All the measurements are lifted from the plans and converted in tables to  the scale.
+
+![scale conversion main structure]({{ 'assets/images/projects/sea-rescue/fishing-trawler/sr-fishing_trawler-009.jpg' | relative_url }})
+*converting the main hull measurements from the plans to scale*
+
+![scale conversion hull segments]({{ 'assets/images/projects/sea-rescue/fishing-trawler/sr-fishing_trawler-010.jpg' | relative_url }})
+*converting the segments of the hull measurements from the plans to scale*
 
 ### Parts list
 
@@ -37,7 +52,29 @@ Fishing Trawler Parts (Scale 1:75, ~10 cm length)
 
 #### Hull & Superstructure
    
-- Hull: Main body of the vessel. Approx. Size: 10 cm long, 3 cm beam, 2.5 cm depth. Material: Wood, card, or styrene.
+- Hull: Main body of the vessel. Approx. Size: 10 cm long, 3 cm beam, 2.5 cm depth. Material: Wood
+
+The Bullheads are cut out of left over three ply sheets.  First the items are traced to paper, and then cut out, making sure the two parts of each item is identical. Then glueing it to the three ply and cutting it out with the scroll saw.
+
+![cutting templates ]({{ 'assets/images/projects/sea-rescue/fishing-trawler/sr-fishing_trawler-013.jpg' | relative_url }})
+*paper templates of cutting sheet*
+
+![Scroll saw cutting ]({{ 'assets/images/projects/sea-rescue/fishing-trawler/sr-fishing_trawler-014.jpg' | relative_url }})
+*cutting the small pieces on the scroll saw using wooden fork as fingers to hold pieces down*
+
+![Bullheads sections ]({{ 'assets/images/projects/sea-rescue/fishing-trawler/sr-fishing_trawler-015.jpg' | relative_url }})
+*Bullheads after cutting*
+
+- Keel
+
+The keel is measured and cut from strips of wood.  The wood is planed to a consistent thickness of 5mm, sanded and then cut with a then cut to size with the correct angles with a miter shear.
+
+![wood strips]({{ 'assets/images/projects/sea-rescue/fishing-trawler/sr-fishing_trawler-016.jpg' | relative_url }})
+*Strips of wood prepared in different sizes from apple tree and bayleaf tree*
+
+refer to techniques:  
+
+
 - Bulwarks & Gunwale: Raised sides for safety. Approx. Height: 3–4 mm above deck.
 - Deck: Working surface. Fits hull interior.
 - Wheelhouse / Bridge: Navigation and control. Approx. Size: 2 cm × 1.5 cm × 1.8 cm. Includes windows, roof hatch, door.

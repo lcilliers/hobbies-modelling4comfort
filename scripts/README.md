@@ -199,22 +199,60 @@ A comprehensive set of 18 PowerShell scripts for managing plant display document
 
 ---
 
-## �🔄 Recommended Workflow
+## �🔄 Recommended Workflow for Image Optimization & Naming
+
+### CRITICAL: Image Naming Convention
+
+**ALWAYS use this 3-part format:** `[prefix]-[category]-[###].jpg`
+
+1. **Prefix** = Project abbreviation from assets/images/projects/ (2-4 chars)
+   - sea-rescue → `sr`
+   - ss-great-britain → `ss-gb`
+   - english-country-garden → `ecg`
+   - log-cabin → `log-cabin` (already short)
+   
+2. **Category** = The OUTPUT subfolder name you specify (NOT a subfolder you create inside it)
+   - Examples: `fishing_trawler`, `rnli_boat`, `planning`, `gallery`, `build1`
+   
+3. **Number** = Three digits (001, 002, 003)
+
+**Example Correct Workflow:**
+```powershell
+# 1. Optimize to target: optimized\fishing_trawler\
+# 2. Category IS "fishing_trawler" (the folder name you specified)
+# 3. Files get renamed: sr-fishing_trawler-001.jpg, sr-fishing_trawler-002.jpg, etc.
+```
+
+**WRONG - DO NOT create additional subfolders:**
+```powershell
+# ❌ DO NOT put files in: optimized\fishing_trawler\build\
+# ❌ This creates wrong category "build" instead of "fishing_trawler"
+```
 
 ### Step 1: Optimize Images with ImageMagick
 
-**For each source folder**, run the ImageMagick optimization script:
+**OutputSubFolder name becomes the category - choose it carefully!**
 
 ```powershell
-# Example: Optimize Cottage construction photos (build log images)
+# Example 1: Sea-rescue fishing trawler photos (uses "sr" prefix)
+.\scripts\imagemagick-optimize.ps1 `
+    -SourceFolder "\\lsuk-synrack\HomeMedia\hobbies\model building\sea-rescue\Images\Fishing_trawler\" `
+    -OutputSubFolder "\\lsuk-synrack\HomeMedia\hobbies\model building\sea-rescue\Images\optimized\fishing_trawler\" `
+    -MaxWidth 800 `
+    -MaxHeight 800 `
+    -JpegQuality 85
+# Result: Images in optimized\fishing_trawler\ ready for naming as sr-fishing_trawler-###.jpg
+
+# Example 2: Cottage construction photos (build log images)
 .\scripts\imagemagick-optimize.ps1 `
     -SourceFolder "\\lsuk-synrack\HomeMedia\hobbies\model building\Traditional-country-cottage\Cottage" `
     -OutputSubFolder "../../Web-Optimized/Cottage" `
     -MaxWidth 800 `
     -MaxHeight 800 `
     -JpegQuality 85
+# Result: Images in Web-Optimized\Cottage\ ready for naming as tec-cottage-###.jpg
 
-# Example: Optimize Gallery photos (showcase images)
+# Example 3: Gallery photos (showcase images)
 .\scripts\imagemagick-optimize.ps1 `
     -SourceFolder "\\lsuk-synrack\HomeMedia\hobbies\model building\Traditional-country-cottage\Gallery" `
     -OutputSubFolder "../../Web-Optimized/Gallery" `
@@ -223,26 +261,50 @@ A comprehensive set of 18 PowerShell scripts for managing plant display document
     -JpegQuality 90
 ```
 
-### Step 2: Review Optimized Images
-Check the output in the Web-Optimized folder:
-```
-\\lsuk-synrack\HomeMedia\hobbies\model building\[project-name]\Web-Optimized\
-```
+### Step 2: Rename Images with Correct Convention
 
-### Step 3: Select Images for Site
-Decide which optimized images to use on the website (you may not need all of them).
-
-### Step 4: Copy Selected Images to Website
-Manually copy selected optimized images to your website assets folder:
+**The output folder name IS your category. Rename files directly in that folder.**
 
 ```powershell
-# Copy optimized images to website assets
-Copy-Item "\\lsuk-synrack\HomeMedia\hobbies\model building\project-name\Web-Optimized\subfolder\*" `
-    -Destination "\\ukwsdev07\e$\Models4Comfort\assets\images\projects\project-name\"
+# Manual rename (if needed) - files should be in the output folder directly
+# Example: Files in optimized\fishing_trawler\
+cd "\\lsuk-synrack\HomeMedia\hobbies\model building\sea-rescue\Images\optimized\fishing_trawler"
+$files = Get-ChildItem -File | Sort-Object Name
+$counter = 1
+foreach ($file in $files) {
+    $newName = "sr-fishing_trawler-{0:D3}.jpg" -f $counter
+    Rename-Item -Path $file.FullName -NewName $newName
+    $counter++
+}
+```
+
+**Key Points:**
+- Files must be DIRECTLY in the output folder (e.g., `optimized\fishing_trawler\`)
+- Do NOT create subfolders like `optimized\fishing_trawler\build\` 
+- The folder name becomes the category: `fishing_trawler` → `sr-fishing_trawler-###.jpg`
+- Use the project's prefix from assets/images/projects/ structure
+
+### Step 3: Review Optimized & Renamed Images
+Check the output folder - files should be directly in it with correct naming:
+```
+\\lsuk-synrack\HomeMedia\hobbies\model building\sea-rescue\Images\optimized\fishing_trawler\
+  sr-fishing_trawler-001.jpg
+  sr-fishing_trawler-002.jpg
+  sr-fishing_trawler-003.jpg
+  ...
+```
+
+### Step 4: Copy Selected Images to Website
+Copy optimized and renamed images to your website assets folder:
+
+```powershell
+# Copy to website assets (maintain the project structure)
+Copy-Item "\\lsuk-synrack\HomeMedia\hobbies\model building\sea-rescue\Images\optimized\fishing_trawler\*" `
+    -Destination "\\ukwsdev07\e$\Models4Comfort\assets\images\projects\sea-rescue\fishing_trawler\"
 ```
 
 ### Step 5: Create Project Markdown Files
-Create markdown files in `_projects/` for each diorama project following the [Source-Narrative Methodology](../docs/methodology/SOURCE-NARRATIVE-METHODOLOGY.md).
+Create markdown files in `_projects/` or `_builds/` following the [Source-Narrative Methodology](../docs/methodology/SOURCE-NARRATIVE-METHODOLOGY.md).
 
 ---
 

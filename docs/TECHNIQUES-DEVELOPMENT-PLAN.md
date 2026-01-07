@@ -1,5 +1,6 @@
 # Techniques Section Development Plan
 **Date:** January 4, 2026  
+**Last Updated:** January 7, 2026  
 **Purpose:** Comprehensive strategy for building out the Techniques section based on 90% completed project documentation
 
 ---
@@ -13,6 +14,57 @@ With 90% of your projects documented, we now have a rich repository of 150+ tech
 3. **Documentation Strategy** - Handling past techniques (no photos) vs future techniques
 4. **Priority Roadmap** - Which techniques to document first
 5. **Content Templates** - Consistent structure for technique pages
+6. **Community Research** - How others handle similar challenges
+7. **Cross-Referencing Strategy** - Connecting techniques with build logs
+
+---
+
+## Research: How Others Handle Technique Documentation
+
+### Scale Modeling Communities
+
+**Britmodeller, Model Ship World, and similar forums use:**
+
+**Reference-Based Model** (Most Common & Sustainable)
+- **Technique articles**: Brief methodology explaining the "what" and "why"
+- **Build logs**: Detailed photo documentation showing the "how" in real context
+- **Cross-linking**: Techniques reference specific build log sections as examples
+
+**Why This Works:**
+- ✅ Single source of truth - detailed photos live where work was actually done
+- ✅ Natural narrative - techniques shown in context of real builds
+- ✅ Lower maintenance - no duplicate photo management
+- ✅ Flexible - multiple examples of same technique from different projects
+- ✅ Authentic - shows real results in real projects, not staged tutorials
+
+### Woodworking Publications
+
+**Fine Woodworking, Wood Magazine approach:**
+- **Technique articles**: Core reference with key photos (2-4 images)
+- **Project articles**: Full step-by-step in project context
+- **Insight**: They rarely duplicate full photo sequences - technique articles focus on principles, project articles show application
+
+### Software Documentation Pattern
+
+- **Reference (Techniques)**: What it does, parameters, when to use
+- **Tutorials (Builds)**: How to use it in real scenarios, complete context
+- **Cross-links both ways**: Reference links to tutorials, tutorials link to reference
+
+### Key Insight: What Prevents "Running Away"
+
+**When to Create Dedicated Technique Page:**
+- ✅ Used in 3+ projects (shows it's a core technique)
+- ✅ Has good photo documentation from at least one project
+- ✅ Complex enough to warrant standalone explanation
+- ✅ Frequently referenced by other techniques
+
+**When to Keep it Build-Log-Only:**
+- Simple, self-explanatory techniques
+- One-off experimental approaches
+- Techniques still evolving
+- Limited photo documentation
+
+**This approach prevents overwhelming documentation burden** while still providing value
 
 ---
 
@@ -700,7 +752,83 @@ This technique is documented in:
 
 ---
 
-## Part 8: Recommended Action Plan
+## Part 8: Cross-Referencing Strategy
+
+### Philosophy: Bidirectional Linking
+
+Create connections both ways so users can navigate from either direction:
+- **From technique page** → to build logs showing application
+- **From build log** → to technique pages for detailed methodology
+
+### Markdown Examples for Build Logs
+
+**Pattern 1: Inline Technique Reference**
+```markdown
+I used the [copper wire tree construction](/techniques/copper-wire-trees/) 
+technique, working from wire armatures up through the branching structure.
+```
+
+**Pattern 2: Technique Callout**
+```markdown
+### Weathering the Timber
+
+For the aged wood effect, I applied the [dry brushing weathering](/techniques/dry-brushing/) 
+approach I'd refined in previous projects.
+
+**Technique Note:** See [Dry Brushing Weathering](/techniques/dry-brushing/) 
+for detailed methodology.
+```
+
+**Pattern 3: Multiple Techniques**
+```markdown
+## Techniques Used
+
+- [Static grass application](/techniques/static-grass/) for ground cover
+- [Paper flower creation](/techniques/paper-flowers/) for garden blooms  
+- [Multi-layer windows](/techniques/window-fabrication/) for the cottage
+```
+
+### Front Matter Cross-References
+
+**In Build Logs:**
+```yaml
+---
+layout: build
+title: "Log Cabin - Tree Construction"
+techniques_used:
+  - copper-wire-trees
+  - static-grass
+  - dry-brushing
+---
+```
+
+**In Technique Pages:**
+```yaml
+---
+title: "Copper Wire Tree Construction"
+category: plants
+projects_used:
+  - log-cabin
+  - english-country-garden
+---
+```
+
+### Best Practices
+
+**DO:**
+- ✅ Link naturally within narrative flow
+- ✅ Provide context for using the technique
+- ✅ Use descriptive link text
+- ✅ Link to specific sections when helpful
+
+**DON'T:**
+- ❌ Over-link every mention
+- ❌ Break narrative flow with too many links
+- ❌ Create dead links to non-existent pages
+
+---
+
+## Part 9: Recommended Action Plan
 
 ### Immediate Next Steps (This Week)
 

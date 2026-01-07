@@ -14,14 +14,39 @@ param(
     Renames image files with consistent naming convention for web projects
     
 .DESCRIPTION
-    Renames files in subfolders with pattern: projectname-foldername-###.jpg
-    Preserves original file dates and sorts by original filename
+    ⚠️ WARNING: This script expects SUBFOLDERS within SourcePath.
+    
+    CORRECT FORMAT: [prefix]-[category]-[###].jpg
+    - Prefix: Project abbreviation (2-4 chars) from assets/images/projects/
+    - Category: The SUBFOLDER name where images are stored
+    - Number: Three digits (001, 002, 003)
+    
+    WORKFLOW:
+    1. Optimize images to output folder (e.g., optimized\fishing_trawler\)
+    2. That folder name IS the category
+    3. Rename files DIRECTLY in that folder (do NOT create subfolders)
+    
+    IF YOU NEED SUBFOLDERS (old workflow):
+    - This script processes each subfolder separately
+    - Each subfolder name becomes the category
+    - Example: optimized\build\ → files named: sr-build-###.jpg
+    
+    RECOMMENDED: Manual rename for simple workflows (see README.md)
+    
+.PARAMETER SourcePath
+    Parent folder containing subfolders of images to rename
+    
+.PARAMETER ProjectName  
+    Project name prefix (use abbreviation from assets/images/projects/)
+    Examples: sr (sea-rescue), ss-gb (ss-great-britain), ecg (english-country-garden)
     
 .EXAMPLE
-    .\scripts\rename-project-images.ps1 -SourcePath "\\server\path\project\web-optimized"
+    # Old workflow with subfolders (this script processes each subfolder)
+    .\scripts\rename-project-images.ps1 -SourcePath "\\server\path\project\web-optimized" -ProjectName "sr"
     
 .EXAMPLE
-    .\scripts\rename-project-images.ps1 -SourcePath "\\server\path\project\web-optimized" -WhatIf
+    # Preview mode
+    .\scripts\rename-project-images.ps1 -SourcePath "\\server\path\project\web-optimized" -ProjectName "sr" -WhatIf
 #>
 
 Write-Host "`n=== Image Renaming Script ===" -ForegroundColor Cyan

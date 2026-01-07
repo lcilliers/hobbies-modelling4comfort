@@ -1,3 +1,94 @@
+# Build Logs Guide
+
+## Cross-Referencing Techniques
+
+### Why Cross-Reference?
+
+Linking between build logs and technique pages:
+- Readers learn detailed methodology behind what you're doing
+- Technique pages show real-world applications
+- Your future self can find "how did I do that?"
+- Natural SEO benefits from internal linking
+
+### Markdown Examples
+
+**Basic Inline Link:**
+```markdown
+I used the [copper wire tree construction](/techniques/copper-wire-trees/) 
+technique to create the forest backdrop.
+```
+
+**With Context:**
+```markdown
+### Creating the Trees
+
+For this project, I applied the [copper wire tree construction](/techniques/copper-wire-trees/) 
+method I'd refined in the English Country Garden. This time I adapted it for 
+smaller scale, using finer wire and more delicate foliage.
+
+**Technique Note:** See [Copper Wire Trees](/techniques/copper-wire-trees/) 
+for the full methodology.
+```
+
+**Multiple Techniques:**
+```markdown
+## Techniques Applied
+
+- [Static grass application](/techniques/static-grass/) for ground cover
+- [Paper flower creation](/techniques/paper-flowers/) for garden blooms
+- [Dry brushing weathering](/techniques/dry-brushing/) for aged wood
+- [Multi-layer windows](/techniques/window-fabrication/) for authentic glazing
+```
+
+**Link to Specific Section:**
+```markdown
+The weathering approach is detailed in the 
+[winter weathering page](/techniques/winter-weathering/#application-method).
+```
+
+### Front Matter Cross-References
+
+**Add techniques_used to build logs:**
+```yaml
+---
+layout: build
+title: "Log Cabin - Forest and Trees"
+project: /projects/log-cabin/
+techniques_used:
+  - copper-wire-trees
+  - static-grass
+  - dry-brushing
+---
+```
+
+### When to Create Technique Pages
+
+Create dedicated technique pages when:
+- ✅ Used in 2-3+ projects
+- ✅ Complex enough to warrant explanation
+- ✅ You have good photos of the process
+- ✅ You want a reference for future self
+
+### Best Practices
+
+**DO:**
+- ✅ Link naturally within narrative
+- ✅ Provide context for technique choice
+- ✅ Use descriptive link text
+- ✅ Check linked pages exist
+
+**DON'T:**
+- ❌ Over-link every mention
+- ❌ Break narrative flow
+- ❌ Create dead links
+
+### See Also
+
+- [TECHNIQUES-DEVELOPMENT-PLAN.md](../docs/TECHNIQUES-DEVELOPMENT-PLAN.md)
+- [Cross-referencing strategy](../docs/TECHNIQUES-DEVELOPMENT-PLAN.md#part-8-cross-referencing-strategy)
+
+---
+
 # Build Logs Folder Structure
 
 This folder contains individual build log entries organized by project.
