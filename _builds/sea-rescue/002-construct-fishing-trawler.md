@@ -26,7 +26,7 @@ Based on the research findings, the second option will be used by adapting plans
 
 I'm constructing a small coastal fishing trawler approximately 13cm in length at 1:84 scale (representing a 11.4m vessel). This boat will appear weathered and in distress, listing slightly to add drama to the rescue scene.
 
-![fishing trawler]({{ 'assets/images/projects/sea-rescue/fishing-trawler/sr-fishing_trawler-017.jpg' | relative_url }})
+![fishing trawler]({{ 'assets/images/projects/sea-rescue/fishing_trawler/sr-fishing_trawler-017.jpg' | relative_url }})
 *illustrative trawler from the plans*
 
 The main construction will be a mixture of wood strips cut from bayleaf and apple trees, balsawood and bamboo.
@@ -35,15 +35,15 @@ The main construction will be a mixture of wood strips cut from bayleaf and appl
 
 The trawler plans are printed and then partly hand drawn to scale on graphical paper focussing on drawing all the parts to be manufactured.
 
-![cutting sheets]({{ 'assets/images/projects/sea-rescue/fishing-trawler/sr-fishing_trawler-020.jpg' | relative_url }})
+![cutting sheets]({{ 'assets/images/projects/sea-rescue/fishing_trawler/sr-fishing_trawler-020.jpg' | relative_url }})
 *converting the plans to a cutting sheet*
 
 All the measurements are lifted from the plans and converted in tables to  the scale.
 
-![scale conversion main structure]({{ 'assets/images/projects/sea-rescue/fishing-trawler/sr-fishing_trawler-009.jpg' | relative_url }})
+![scale conversion main structure]({{ 'assets/images/projects/sea-rescue/fishing_trawler/sr-fishing_trawler-009.jpg' | relative_url }})
 *converting the main hull measurements from the plans to scale*
 
-![scale conversion hull segments]({{ 'assets/images/projects/sea-rescue/fishing-trawler/sr-fishing_trawler-010.jpg' | relative_url }})
+![scale conversion hull segments]({{ 'assets/images/projects/sea-rescue/fishing_trawler/sr-fishing_trawler-010.jpg' | relative_url }})
 *converting the segments of the hull measurements from the plans to scale*
 
 ### Parts list
@@ -56,20 +56,20 @@ Fishing Trawler Parts (Scale 1:75, ~10 cm length)
 
 The Bullheads are cut out of left over three ply sheets.  First the items are traced to paper, and then cut out, making sure the two parts of each item is identical. Then glueing it to the three ply and cutting it out with the scroll saw.
 
-![cutting templates ]({{ 'assets/images/projects/sea-rescue/fishing-trawler/sr-fishing_trawler-013.jpg' | relative_url }})
+![cutting templates ]({{ 'assets/images/projects/sea-rescue/fishing_trawler/sr-fishing_trawler-013.jpg' | relative_url }})
 *paper templates of cutting sheet*
 
-![Scroll saw cutting ]({{ 'assets/images/projects/sea-rescue/fishing-trawler/sr-fishing_trawler-014.jpg' | relative_url }})
+![Scroll saw cutting ]({{ 'assets/images/projects/sea-rescue/fishing_trawler/sr-fishing_trawler-014.jpg' | relative_url }})
 *cutting the small pieces on the scroll saw using wooden fork as fingers to hold pieces down*
 
-![Bullheads sections ]({{ 'assets/images/projects/sea-rescue/fishing-trawler/sr-fishing_trawler-015.jpg' | relative_url }})
+![Bullheads sections ]({{ 'assets/images/projects/sea-rescue/fishing_trawler/sr-fishing_trawler-015.jpg' | relative_url }})
 *Bullheads after cutting*
 
 - Keel
 
 The keel is measured and cut from strips of wood.  The wood is planed to a consistent thickness of 5mm, sanded and then cut with a then cut to size with the correct angles with a miter shear.
 
-![wood strips]({{ 'assets/images/projects/sea-rescue/fishing-trawler/sr-fishing_trawler-016.jpg' | relative_url }})
+![wood strips]({{ 'assets/images/projects/sea-rescue/fishing_trawler/sr-fishing_trawler-016.jpg' | relative_url }})
 *Strips of wood prepared in different sizes from apple tree and bayleaf tree*
 
 refer to techniques:  
