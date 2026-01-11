@@ -1,0 +1,2 @@
+# Ignore the actual config file to prevent committing API keys
+config.ps1
