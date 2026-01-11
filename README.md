@@ -2,6 +2,59 @@
 
 A comprehensive website for showcasing diorama modeling projects, build logs, and techniques.
 
+---
+
+## 🛑 MANDATORY: Read Before ANY Task
+
+**FOR AI ASSISTANTS & COLLABORATORS:**
+
+**DO NOT perform any task without first reading the complete workflow documentation.**
+
+### Before Image Optimization or Processing:
+
+**REQUIRED READING (in order):**
+1. **`scripts/README.md`** - Complete workflow sections (Steps 1-5)
+2. **`docs/guides/IMAGEMAGICK-GUIDE.md`** - Tool usage and parameters
+3. **`assets/images/README.md`** - Naming convention rules
+
+**Complete workflow includes:**
+- ✅ Step 1: Optimize with imagemagick-optimize.ps1
+- ✅ Step 2: Rename to 3-part convention `[prefix]-[category]-[###].jpg`
+- ✅ Step 3: Review optimized & renamed images
+- ✅ Step 4: Copy to website assets
+- ✅ Step 5: Create/update markdown files
+
+**DO NOT:**
+- ❌ Skip the renaming step
+- ❌ Assume you know the workflow from memory
+- ❌ Proceed without reading all three documents above
+- ❌ Use partial or incomplete workflows
+
+### Before Creating Content:
+
+**REQUIRED READING:**
+1. **`docs/guides/SITE-EDITING-GUIDE.md`** - Content structure and front matter
+2. **`docs/methodology/SOURCE-NARRATIVE-METHODOLOGY.md`** - Documentation standards (if creating project docs)
+
+### Before Using Scripts:
+
+**REQUIRED READING:**
+1. **`scripts/README.md`** - Full script documentation and examples
+2. Specific script section for the tool you're using
+
+### Verification Checklist:
+
+Before starting ANY task, confirm:
+- [ ] I have read the complete workflow documentation
+- [ ] I understand all steps required
+- [ ] I will execute ALL steps in order
+- [ ] I will not skip steps or improvise
+- [ ] **I will provide feedback listing all documentation files I have read** (with file paths)
+
+**This prevents incomplete workflows and ensures quality standards.**
+
+---
+
 ## ⚠️ CRITICAL: Image Naming Convention
 
 **Before adding images, READ THIS:**
