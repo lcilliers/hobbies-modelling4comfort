@@ -20,6 +20,12 @@ Documentation of initial setup processes and major configuration changes.
 ### Historical Summaries
 Records of pages created, features added, and major milestones reached.
 
+### Archived Methodologies
+- **SOURCE-NARRATIVE-METHODOLOGY-v1-archived-20260111.md** - Original narrative methodology without AI analysis (replaced by v2.0)
+
+### Deprecated Scripts (`../deprecated/`)
+Old scripts that have been replaced by improved versions. See `scripts/README.md` for current scripts.
+
 ## Active Documentation
 
 For current guidance, standards, and templates, refer to:
@@ -29,6 +35,8 @@ For current guidance, standards, and templates, refer to:
 - **PUBLISHING-GUIDE.md** - Git workflow
 - **IMAGEMAGICK-GUIDE.md** - Image processing
 - **FRONT-MATTER-GUIDE.md** - Front matter reference
+- **docs/methodology/SOURCE-NARRATIVE-WITH-AI-ANALYSIS.md** - ACTIVE project documentation methodology
+- **scripts/WORKFLOW-SCRIPTS-GUIDE.md** - Complete workflow script documentation
 - **_builds/README.md** - Build log creation
 - **scripts/README.md** - Script documentation
 
