@@ -72,6 +72,36 @@ The keel is measured and cut from strips of wood.  The wood is planed to a consi
 ![wood strips]({{ 'assets/images/projects/sea-rescue/fishing_trawler/sr-fishing_trawler-016.jpg' | relative_url }})
 *Strips of wood prepared in different sizes from apple tree and bayleaf tree*
 
+Using the cutting plan to get the lenghts and angles correct, the keel strips are glued together
+
+![keel]({{ 'assets/images/projects/sea-rescue/fishing_trawler/sr-fishing_trawler-XXX.jpg' | relative_url }})
+*keel built up from individual strips*
+
+- Fitting the bullheads and deck
+
+Testing the fit of the bullheads proved to be quite tricky. It keeps on falling apart.
+
+![testing the fit]({{ 'assets/images/projects/sea-rescue/fishing_trawler/sr-fishing_trawler-XXX.jpg' | relative_url }})
+*bullhead levels tested*
+
+- Deck
+
+Using the cutting template the main deck is cut out of Balsawood.  The three bullheads then glued to the bottom, using side strips to increase to glue surface
+
+![fitted bullheads]({{ 'assets/images/projects/sea-rescue/fishing_trawler/sr-fishing_trawler-XXX.jpg' | relative_url }})
+*bullheads fitted to bottom of deck.*  
+
+- planking
+
+Making and fitting the sides of the hull and the bulwarks proved to be very tricky.  With the partial deck in place, the bulwarks could be visualised to get the angles and curves right.  This was initially done by using paper to form and visual it.  I then decided to use thin balsawood that allow bending the curve, the paper template was glued onto the balsawood to provide more elasticity and prevent it from breaking.  The top railing of the bulwark was then cut out of wood slates from an old blind and glued to the bulwark.  
+
+
+bulwark pict
+
+The planking for the hull presented the next main challenge.  The hull has some sharp twists and beds to accomplish, and planking from strips of wood proved to be too brittle.  After several experiments with different types of cuts and wood strips, decided to use heavy paper, paint and seal it with a mixture of PVA glue and paint on both sides, and then cut it into strips. These strips were then curved along the bullheads to form the outer shell of the hull.
+
+fitting the sides
+
 refer to techniques:  
 
 
