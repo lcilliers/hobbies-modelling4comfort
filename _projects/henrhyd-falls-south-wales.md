@@ -91,12 +91,60 @@ Extensive photographic research documented authentic Welsh geology, woodland cha
 
 ## Build Approach
 
-[TODO: Add personal narrative about build process, techniques used, timeline]
+This project documentation follows an iterative build log structure, capturing the authentic journey from concept to completion.
+
+### Build Timeline
+
+**October 23, 2025 - November 2025** (approximately 3 weeks)
+
+### Construction Journey
+
+#### [Build Log #001: Concept, Research & Base Construction]({{ '/builds/henrhyd-falls-south-wales/001-planning/' | relative_url }})
+
+**Timeline:** 23 October - 2 November 2025
+
+The project began with an AI concept illustration to validate scale feasibility. Research extended to collecting 62 reference images across five categories: AI design studies, waterfall flow patterns, Henrhyd Falls site photos, Welsh rock formations, and ancient woodland character. The base construction involved creating a cooked paper pulp mixture (shredded paper, flour, water, vinegar, PVA, filler) that proved highly successful after initial cracking problems. Critical lesson: build in thin 2-3cm layers with thorough drying between applications. The 25×25cm plywood base supports 18cm of vertical terrain representing the dramatic gorge.
+
+**Key Achievement:** Established successful paper pulp technique; validated 1:250 scale would work
+
+#### Build Log #002: Rock Cliff Formation & Geological Layers
+
+[TODO: Add narrative when Build Log 2 is completed]
+
+**Focus:** Carving and texturing the vertical cliff face with authentic Welsh sedimentary layering
+
+#### Build Log #003: Waterfall Construction & Water Effects
+
+[TODO: Add narrative when Build Log 3 is completed]
+
+**Focus:** Creating the 10cm waterfall drop using clear resin and cotton batting for spray effects
+
+#### Build Log #004: Welsh Woodland Vegetation & Temperate Rainforest
+
+[TODO: Add narrative when Build Log 4 is completed]
+
+**Focus:** Building sessile oak and ash trees with wire armatures; moss-covered forest floor
+
+#### Build Log #005: Pathway Behind Falls & Final Details
+
+[TODO: Add narrative when Build Log 5 is completed]
+
+**Focus:** Adding the famous hidden pathway and atmospheric finishing touches
+
+#### Build Log #006: Weathering, Photography & Completion
+
+[TODO: Add narrative when Build Log 6 is completed]
+
+**Focus:** Final weathering, project photography, and reflection on techniques learned
+
+---
+
+## Techniques & Materials
 
 ### Key Construction Phases
 
-1. **Planning & Research** - Photographic reference collection and scale planning
-2. **Base Construction** - Foundation and cliff structure
+1. **Planning & Research** - 62 photographic references collected and analyzed with AI assistance
+2. **Base Construction** - 4mm plywood with cooked paper pulp terrain (shredded paper, flour, water, vinegar, PVA, filler)
 3. **Rock Cliff Formation** - Vertical terrain and geological layering  
 4. **Waterfall & Water Effects** - Cascading water and pool creation
 5. **Woodland Vegetation** - Trees, ferns, moss application

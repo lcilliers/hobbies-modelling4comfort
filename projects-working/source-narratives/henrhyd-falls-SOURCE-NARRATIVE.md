@@ -25,7 +25,10 @@ Validation Status: ⚠️ PARTIALLY VALIDATED
 I asked AI to show me how these falls can be converted to a scratch build, and it came up with this illustration.
 
 [IMAGE: hfs-planning-004.jpg]
-*Caption: AI-generated concept illustration showing how Henrhyd Falls could be represented at 1:250 scale on a 25×25cm base*
+*Caption: AI-generated concept illustration showing how Henrhyd Falls could be represented at 1:250 scale on a 25×25cm base. This tranquil waterfall oasis visualization helped me see the potential for a captivating miniature forest scene with cascading waterfall.*
+
+[IMAGE: hfs-planning-003.jpg]
+*Caption: Top-down layout diagram of the 25×25cm base showing the spatial arrangement of the cliff, waterfall, pool, and surrounding terrain. This scale planning document was critical for validating that the vertical 27m drop could work on the compact base.*
 
 I left the idea to chew a bit on it. Maybe another inspiration comes my way.
 
@@ -103,11 +106,43 @@ In gathering the images it was necessary to get perspectives of the falls from a
 - Social media for others that visited the falls
 - Other diorama artists on their sites for general input
 
-****Total: 62 reference images**
+Analyse the images in \\lsuk-synrack\HomeMedia\hobbies\model building\Henrhyd-falls\web-optimized\planning\
+
+**Total: 62 reference images**
+
+[IMAGE: hfs-planning-005.jpg]
+*Caption: Reference waterfall in lush forest setting. The serene beauty of this cascading waterfall in a secluded forest helped me understand the water flow patterns and the intimate relationship between water and surrounding vegetation.*
+
+[IMAGE: hfs-planning-007.jpg]
+*Caption: Waterfall oasis showing vertical drop through verdant forest. This reference image was particularly useful for understanding how the white water cascade contrasts against dark rock and green foliage.*
+
+[IMAGE: hfs-planning-011.jpg]
+*Caption: Tranquil waterfall showing mist and spray effects at the base. This image helped me plan the water impact zone and understand how to represent the atmospheric moisture that characterizes Welsh waterfalls.*
+
+[IMAGE: hfs-planning-022.jpg]
+*Caption: Henrhyd Falls with wooden bridge walkway. This photo shows the actual site with the famous wooden bridge structure and gives a sense of the scale and surrounding landscape.*
+
+[IMAGE: hfs-planning-029.jpg]
+*Caption: Henrhyd Falls, Wales - showing the full height of the waterfall. This captivating view helped me understand the overall proportions and the dramatic vertical drop that defines this location.*
+
+[IMAGE: hfs-planning-030.jpg]
+*Caption: Henrhyd Falls Batman film location in Brecon Beacons. This reference was valuable for understanding the cave formation behind the falls - the feature that made it famous as a filming location for The Dark Knight Rises.*
 
 **Most Helpful Approach:**
 The lack of a single definitive picture that provided everything I needed meant this diorama became an artistic representation of a range of different features, plants and scenarios. However the core recognisable imagery for a straight high fall, caves behind the falls, large trees on the top of the cliff,
 I have not done a waterfall as yet, scratch building water is a key challenge;  cliffs and rock formations remains a challenge; lots of different colour nuances.
+
+[IMAGE: hfs-planning-035.jpg]
+*Caption: Coastal rock formation showing layered sedimentary structure. While not from Henrhyd Falls itself, this majestic coastal landscape provided excellent reference for understanding Welsh geological stratification and weathering patterns.*
+
+[IMAGE: hfs-planning-041.jpg]
+*Caption: Detailed cliff face texture study. This meticulously detailed view captures the intricate patterns and textures of a rugged cliff face - invaluable for planning the rock carving and texturing techniques.*
+
+[IMAGE: hfs-planning-046.jpg]
+*Caption: Ancient woodland tree in Welsh forest. This majestic arbor in enchanted woods shows the character of Welsh sessile oak and the moss-covered trunk texture that defines temperate rainforest environments.*
+
+[IMAGE: hfs-planning-053.jpg]
+*Caption: Verdant forest understory vegetation. Exploring the enchanting depths of Welsh woodland helped me understand the dense, layered vegetation and the rich green palette needed for authentic representation.*
 
 ### Research Phase
 **Why 1:250 Scale?**
@@ -146,13 +181,15 @@ It was really important to lay down the base in thin layers (2-3 cm at most) and
 - Vinegar
 - PVA glue
 - General purpose filler
-- [TODO: Any foam for vertical structure?]
-- [TODO: Support structures?]ction process]
+- The entire cliff was built up with the flour and schedded paper mix.  This made the model quite heavy, but it is sturdy and and easy to work with to drill for inserting the plants and trees.  No foam was used.  Next time I am likely to use foam or lighter material as the core, covering it with the mix to support the texturing.
+- The structure was build at a slight inward angle, partially as a result of shrinkage, and partly to keep it firm.  Next time it may be better to make clean straight cuts, although the textured rocky look and feel is quite nice.
 - What materials did you use for the base? The base was cut out of 4 plywood sheet at 25 * 25 cm. Using the diagram of the layout as a general guide, the base had two first levels on either side, and an inset in the middle where the river would be formed.  The cliff range was situated at 2/3 to the back of the board.
 - How did you structure the foundation?  I made a mixture of shredded paper, flour, water, viniger, PVA glue and general purpose filler and used in for the first layer. This was left to dry thoroughly. I noticed a lot of cracking, and then decided to next time use the mixture, but thoroughly cook it to allow the flour to bond and to improve the mulching of the shredded paper.  This became a really successfull mixture.
 - Any challenges with the base framework? It was really important to lay down the base in thin layers (2-3 cm at most)and let it dry before adding another layer.  I used the oven to aid in the drying and it took some time.  One time I got impatient and increased the layers. This lead to drying not take place right through, and ultimately I had to take it appart and start over again.
 - 
-- How did you plan for the vertical cliff structure?
+- How did you plan for the vertical cliff structure? 
+[IMAGE: hfs-planning-030.jpg] as a reference.  It was important to maintain the cave behind the waterfall as it is unique to these falls.  From the images it was evident that the cliff is concave with clear rockfaces almost forming a theatre.
+
 Build Log 2
 ### Materials Used
 
