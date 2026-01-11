@@ -111,6 +111,25 @@ Welcome to the workshop! Build logs take you behind the scenes of each project, 
 
 <div class="project-item left-image">
   <div class="project-image-large">
+    <img src="{{ '/assets/images/projects/henrhyd-falls-south-wales/gallery/hfs-gallery-001.jpg' | relative_url }}" alt="Henrhyd Falls South Wales">
+  </div>
+  <div class="project-details">
+    <h3><a href="{{ '/builds/henrhyd-falls-south-wales/001-planning/' | relative_url }}">Henrhyd Falls South Wales</a></h3>
+    <p>Wales' tallest waterfall (27m) captured at 1:250 scale. Complete documentation from planning and reference gathering through vertical cliff construction, water effects creation, and temperate rainforest woodland with moss-covered character.</p>
+    <div class="project-meta">
+      <span><strong>Completed:</strong> November 2025</span>
+      <span><strong>Scale:</strong> 1:250</span>
+      <span><strong>Build Logs:</strong> 7</span>
+    </div>
+    <div class="project-buttons">
+      <a href="{{ '/builds/henrhyd-falls-south-wales/001-planning/' | relative_url }}" class="project-btn project-btn-primary">View Build Logs</a>
+      <a href="{{ '/projects/henrhyd-falls-south-wales/' | relative_url }}" class="project-btn project-btn-secondary">Project Overview</a>
+    </div>
+  </div>
+</div>
+
+<div class="project-item right-image">
+  <div class="project-image-large">
     <img src="{{ '/assets/images/projects/bamboo-river-lookout/gallery/bamboo-river-lookout-gallery-007.jpg' | relative_url }}" alt="Bamboo River Lookout">
   </div>
   <div class="project-details">

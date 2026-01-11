@@ -175,6 +175,25 @@ Each project page gives an **overview** of the concept, what I was trying to do,
 
 <div class="project-item left-image">
   <div class="project-image-large">
+    <img src="{{ '/assets/images/projects/henrhyd-falls-south-wales/gallery/hfs-gallery-001.jpg' | relative_url }}" alt="Henrhyd Falls South Wales">
+  </div>
+  <div class="project-details">
+    <h3><a href="{{ '/projects/henrhyd-falls-south-wales/' | relative_url }}">Henrhyd Falls South Wales</a></h3>
+    <p>An authentic representation of Wales' tallest waterfall at 1:250 scale, capturing the dramatic 27-meter cascade within the Brecon Beacons National Park. This challenging diorama features a vertical cliff face with Welsh geological formations, detailed water effects showing the falls' power and movement, and ancient temperate rainforest woodland with characteristic moss-covered rocks and trees. The build captures Henrhyd Falls' unique character including the famous walkway behind the waterfall featured in The Dark Knight Rises.</p>
+    <div class="project-meta">
+      <span><strong>Status:</strong> Completed November 2025</span>
+      <span><strong>Scale:</strong> 1:250</span>
+      <span><strong>Type:</strong> Scratch-Build Diorama</span>
+    </div>
+    <div class="project-buttons">
+      <a href="{{ '/projects/henrhyd-falls-south-wales/' | relative_url }}" class="project-btn project-btn-primary">Project Overview</a>
+      <a href="{{ '/builds/henrhyd-falls-south-wales/001-planning/' | relative_url }}" class="project-btn project-btn-secondary">Build Logs</a>
+    </div>
+  </div>
+</div>
+
+<div class="project-item right-image">
+  <div class="project-image-large">
     <img src="{{ '/assets/images/projects/caravaning/gallery/caravaning-gallery-011.jpg' | relative_url }}" alt="Caravaning in Wales">
   </div>
   <div class="project-details">
