@@ -139,23 +139,27 @@ The most challenging aspect of the build: creating realistic water effects for t
 
 **Key Achievement:** Created functional waterfall feature; learned critical lessons about material testing and realistic water representation for future builds
 
-#### Build Log #005: Welsh Woodland Vegetation & Temperate Rainforest
+#### [Build Log #005: Woodland & Vegetation]({{ '/builds/henrhyd-falls-south-wales/005-plants/' | relative_url }})
 
-[TODO: Add narrative when Build Log 5 is completed]
+**Timeline:** 16 November 2025
 
-**Focus:** Building sessile oak and ash trees with wire armatures; moss-covered forest floor
+The vegetation phase transformed the rocky gorge into a living Welsh temperate rainforest. The tree collection combined two approaches: commercially available plastic trees for variety and efficiency, and handmade wire-frame trees with paste-thickened branches painted light grey, foliage created using hollowfibre mixed with colored sawdust. The final woodland comprises 9 trees representing 6 distinct forms - rather than precise species identification, the focus was on achieving diversity through varied heights (2.5cm to 10cm), foliage densities, color range (light to vibrant greens), and textures. Ground-level vegetation proved equally demanding: plastic ferns cut into smaller sections to scale down appropriately; dozens of small trees and bushes built with wire frames, foliage from colored sawdust in multiple grades and finely cut sphagnum moss in different colors; forest floor layered with dried leaves, twigs, grasses, and moss ground cover. The placement strategy followed a 60-70% coverage guideline maintaining waterfall visibility while creating lush atmosphere, with conscious foreground-midground-background layering to create depth.
 
-#### Build Log #006: Pathway Behind Falls & Final Details
+**Key Achievement:** Created exceptional botanical diversity (15-20+ plant types rated 9-10/10 for realism); mastered hybrid commercial/handmade approach; captured authentic Welsh temperate rainforest character through moss emphasis and fern predominance
 
-[TODO: Add narrative when Build Log 6 is completed]
+#### [Build Log #006: Finalisation & Details]({{ '/builds/henrhyd-falls-south-wales/006-finalisation/' | relative_url }})
 
-**Focus:** Adding the famous hidden pathway and atmospheric finishing touches
+**Timeline:** 25 November 2025
 
-#### Build Log #007: Weathering, Photography & Completion
+The final phase added critical human narrative elements. A 7mm scale figure was sculpted using wire armature for pose structure, air dry clay built up to create body form, and Dremel tool used after drying to refine clothing folds, define body separations, and create texture variations. Positioned to the viewer's left of the waterfall, the figure immediately establishes the dramatic 27-meter scale and suggests accessibility. The hidden pathway was constructed following the stream on the right, winding through dense vegetation under trees toward the cave behind the falls - created with fine textured materials in earthier brown tones, approximately 4mm wide at 1:250 scale. This phase became a celebration of the completed work, exploring multiple viewing angles: the hero view showcasing waterfall drama, close-up details revealing vegetation-rock integration, figure perspective emphasizing scale, pathway views showing the journey through woodland, and varied angles discovering different focal points. The diorama successfully integrates all construction phases into a cohesive Welsh gorge atmosphere.
+
+**Key Achievement:** Successfully sculpted convincing 7mm figure using wire/clay/Dremel technique; added human narrative through figure and pathway; celebrated completed diorama through multi-perspective documentation
+
+#### Build Log #007: Completion Gallery
 
 [TODO: Add narrative when Build Log 7 is completed]
 
-**Focus:** Final weathering, project photography, and reflection on techniques learned
+**Focus:** Curated showcase of the finished diorama with best 19 images from multiple perspectives
 
 ---
 
