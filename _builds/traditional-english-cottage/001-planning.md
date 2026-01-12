@@ -1,11 +1,29 @@
 ---
 layout: build
 title: "Architectural Research & Planning"
-project: traditional-english-cottage
+project: /projects/traditional-english-cottage/
 sequence: 1
 date: 2025-07-01
 categories: [planning, architecture]
 tags: [research, flint-brick, design, ai-modeling]
+build_log_menu:
+  - url: /builds/traditional-english-cottage/001-planning/
+    number: "#001"
+    title: "Architectural Research"
+  - url: /builds/traditional-english-cottage/002-cottage-construction/
+    number: "#002"
+    title: "Cottage Construction"
+  - url: /builds/traditional-english-cottage/003-base-landscaping/
+    number: "#003"
+    title: "Base & Landscaping"
+  - url: /builds/traditional-english-cottage/004-plants-garden/
+    number: "#004"
+    title: "Plants & Garden"
+  - url: /builds/traditional-english-cottage/005-finalisation/
+    number: "#005"
+    title: "Finalisation & Details"
+next_step: /builds/traditional-english-cottage/002-cottage-construction/
+next_step_title: "Cottage Construction"
 ---
 
 ## The Spark of Inspiration

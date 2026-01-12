@@ -1,12 +1,38 @@
 ---
 layout: build
 title: "Grass and River - The Final Environment"
-project: caravaning
+project: /projects/caravaning/
 date: 2025-03-30
 build_number: "006"
 categories: [groundwork, water-effects, static-grass, resin]
 tags: [static-grass, resin-water, ground-cover, campsite, river-effects]
 status: completed
+build_log_menu:
+  - url: /builds/caravaning/001-planning-commission/
+    number: "#001"
+    title: "Planning & Commission"
+  - url: /builds/caravaning/002-caravan-construction/
+    number: "#002"
+    title: "Caravan Construction"
+  - url: /builds/caravaning/003-car-construction/
+    number: "#003"
+    title: "Car Construction"
+  - url: /builds/caravaning/004-figures-and-tilly/
+    number: "#004"
+    title: "Figures & Tilly"
+  - url: /builds/caravaning/005-scenery-and-layout/
+    number: "#005"
+    title: "Scenery & Layout"
+  - url: /builds/caravaning/006-grass-and-river/
+    number: "#006"
+    title: "Grass & River"
+  - url: /builds/caravaning/007-final-assembly/
+    number: "#007"
+    title: "Final Assembly"
+previous_step: /builds/caravaning/005-scenery-and-layout/
+previous_step_title: "Scenery & Layout"
+next_step: /builds/caravaning/007-final-assembly/
+next_step_title: "Final Assembly"
 ---
 
 ## Build Log 006: Static Grass and River Effects

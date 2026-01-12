@@ -1,13 +1,39 @@
 ---
-layout: post
+layout: build
 title: "Henrhyd Falls - Build Log #004: Waterfall Construction"
-date: 2025-11-10
-project: henrhyd-falls-south-wales
+date: 2025-11-08
+project: /projects/henrhyd-falls-south-wales/
 build_number: 4
 categories: [dioramas, water-effects]
 tags: [waterfall, water-effects, resin, cascade]
 excerpt: "Creating the dramatic 27-meter waterfall in miniature - water effects, cascading flow, and pool formation."
 published: true
+build_log_menu:
+  - url: /builds/henrhyd-falls-south-wales/001-planning/
+    number: "#001"
+    title: "Concept & Planning"
+  - url: /builds/henrhyd-falls-south-wales/002-base/
+    number: "#002"
+    title: "Base Construction"
+  - url: /builds/henrhyd-falls-south-wales/003-rockcliff/
+    number: "#003"
+    title: "Rock Cliff Formation"
+  - url: /builds/henrhyd-falls-south-wales/004-falls/
+    number: "#004"
+    title: "Waterfall Construction"
+  - url: /builds/henrhyd-falls-south-wales/005-plants/
+    number: "#005"
+    title: "Woodland & Vegetation"
+  - url: /builds/henrhyd-falls-south-wales/006-finalisation/
+    number: "#006"
+    title: "Finalisation & Details"
+  - url: /builds/henrhyd-falls-south-wales/007-gallery/
+    number: "#007"
+    title: "Completion Gallery"
+previous_step: /builds/henrhyd-falls-south-wales/003-rockcliff/
+previous_step_title: "Rock Cliff Formation"
+next_step: /builds/henrhyd-falls-south-wales/005-plants/
+next_step_title: "Woodland & Vegetation"
 ---
 
 ## Current Build Stage

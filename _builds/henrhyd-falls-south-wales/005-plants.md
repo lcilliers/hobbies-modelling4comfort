@@ -1,13 +1,39 @@
 ---
-layout: post
-title: "Henrhyd Falls - Build Log #005: Woodland & Plants"
+layout: build
+title: "Henrhyd Falls - Build Log #005: Woodland & Vegetation"
 date: 2025-11-15
-project: henrhyd-falls-south-wales
+project: /projects/henrhyd-falls-south-wales/
 build_number: 5
 categories: [dioramas, vegetation]
 tags: [trees, woodland, vegetation, moss, ferns]
 excerpt: "Creating authentic Welsh woodland - sessile oak, ash trees, and the temperate rainforest character of the Henrhyd gorge."
 published: true
+build_log_menu:
+  - url: /builds/henrhyd-falls-south-wales/001-planning/
+    number: "#001"
+    title: "Concept & Planning"
+  - url: /builds/henrhyd-falls-south-wales/002-base/
+    number: "#002"
+    title: "Base Construction"
+  - url: /builds/henrhyd-falls-south-wales/003-rockcliff/
+    number: "#003"
+    title: "Rock Cliff Formation"
+  - url: /builds/henrhyd-falls-south-wales/004-falls/
+    number: "#004"
+    title: "Waterfall Construction"
+  - url: /builds/henrhyd-falls-south-wales/005-plants/
+    number: "#005"
+    title: "Woodland & Vegetation"
+  - url: /builds/henrhyd-falls-south-wales/006-finalisation/
+    number: "#006"
+    title: "Finalisation & Details"
+  - url: /builds/henrhyd-falls-south-wales/007-gallery/
+    number: "#007"
+    title: "Completion Gallery"
+previous_step: /builds/henrhyd-falls-south-wales/004-falls/
+previous_step_title: "Waterfall Construction"
+next_step: /builds/henrhyd-falls-south-wales/006-finalisation/
+next_step_title: "Finalisation & Details"
 ---
 
 ## Current Build Stage

@@ -1,12 +1,38 @@
 ---
 layout: build
 title: "VW Golf Estate - Discovering Air-Dry Clay"
-project: caravaning
+project: /projects/caravaning/
 date: 2025-01-16
 build_number: "003"
 categories: [construction, vehicles, scratch-build]
 tags: [car, air-dry-clay, vehicle-modeling, estate-car, rework]
 status: completed
+build_log_menu:
+  - url: /builds/caravaning/001-planning-commission/
+    number: "#001"
+    title: "Planning & Commission"
+  - url: /builds/caravaning/002-caravan-construction/
+    number: "#002"
+    title: "Caravan Construction"
+  - url: /builds/caravaning/003-car-construction/
+    number: "#003"
+    title: "Car Construction"
+  - url: /builds/caravaning/004-figures-and-tilly/
+    number: "#004"
+    title: "Figures & Tilly"
+  - url: /builds/caravaning/005-scenery-and-layout/
+    number: "#005"
+    title: "Scenery & Layout"
+  - url: /builds/caravaning/006-grass-and-river/
+    number: "#006"
+    title: "Grass & River"
+  - url: /builds/caravaning/007-final-assembly/
+    number: "#007"
+    title: "Final Assembly"
+previous_step: /builds/caravaning/002-caravan-construction/
+previous_step_title: "Caravan Construction"
+next_step: /builds/caravaning/004-figures-and-tilly/
+next_step_title: "Figures & Tilly"
 ---
 
 ## Build Log 003: Building the VW Golf R Estate

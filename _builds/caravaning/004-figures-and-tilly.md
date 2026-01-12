@@ -1,12 +1,38 @@
 ---
 layout: build
 title: "Figures and Tilly - When Clay Doesn't Work"
-project: caravaning
+project: /projects/caravaning/
 date: 2025-02-12
 build_number: "004"
 categories: [figures, sculpting, problem-solving]
 tags: [miniature-figures, dog-carving, air-dry-clay, wood-carving, scale-figures]
 status: completed
+build_log_menu:
+  - url: /builds/caravaning/001-planning-commission/
+    number: "#001"
+    title: "Planning & Commission"
+  - url: /builds/caravaning/002-caravan-construction/
+    number: "#002"
+    title: "Caravan Construction"
+  - url: /builds/caravaning/003-car-construction/
+    number: "#003"
+    title: "Car Construction"
+  - url: /builds/caravaning/004-figures-and-tilly/
+    number: "#004"
+    title: "Figures & Tilly"
+  - url: /builds/caravaning/005-scenery-and-layout/
+    number: "#005"
+    title: "Scenery & Layout"
+  - url: /builds/caravaning/006-grass-and-river/
+    number: "#006"
+    title: "Grass & River"
+  - url: /builds/caravaning/007-final-assembly/
+    number: "#007"
+    title: "Final Assembly"
+previous_step: /builds/caravaning/003-car-construction/
+previous_step_title: "Car Construction"
+next_step: /builds/caravaning/005-scenery-and-layout/
+next_step_title: "Scenery & Layout"
 ---
 
 ## Build Log 004: Creating the Figures and Tilly the Dog

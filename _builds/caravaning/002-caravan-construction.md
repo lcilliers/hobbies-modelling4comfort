@@ -1,12 +1,38 @@
 ---
 layout: build
 title: "Caravan Construction - The Make or Break Component"
-project: caravaning
+project: /projects/caravaning/
 date: 2024-12-22
 build_number: "002"
 categories: [construction, vehicles, scratch-build]
 tags: [caravan, balsa-wood, epoxy-putty, windows, wheels, vehicle-modeling]
 status: completed
+build_log_menu:
+  - url: /builds/caravaning/001-planning-commission/
+    number: "#001"
+    title: "Planning & Commission"
+  - url: /builds/caravaning/002-caravan-construction/
+    number: "#002"
+    title: "Caravan Construction"
+  - url: /builds/caravaning/003-car-construction/
+    number: "#003"
+    title: "Car Construction"
+  - url: /builds/caravaning/004-figures-and-tilly/
+    number: "#004"
+    title: "Figures & Tilly"
+  - url: /builds/caravaning/005-scenery-and-layout/
+    number: "#005"
+    title: "Scenery & Layout"
+  - url: /builds/caravaning/006-grass-and-river/
+    number: "#006"
+    title: "Grass & River"
+  - url: /builds/caravaning/007-final-assembly/
+    number: "#007"
+    title: "Final Assembly"
+previous_step: /builds/caravaning/001-planning-commission/
+previous_step_title: "Planning & Commission"
+next_step: /builds/caravaning/003-car-construction/
+next_step_title: "Car Construction"
 ---
 
 ## Build Log 002: Building the Eriba Triton Caravan

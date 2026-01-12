@@ -1,11 +1,31 @@
 ---
 layout: build
 title: "Cottage Construction"
-project: traditional-english-cottage
+project: /projects/traditional-english-cottage/
 sequence: 2
 date: 2025-08-01
 categories: [construction, architecture]
 tags: [scratch-build, walls, windows, roof, flint-brick]
+build_log_menu:
+  - url: /builds/traditional-english-cottage/001-planning/
+    number: "#001"
+    title: "Architectural Research"
+  - url: /builds/traditional-english-cottage/002-cottage-construction/
+    number: "#002"
+    title: "Cottage Construction"
+  - url: /builds/traditional-english-cottage/003-base-landscaping/
+    number: "#003"
+    title: "Base & Landscaping"
+  - url: /builds/traditional-english-cottage/004-plants-garden/
+    number: "#004"
+    title: "Plants & Garden"
+  - url: /builds/traditional-english-cottage/005-finalisation/
+    number: "#005"
+    title: "Finalisation & Details"
+previous_step: /builds/traditional-english-cottage/001-planning/
+previous_step_title: "Architectural Research"
+next_step: /builds/traditional-english-cottage/003-base-landscaping/
+next_step_title: "Base & Landscaping"
 ---
 
 ## Construction Technique Development

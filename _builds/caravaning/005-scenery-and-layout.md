@@ -1,12 +1,38 @@
 ---
 layout: build
 title: "Scenery and Layout - Building a Welsh Riverside"
-project: caravaning
+project: /projects/caravaning/
 date: 2025-03-05
 build_number: "005"
 categories: [scenery, landscape, trees, layout]
 tags: [miniature-trees, layout-design, welsh-landscape, scratchbuilding, space-constraints]
 status: completed
+build_log_menu:
+  - url: /builds/caravaning/001-planning-commission/
+    number: "#001"
+    title: "Planning & Commission"
+  - url: /builds/caravaning/002-caravan-construction/
+    number: "#002"
+    title: "Caravan Construction"
+  - url: /builds/caravaning/003-car-construction/
+    number: "#003"
+    title: "Car Construction"
+  - url: /builds/caravaning/004-figures-and-tilly/
+    number: "#004"
+    title: "Figures & Tilly"
+  - url: /builds/caravaning/005-scenery-and-layout/
+    number: "#005"
+    title: "Scenery & Layout"
+  - url: /builds/caravaning/006-grass-and-river/
+    number: "#006"
+    title: "Grass & River"
+  - url: /builds/caravaning/007-final-assembly/
+    number: "#007"
+    title: "Final Assembly"
+previous_step: /builds/caravaning/004-figures-and-tilly/
+previous_step_title: "Figures & Tilly"
+next_step: /builds/caravaning/006-grass-and-river/
+next_step_title: "Grass & River"
 ---
 
 ## Build Log 005: Creating the Welsh Riverside Scenery

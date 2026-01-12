@@ -1,13 +1,39 @@
 ---
-layout: post
+layout: build
 title: "Henrhyd Falls - Build Log #003: Rock Cliff Formation"
 date: 2025-10-30
-project: henrhyd-falls-south-wales
+project: /projects/henrhyd-falls-south-wales/
 build_number: 3
 categories: [dioramas, terrain]
 tags: [rock-formation, cliff-carving, terrain, geology]
 excerpt: "Carving and texturing the dramatic vertical cliff face - creating authentic Welsh geological formations for the waterfall backdrop."
 published: true
+build_log_menu:
+  - url: /builds/henrhyd-falls-south-wales/001-planning/
+    number: "#001"
+    title: "Concept & Planning"
+  - url: /builds/henrhyd-falls-south-wales/002-base/
+    number: "#002"
+    title: "Base Construction"
+  - url: /builds/henrhyd-falls-south-wales/003-rockcliff/
+    number: "#003"
+    title: "Rock Cliff Formation"
+  - url: /builds/henrhyd-falls-south-wales/004-falls/
+    number: "#004"
+    title: "Waterfall Construction"
+  - url: /builds/henrhyd-falls-south-wales/005-plants/
+    number: "#005"
+    title: "Woodland & Vegetation"
+  - url: /builds/henrhyd-falls-south-wales/006-finalisation/
+    number: "#006"
+    title: "Finalisation & Details"
+  - url: /builds/henrhyd-falls-south-wales/007-gallery/
+    number: "#007"
+    title: "Completion Gallery"
+previous_step: /builds/henrhyd-falls-south-wales/002-base/
+previous_step_title: "Base Construction"
+next_step: /builds/henrhyd-falls-south-wales/004-falls/
+next_step_title: "Waterfall Construction"
 ---
 
 ## Current Build Stage

@@ -1,12 +1,36 @@
 ---
 layout: build
 title: "Planning & Commission Brief"
-project: caravaning
+project: /projects/caravaning/
 date: 2024-12-15
 build_number: "001"
 categories: [planning, research, commission]
 tags: [scale-calculation, research, client-brief, reference-gathering]
 status: completed
+build_log_menu:
+  - url: /builds/caravaning/001-planning-commission/
+    number: "#001"
+    title: "Planning & Commission"
+  - url: /builds/caravaning/002-caravan-construction/
+    number: "#002"
+    title: "Caravan Construction"
+  - url: /builds/caravaning/003-car-construction/
+    number: "#003"
+    title: "Car Construction"
+  - url: /builds/caravaning/004-figures-and-tilly/
+    number: "#004"
+    title: "Figures & Tilly"
+  - url: /builds/caravaning/005-scenery-and-layout/
+    number: "#005"
+    title: "Scenery & Layout"
+  - url: /builds/caravaning/006-grass-and-river/
+    number: "#006"
+    title: "Grass & River"
+  - url: /builds/caravaning/007-final-assembly/
+    number: "#007"
+    title: "Final Assembly"
+next_step: /builds/caravaning/002-caravan-construction/
+next_step_title: "Caravan Construction"
 ---
 
 ## Build Log 001: Planning Phase and Commission Brief

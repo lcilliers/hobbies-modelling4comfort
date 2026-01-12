@@ -1,6 +1,6 @@
 ---
 layout: build
-project: bamboo-river-lookout
+project: /projects/bamboo-river-lookout/
 build_number: 1
 title: "Constructing the Bamboo Lookout"
 date: 2024-11-20
@@ -25,6 +25,18 @@ progress_images:
     caption: "Dried bamboo leaves applied to roof structure"
   - path: "assets/images/projects/bamboo-river-lookout/lookout-build/bamboo-river-lookout-build-007.jpg"
     caption: "Completed lookout with railings and hessian rope details"
+build_log_menu:
+  - url: /builds/bamboo-river-lookout/001-the-lookout/
+    number: "#001"
+    title: "Constructing the Lookout"
+  - url: /builds/bamboo-river-lookout/002-figures/
+    number: "#002"
+    title: "The Figure-Making Journey"
+  - url: /builds/bamboo-river-lookout/003-final-touches/
+    number: "#003"
+    title: "Final Touches & Assembly"
+next_step: /builds/bamboo-river-lookout/002-figures/
+next_step_title: "The Figure-Making Journey"
 ---
 
 ## Session Overview

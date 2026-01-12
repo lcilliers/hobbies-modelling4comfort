@@ -1,6 +1,6 @@
 ---
 layout: build
-project: bamboo-river-lookout
+project: /projects/bamboo-river-lookout/
 build_number: 3
 title: "Final Touches and Scene Assembly"
 date: 2024-12-03
@@ -19,6 +19,18 @@ progress_images:
     caption: "The completed diorama - all elements working together"
   - path: "assets/images/projects/bamboo-river-lookout/gallery/bamboo-river-lookout-gallery-007.jpg"
     caption: "Full view showing the narrative of a peaceful fishing moment"
+build_log_menu:
+  - url: /builds/bamboo-river-lookout/001-the-lookout/
+    number: "#001"
+    title: "Constructing the Lookout"
+  - url: /builds/bamboo-river-lookout/002-figures/
+    number: "#002"
+    title: "The Figure-Making Journey"
+  - url: /builds/bamboo-river-lookout/003-final-touches/
+    number: "#003"
+    title: "Final Touches & Assembly"
+previous_step: /builds/bamboo-river-lookout/002-figures/
+previous_step_title: "The Figure-Making Journey"
 ---
 
 ## Session Overview

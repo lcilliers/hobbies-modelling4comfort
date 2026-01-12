@@ -1,6 +1,6 @@
 ---
 layout: build
-project: bamboo-river-lookout
+project: /projects/bamboo-river-lookout/
 build_number: 2
 title: "The Figure-Making Journey"
 date: 2024-11-25
@@ -28,6 +28,20 @@ progress_images:
     caption: "The girl figure taking shape - facial details remain challenging"
   - path: "assets/images/projects/bamboo-river-lookout/gallery/bamboo-river-lookout-gallery-004.jpg"
     caption: "Painted figures - not perfect, but significant progress"
+build_log_menu:
+  - url: /builds/bamboo-river-lookout/001-the-lookout/
+    number: "#001"
+    title: "Constructing the Lookout"
+  - url: /builds/bamboo-river-lookout/002-figures/
+    number: "#002"
+    title: "The Figure-Making Journey"
+  - url: /builds/bamboo-river-lookout/003-final-touches/
+    number: "#003"
+    title: "Final Touches & Assembly"
+previous_step: /builds/bamboo-river-lookout/001-the-lookout/
+previous_step_title: "Constructing the Lookout"
+next_step: /builds/bamboo-river-lookout/003-final-touches/
+next_step_title: "Final Touches & Assembly"
 ---
 
 ## Session Overview

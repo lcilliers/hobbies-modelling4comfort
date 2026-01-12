@@ -1,11 +1,31 @@
 ---
 layout: build
 title: "Base & Landscaping"
-project: traditional-english-cottage
+project: /projects/traditional-english-cottage/
 sequence: 3
 date: 2025-08-15
 categories: [base, landscaping]
 tags: [terrain, paths, tarmac, fence, lawn]
+build_log_menu:
+  - url: /builds/traditional-english-cottage/001-planning/
+    number: "#001"
+    title: "Architectural Research"
+  - url: /builds/traditional-english-cottage/002-cottage-construction/
+    number: "#002"
+    title: "Cottage Construction"
+  - url: /builds/traditional-english-cottage/003-base-landscaping/
+    number: "#003"
+    title: "Base & Landscaping"
+  - url: /builds/traditional-english-cottage/004-plants-garden/
+    number: "#004"
+    title: "Plants & Garden"
+  - url: /builds/traditional-english-cottage/005-finalisation/
+    number: "#005"
+    title: "Finalisation & Details"
+previous_step: /builds/traditional-english-cottage/002-cottage-construction/
+previous_step_title: "Cottage Construction"
+next_step: /builds/traditional-english-cottage/004-plants-garden/
+next_step_title: "Plants & Garden"
 ---
 
 ## Layout Planning

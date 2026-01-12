@@ -1,13 +1,39 @@
 ---
-layout: post
+layout: build
 title: "Henrhyd Falls - Build Log #002: Base Construction"
-date: 2025-11-02
-project: henrhyd-falls-south-wales
+date: 2025-10-25
+project: /projects/henrhyd-falls-south-wales/
 build_number: 2
 categories: [dioramas, construction]
 tags: [base-construction, foundation, terrain, paper-pulp, cooked-mixture]
 excerpt: "Building the foundation with compressed underlay and wooden strips, then layering cooked paper pulp mixture to create the 18cm vertical terrain. Learning patience through trial, error, and a complete rebuild."
 published: true
+build_log_menu:
+  - url: /builds/henrhyd-falls-south-wales/001-planning/
+    number: "#001"
+    title: "Concept & Planning"
+  - url: /builds/henrhyd-falls-south-wales/002-base/
+    number: "#002"
+    title: "Base Construction"
+  - url: /builds/henrhyd-falls-south-wales/003-rockcliff/
+    number: "#003"
+    title: "Rock Cliff Formation"
+  - url: /builds/henrhyd-falls-south-wales/004-falls/
+    number: "#004"
+    title: "Waterfall Construction"
+  - url: /builds/henrhyd-falls-south-wales/005-plants/
+    number: "#005"
+    title: "Woodland & Vegetation"
+  - url: /builds/henrhyd-falls-south-wales/006-finalisation/
+    number: "#006"
+    title: "Finalisation & Details"
+  - url: /builds/henrhyd-falls-south-wales/007-gallery/
+    number: "#007"
+    title: "Completion Gallery"
+previous_step: /builds/henrhyd-falls-south-wales/001-planning/
+previous_step_title: "Concept & Planning"
+next_step: /builds/henrhyd-falls-south-wales/003-rockcliff/
+next_step_title: "Rock Cliff Formation"
 ---
 
 ## Foundation Construction
