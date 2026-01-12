@@ -173,7 +173,6 @@ It was really important to lay down the base in thin layers (2-3 cm at most) and
 
 ### Materials Used in Base Construction
 
-[TODO: Complete materials list]
 - 4mm plywood sheet (25 * 25 cm)
 - Shredded paper
 - Flour (cooked for better bonding)
@@ -190,23 +189,28 @@ It was really important to lay down the base in thin layers (2-3 cm at most) and
 - How did you plan for the vertical cliff structure? 
 [IMAGE: hfs-planning-030.jpg] as a reference.  It was important to maintain the cave behind the waterfall as it is unique to these falls.  From the images it was evident that the cliff is concave with clear rockfaces almost forming a theatre.
 
-Build Log 2
+Build Log 2 - The Base
+
 ### Materials Used
 
-[TODO: List actual materials used in base construction]
-- Base board type and size
-- Foam type (extruded polystyrene?)
-- Adhesives
-- Support structures
+- Base board type and size 25*25 cm; Type 3 ply wood 10mm
+- No foam was used
+- the bottom layer on the base is think underlay of laminate flooring, basically compressed fibre.
+- The underlay was cut to size and then used to build the next layers, it was ot immediate glued to the plywood base. The underlay was painted with pva glue to seal it and let to dry
+- before covering the base, the layout was first planned on paper, adding a bit of colour to the drawing to improve the overall evaluation of the effect  hfs-vbase-004.jpg
+- the next layer on top of the underlay was to put 3cm by 20 cm by 15 cm wooden strips down to keep the underlay from bending when drying. the wooded strips was covered in a layer of the surface mix.  The surface mixed was made from shredded paper, pva glue, water, and vinigar as a cold mix.  this mix was throughly kneed until a thick past and added to the based leaving thicker at the sides, with a strip for the forming the river rundown in the middle and setting the mount for the rockface to the back. in a 2:3 ratio.  hfs-base-001.jpg hfs-base-002.jpg
+-the slow process of building up the layers then started.  The mixture was changed by adding flour to it, and then cooking it to allow the flour and paper schedding to find properly and to become a much finer texture.  The mixture was allowed to cool down, then devided in fist size blobs wrapped in cling film to keep it moist.  Using the blobs the base was then built up leaving enough time for it to dry between every application of approx 2 cm.  hfs-base-003.jpg. Putting the model in the oven at 100c help to speed up the drying, but it still took a long several hours each time.
 
 ### Early Challenges
 
-[TODO: Describe any problems during base construction]
-- Structural issues?
-- Scale problems discovered?
-- Design changes needed?
+- The rough surface and mallability of the pure shredded paper mix turned out too present potential issued to refine the rocky surface textures, hence changing the mix to a finer paste by adding flour and cooking the mixture.
+- The scale of 25cm square, but the requirement of a 27m (10 cm) fall, pushed the boundaries for creating the height of the cliff.  This lead for me to become inpatient, and adding layers before the previous layers were properly dry in in the centre.  
+- I basically took the rockface appart and started over again, in thinner layers, and adding more time for drying
+- Cracks did appear, but not nearly as large and frequent as in previous models.  Adding the paper mache into the mixed helped a lot to prevent cracking.
 
 ---
+
+Build log 3 -- the rock face
 
 ## Chapter 3: Rock Cliff Formation
 **Timeline:** [TODO: Add dates]

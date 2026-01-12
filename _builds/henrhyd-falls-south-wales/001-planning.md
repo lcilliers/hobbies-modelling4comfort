@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "Henrhyd Falls - Build Log #001: Concept, Research & Base Construction"
+title: "Henrhyd Falls - Build Log #001: Concept, Research & Planning"
 date: 2025-10-23
 project: henrhyd-falls-south-wales
 build_number: 1
-categories: [dioramas, planning, base-construction]
-tags: [research, reference-images, scale-planning, welsh-waterfall, base-building, paper-pulp]
-excerpt: "From initial AI concept to completed base - planning the 1:250 scale representation, gathering 62 reference images, and building the foundation with cooked paper pulp mixture. Capturing Wales' tallest waterfall on a 25×25cm base."
+categories: [dioramas, planning]
+tags: [research, reference-images, scale-planning, welsh-waterfall, AI-design]
+excerpt: "From initial AI concept to scale validation - planning the 1:250 scale representation and gathering 62 reference images organized across five categories to capture Wales' tallest waterfall authentically."
 published: true
 ---
 
@@ -135,76 +135,44 @@ Although the AI calculations of the side profile for the falls were helpful, it 
 
 It was important to maintain the cave behind the waterfall as it is unique to these falls. From the images it was evident that the cliff is concave with clear rock faces almost forming a theatre.
 
-## Base Construction Process
+## Key Planning Insights
 
-**Timeline:** Work started on the base on 2 November 2025
+### What Worked Well
 
-### Base Materials
+1. **AI Concept Validation:** The AI illustration immediately confirmed the project was feasible at 1:250 scale
+2. **Comprehensive Research:** Collecting 62 images across multiple categories provided rich reference material
+3. **Multiple Source Integration:** No single definitive image meant creating an artistic representation from range of features
+4. **Scale Calculations:** Working through the vertical requirements (18cm total height) validated the ambitious scope
 
-The base was cut out of 4mm plywood sheet at 25 × 25 cm. Using the diagram of the layout as a general guide, the base had two first levels on either side, and an inset in the middle where the river would be formed. The cliff range was situated at 2/3 to the back of the board.
+### Critical Discoveries
 
-### Foundation Structure - First Attempt
-
-I made a mixture of shredded paper, flour, water, vinegar, PVA glue and general purpose filler and used it for the first layer. This was left to dry thoroughly. I noticed a lot of cracking, and then decided to next time use the mixture, but thoroughly cook it to allow the flour to bond and to improve the mulching of the shredded paper. This became a really successful mixture.
-
-### Critical Lesson Learned
-
-It was really important to lay down the base in thin layers (2-3 cm at most) and let it dry before adding another layer. I used the oven to aid in the drying and it took some time. One time I got impatient and increased the layers. This lead to drying not taking place right through, and ultimately I had to take it apart and start over again.
-
-### Cliff Structure Approach
-
-The entire cliff was built up with the flour and shredded paper mix. This made the model quite heavy, but it is sturdy and easy to work with to drill for inserting the plants and trees. No foam was used. Next time I am likely to use foam or lighter material as the core, covering it with the mix to support the texturing.
-
-The structure was built at a slight inward angle, partially as a result of shrinkage, and partly to keep it firm. Next time it may be better to make clean straight cuts, although the textured rocky look and feel is quite nice.
-
-### Materials Used in Base Construction
-
-- 4mm plywood sheet (25 × 25 cm base)
-- Shredded paper
-- Flour (thoroughly cooked for better bonding)
-- Water
-- Vinegar
-- PVA glue
-- General purpose filler
-- Oven assistance for drying layers
-
-## Key Learnings
-
-### Successful Techniques
-
-1. **Cooked Paper Pulp Success:** Thoroughly cooking the shredded paper, flour, water, vinegar, PVA, and filler mixture dramatically improved bonding and eliminated cracking
-2. **Thin Layer Technique:** Building base in 2-3cm layers with thorough drying between applications prevents internal moisture problems
-3. **Patience in Drying:** Using oven assistance but not rushing - impatience leads to having to restart
-
-### For Next Time
-
-1. **Use Foam Core:** Lightweight foam armature with paper pulp coating rather than solid paper pulp throughout
-2. **Straight Vertical Cuts:** More precise cliff edges, though the organic shrinkage created interesting texture
-3. **Scale Planning Critical:** AI helped validate 1:250 scale but actual elevation calculations revealed initial AI side profile was incorrect (missed slope at bottom and elevation above falls)
-4. **Research Breadth Required:** No single definitive reference image - required amalgamation of multiple sources for authentic representation
+1. **AI Limitations:** The AI side profile missed key elevation details (slope at bottom, terrain above falls)
+2. **Reference Gaps:** Most images focused on specific elements rather than landscape composition
+3. **Research Breadth Required:** Extended search beyond Henrhyd Falls to Welsh geology and woodland generally
+4. **Cave Feature Essential:** The concave cliff with cave behind falls is the signature feature - must be preserved
 
 ## Next Steps
 
-Moving from planning and base construction to detailed rock work:
+With planning complete, construction moves to:
 
-1. **Rock Cliff Formation** - Carve and texture the vertical terrain with geological layers
-2. **Waterfall Structure** - Build the 10cm drop with pool at base
-3. **Welsh Woodland** - Add sessile oak, ash, and temperate rainforest character
-4. **Final Details** - Pathway behind falls, weathering, and atmospheric effects
+1. **Base Construction** - Create 25×25cm foundation with 18cm vertical structure
+2. **Rock Cliff Formation** - Carve and texture the concave cliff face with cave
+3. **Waterfall Creation** - Build the 10cm drop with realistic water effects
+4. **Welsh Woodland** - Add authentic temperate rainforest vegetation
 
 ## Time Investment
 
-**This Phase:** 23 October - 2 November 2025 (approximately 10 days)
+**This Phase:** 23 October 2025 (approximately 1 week)
 
 **Breakdown:**
 - Initial inspiration and AI concept: 1 day
-- Location research and reference collection: 3 days
+- Location research and history: 1 day
+- Photographic reference collection: 3 days
 - Scale calculations and composition planning: 2 days
-- Base construction (including restart): 4 days
 
 ---
 
-*Next: Build Log #002 - Rock Cliff Formation & Geological Layers*
+*Next: [Build Log #002 - Base Construction]({{ '/builds/henrhyd-falls-south-wales/002-base/' | relative_url }})*
 - Material research: 2 hours
 
 **Total Project Time So Far:** 15-20 hours

@@ -7,21 +7,33 @@ published: true
 categories: dioramas
 tags: [scratch-build, landscaping, waterfall, woodland, natural-materials, scenery]
 scale: "1:250"
-featured_image: "/assets/images/projects/henrhyd-falls-south-wales/gallery/henrhyd-falls-gallery-001.jpg"
+featured_image: "/assets/images/projects/henrhyd-falls-south-wales/gallery/hfs-gallery-001.jpg"
 comments: true
 gallery:
-  - /assets/images/projects/henrhyd-falls-south-wales/gallery/henrhyd-falls-gallery-001.jpg
-  - /assets/images/projects/henrhyd-falls-south-wales/gallery/henrhyd-falls-gallery-002.jpg
-  - /assets/images/projects/henrhyd-falls-south-wales/gallery/henrhyd-falls-gallery-003.jpg
-  - /assets/images/projects/henrhyd-falls-south-wales/gallery/henrhyd-falls-gallery-004.jpg
-  - /assets/images/projects/henrhyd-falls-south-wales/gallery/henrhyd-falls-gallery-005.jpg
-  - /assets/images/projects/henrhyd-falls-south-wales/gallery/henrhyd-falls-gallery-006.jpg
-  - /assets/images/projects/henrhyd-falls-south-wales/gallery/henrhyd-falls-gallery-007.jpg
-  - /assets/images/projects/henrhyd-falls-south-wales/gallery/henrhyd-falls-gallery-008.jpg
-  - /assets/images/projects/henrhyd-falls-south-wales/gallery/henrhyd-falls-gallery-009.jpg
-  - /assets/images/projects/henrhyd-falls-south-wales/gallery/henrhyd-falls-gallery-010.jpg
-  - /assets/images/projects/henrhyd-falls-south-wales/gallery/henrhyd-falls-gallery-011.jpg
-  - /assets/images/projects/henrhyd-falls-south-wales/gallery/henrhyd-falls-gallery-012.jpg
+  - /assets/images/projects/henrhyd-falls-south-wales/gallery/hfs-gallery-001.jpg
+  - /assets/images/projects/henrhyd-falls-south-wales/gallery/hfs-gallery-002.jpg
+  - /assets/images/projects/henrhyd-falls-south-wales/gallery/hfs-gallery-003.jpg
+  - /assets/images/projects/henrhyd-falls-south-wales/gallery/hfs-gallery-004.jpg
+  - /assets/images/projects/henrhyd-falls-south-wales/gallery/hfs-gallery-005.jpg
+  - /assets/images/projects/henrhyd-falls-south-wales/gallery/hfs-gallery-006.jpg
+  - /assets/images/projects/henrhyd-falls-south-wales/gallery/hfs-gallery-007.jpg
+  - /assets/images/projects/henrhyd-falls-south-wales/gallery/hfs-gallery-008.jpg
+  - /assets/images/projects/henrhyd-falls-south-wales/gallery/hfs-gallery-009.jpg
+  - /assets/images/projects/henrhyd-falls-south-wales/gallery/hfs-gallery-010.jpg
+  - /assets/images/projects/henrhyd-falls-south-wales/gallery/hfs-gallery-011.jpg
+  - /assets/images/projects/henrhyd-falls-south-wales/gallery/hfs-gallery-012.jpg
+  - /assets/images/projects/henrhyd-falls-south-wales/gallery/hfs-gallery-013.jpg
+  - /assets/images/projects/henrhyd-falls-south-wales/gallery/hfs-gallery-014.jpg
+  - /assets/images/projects/henrhyd-falls-south-wales/gallery/hfs-gallery-015.jpg
+  - /assets/images/projects/henrhyd-falls-south-wales/gallery/hfs-gallery-016.jpg
+  - /assets/images/projects/henrhyd-falls-south-wales/gallery/hfs-gallery-017.jpg
+  - /assets/images/projects/henrhyd-falls-south-wales/gallery/hfs-gallery-018.jpg
+  - /assets/images/projects/henrhyd-falls-south-wales/gallery/hfs-gallery-019.jpg
+  - /assets/images/projects/henrhyd-falls-south-wales/gallery/hfs-gallery-020.jpg
+  - /assets/images/projects/henrhyd-falls-south-wales/gallery/hfs-gallery-021.jpg
+  - /assets/images/projects/henrhyd-falls-south-wales/gallery/hfs-gallery-022.jpg
+  - /assets/images/projects/henrhyd-falls-south-wales/gallery/hfs-gallery-023.jpg
+  - /assets/images/projects/henrhyd-falls-south-wales/gallery/hfs-gallery-024.jpg
 excerpt: "Recreating the dramatic 27-meter drop of Henrhyd Falls - the tallest waterfall in South Wales - complete with wooded gorge, moss-covered rocks, and authentic Welsh woodland at 1:250 scale."
 ---
 
@@ -99,41 +111,49 @@ This project documentation follows an iterative build log structure, capturing t
 
 ### Construction Journey
 
-#### [Build Log #001: Concept, Research & Base Construction]({{ '/builds/henrhyd-falls-south-wales/001-planning/' | relative_url }})
+#### [Build Log #001: Concept, Research & Planning]({{ '/builds/henrhyd-falls-south-wales/001-planning/' | relative_url }})
 
-**Timeline:** 23 October - 2 November 2025
+**Timeline:** 23 October 2025
 
-The project began with an AI concept illustration to validate scale feasibility. Research extended to collecting 62 reference images across five categories: AI design studies, waterfall flow patterns, Henrhyd Falls site photos, Welsh rock formations, and ancient woodland character. The base construction involved creating a cooked paper pulp mixture (shredded paper, flour, water, vinegar, PVA, filler) that proved highly successful after initial cracking problems. Critical lesson: build in thin 2-3cm layers with thorough drying between applications. The 25×25cm plywood base supports 18cm of vertical terrain representing the dramatic gorge.
+The project began with an AI concept illustration to validate scale feasibility. Research extended to collecting 62 reference images across five categories: AI design studies, waterfall flow patterns, Henrhyd Falls site photos, Welsh rock formations, and ancient woodland character. Scale planning validated that the 27m waterfall (10cm at 1:250 scale) plus surrounding terrain could work on a 25×25cm base, though it would require 18cm of vertical height. Composition planning established the cliff position at 2/3 back, river channel through the middle, and cave formation behind the falls.
 
-**Key Achievement:** Established successful paper pulp technique; validated 1:250 scale would work
+**Key Achievement:** Validated 1:250 scale would work; collected comprehensive reference library
 
-#### Build Log #002: Rock Cliff Formation & Geological Layers
+#### [Build Log #002: Base Construction]({{ '/builds/henrhyd-falls-south-wales/002-base/' | relative_url }})
 
-[TODO: Add narrative when Build Log 2 is completed]
+**Timeline:** November 2025
 
-**Focus:** Carving and texturing the vertical cliff face with authentic Welsh sedimentary layering
+Foundation construction began with 10mm plywood base and compressed fiber underlay. Wooden strips (3cm × 20cm × 15cm) provided reinforcement to prevent bending during drying. The breakthrough came with developing a cooked paper pulp mixture: shredded paper, flour, water, vinegar, PVA glue, and filler, thoroughly cooked to create superior bonding. Initial attempts with cold mix proved too rough. A critical setback occurred when impatience led to applying thick layers before proper drying—the entire rockface had to be dismantled and rebuilt. Success came through thin 2cm layers, oven drying at 100°C, and patience. The completed base provides a sturdy 18cm vertical structure, though next time a foam core would reduce weight.
 
-#### Build Log #003: Waterfall Construction & Water Effects
+**Key Achievement:** Developed successful cooked paper pulp technique; learned patience through rebuild
+
+#### Build Log #003: Rock Cliff Formation & Geological Layers
 
 [TODO: Add narrative when Build Log 3 is completed]
 
-**Focus:** Creating the 10cm waterfall drop using clear resin and cotton batting for spray effects
+**Focus:** Carving and texturing the vertical cliff face with authentic Welsh sedimentary layering
 
-#### Build Log #004: Welsh Woodland Vegetation & Temperate Rainforest
+#### Build Log #004: Waterfall Construction & Water Effects
 
 [TODO: Add narrative when Build Log 4 is completed]
 
-**Focus:** Building sessile oak and ash trees with wire armatures; moss-covered forest floor
+**Focus:** Creating the 10cm waterfall drop using clear resin and cotton batting for spray effects
 
-#### Build Log #005: Pathway Behind Falls & Final Details
+#### Build Log #005: Welsh Woodland Vegetation & Temperate Rainforest
 
 [TODO: Add narrative when Build Log 5 is completed]
 
-**Focus:** Adding the famous hidden pathway and atmospheric finishing touches
+**Focus:** Building sessile oak and ash trees with wire armatures; moss-covered forest floor
 
-#### Build Log #006: Weathering, Photography & Completion
+#### Build Log #006: Pathway Behind Falls & Final Details
 
 [TODO: Add narrative when Build Log 6 is completed]
+
+**Focus:** Adding the famous hidden pathway and atmospheric finishing touches
+
+#### Build Log #007: Weathering, Photography & Completion
+
+[TODO: Add narrative when Build Log 7 is completed]
 
 **Focus:** Final weathering, project photography, and reflection on techniques learned
 
