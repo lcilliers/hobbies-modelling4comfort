@@ -7,7 +7,7 @@ published: true
 categories: dioramas
 tags: [scratch-build, landscaping, waterfall, woodland, natural-materials, scenery]
 scale: "1:250"
-featured_image: "/assets/images/projects/henrhyd-falls-south-wales/gallery/hfs-gallery-001.jpg"
+featured_image: "/assets/images/projects/henrhyd-falls-south-wales/gallery/hfs-gallery-014.jpg"
 comments: true
 gallery:
   - /assets/images/projects/henrhyd-falls-south-wales/gallery/hfs-gallery-001.jpg
@@ -21,17 +21,13 @@ gallery:
   - /assets/images/projects/henrhyd-falls-south-wales/gallery/hfs-gallery-009.jpg
   - /assets/images/projects/henrhyd-falls-south-wales/gallery/hfs-gallery-010.jpg
   - /assets/images/projects/henrhyd-falls-south-wales/gallery/hfs-gallery-011.jpg
-  - /assets/images/projects/henrhyd-falls-south-wales/gallery/hfs-gallery-012.jpg
   - /assets/images/projects/henrhyd-falls-south-wales/gallery/hfs-gallery-013.jpg
   - /assets/images/projects/henrhyd-falls-south-wales/gallery/hfs-gallery-014.jpg
   - /assets/images/projects/henrhyd-falls-south-wales/gallery/hfs-gallery-015.jpg
   - /assets/images/projects/henrhyd-falls-south-wales/gallery/hfs-gallery-016.jpg
   - /assets/images/projects/henrhyd-falls-south-wales/gallery/hfs-gallery-017.jpg
   - /assets/images/projects/henrhyd-falls-south-wales/gallery/hfs-gallery-018.jpg
-  - /assets/images/projects/henrhyd-falls-south-wales/gallery/hfs-gallery-019.jpg
-  - /assets/images/projects/henrhyd-falls-south-wales/gallery/hfs-gallery-020.jpg
   - /assets/images/projects/henrhyd-falls-south-wales/gallery/hfs-gallery-021.jpg
-  - /assets/images/projects/henrhyd-falls-south-wales/gallery/hfs-gallery-022.jpg
   - /assets/images/projects/henrhyd-falls-south-wales/gallery/hfs-gallery-023.jpg
   - /assets/images/projects/henrhyd-falls-south-wales/gallery/hfs-gallery-024.jpg
 excerpt: "Recreating the dramatic 27-meter drop of Henrhyd Falls - the tallest waterfall in South Wales - complete with wooded gorge, moss-covered rocks, and authentic Welsh woodland at 1:250 scale."

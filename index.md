@@ -80,7 +80,7 @@ Browse through my models and diorama builds and see the creative process unfold.
   </div>
   
   <div class="project-link-item">
-    <img src="{{ '/assets/images/projects/henrhyd-falls-south-wales/gallery/hfs-gallery-001.jpg' | relative_url }}" alt="Henrhyd Falls South Wales" class="project-thumbnail">
+    <img src="{{ '/assets/images/projects/henrhyd-falls-south-wales/gallery/hfs-gallery-014.jpg' | relative_url }}" alt="Henrhyd Falls South Wales" class="project-thumbnail">
     <div class="project-link-text">
       <strong><a href="{{ '/projects/henrhyd-falls-south-wales/' | relative_url }}">Henrhyd Falls South Wales 1:250 scale diorama</a></strong> - Authentic representation of Wales' tallest waterfall (27m) with ancient woodland, vertical cliff face, and detailed water effects capturing the temperate rainforest microclimate. <em>Completed November 2025</em>
     </div>
