@@ -245,32 +245,17 @@ see other suggestions from analysis
 Build log 4 Falls
 
 ## Chapter 4: Waterfall Construction
-**Timeline:** [TODO: Add dates]
+**Timeline:** 16 November 2025
 
-[TODO: This is likely a major section - describe the waterfall creation process]
-- How did you create the 11cm drop (representing 27m)?
-- Water effect techniques - resin? clear medium?
-- Cascade effects?
-- Pool at the base?
-- Spray and mist effects?
+Creating the water for the river, pond and waterfall were one of the key objectives and challenges set for this model.  With the cliff largely done, the work on the water could commence.  This involved the river, pond, waterfall, and the feeding riving at the top.
 
-### Water Effects Techniques
-
-[TODO: Detailed description of water creation]
-- Materials used (specific resin brand?)
-- Pouring process
-- Multiple layers?
-- Gloss effects for wet rocks
-- Challenges with resin work?
+To help with the water effects, a range of colors of water effect gel was purchases from a hobby shop. Small stones (using horticultural grit) were added to the river bed and then the water gel, using blue green and white was added in the pond, and down the river  hfs-finalisation-005. The same was done for the river at the top hfs-finalisation-006. The gloss effect over the rocks and on the cliff edge was doen by thinly painting some of the water effect mixture on the rocks and cliffs. The waterfall was created by running streaks of white gel on a sheet of plastic, using a sharp instrument to run through the gel to create the running water effect. after drying, the the gel was lifted off the plastic sheet and then shaped to fit into the space. hfs-finalisation-009.jpg .  The mist effect was created with hollowfibre (pillow filling).
 
 ### The Critical Elements
 
-[TODO: What made the waterfall look authentic?]
-- MBuild Log 4mpression?
-- Transparency and depth?
-- Integration with rocks?
+Looking back at it, this first attempt to work with water effect gel was marginally effective to give a waterfall look authentic.  The plants covered most of the river, with very little visible in the final product, the pond was too small, and the water streaks on the fall was too solid.  I guess the people that got it so perfect on all the youtube videos I watched has done it many times and had lots of practice.   I will certainly try it again in future, working with water remains a challenge for me
 
----
+
 
 ## Chapter 5: Welsh Woodland Vegetation
 **Timeline:** [TODO: Add dates]

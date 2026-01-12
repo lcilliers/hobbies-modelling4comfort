@@ -135,11 +135,13 @@ With the base complete, the demanding work of building the dramatic 18cm cliff f
 
 **Key Achievement:** Completed solid cliff structure with authentic Welsh coloring; conquered color challenge through reference-driven refinement
 
-#### Build Log #004: Waterfall Construction & Water Effects
+#### [Build Log #004: Waterfall Construction]({{ '/builds/henrhyd-falls-south-wales/004-falls/' | relative_url }})
 
-[TODO: Add narrative when Build Log 4 is completed]
+**Timeline:** 16 November 2025
 
-**Focus:** Creating the 10cm waterfall drop using clear resin and cotton batting for spray effects
+The most challenging aspect of the build: creating realistic water effects for the river, pond, and 10cm waterfall cascade. Water effect gels in blue, green, and white were applied to the pool and river beds with horticultural grit stones showing through for authenticity. Wet rock effects were achieved by thinly painting gel mixture on cliff surfaces near the falls. The waterfall itself was created by running streaks of white gel on plastic sheets, using sharp tools to create flow-line texture, then shaping the dried flexible material to fit the vertical cliff channel. Hollowfibre created mist effects at the base and sides. Critical assessment revealed this first attempt was marginally effective - the pool was too small, the waterfall gel too solid/uniform, and later vegetation would obscure much of the river. The waterfall read clearly as falling water but lacked the translucency and variation of real cascading water. A valuable learning experience about water effects requiring extensive practice and testing.
+
+**Key Achievement:** Created functional waterfall feature; learned critical lessons about material testing and realistic water representation for future builds
 
 #### Build Log #005: Welsh Woodland Vegetation & Temperate Rainforest
 
