@@ -47,8 +47,7 @@ I love nature, and waterfalls have a wonderful fascination and serenity.
 - **Photographic References:** Collected 62 reference images organized by category
 - **Scale Planning:** Established 1:250 scale on 25cm × 25cm base (10cm waterfall height)
 - **Composition Planning:** Top-down diagram with elevation calculations
-- **Base Construction:** 4mm plywood with paper pulp terrain (18cm total vertical height)
-- **Critical Learning:** Cooked paper pulp mixture technique, thin layer application
+- **Cave Feature Planning:** Identified concave cliff structure from reference images
 
 ## Photo Gallery
 
@@ -173,12 +172,3 @@ With planning complete, construction moves to:
 ---
 
 *Next: [Build Log #002 - Base Construction]({{ '/builds/henrhyd-falls-south-wales/002-base/' | relative_url }})*
-- Material research: 2 hours
-
-**Total Project Time So Far:** 15-20 hours
-
----
-
-**Status:** Planning complete, ready for construction  
-**Next Log:** Base construction and cliff structure foundation  
-**Estimated Next Update:** October 2025

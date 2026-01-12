@@ -248,7 +248,7 @@ The completed base provides:
 ---
 
 **Status:** Base construction complete - ready for rock carving  
-**Next Log:** Rock Cliff Formation & Geological Layers  
+**Next:** [Build Log #003 - Rock Cliff Formation]({{ '/builds/henrhyd-falls-south-wales/003-rockcliff/' | relative_url }})  
 **Timeline:** Mid-November 2025
 
-*Previous: [Build Log #001 - Concept, Research & Base Construction]({{ '/builds/henrhyd-falls-south-wales/001-planning/' | relative_url }})*
+*Previous: [Build Log #001 - Concept, Research & Planning]({{ '/builds/henrhyd-falls-south-wales/001-planning/' | relative_url }})*
