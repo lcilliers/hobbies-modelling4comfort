@@ -186,18 +186,6 @@ Detailed build progress documented in seven build log entries:
 
 ---
 
-## Photo Gallery
-
-<div class="gallery-grid">
-{% for image in page.gallery %}
-  <div class="gallery-item">
-    <img src="{{ image | relative_url }}" alt="Henrhyd Falls diorama - {{ forloop.index }}" loading="lazy">
-  </div>
-{% endfor %}
-</div>
-
----
-
 ## Historical & Cultural Context
 
 Henrhyd Falls is located on the Nant Llech river near Coelbren in the Brecon Beacons. The 27-meter drop makes it the highest waterfall in South Wales. The site is managed by the National Trust and is a popular destination for hikers exploring the Bannau Brycheiniog National Park.
