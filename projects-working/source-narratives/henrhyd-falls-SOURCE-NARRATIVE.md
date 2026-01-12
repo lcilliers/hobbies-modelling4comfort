@@ -210,32 +210,39 @@ Build Log 2 - The Base
 
 ---
 
-Build log 3 -- the rock face
+Build log 3 -- Rock Cliff Formation
 
 ## Chapter 3: Rock Cliff Formation
-**Timeline:** [TODO: Add dates]
+**Timeline:** continued on from starting the base and added first couple of layers
 
-[TODO: Describe the cliff carving process]
-- How did you carve the vertical cliff face?
-- Techniques for creating geological layers?
-- Texturing methods?
-- PBuild Log 3 coating work?
+- The rock face had different sections requiring slightly different approaches to the finishing.  
+  - the three cut away sides: These formed the outer sides or edges of the base for the cliffs. I did want to show them as rock sculptured, rather than fixing a cover over the sides. as I built the cliffs up, the outer skin was change slightly in terms of surface texture to be rough, layered and varying in smoothness. It also were formed at a slight inwards angle to provide stability.
+  - The outer edges of the cliffs dropping down into the valley.  These edges formed to the sides of the river and was sloped down. big bolders where formed from the paste mixture to immitate rocks that fell or had a landslide down.
+  - at the base of the fall the paste formed a canopy to create the entrance of the cave behind the fall.
+  - the rock face on the side of the fall was pasted in layers, and vertifically sculted in layers to represent to geological layers of the rocks.
+  - at the top of the cliff the river was formed flowing into the falls, but then large boulders where sculpted by hand with the paste and set to dry to represent the rocky outposts on the sides of the fall as the water cut through the rocks.
+  - at the bottom of the falls, a pool was created, and then a river with lots of larger and smaller stones.
+
+The painting of the rocks and landscape involved starting with darker colours (brownish in different shades) and then using different colours including lighter brown, greenish, blueish, greyish to tone into the surface to show varied look and feel around all the different areas.  It took several attempts, and reference to other rock formations given the example pictures to get it to a satisfactory level.
+
+hfs-rockcliff-004.jpg
+see other suggestions from analysis
 
 ### Welsh Geology Representation
 
-[TODO: How did you capture authentic Welsh rock formations?]
+
 - Reference images used?
+  see analysis - add them here
 - Layered sedimentary appearance?
 - Color choices for Welsh stone?
 
 ### Challenges & Solutions
 
-[TODO: What problems did you encounter with the rock work?]
-- Structural stability of vertical terrain?
-- Achieving realistic texture?
-- Getting the scale right?
+-the biggest challenge with the rocks was the colouring.  The example images provided a wide range textures and colours and the actual pictures of the falls also did not give a single input to use. Ultimately I used a blend of the colours.
+- creating the landscape and bolders was also difficult to get a single version of the truth, and I had to make adaptions to allow for showing off some plants and the river, and also to fit everything on the board.
 
 ---
+Build log 4 Falls
 
 ## Chapter 4: Waterfall Construction
 **Timeline:** [TODO: Add dates]

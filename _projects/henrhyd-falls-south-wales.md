@@ -127,11 +127,13 @@ Foundation construction began with 10mm plywood base and compressed fiber underl
 
 **Key Achievement:** Developed successful cooked paper pulp technique; learned patience through rebuild
 
-#### Build Log #003: Rock Cliff Formation & Geological Layers
+#### [Build Log #003: Rock Cliff Formation & Geological Layers]({{ '/builds/henrhyd-falls-south-wales/003-rockcliff/' | relative_url }})
 
-[TODO: Add narrative when Build Log 3 is completed]
+**Timeline:** Continued through early November 2025
 
-**Focus:** Carving and texturing the vertical cliff face with authentic Welsh sedimentary layering
+With the base complete, the demanding work of building the dramatic 18cm cliff face began. The structure required different approaches for distinct sections: three cut-away sides with inward angles, outer edges sloping into the valley with hand-sculpted boulders suggesting landslides, a canopy structure at the base forming the cave entrance behind the falls, vertical rock face with carved geological strata beside the waterfall, rocky outcrops at the cliff top where the river flows, and the pool with rocky riverbed at the base. The painting proved most challenging—synthesizing color from diverse Welsh rock reference images showing browns, greys, greens, and blues across different formations and lighting. The solution came through a blended approach: darker brown base layers for depth, then lighter browns, greenish tones for moss effects, bluish-greys for cooler stone, and various greys to match the weathered look of Welsh coastal formations. Multiple painting sessions refined the earthy brown base with grey and green overtones.
+
+**Key Achievement:** Completed solid cliff structure with authentic Welsh coloring; conquered color challenge through reference-driven refinement
 
 #### Build Log #004: Waterfall Construction & Water Effects
 
